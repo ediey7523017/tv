@@ -245,7 +245,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdnatv.mirack.tv/Atv/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36&referer=https://awesometv.my/
 
-#EXTINF:-1 tvg-id="SukeTV.my" group-title="MYTV" tvg-logo="https://mytvbroadcasting.my/wp-content/uploads/2024/02/Logo_SUKE-TV.png",116 SUKE TV
+#EXTINF:-1 tvg-id="SukeTV.my" group-title="MYTV" tvg-logo="https://www.suketv.com/sitepad-data/uploads/2023/06/STV_WHITE-LOGO.png",116 SUKE TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
