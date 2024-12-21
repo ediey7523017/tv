@@ -255,7 +255,7 @@ https://live.mana2.my/SukeTv/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b1096000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="DewanNegara.my" group-title="MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/RTM_Parlimen_2021.png/revision/latest?cb=20210413101314",Parlimen Dewan Negara
+#EXTINF:-1 tvg-id="DewanNegara.my" group-title="MYTV" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
 
 #EXTINF:-1 tvg-id="TVRI" group-title="MYTV" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI
