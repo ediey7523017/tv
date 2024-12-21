@@ -1495,7 +1495,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="ts173" group-title="MOVIES" tvg-logo="https://i.ibb.co/LCN4wgj/movies-now.png",Movies Now
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="32" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix
+#EXTINF:-1 tvg-id="32" group-title="MOVIES" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",Sony Pix
 http://119.156.26.155:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="ts560" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies
