@@ -3940,10 +3940,15 @@
   <desc lang="en">LIVE: Premier League 2024/25: Match Week 19: Crystal Palace vs. Southampton, from Selhurst Park, London.</desc>
   <icon src="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/fc4f5e58992843c699d46bdd6983563f/width/500/height/280"/>
  </programme>
- <programme start="20241230011500 +0800" stop="2024123060000 +0800" channel="Astro Premier League 4">
-  <title lang="en">Astro Premier League 4thampton</title>
+ <programme start="20241230011500 +0800" stop="20241230060000 +0800" channel="Astro Premier League 4">
+  <title lang="en">Astro Premier League 4</title>
   <desc lang="en">Thank You for watching the live Premier League 2024/25: Match Week 19: Crystal Palace vs. Southampton.</desc>
   <icon src="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0d3130429448441b915f3929f5cd0b00/width/500/height/280"/>
+ </programme>
+ <programme start="20241230060000 +0800" stop="20241230120000 +0800" channel="Astro Premier League 4">
+  <title lang="en">Astro Premier League 4</title>
+  <desc lang="en">Thank You for watching the live Premier League 2024/25: Match Week 19: Crystal Palace vs. Southampton.</desc>
+  <icon src="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0d3130429448441b915f3929f5cd0b00/width/500/height/280
  </programme>
  <programme start="20241226000000 +0800" stop="20241226060000 +0800" channel="Astro Premier League 5">
   <title lang="en">Astro Premier League 5</title>
