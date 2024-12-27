@@ -290,7 +290,7 @@
   <desc lang="en">A team of fellow scientists race against time to stop a prediction of apocalypse from coming true.</desc>
   <icon src="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/42021551624f4a4080e6151d067e91f8/version/0"/>
  </programme>
-<programme start="20241229010000 +0800" stop="20241290030000 +0800" channel="KCM">
+<programme start="20241229010000 +0800" stop="20241229030000 +0800" channel="KCM">
   <title lang="en">Trouble</title>
   <desc lang="en">Middle-aged siblings feud over possession of their father's estate in this sibling dramedy.</desc>
   <icon src="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/7499722b718b4c51a34669f844e0490c/version/0"/>
@@ -305,11 +305,16 @@
   <desc lang="en">A team of fellow scientists race against time to stop a prediction of apocalypse from coming true.</desc>
   <icon src="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/42021551624f4a4080e6151d067e91f8/version/0"/>
  </programme>
-<programme start="20241229040000 +0800" stop="20241229060000 +0800" channel="KCM">
+<programme start="20241229060000 +0800" stop="20241229080000 +0800" channel="KCM">
   <title lang="en">Trouble</title>
   <desc lang="en">Middle-aged siblings feud over possession of their father's estate in this sibling dramedy.</desc>
   <icon src="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/7499722b718b4c51a34669f844e0490c/version/0"/>
- </programme>
+</programme>
+ <programme start="20241229080000 +0800" stop="20241229100000 +0800" channel="KCM">
+  <title lang="en">Supernova</title>
+  <desc lang="en">A team of fellow scientists race against time to stop a prediction of apocalypse from coming true.</desc>
+  <icon src="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/42021551624f4a4080e6151d067e91f8/version/0"/>
+</programme>
  <programme start="20241226001444 +0800" stop="20241226002744 +0800" channel="Jelly Jamm World">
   <title lang="en">Asian Palm Civet</title>
   <desc lang="en">The Junior Rangers accompany an Asian palm civet home to the rainforest.</desc>
