@@ -614,8 +614,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hy
 https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbKOcX%2BP3Grqi2KkTyat%2BkYBRTE8BQtzQEk9tepGqmM8PvqR%2FW6%2FmAu25c2abohrK7O83m3EeQ0m%2BBo4btd%2BuniyVFRTQiCcWXuFIeO21qkbF%3A20230405093857%3AUTC%2C10001002129788%2C180.75.253.113%2C20230405093857%2Curn:Huawei:liveTV:SP000002372888%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C3484991609%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQYvCMBhE_02OIYlS7SEnRViQKlj3KpPka7aYNppUwX9vu9brzLzhDQmWfrZaCWelcQpwYknKQTZUEkxRmma1WBiW6V5FrZhFCG3vq-gm7Pe0uUjBBVdK8hWrp7ddgJ-H1aMzlLT8UidKz9aSdrnhT2QO7xN5DG3s-THgdU5hnjCqZzNZrEVRKjFaiIINU1ojX8eG_SFvYndDIreP_h_QDUImdoO9wlOFjnT_COHDHZIbbd55AAsT8wAAAA&tenantId=6003
 
 #EXTINF:-1 group-title="UNIFI TV" tvg-id="521.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/188px-2018_Travel_Channel_logo.svg.png",521 Unifi Travel Channel
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
@@ -1470,7 +1469,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hy
 
 
 #EXTINF:-1 tvg-id="HBOSignature.sg" tvg-name="HBO Signature" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="MOVIES",HBO Signature
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
+http://15.235.144.67:35461/654321/123456/596
 
 
 #EXTINF:-1 tvg-name="Cinema World.id" tvg-logo="https://pictr.com/images/2023/05/22/EMppL2.png" tvg-name="CinemaWorld" group-title="MOVIES",Cinema World
