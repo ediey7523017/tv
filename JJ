@@ -299,6 +299,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="hhttps://seatoday.com/default-image/logo-dark.png",SEA Today
+https://hls.seatoday.com/hls_hd/seatoday.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWzRtNP9DHhya52-hcaJyMCSsrJtV1-etsw&s",TaiwanPlus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_1/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="MYTV",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
@@ -705,7 +711,7 @@ https://centerrrs.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?accountinf
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-http://15.235.144.67:35461/live/654321/123456/4353.m3u8
+http://15.235.144.67:35461/live/654321/123456/4313.m3u8
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1507,7 +1513,10 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hy
 
 
 #EXTINF:-1 tvg-id="HBOSignature.sg" tvg-name="HBO Signature" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="MOVIES",HBO Signature
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505839
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+http://15.235.144.67:35461/654321/123456/596
 
 
 #EXTINF:-1 tvg-name="Cinema World.id" tvg-logo="https://pictr.com/images/2023/05/22/EMppL2.png" tvg-name="CinemaWorld" group-title="MOVIES",Cinema World
