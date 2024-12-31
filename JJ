@@ -1,6 +1,6 @@
 
 #EXTM3U 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://www.open-epg.com/files/singaporepremium2.xml.gz,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://www.open-epg.com/files/india1.xml.gz,https://www.open-epg.com/files/unitedstates1.xml.gz" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://raw.githubusercontent.com/ediey7523017/tv/main/VOD,https://hangit69.blogspot.com/p/movie-request-vod.html,https://raw.githubusercontent.com/ediey7523017/tv/main/AOTG,https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="JJ EDIEY 87 Editor"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://www.open-epg.com/files/singaporepremium2.xml.gz,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://www.open-epg.com/files/india1.xml.gz,https://www.open-epg.com/files/unitedstates1.xml.gz" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://raw.githubusercontent.com/ediey7523017/tv/main/VOD,https://hangit69.blogspot.com/p/movie-request-vod.html,https://raw.githubusercontent.com/ediey7523017/tv/main/AOTG,https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="JJ EDIEY 87 Editor"
 
 
 #################################################################################SOOKA##############################################################################
@@ -567,7 +567,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 
 
-
 #############################################################################UNIFI TV####################################################################################
 
 
@@ -708,10 +707,7 @@ https://centerrrs.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?accountinf
 ###KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 ###https://linears-playback.astro.com.my/vsg/41gUzG7pmjgfufVzIVJxV4y0gM6As_JcGLTFmpxZQ3NeI=VAdk/dash-wv/jitp-linearwm/1004/default_primary.mpd
 ###http://d14sysfrzu8fji.cloudfront.net/ria.mpd
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://15.235.144.67:35461/live/654321/123456/4313.m3u8
+https://aseanic.github.io/m3u8/ria.m3u8
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -719,10 +715,7 @@ http://15.235.144.67:35461/live/654321/123456/4313.m3u8
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 ###https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 ###http://d14sysfrzu8fji.cloudfront.net/prima.mpd
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://15.235.144.67:35461/live/654321/123456/212.m3u8
+https://aseanic.github.io/m3u8/prima.m3u8
 
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",106 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -736,10 +729,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 ###KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 ####http://linears-playback.astro.com.my/vsg/4159jaNFDDC8yOSWA02qdAJxQX4mQfhtMT2vDzPFN3ROI=92SV/dash-wv/jitp-linearwm/2700/default_primary.mpd
 ###http://d14sysfrzu8fji.cloudfront.net/citra.mpd
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://15.235.144.67:35461/live/654321/123456/721.m3u8
+https://aseanic.github.io/m3u8/citra.m3u8
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
