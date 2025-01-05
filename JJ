@@ -5,13 +5,7 @@
 
 #################################################################################SOOKA##############################################################################
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qmFz6HlcmwsnM9+DiTSBfw", "kid":"EtmlTkWNMZdWMr4XqNrAEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="HomeofKids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/573_144.png" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SOOKA",Home Of Kids
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="SOOKA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/150px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="SOOKA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/150px-Logo_of_TV1_%28Malaysia%29.svg.png" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png",TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -522,13 +516,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Rj2HfDtqnFlIuQRatW1t0Q", "kid":"feQDGn4QebL/OI2hHbmnEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
 
-#EXTINF:-1 tvg-id="WWENetwork" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png",830 WWE Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 #EXTINF:-1 tvg-id="GolfChannel" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",831 Golf Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -592,7 +579,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="128.unifi" tvg-name="Dunia Sinema" group-title="UNIFI TV" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema
+#EXTINF:-1 tvg-id="128.unifi" tvg-name="Dunia Sinema" group-title="UNIFI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",128 Dunia Sinema
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
 
 #EXTINF:-1 tvg-id="141.unifi" group-title="UNIFI TV" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Unifi Pesona HD
@@ -674,12 +661,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hy
 ###########################################################################ASTRO###################################################################################
 
 
-#EXTINF:-1 tvg-id="HomeofKids" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/573_144.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 Home Of Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qmFz6HlcmwsnM9+DiTSBfw", "kid":"EtmlTkWNMZdWMr4XqNrAEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/150px-Logo_of_TV1_%28Malaysia%29.svg.png",101 TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/150px-Logo_of_TV1_%28Malaysia%29.svg.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1544,12 +1526,6 @@ http://119.156.26.155:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="593" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select
 http://119.156.26.155:8000/play/a06q/index.m3u8
-
-#EXTINF:-1 tvg-id="ts506" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png",&flix
-http://119.156.26.155:8000/play/a06x/index.m3u8
-
-#EXTINF:-1 tvg-id="ts530" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/%26priv%C3%A9.png",&prive
-http://119.156.26.155:8000/play/a07j/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Paramount Network (East).us" group-title="MOVIES" tvg-logo="https://i.ibb.co/CHxs32R/Paramount-Network.png",Paramount Network
