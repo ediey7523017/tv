@@ -603,12 +603,10 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227529/3221227529.mpd?rrsip=web.hy
 http://sansat.net:88/live/02029727163269/HLzTNH41jpLM7SF/100171.ts
 
 #EXTINF:-1 tvg-id="333.unifi" group-title="UNIFI TV"  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",333 Unifi Colors Cineplex
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NGJiMTI4OWUtMDBkYy0zZmFjLTgxYjQtNjljZGFlY2JkZTQx
-https://web.hypp.tv:443/PLTV/88888888/224/3221227501/3221227501.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487w7lGFEpX0ifA8R%2BaRP%2FJr%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082912%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082912%2Curn:Huawei:liveTV:XTV100000343%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFFBaFqw0Jiammljdmi_9YCMtCm0Tb6_Vup2ZN3l9BIPbtUZb5PYqRM4VXwhmQRmJlquCLcQyLwxJ-CyD5sSA903nylBP2Pm4urCMZpRzRhkn1XS38eDmZTm0V4xa_LEjxrExqOtk6QiJgnMRHfRN6OjBw-sU_TwhWM1qTErFC8myZS4V6ae0gnT_NOQGaRXaB0Ssd8F9AW3BJyQPMHdwWEKLuhu8_3H7WH9s3ssbpUv0AAAA&tenantId=6001
+http://iptv12k.com:35461/654321/123456/664
 
 #EXTINF:-1 tvg-id="Aniplus.id" group-title="UNIFI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png",471 Unifi AniPlus
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2.m3u8
+http://iptv12k.com:35461/654321/123456/686
 
 #EXTINF:-1 group-title="UNIFI TV" tvg-id="472.unifi" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/200px-Animaxlogo-20160701.png",472 Unifi Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -682,14 +680,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.m
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO",104 Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
+http://iptv12k.com:35461/654321/123456/4354
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/prima.mpd
+http://iptv12k.com:35461/654321/123456/734
 
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",106 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -698,9 +692,7 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/prima.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO",108 Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
+http://iptv12k.com:35461/654321/123456/6608
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -766,9 +758,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroVinmeen" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/vin.mpd
+http://iptv12k.com:35461/654321/123456/675
 
 #EXTINF:-1 tvg-id="AstroVellithirai" tvg-name="Astro Vellithirai" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png",203 Astro Vellithirai 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -873,9 +863,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default_primary.m
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="AstroQJ" tvg-name="Astro QJ" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro QJ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nV4DYJS7d8uviGfTJyxm0A", "kid":"id5xzzm+CUbeyCjt/4TQEA" } ], "type":"temporary" }
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/qj.mpd
+http://iptv12k.com:35461/654321/123456/710
 
 #EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies" group-title="ASTRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",309 Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -889,9 +877,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroAOD" tvg-name="Astro AOD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",311 Astro AOD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/aod.mpd
+http://iptv12k.com:35461/654321/123456/704
 
 #EXTINF:-1 tvg-id="CTIAsia" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",316 CTI Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1364,6 +1350,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="Kix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="KOREAN",Kix HD
+http://iptv12k.com:35461/654321/123456/689
 
 #EXTINF:-1 tvg-id="Arirang" group-title="KOREAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/320px-Arirang_logo.png",Arirang TV
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
