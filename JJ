@@ -767,7 +767,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5hHEhJVt8EGd2RVVdvxa30Y=t4Ie/dash-wv/jitp-dashisowm/2105/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5oqZL14EKVJ2kWuybq3F9KE=5dDO/dash-wv/jitp-dashisowm/2105/default_primary.mpd
+#https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/vin.mpd
 
 #EXTINF:-1 tvg-id="AstroVellithirai" tvg-name="Astro Vellithirai" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png",203 Astro Vellithirai 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
