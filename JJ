@@ -704,6 +704,14 @@ http://iptv12k.com:35461/654321/123456/734
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
+#EXTINF:-1 tvg-id="AstroWarna" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Astro_Warna_%28Dec_2024%29.png",107 Astro Warna
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
+https://aseanic.github.io/hls/36.m3u8
+
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO",108 Astro Citra
 http://iptv12k.com:35461/654321/123456/6608
 
@@ -881,7 +889,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default_primary.m
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="AstroQJ" tvg-name="Astro QJ" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro QJ
-http://iptv12k.com:35461/654321/123456/710
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+https://aseanic.github.io/hls/51.m3u8
+###http://iptv12k.com:35461/654321/123456/710
 
 #EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies" group-title="ASTRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",309 Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -895,7 +907,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroAOD" tvg-name="Astro AOD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",311 Astro AOD
-http://iptv12k.com:35461/654321/123456/701
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286aef4e8d85db66e05fe4a5c799e410:17b8a4e2f39e5747215559a2440277f7
+https://aseanic.github.io/hls/53.m3u8
+###http://iptv12k.com:35461/654321/123456/701
 
 #EXTINF:-1 tvg-id="CTIAsia" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",316 CTI Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
