@@ -1,6 +1,6 @@
 
 #EXTM3U 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://xmltv.tvkaista.net/guides/singtel.com.xml,https://xmltv.tvkaista.net/guides/indihometv.com.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/refs/heads/main/MYVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/AOTG,https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="JJ EDIEY 87 Editor"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://xmltv.tvkaista.net/guides/singtel.com.xml,https://xmltv.tvkaista.net/guides/visionplus.id.xml,https://xmltv.tvkaista.net/guides/mewatch.sg.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/refs/heads/main/MYVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/AOTG,https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="JJ EDIEY 87 Editor"
 
 
 #################################################################################SOOKA##############################################################################
@@ -1518,31 +1518,11 @@ https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
 ###https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://www.myrepublic.co.id/_next/image?url=%2Fimg%2Fgothel%2Fuploads%2F12_IMC_22761e3487.png&w=480&q=75" group-title="MOVIES",IMC
-https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #EXTINF:-1 tvg-id="Thrill.id" group-title="MOVIES" tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Flik.png" group-title="MOVIES",Flik
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="Max Stream.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStream.png" group-title="MOVIES",Max Stream
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -1579,13 +1559,6 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts173" group-title="MOVIES" tvg-logo="https://i.ibb.co/LCN4wgj/movies-now.png",Movies Now
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-
-
-#EXTINF:-1 tvg-id="Paramount Network (East).us" group-title="MOVIES" tvg-logo="https://i.ibb.co/CHxs32R/Paramount-Network.png",Paramount Network
-http://45.159.93.14:8080/144264/661943/22906
-
-#EXTINF:-1 tvg-id="Syfy (East).us" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png",SyFy 
-http://45.159.93.14:8080/144264/661943/22946
 
 
 
