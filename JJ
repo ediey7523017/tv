@@ -1,6 +1,6 @@
 
 #EXTM3U 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://xmltv.tvkaista.net/guides/visionplus.id.xml,https://xmltv.tvkaista.net/guides/mewatch.sg.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://xmltv.tvkaista.net/guides/indihometv.com.xml,https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/refs/heads/main/MYVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/AOTG,https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="JJ EDIEY 87 Editor"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://xmltv.tvkaista.net/guides/visionplus.id.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Singtel/epg.xml ,https://xmltv.tvkaista.net/guides/indihometv.com.xml,https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/refs/heads/main/MYVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/AOTG,https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="JJ EDIEY 87 Editor"
 
 
 #################################################################################SOOKA##############################################################################
@@ -696,10 +696,20 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.m
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO",104 Astro Ria
-http://iptv12k.com:35461/654321/123456/4354
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://aseanic.github.io/hls/33.m3u8
+###http://iptv12k.com:35461/654321/123456/4354
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima
-http://iptv12k.com:35461/654321/123456/734
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+https://aseanic.github.io/hls/34.m3u8
+###http://iptv12k.com:35461/654321/123456/734
 
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",106 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -712,7 +722,12 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
 ###https://aseanic.github.io/hls/36.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO",108 Astro Citra
-http://iptv12k.com:35461/654321/123456/6608
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+https://aseanic.github.io/hls/37.m3u8
+###http://iptv12k.com:35461/654321/123456/6608
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
