@@ -970,17 +970,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #EXTINF:-1 tvg-id="ONE" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",393 ONE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
 #EXTINF:-1 tvg-id="tvN" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png",395 tvN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
 #EXTINF:-1 tvg-id="K-Plus" group-title="ASTRO" tvg-logo="https://aqfadtv.xyz/logos/KPlus.png",396 K-Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
 #EXTINF:-1 tvg-id="NHKWorldPremium" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_NHK_World_Premium.jpg",398 NHK World Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
