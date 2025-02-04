@@ -521,7 +521,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:-1 tvg-id="PremierSports" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",833 Premier Sports Rugby
+#EXTINF:-1 tvg-id="PremierSports" group-title="SPORTS" tvg-logo="https://i.ibb.co/83qL10C/Premier-Sports-Rugby.png",833 Premier Sports Rugby
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
