@@ -675,20 +675,31 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.m
 #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO",104 Astro Ria
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-https://aseanic.github.io/hls/33.m3u8
+https://linearjitp.perfecttv.net/ria.mpd
+
+###EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO",104 Astro Ria
+###KODIPROP:contentlookup=False
+###KODIPROP:mimetype=application/dash+xml
+###KODIPROP:inputstream=inputstream.adaptive
+###KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+###https://aseanic.github.io/hls/33.m3u8
 ###http://iptv12k.com:35461/654321/123456/4354
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-https://aseanic.github.io/hls/34.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp.perfecttv.net/prima.mpd
+
+###EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima
+###KODIPROP:contentlookup=False
+###KODIPROP:mimetype=application/dash+xml
+###KODIPROP:inputstream=inputstream.adaptive
+###KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+###https://aseanic.github.io/hls/34.m3u8
 ###http://iptv12k.com:35461/654321/123456/734
 
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",106 Astro Oasis
