@@ -73,11 +73,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroTutorTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png" group-title="SOOKA",Astro Tutor TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria" group-title="SOOKA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -137,7 +136,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="136.astro" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria! 
-https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
+https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1178,10 +1177,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default_primary.m
 
 
 #EXTINF:-1 tvg-id="AstroTutorTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png" group-title="ASTRO",603 Astro Tutor TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",611 Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
