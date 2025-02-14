@@ -5,7 +5,7 @@
 
 #################################################################################SOOKA##############################################################################
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="SOOKA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/150px-Logo_of_TV1_%28Malaysia%29.svg.png" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="SOOKA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/150px-Logo_of_TV1_%28Malaysia%29.svg.png" group-logo="https://i.ibb.co/GQqLk6kH/Sooka.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
@@ -673,7 +673,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hy
 ###########################################################################ASTRO###################################################################################
 
 
-#EXTINF:-1 tvg-id="" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/574_144.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 XiLele喜乐乐
+#EXTINF:-1 tvg-id="100.astro" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Astro_XiLele.png/revision/latest?cb=20250211094733" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 XiLele
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
