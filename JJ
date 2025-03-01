@@ -34,10 +34,14 @@ https://linearjitp.perfecttv.net/ria.mpd
 ###https://tinyurl.com/playria0
 
 #EXTINF:-1 tvg-id="105.astro" group-title="SOOKA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp.perfecttv.net/prima.mpd
+###https://tinyurl.com/playprim0
+
 ###https://tinyurl.com/playprim0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -92,7 +96,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 #KODIPROP:inputstream.adaptive.license_key=655b6df8085d4fe6b3f71c0f4288f98a:5f0d4251e05e0a3a661218169ee84181
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp.perfecttv.net/aec.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
 
 #EXTINF:-1 tvg-id="308.astro" group-title="SOOKA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro QJ
 #KODIPROP:inputstream.adaptive.manifest.type=dash
@@ -100,7 +104,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=36978c8e295e42ccbcc45d719e32e7f3:22c4936cc4dcab2daf96a36a5c12257e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp.perfecttv.net/qj.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 
 #EXTINF:-1 tvg-id="501.astro" group-title="SOOKA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest?cb=20200922172412",Astro Awani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -741,8 +745,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
-###https://aseanic.github.io/hls/38.m3u8
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
+https://aseanic.github.io/hls/38.m3u8
 
 #EXTINF:-1 tvg-id="108.astro" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",108 Astro Citra
 #KODIPROP:contentlookup=False
@@ -926,6 +930,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://aseanic.github.io/hls/55.m3u8
 
 #EXTINF:-1 tvg-id="309.astro" group-title="ASTRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",309 Celestial Movies
@@ -935,7 +940,6 @@ https://aseanic.github.io/hls/55.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
-
 
 #EXTINF:-1 tvg-id="310.astro" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/TVB_Jade_2023.png/revision/latest?cb=20230203013249&path-prefix=vi",310 TVB Jade
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -947,7 +951,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
+https://aseanic.github.io/hls/58.m3u8
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="316.astro" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",316 CTI Asia
