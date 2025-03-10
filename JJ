@@ -200,6 +200,12 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1  group-title="SOOKA" tvg-id="KCM.my" tvg-logo="https://i.ibb.co/92pkxYT/KCM.png",KCM
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcmasia-sooka-dash-sooka/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Jelly Jamm World.my" tvg-logo="https://i.ibb.co/5vqTbN5/Jelly-Jam-World.png",Jelly Jam World
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-jellyjam-dash-sooka-test-sooka/index.mpd
 
@@ -207,44 +213,61 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-jellyjam-da
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Pet club.my" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png",Pet Club TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-dash-sooka/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1  group-title="SOOKA" tvg-id="KCM.my" tvg-logo="https://i.ibb.co/92pkxYT/KCM.png",KCM
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcmasia-sooka-dash-sooka/index.mpd
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/4f980b61-3889-4647-b276-53a2dcd3af9c/2.m3u8
+###https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-dash-sooka/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Free Movies.my" tvg-logo="https://i.ibb.co/X4rJ0fR/Free-Movie.png",Free Movie
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemovies-dash-sooka-sooka/index.mpd
+https://amg01553-blueantmediaasi-freemoviesastrosooka-sooka-kh4yu.amagi.tv/playlist/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/cb573d1f7e6c64889ed43a6ecef54282847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f6e508118a6cf0b0011ec12640fa83439c8201ea80d05983478076f5159a9bf98bd14283e4255293758ae18a51581fb4b93bfbe45cbadb837a309d03472c7c74d5d3587ad35efc23624ff1feb1cd0d6680c7fb49aa7536b701d863913d9a7eb84bd1899823a4c9bd131543c8ef4e602ba1a58c9ff62526af2c9cc88c8b232cc9a646302f5d0ea9af46e6c004817da4ba2182f2d41abc503d72b1b056929cfda8fab1814ba309dfcae48d2f7883026e0dab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a65be73d72094ce3b21f5e434d6fd9a1335e6737901396a6a08b40000ee8f8daed800268755e39664cdab2a920e1cdaa4f3a19ce542a650e60349e16d964da40044019c010d7a31e67c7610528f5ac2b524a66f49de299e636ab9038a50da979eda015b3225ab7c4059bc6946f006f/53/1280x720_1249600/index.m3u8
+###https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemovies-dash-sooka-sooka/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Infamous TV.my" tvg-logo="https://aqfadtv.xyz/logos/InfamousTV.png",Infamous TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/index.mpd
+https://amg01324-infamousmedia-infamoustv-hls-sooka-6xp27.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-hls-sooka/cb573d1f7e6c64889ed43a6ecef54282847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f6e35d4cdf6af0b5011ec12642fa83439c8201b28380098317d770f2149993f08cdb1487e4255293758ae18a51581fb4b93bfbe45cbadb837a309d03472c7c74d5d3587ad35efc23624ff1feb1cd0d6680c7fb49aa7536b701d863913d9a7eb84bd1899823a4c9bd131543c8ef4e602ba1a58c9ff62526af2c9cc88c8b232cc9a646302f5d0ea9af46e6c004817da4ba2182f2d41abc503d72b1b056929cfda8fab1814ba309dfcae48d2f7883026e0dab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a65be73d72094ce3b21f5e434d6fd9a1335e6737901396a6a08b40000ee8f8daed800268755e39664cdab2a920e1cdaa4f3a19ce542a650e60349e16d964da40044019c010d7a31e67c7610528f5ac2b524a66f599e4d09fb72a255feb09119b2aaa78cd4fd9c20dbd0bddf1d93cf559/151/1280x720_3329040/index.m3u8
+###https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Gusto TV.my" tvg-logo="https://aqfadtv.xyz/logos/GustoTV.png",Gusto TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-sooka/index.mpd
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/d69d84b8-64e5-4566-86bb-3d64918a5b4e/2.m3u8
+###https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-sooka/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="YRF music.my" tvg-logo="https://aqfadtv.xyz/logos/YRFMusic.png",Yrf Music
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
+https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/cb573d1f7e6c64889ed43a6ecef54282847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fde80b13db68f5b4011ec12640fa83439c8201b3d6d50e83478424f3479c95a589d410d6e4255293758ae18a51581fb4b93bfbe45cbadb837a309d03472c7c74d5d3587ad35efc23624ff1feb1cd0d6680c7fb49aa7536b701d863913d9a7eb84bd1899823a4c9bd131543c8ef4e602ba1a58c9ff62526af2c9cc88c8b232cc9a646302f5d0ea9af46e6c004817da4ba2182f2d41abc503d72b1b056929cfda8fab1814ba309dfcae48d2f7883026e0dab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a65be73d72094ce3b21f5e434d6fd9a1335e6737901396a6a08b40000ee8f8daed800268755e39664cdab2a920e1cdaa4f3a19ce542a650e60349e16d964da40044019c010d7a31e67c7610528f5ac2b524a66f599e3d39fb72a2555f309119b64c26476f97656bfe0da72e7a37bebb4/122/1280x720_2300392/index.m3u8
+###https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Tastemade.my" tvg-logo="https://aqfadtv.xyz/logos/Tastemade.png",Tastemade
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-dash-sooka/index.mpd
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-hls-sooka/73d2bb7c-c849-4a27-b8c5-36875b2e67bb/2.m3u8
+###https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-dash-sooka/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-title="SOOKA" tvg-id="" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_100,h_auto,w_300/https://datastore.vr.ctrp.sooka.my/content/images/ee0244WD_Movies.png",wedotv Movies
+https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/cb7c3e1a7b706f8f93c23f6cd2a543aa880765835d63d5346da055c62192155d81efa3c9e44cbb6a7ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee1545bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c57d376f0429ac7f0dace46d68f947ea856e732445a717b9bcd2ac1900fb38ccd6f6ecd242c74073f94cb467d4746e46a7a1e90d2cab364e600c78857ee0a559a33e88400ade811ce28b4e84fdaded307c4484bc9ef547526e0cea984fa3732b173b9cd8112f075eb94452a3dac5ed9202a30da9aa171dc9b44c6e671c6dce17a49b60aee153411f4cfc947a8ad0c37a7c9b8772e6f700d03c976b79965d227da4265af792e71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2d89a0364360379305d7d2cce065004fb9a49ab093054a72537d650585e6e86788ce91796f71ef676631245e47ec47bc0ff80f460722cc64a38f01668a0b246dabe70854546899dfa2c3e0f2cf57be6bdcdff75a7e6d0c7bdcd364f4e00968eb430ebc8bf580bad43a32d44c1f5d558e/165/1280x720_3329040/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-title="SOOKA" tvg-id="" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_100,h_auto,w_300/https://datastore.vr.ctrp.sooka.my/content/images/b2da5bWD_Big_Stories.png",wedotv Big Stories
+https://amg00735-amg00735c19-astrosooka-singapore-6038.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedobigstories-astrosookasingapore/cb7c3e1a7b706f8f93c23f6cd2a543aa880765835d63d5346da055c62192155d81efa3c9e44cbb6a7ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee1545bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578372a04299c6a188ce46d68f977ea856e73244017b78cacd2fc1cf08e5dc9b3b3fcd297f74073f94cb467d4746e46a7a1e90d2cab364e600c78857ee0a559a33e88400ade811ce28b4e84fdaded307c4484bc9ef547526e0cea984fa3732b173b9cd8112f075eb94452a3dac5ed9202a30da9aa171dc9b44c6e671c6dce17a49b60aee153411f4cfc947a8ad0c37a7c9b8772e6f700d03c976b79965d227da4265af792e71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2d89a0364360379305d7d2cce065004fb9a49ab093054a72537d650585e6e86788ce91796f71ef676631245e47ec47bc0ff80f460722cc64a38f01668a0b246dabe70854546899dfa2c3e0f2cf57be6bdcdff75a7e6a087bdcd364b3e10968ebc2a944925f63a5959fbdb3f66587f3da/111/1280x720_4259200/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-title="SOOKA" tvg-id="" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_100,h_auto,w_300/https://datastore.vr.ctrp.sooka.my/content/images/babf52HNC.png",Horse & Country
+https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/cb7c3e1a7b706f8f93c23f6cd2a543aa880765835d63d5346da055c62192155d81efa3c9e44cbb6a7ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee1545bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578f72f513ccc7a68ece46d68f977ea856e732445a242ecdcd2e96cf0cb38bcd3a38cd257074073f94cb467d4746e46a7a1e90d2cab364e600c78857ee0a559a33e88400ade811ce28b4e84fdaded307c4484bc9ef547526e0cea984fa3732b173b9cd8112f075eb94452a3dac5ed9202a30da9aa171dc9b44c6e671c6dce17a49b60aee153411f4cfc947a8ad0c37a7c9b8772e6f700d03c976b79965d227da4265af792e71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2d89a0364360379305d7d2cce065004fb9a49ab093054a72537d650585e6e86788ce91796f71ef676631245e47ec47bc0ff80f460722cc64a38f01668a0b246dabe70854546899dfa2c3e0f2cf57be6bdcdff75a7e6e087bdcd364a6fe0968ebcea84b4097daa2f7514ac433628ddbb3/151/1280x720_3000800/index.m3u8
 
 
 ################################################################################MYTV################################################################################
