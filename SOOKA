@@ -146,7 +146,7 @@ https://l15.dp.sooka.my/5096/linear/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6a693282daad438db2ad81ee72156d8b":"42be3228d23e688686fc7c501284b3e1","6e10911efa934dc09eabd416f619d548":"dbc7a980f541e28978669dc532b4f70a"}
-#EXTINF:-1 group-title="SOOKA",DreamWorks
+#EXTINF:-1 group-title="SOOKA",Zee Cinema
 https://l16.dp.sooka.my/5095/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -174,15 +174,6 @@ https://l13.dp.sooka.my/5110/linear/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"66c94fd8908c43ccb5e7b3dd58a990d2":"d489da5a8496d00a04757d432816ab71","505aefcda9084f83bc5c6cc53f0ef9c6":"f89898184ed921e225cd89f4d2ea1035"}
 #EXTINF:-1 group-title="SOOKA",Astro Grandstand
-https://l03.dp.sooka.my/2701/linear/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE2NDc2NjgsImlzcyI6IlZSIiwiZXhwIjoxNzQxNzMyMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNmY4MmVmYWItMTZlMS00MTZjLTkyMmQtMDhmNzhiMDVlOTEwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.jEYCvfgsFoQZoQoPpbQ4U0gUlLfz5P7RkgW5t93PZ6g"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"505aefcda9084f83bc5c6cc53f0ef9c6":"f89898184ed921e225cd89f4d2ea1035","66c94fd8908c43ccb5e7b3dd58a990d2":"d489da5a8496d00a04757d432816ab71"}
-#EXTINF:-1 group-title="BEDAL" group-logo="https://i1.sndcdn.com/artworks-000215633446-wtg974-t500x500.jpg" tvg-logo="https://i1.sndcdn.com/artworks-000215633446-wtg974-t500x500.jpg",BEDAL 3
 https://l03.dp.sooka.my/2701/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -236,7 +227,7 @@ https://l16.dp.sooka.my/5171/linear/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
-#EXTINF:-1 group-title="SOOKA",Astro Arena Bola 2
+#EXTINF:-1 group-title="SOOKA",Arena Bola 2
 https://l02.dp.sooka.my/5100/linear/index.mpd
 
 #EXTINF:-1 tvg-id="308.astro" group-title="SOOKA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro QJ
