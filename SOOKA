@@ -141,7 +141,9 @@ https://l15.dp.sooka.my/5096/linear/index.mpd
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE4MjEzMjMsImlzcyI6IlZSIiwiZXhwIjoxNzQxOTA1MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNmY4MmVmYWItMTZlMS00MTZjLTkyMmQtMDhmNzhiMDVlOTEwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.tKksbW6ZyWeWaWh_ji34Q12OdRqnnW63c2aQD1GlzRE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6a693282daad438db2ad81ee72156d8b":"42be3228d23e688686fc7c501284b3e1","6e10911efa934dc09eabd416f619d548":"dbc7a980f541e28978669dc532b4f70a"}
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
+###KODIPROP:inputstream.adaptive.license_key={"6a693282daad438db2ad81ee72156d8b":"42be3228d23e688686fc7c501284b3e1","6e10911efa934dc09eabd416f619d548":"dbc7a980f541e28978669dc532b4f70a"}
 #EXTINF:-1 group-title="SOOKA",Zee Cinema
 https://l16.dp.sooka.my/5095/linear/index.mpd
 
