@@ -340,32 +340,43 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b1096000_slENG
 #EXTINF:-1 tvg-id="DewanNegara.my" group-title="MYTV" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
 
-###EXTINF:-1 tvg-id="TVRI" group-title="MYTV" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI
-###EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-###https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:-1 tvg-id="TVRIWorld" group-title="MYTV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TVRIWorld.png",TVRI World
-#EXTVLCOPT:network-caching=1000
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/index.m3u8|Referer=https://klik.tvri.co.id/
-
-#EXTINF:-1 tvg-id="TRTWorld" group-title="MYTV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TRTWorld.png",TRT World
-#EXTVLCOPT:network-caching=1000
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/HorizonSports.png",Horizon Sports
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/MotorRacingTV.png",MotorRacing TV
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://seatoday.com/default-image/logo-dark.png",SEA Today
-https://hls.seatoday.com/hls_hd/seatoday.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://cdn.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
+#EXTINF:-1 tvg-id="CNA.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" group-title="MYTV",CNA
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://www.roc-taiwan.org/uploads/sites/30/2022/04/Taiwanplus.png",TaiwanPlus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_1/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/800px-Aljazeera_eng.svg.png" group-title="MYTV",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://warningfm.github.io/v3/live/str/ns/f5f5c18cf037919.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.Arabic.net" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/800px-Aljazeera_eng.svg.png" group-title="MYTV",AlJazeera Arabic
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/640px-Deutsche_Welle_symbol_2012.svg.png" group-title="MYTV",DW
+#EXTHTTP:{"User-agent":"ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
+https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
+https://warningfm.github.io/v3/live/str/ns/b213b64047f564c.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/640px-NHK_World-Japan_TV.svg.png" group-title="MYTV",NHK World Japan
+https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
+https://warningfm.github.io/v3/live/str/ns/ec695f65e6a2f4b.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/800px-Arirang_logo.png" group-title="MYTV",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="MYTV",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
