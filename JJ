@@ -195,67 +195,36 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-id="Oh My Ceria.my" group-title="SOOKA" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria! 
 https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
 #EXTINF:-1  group-title="SOOKA" tvg-id="KCM.my" tvg-logo="https://i.ibb.co/92pkxYT/KCM.png",KCM
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcmasia-sooka-dash-sooka/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Jelly Jamm World.my" tvg-logo="https://i.ibb.co/5vqTbN5/Jelly-Jam-World.png",Jelly Jam World
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-jellyjam-dash-sooka-test-sooka/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Pet club.my" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-dash-sooka/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Free Movies.my" tvg-logo="https://i.ibb.co/X4rJ0fR/Free-Movie.png",Free Movie
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemovies-dash-sooka-sooka/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Infamous TV.my" tvg-logo="https://aqfadtv.xyz/logos/InfamousTV.png",Infamous TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Gusto TV.my" tvg-logo="https://aqfadtv.xyz/logos/GustoTV.png",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-sooka/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="YRF music.my" tvg-logo="https://aqfadtv.xyz/logos/YRFMusic.png",Yrf Music
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="Tastemade.my" tvg-logo="https://aqfadtv.xyz/logos/Tastemade.png",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-dash-sooka/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-title="SOOKA" tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/23121758/wedo-big-stories_RED.png",Wedotv Big Stories
+https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/cb543d1f786c678f9bd43e62d3ef48a5f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac765bdb80148b61299bce8c37683f03409a5e5afba358b1ebe35a428a38a8b54e55952f4db49f43c8821ca688d05ec85e8023f9159dc7f58f8641d4d09b7a9376e3301a16236d89bf6a87c64fb3e58f7b35ee0542341641f2b380a4017391424753ece985bc6af249a1e34d806424f5079c5f9642e901cb58fd9924ccacbfcc0c4029b4fb55602aa597c8e09d2236b969efb4b3a2191b98f2073652db61aa56414a98e9df0497995ad9a12681bb7d0b76c39e48c1f6d8e7e8b49d58ee46a0a6a5aade2324116cd70554d8f840e26bb555a9c212384f4445dff53fa6a7ea2efbe6d2e4fa3af50012b8a1f9eb469d32b80c304fe96cd81b2979c124796ea75b914cbf65fb445bd14f51d04d348c43bc9439f8b7cef74c5cdfbb921bae3fbfe74dba827334fb29d9fec29b0c263aa9f6e1366c341033b264f7dacbae5c1c01e0f6f2d2d55e28122b2d9f6de1edca7f8187cc251c59941d76203c271e9800d97ecc4067346e984e9dfc5234b20f2f7bb2fc7f450c38df88909197dacf73b07df8c6e9767a680e2dee65456e45fb82a075b17847777158c0286140b6081302c99ddbea9485219fcc3de4682c442d95b024400f53616a45cec33f990db4e168d3f1fd55c2eb820556c56df37377b0e49c3da8a3d1bd0c65f68d5816609bd65db55025d518d92ec89f30efb95b02132b530aa5aa51ec54add08acd49cb7bb52ee31f6ac615428514cb19ff39ff6953eb260778a6a35deb/17/1280x720_4259200/index.m3u8
+
 #EXTINF:-1 group-title="SOOKA" tvg-id="" tvg-logo=https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png"",wedotv Movies
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 group-title="SOOKA" tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/23121758/wedo-big-stories_RED.png",wedotv Big Stories
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="SOOKA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",Horse & Country
 
 
