@@ -1468,7 +1468,7 @@ https://linearjitp.perfecttv.net/Abo.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="401.astro" tvg-name="Hits Movies HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",Hits Movies
