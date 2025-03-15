@@ -1,6 +1,6 @@
 
 #EXTM3U 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://www.open-epg.com/files/indonesia3.xml,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz" refresh="1440" vod_library="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/hbogoasia,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://raw.githubusercontent.com/Justryuz/jtv/refs/heads/main/mimipipi22.m3u8,https://raw.githubusercontent.com/ediey7523017/tv/refs/heads/main/VOD,https://raw.githubusercontent.com/ediey7523017/tv/refs/heads/main/AOTG" billed-msg="JJ EDIEY 87 Editor"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://www.open-epg.com/files/indonesia3.xml,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz" refresh="1440" vod_library="https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbogoasia,https://raw.githubusercontent.com/ediey7523017/tv/main/MyFirst,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://raw.githubusercontent.com/Justryuz/jtv/main/mimipipi22.m3u8,https://raw.githubusercontent.com/ediey7523017/tv/main/VOD,https://raw.githubusercontent.com/ediey7523017/tv/main/AOTG" billed-msg="JJ EDIEY 87 Editor"
 
 
 #################################################################################SOOKA##############################################################################
@@ -944,7 +944,7 @@ https://linearjitp.perfecttv.net/Abo.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="300.astro" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI
