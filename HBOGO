@@ -9340,8 +9340,3 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c720fd3be7189575a8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sXn4dPGeoS+XQo8s/em8+A","kid":"vepmMMECUd8KAdBdK893Sw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb3886d940521074e0a836_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018913X0-portrait.jpg",On Location: An Evening With Robert Klein 1975
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rikelhSG5fVT8NwcTnZQqg","kid":"DFM/jwb8Vju85FEYV/RobQ"}],"type":"temporary"}
