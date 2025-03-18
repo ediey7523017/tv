@@ -374,14 +374,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnt
 #EXTINF:-1 tvg-logo="" group-title="FMX",Rock Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
-https://atemecdnbalancer-voe.sysln.id/live/eds/ROCKEntertainmentHD/mpd/ROCKEntertainmentHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainment/mpd/RockEntertainment.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="FMX",ROCK Action
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
-https://atemecdnbalancer-voe.sysln.id/live/eds/ROCKActionHD/mpd/ROCKActionHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockKAction/mpd/RockAction.mpd
 
 #EXTINF:-1 group-title="FMX" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
