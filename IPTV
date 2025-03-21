@@ -885,7 +885,7 @@ https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
 https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDI1MTY2MjMsImlzcyI6IlZSIiwiZXhwIjoxNzQyNTk2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZmJlY2ZlZTktYmQzZC00OGU3LTg0NmMtMTBhZjk5MDYxM2EyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.arSIuwKZ8NLh_mQy1LdZobFSiScvLTW9WFoMsc1v6N0
 
-#EXTINF:-1 tvg-id="805.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-logo="" group-title="Sports",Astro Sports UHD 
+#EXTINF:-1 tvg-id="805.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-logo="" group-title="Sports",805 Astro Sports UHD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDI1MTY2MjMsImlzcyI6IlZSIiwiZXhwIjoxNzQyNTk2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZmJlY2ZlZTktYmQzZC00OGU3LTg0NmMtMTBhZjk5MDYxM2EyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.arSIuwKZ8NLh_mQy1LdZobFSiScvLTW9WFoMsc1v6N0"}
@@ -894,7 +894,7 @@ https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #KODIPROP:inputstream.adaptive.license_key={"b3c6aee13e434d7b8b50dd8871811ead":"34ef5324f5783110969c0ae2787d4c47","f8ff026a073a48bda7185c8ae4454528":"8fdc06d933d5dacb32968b5cc6c940ea"}
 https://l18.dp.sooka.my/1601/linear/index.mpd
 
-#EXTINF:-1 tvg-id="805.astro" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png",805 Astro Sports UHDᵃˢᵗʳᵒ
+#EXTINF:-1 tvg-id="805.astro" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png",805 Astro Sports UHD ᵃˢᵗʳᵒ
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
