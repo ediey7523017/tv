@@ -461,7 +461,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="NHK World-Japan" group-title="Asia Favorites" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/201907160704507932rh.png",NHK World-Japan
+#EXTINF:-1 tvg-id="NHK World-Japan" group-title="Asian Favorites" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/201907160704507932rh.png",NHK World-Japan
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
