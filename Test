@@ -3,7 +3,6 @@
 
 
 #EXTINF:-1 tvg-id="108.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra
-#EXTHTTP:{"X-Token":"9d482c930e63904e15a252191316fb9e3365576f7a764c77782b564942513375383869444b654b6b7168624d534b2b42384c6769432f39637872513d"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
