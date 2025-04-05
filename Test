@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="CHINESE" tvg-logo="https://perfecttv.net/logo/aec.png" tvg-id="AstroAEC",AEC
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=655b6df8085d4fe6b3f71c0f4288f98a:5f0d4251e05e0a3a661218169ee84181
-http://83.142.30.171:8080/linear.mpd?channel=aec&username=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDM4MTQ3NDksImlzcyI6IlZSIiwiZXhwIjoxNzQzODkyMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.LjarfncmP7WfOxMYQfMsUKwK6cOvDvOEIaoKXd-l_yk
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS FHD NO EPG" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",805 EPL FHD
@@ -14,4 +7,4 @@ http://83.142.30.171:8080/linear.mpd?channel=aec&username=perfecttv|authorizatio
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
-https://get.perfecttv.net/1080.mpd?channel=epl1fhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDM4MTQ3NDksImlzcyI6IlZSIiwiZXhwIjoxNzQzODkyMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.LjarfncmP7WfOxMYQfMsUKwK6cOvDvOEIaoKXd-l_yk
+https://get.perfecttv.net/1080.mpd?channel=epl1fhd&username=perfecttv&password=perfecttv
