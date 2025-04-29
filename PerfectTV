@@ -4885,12 +4885,12 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 #================VodSooka=============================
 
 #EXTINF:-1 tvg-id="" ch-number="9000" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/da41faIUNNP_p.jpg", 9000- Asam Pedas Cendol Sejoli
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=0d2ee13a114159899b838f238f1855fe:7b45c5d058c04490ad32e421013f9fa4
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9000|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
 #EXTINF:-1 tvg-id="" ch-number="9001" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/9193aaIYTWE_p.jpg", 9001- Dato S
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=42d920ab34f65222b7b827c739b89238:b062c6ea2059509d51aa3ec56d679afa
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9001|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
@@ -6231,14 +6231,14 @@ https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&c
 ##############vod seram ########################
 
 #EXTINF:-1 tvg-id="" ch-number="9004" tvg-name="" group-title="▶ VOD SERAM" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/a6719eJQJUX_P.JPG", 9004- 44 Hari Bangkitnya Pocong
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=938aaca5f41f59838324e0487329c938:d8bd65ef7d3187a8e192bffccb326597
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9004|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
 #EXTINF:-1 tvg-id="" ch-number="9013" tvg-name="" group-title="▶ VOD SERAM" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e4f248IZWAM_p.jpg", 9013- Ada mata memerhati
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=35208ef9e1ce5c32b5a1f6cd823d1f40:fae5c61cc90b0251947ef34882795fab
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9013|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
