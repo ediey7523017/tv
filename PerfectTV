@@ -4885,49 +4885,52 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 #================VodSooka=============================
 
 #EXTINF:-1 tvg-id="" ch-number="9000" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/da41faIUNNP_p.jpg", 9000- Asam Pedas Cendol Sejoli
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=0d2ee13a114159899b838f238f1855fe:7b45c5d058c04490ad32e421013f9fa4
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9000|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
 #EXTINF:-1 tvg-id="" ch-number="9001" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/9193aaIYTWE_p.jpg", 9001- Dato S
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=42d920ab34f65222b7b827c739b89238:b062c6ea2059509d51aa3ec56d679afa
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9001|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
 #EXTINF:-1 tvg-id="" ch-number="9002" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/54c82aILLEM_p.jpg", 9002- 3 Bahalol
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=8d138b7a547553299c24e460c76f9e9c:f4fb4fe0abfbac98099a316b875246b9
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9002|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
 
 #EXTINF:-1 tvg-id="" ch-number="9003" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/404041JPJXT_p.jpg", 9003- 10 Tips Tipu Bini
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=687067563d805f4a85d3c85a4beeb28f:36700753d5d09208ae4d830d75952382
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9003|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
 
 #EXTINF:-1 tvg-id="" ch-number="9005" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/51e20aIDMVZ_p.jpg", 9005- 16 Puasa
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=245bfd025ed25d0ca60ee07efe64db17:0447e55cd4454d8439daaae4a27d5fac
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9005|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
 #EXTINF:-1 tvg-id="" ch-number="9006" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/635fccIVIHW_p.jpg", 9006- 17 Puasa
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=83ef446df2655b9281c7f3fef503de8c:c686b8c3c81e4942c37ada594ba7f204
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9006|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
 #EXTINF:-1 tvg-id="" ch-number="9007" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/744797IPOKG_p.jpg", 9007- 30 Hari Membunuh Cinta
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=932ad42661a957f89c63cb48884a87cb:63061c410d8dfed48388f1734aaa24ca
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9007|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
 #EXTINF:-1 tvg-id="" ch-number="9008" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2e7c9eIVP_IKTMQ_p.jpg", 9008- Enam
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=191024df3b5c5c33973c88fb88fab883:f270adab8e69a7983600ccb5f67df20e
 https://get.perfecttv.net/voddrama.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9008|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU5MDAxOTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGZiZjVhYWUtNzIyMi00NmRmLWJiYWQtMzkxYjI3MjkxM2ZlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.SyI6nDY7_QblvKvsbpIJfqV7-CkxQLfk_d_8aKGehJk
 
