@@ -43,7 +43,7 @@ https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
-https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/AlhijrahTV/index.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
@@ -98,32 +98,30 @@ https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
 
 #################################Astro#######################################
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="" group-logo="" group-title="Astro",Astro Ria
+#EXTINF:-1 tvg-id="104.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-logo="" group-title="Astro",Astro Ria
 https://phdown.serv00.net/Smartv.php?id=Ria
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="" group-logo="" group-title="Astro",Astro Prima 
+#EXTINF:-1 tvg-id="105.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-logo="" group-title="Astro",Astro Prima 
 https://phdown.serv00.net/Smartv.php?id=Prima-0
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="" group-logo="" group-title="Astro",Astro Citra  
-https://phdown.serv00.net/Smartv.php?id=Citra-0
+#EXTINF:-1 tvg-id="108.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-logo="" group-title="Astro",Astro Citra  
+https://tinyurl.com/citrts0
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="" group-logo="" group-title="Astro",Astro AEC
+#EXTINF:-1 tvg-id="306.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-logo="" group-title="Astro",Astro AEC
 https://phdown.serv00.net/Smartv.php?id=AEC
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="" group-logo="" group-title="Astro",Astro QJ 
+#EXTINF:-1 tvg-id="308.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-logo="" group-title="Astro",Astro QJ 
 https://phdown.serv00.net/Smartv.php?id=Quanjia
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="" group-logo="" group-title="Astro",Astro Sensasi 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Astro_Sensasi_%28Dec_2024%29.png/960px-Astro_Sensasi_%28Dec_2024%29.png" group-logo="" group-title="Astro",Astro Sensasi 
 https://phdown.serv00.net/Smartv.php?id=Sensasi
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="" group-logo="" group-title="Astro",Astro Warna
-https://phdown.serv00.net/Smartv.php?id=Warna-0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Astro_Warna_%28Dec_2024%29.png" group-logo="" group-title="Astro",Astro Warna
+https://phdown.serv00.net/Smartv.php?id=Warna-O
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="" group-logo="" group-title="Unifi",Degup  
-https://phdown.serv00.net/Smartv.php?id=Degup
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="" group-logo="" group-title="Unifi",Pesona 
-https://phdown.serv00.net/Smartv.php?id=Pesona
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports" tvg-id="" tvg-name="",Astro Grandstand
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 ################################Vision+######################################
