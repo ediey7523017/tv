@@ -160,6 +160,20 @@ http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/111.ts
 #EXTINF:-1 tvg-id="816.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="Sports",SPOTV
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/110.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/MkG2hg.png" group-title="Sports",SPOTV2
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/15.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="Sports",BeIN Sports
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/18.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Astro",Astro Oasis
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/62.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="Astro",Astro Vaanavil
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/31.ts
+
+
 ################################Vision+######################################
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="Vision+" group-logo="https://www.visionplustv.id/_nuxt/img/logo-vision+.5bdc798.png",Rock Action (V+)
