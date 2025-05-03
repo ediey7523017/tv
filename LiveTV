@@ -146,16 +146,16 @@ http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/4648.ts
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/332.ts
 
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports",Astro Grandstand
-http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/112.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
 
 #EXTINF:-1 tvg-id="811.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports",Astro Premier League
-http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/114.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2696.ts
 
 #EXTINF:-1 tvg-id="812.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports",Astro Premier League 2
-http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/113.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2697.ts
 
 #EXTINF:-1 tvg-id="814.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports",Astro Football
-http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/111.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 
 #EXTINF:-1 tvg-id="816.astro" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Sports",Hub Premier
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/157015.m3u8
