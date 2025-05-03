@@ -157,6 +157,9 @@ http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/113.ts
 #EXTINF:-1 tvg-id="814.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports",Astro Football
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/111.ts
 
+#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Sports",Hub Premier
+http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/157015.m3u8
+
 #EXTINF:-1 tvg-id="816.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="Sports",SPOTV
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/110.ts
 
