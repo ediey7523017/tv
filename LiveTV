@@ -116,6 +116,11 @@ https://phdown.serv00.net/Smartv.php?id=Sensasi
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Astro_Warna_%28Dec_2024%29.png" group-logo="" group-title="Astro",Astro Warna
 https://phdown.serv00.net/Smartv.php?id=Warna-O
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Astro",Astro Oasis
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/62.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="Astro",Astro Vaanavil
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/31.ts
 
 #EXTINF:-1 tvg-id="132.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png" group-title="Sooka",DRAMA HEBAT
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
@@ -169,16 +174,12 @@ http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/15.ts
 #EXTINF:-1 tvg-id="Zee Cinema" ch-number="251" tvg-name="Zee Cinema" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png" group-title="Astro",Zee Cinema
 http://149.18.45.171:900/live/1103581436/4099381829/13031.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports" tvg-id="beINSports" tvg-name="beINSports", beIN Sports HD
-http://xtv.ooo:8080/live/danyear12/am809100/381330.ts
-http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/18.ts
 
+#EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="WORLD SPORTS", Dazn 1 
+http://tooontv.com:999/live/ere3444h/agape/188510.m3u
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Astro",Astro Oasis
-http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/62.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="Astro",Astro Vaanavil
-http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/31.ts
+#EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="WORLD SPORTS", Dazn 2 
+http://tooontv.com:999/live/ere3444h/agape/188511.m3u
 
 
 ################################Vision+######################################
