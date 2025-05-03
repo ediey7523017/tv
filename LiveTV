@@ -42,9 +42,6 @@ https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 #EXTINF:-1 group-title="siaranMy" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
-https://mifntechnology.github.io/siaranMy/channels/AlhijrahTV/index.m3u8
-
 #EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 
@@ -119,9 +116,12 @@ https://phdown.serv00.net/Smartv.php?id=Sensasi
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Astro_Warna_%28Dec_2024%29.png" group-logo="" group-title="Astro",Astro Warna
 https://phdown.serv00.net/Smartv.php?id=Warna-O
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Sports" tvg-id="" tvg-name="",Hub Premier 1
+http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/157015.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports" tvg-id="" tvg-name="",Astro Grandstand
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="Sports" tvg-id="" tvg-name="",Hub Premier 2
+http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/157017.m3u8
+
 
 
 ################################Vision+######################################
