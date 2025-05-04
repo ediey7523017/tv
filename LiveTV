@@ -103,6 +103,7 @@ https://phdown.serv00.net/Smartv.php?id=Prima-0
 
 #EXTINF:-1 tvg-id="108.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-logo="" group-title="Astro",Astro Citra  
 https://tinyurl.com/citrts0
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
 #EXTINF:-1 tvg-id="306.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-logo="" group-title="Astro",Astro AEC
 https://phdown.serv00.net/Smartv.php?id=AEC
@@ -160,13 +161,13 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/112.ts
 
 #EXTINF:-1 tvg-id="811.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports",Astro Premier League A
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2696.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2682.ts
 
 #EXTINF:-1 tvg-id="811.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports",Astro Premier League B
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/114.ts
 
 #EXTINF:-1 tvg-id="812.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports",Astro Premier League 2 A
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2697.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2683.ts
 
 #EXTINF:-1 tvg-id="812.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports",Astro Premier League 2 B
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/113.ts
