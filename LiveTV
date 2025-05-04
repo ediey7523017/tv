@@ -3,49 +3,49 @@
 
 ################################Mytv#########################################
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
+#EXTINF:-1 group-title="MyTV" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
+#EXTINF:-1 group-title="MyTV" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
+#EXTINF:-1 group-title="MyTV" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
 https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
+#EXTINF:-1 group-title="MyTV" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
+#EXTINF:-1 group-title="MyTV" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
+#EXTINF:-1 group-title="MyTV" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
 https://live-ssar-01.tonton.com.my/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
+#EXTINF:-1 group-title="MyTV" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
 https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
+#EXTINF:-1 group-title="MyTV" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
 https://live-ssar-01.tonton.com.my/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+#EXTINF:-1 group-title="MyTV" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
+https://mifntechnology.github.io/MyTV/channels/BeritaRTM/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
+#EXTINF:-1 group-title="MyTV" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
 https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
+#EXTINF:-1 group-title="MyTV" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
+#EXTINF:-1 group-title="MyTV" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
+#EXTINF:-1 group-title="MyTV" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
+#EXTINF:-1 group-title="MyTV" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
+#EXTINF:-1 group-title="MyTV" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 
 #EXTINF:-1 group-title="kids" tvg-id="CartoonNetwork " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork
@@ -122,6 +122,9 @@ http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/62.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="Astro",Astro Vaanavil
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/31.ts
 
+#EXTINF:-1 tvg-id="Zee Cinema" ch-number="251" tvg-name="Zee Cinema" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png" group-title="Movies",Zee Cinema
+http://149.18.45.171:900/live/1103581436/4099381829/13031.m3u8
+
 #EXTINF:-1 tvg-id="132.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png" group-title="Sooka",DRAMA HEBAT
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
@@ -150,35 +153,40 @@ http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/4648.ts
 #EXTINF:-1 tvg-id="804.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports",Astro Arena Bola 2
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/332.ts
 
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports",Astro Grandstand
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports",Astro Grandstand A
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
 
-#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports",Astro Premier League
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports",Astro Grandstand B
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/112.ts
+
+#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports",Astro Premier League A
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2696.ts
 
-#EXTINF:-1 tvg-id="812.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports",Astro Premier League 2
+#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports",Astro Premier League B
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/114.ts
+
+#EXTINF:-1 tvg-id="812.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports",Astro Premier League 2 A
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2697.ts
+
+#EXTINF:-1 tvg-id="812.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports",Astro Premier League 2 B
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/113.ts
 
 #EXTINF:-1 tvg-id="814.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports",Astro Football
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 
-#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Sports",Hub Premier
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Sports",Hub Premier
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/157015.m3u8
 
-#EXTINF:-1 tvg-id="816.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="Sports",SPOTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="Sports",SPOTV
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/110.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/MkG2hg.png" group-title="Sports",SPOTV2
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/15.ts
 
-#EXTINF:-1 tvg-id="Zee Cinema" ch-number="251" tvg-name="Zee Cinema" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png" group-title="Astro",Zee Cinema
-http://149.18.45.171:900/live/1103581436/4099381829/13031.m3u8
-
-
-#EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="WORLD SPORTS", Dazn 1 
+#EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="Sports", Dazn 1 
 http://tooontv.com:999/live/ere3444h/agape/188510.m3u
 
-#EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="WORLD SPORTS", Dazn 2 
+#EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="Sports", Dazn 2 
 http://tooontv.com:999/live/ere3444h/agape/188511.m3u
 
 
