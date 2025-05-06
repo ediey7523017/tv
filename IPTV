@@ -938,7 +938,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
 
-#EXTINF:-1 tvg-id="805.astro" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png",805 Astro Sports UHD ᵃˢᵗʳᵒ
+#EXTINF:-1 tvg-id="805.astro" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png",805 Astro Sports UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -965,22 +965,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
 
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports",810 Astro Grandstand
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/BeaeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ4ODg0MTksImlzcyI6IlZSIiwiZXhwIjoxNzQ0OTI5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDcifQ.7Z2gy5UZPo1KGW2oSd611tAmJl0Qy0NrH7NnAXNlv9o5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"505aefcda9084f83bc5c6cc53f0ef9c6":"f89898184ed921e225cd89f4d2ea1035","66c94fd8908c43ccb5e7b3dd58a990d2":"d489da5a8496d00a04757d432816ab71"}
-https://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY0MjgxMjQsImlzcyI6IlZSIiwiZXhwIjoxNzQ2NDg0MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZDJkNzc3YWItODc2OC00OGJlLWI3ZmEtYjFiMjdjNDY5MzMzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.B3paLNEeTzFwbLvSt8QpUrkXncA6uU8ruxwfLGOG_UA
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-id="811.astro" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",811 Astro Premier League  
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/BeaeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ4ODg0MTksImlzcyI6IlZSIiwiZXhwIjoxNzQ0OTI5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDcifQ.7Z2gy5UZPo1KGW2oSd611tAmJl0Qy0NrH7NnAXNlv9o5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
-https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY0MjgxMjQsImlzcyI6IlZSIiwiZXhwIjoxNzQ2NDg0MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZDJkNzc3YWItODc2OC00OGJlLWI3ZmEtYjFiMjdjNDY5MzMzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.B3paLNEeTzFwbLvSt8QpUrkXncA6uU8ruxwfLGOG_UA
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="812.astro" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",812 Astro Premier League 2
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/استخدم هذا الرمز للوصول إلى القنوات. احتفظ به آمنًا ولا تشاركه مع أي شخص; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/BeaeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ4ODg0MTksImlzcyI6IlZSIiwiZXhwIjoxNzQ0OTI5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDcifQ.7Z2gy5UZPo1KGW2oSd611tAmJl0Qy0NrH7NnAXNlv9o5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
-https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY0MjgxMjQsImlzcyI6IlZSIiwiZXhwIjoxNzQ2NDg0MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZDJkNzc3YWItODc2OC00OGJlLWI3ZmEtYjFiMjdjNDY5MzMzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.B3paLNEeTzFwbLvSt8QpUrkXncA6uU8ruxwfLGOG_UA
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-id="813.astro" group-title="Sports" tvg-logo="https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp",813 Astro PremierLeague 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
