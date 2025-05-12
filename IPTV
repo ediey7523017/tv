@@ -365,7 +365,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live05.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2E0MDgyMmYtMzFkNi0zYWFkLTgyODYtZTA5MDFiNjUyNmZh
-#EXTINF:-1 tvg-id="708.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202409/20240930/20240930160227557ix6.png" group-logo="" group-title="",708 beIN SPORTS 1 ᵘⁿⁱᶠⁱ
+#EXTINF:-1 tvg-id="708.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202409/20240930/20240930160227557ix6.png" group-logo="" group-title="Unifi TV",708 beIN SPORTS 1 ᵘⁿⁱᶠⁱ
 https://unifi-live13.secureswiftcontent.com/UnifiHD/live13.mpd
 
 
