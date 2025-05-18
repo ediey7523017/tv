@@ -1355,7 +1355,7 @@ http://202.147.193.244/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
 //Collected by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2024
 //========================================================================
 
-#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042577X0-portrait.jpg",Louder: The Soundtrack Of Change 2024
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" group-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/HBO_GO_%28Alternative%29.svg/revision/latest?cb=20210617024604" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042577X0-portrait.jpg",Louder: The Soundtrack Of Change 2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
