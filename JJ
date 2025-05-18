@@ -1355,7 +1355,7 @@ http://202.147.193.244/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
 //Collected by @mimipipi22 menampilkan playlist >>> HBOGO Asia 2024
 //========================================================================
 
-#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042577X0-portrait.jpg" group-logo="https://logovtor.com/wp-content/uploads/2020/05/hbo-go-logo-vector.png",Louder: The Soundtrack Of Change 2024
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042577X0-portrait.jpg" group-logo="https://snworksceo.imgix.net/enn/fbd64cff-8924-48aa-88ab-2a5beb401e64.sized-1000x1000.png",Louder: The Soundtrack Of Change 2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
