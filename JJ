@@ -105,6 +105,9 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="Awesome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MY Freeview",Awesome TV
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
+
 #EXTINF:-1 group-title="MY Freeview" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",BERITA RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 
