@@ -663,6 +663,7 @@ https://l12.dp.sooka.my/5175/linear/index.mpd
 
 
 
+
 #EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lhx3Q44RHyCr09uW+Izf0g", "kid":"eUhI2HjhD6sgkFnA5pQgEA" } ], "type":"temporary" }
@@ -685,7 +686,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="105.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-logo="" group-title="ASTRO",Prima
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1000/default_ott.mpd
+https://mt02.aa.astro.com.my/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="803.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-logo="" group-title="ᴴᴰ",Arena Bola
+https://mt24.aa.astro.com.my/default_ott.mpd
+
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"51Fl04uQlWfAM1OuSye2+A", "kid":"AesRaCCJQPiycLTgmUVw5w" },{ "kty":"oct", "k":"jacsqFAaTetL/Dgf4XN+9A", "kid":"BighV9pOj5diOnDtAX+tEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="306.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAEC_2024.png" group-logo="" group-title="ᴴᴰ",AEC
+https://mt13.aa.astro.com.my/default_ott.mpd
 
 #EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -752,4 +766,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="",Active 0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
+
+
+
+
 
