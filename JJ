@@ -30,7 +30,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="DramaHotspot" group-title="Sooka" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",Drama Hotspot
+#EXTINF:-1 tvg-id="DramaHotpot" group-title="Sooka" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",Drama Hotpot
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -66,7 +66,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hl
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Sooka" tvg-id="FreeMovie" tvg-logo="https://i.ibb.co/X4rJ0fR/Free-Movie.png",Free Movie
+#EXTINF:-1 group-title="Sooka" tvg-id="FreeMovies" tvg-logo="https://i.ibb.co/X4rJ0fR/Free-Movie.png",Free Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -80,7 +80,7 @@ https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Sooka" tvg-id="JellyJamWorld" tvg-logo="https://i.ibb.co/5vqTbN5/Jelly-Jam-World.png",Jelly Jam World
+#EXTINF:-1 group-title="Sooka" tvg-id="JellyJammWorld" tvg-logo="https://i.ibb.co/5vqTbN5/Jelly-Jam-World.png",Jelly Jamm World
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-jellyjam-astro-sooka/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
