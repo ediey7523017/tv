@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" refresh="1440" vod_library="https://raw.githubusercontent.com/ediey7523017/tv/main/HBOGO,https://raw.githubusercontent.com/ediey7523017/tv/main/XFirst,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://raw.githubusercontent.com/ediey7523017/tv/main/DewaNonton,https://raw.githubusercontent.com/ediey7523017/tv/main/AOTG,https://raw.githubusercontent.com/ediey7523017/tv/main/PerfectMovies" billed-msg="JJ EDIEY 87 Editor"
 
-###########################################################################Astro######################################################################################
+###########################################################Astro########################################################################
 
 ###EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Astro_XiLele.png/revision/latest?cb=20250211094733",100 XiLele
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9,13 +9,13 @@
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png" group-title="Astro",100 Scream
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
+###EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png" group-title="Astro",100 Scream
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
 
-#EXTINF:-1 tvg-id="101.astro" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/150px-Logo_of_TV1_%28Malaysia%29.svg.png" group-logo="",101 TV1
+#EXTINF:-1 tvg-id="101.astro" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/150px-Logo_of_TV1_%28Malaysia%29.svg.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -132,7 +132,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
-###########################################################################Sooka###################################################################################
+###############################################################Sooka####################################################################
 
 #EXTINF:-1 tvg-id="OhMyCeria" group-title="Sooka" group-logo="https://i.ibb.co/GQqLk6kH/Sooka.png" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria! 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -219,7 +219,7 @@ https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/pla
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
 
 
-###########################################################################Unifi TV###################################################################################
+###########################################################Unifi TV####################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
@@ -346,7 +346,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live05.mpd
 https://unifi-live13.secureswiftcontent.com/UnifiHD/live13.mpd
 
 
-###########################################################################Indian###################################################################################
+###########################################################Indian#####################################################################
 
 #EXTINF:-1 tvg-id="201.astro" group-title="Indian" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_indian-favourites.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",201 Astro Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -421,7 +421,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
 
-###########################################################################Chinese######################################################################################
+#############################################################Chinese####################################################################
 
 #EXTINF:-1 tvg-id="300.astro" group-title="Chinese" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_chinese-favourites.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -520,7 +520,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 
 
-###########################################################################Asian Favorites###################################################################################
+#########################################################Asian Favorites################################################################
 
 #EXTINF:-1 tvg-id="392.astro" group-title="Asian Favorites" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_asian-favourites.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",392 KBS World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -573,7 +573,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 ###https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
-###########################################################################Movies###################################################################################
+###########################################################Movies#######################################################################
 
 #EXTINF:-1 tvg-id="241.astro" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_movies.png",241 Astro Thangathirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -697,7 +697,7 @@ https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 
-####################################################################News & Documentary##############################################################################
+#######################################################News & Documentary#############################################################
 
 #EXTINF:-1 tvg-id="501.astro" group-title="News & Documentary" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_news-documentaries.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/200px-Astro_Awani.png",501 Astro Awani HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -827,7 +827,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 
 
-############################################################################Kids####################################################################################
+#############################################################Kids#######################################################################
 
 #EXTINF:-1 tvg-id="603.astro" group-title="Kids" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_kids.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png",603 Astro Tutor TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -908,7 +908,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
 
-############################################################################Variety###################################################################################
+###########################################################Variety#####################################################################
 
 #EXTINF:-1 tvg-id="701.astro" group-title="Variety" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_variety.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",701 AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -989,7 +989,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
 
-############################################################################Sports###################################################################################
+############################################################Sports#####################################################################
 
 #EXTINF:-1 tvg-id="801.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_sports.png" group-title="Sports",801 Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1187,7 +1187,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
-########################################Astro Radio#################################################
+#########################################################Astro Radio####################################################################
 
 #EXTINF:-1 group-title="Astro ʳᵃᴰⁱᵒ" tvg-id="852.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppvO6.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Astro_radio.svg/1200px-Astro_radio.svg.png",HITZ FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1346,7 +1346,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
 
 
-########################################################################Radio#########################################################################################
+##############################################################Radio####################################################################
 
 
 #EXTINF:-1 group-title="Radio" radio="true"  tvg-id="HITZ"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
