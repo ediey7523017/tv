@@ -69,7 +69,7 @@ https://haoyunlai.serv00.net/Smartv.php?id=Warna-O
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://get.perfecttv.net/astro_master.mpd?channel=astrocitra&username=vip_level7&password=vip_level7
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/413HtMT_ihEenIVn7lK1FJZgG5wT4WhO-0euIXfsGJFRA=JEZ7/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=0a5b9ba5-4f7e-4b3c-b208-045e73cca2d1
+https://haoyunlai.serv00.net/Smartv.php?id=Citra-0
 
 #EXTINF:-1 tvg-id="112.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -360,7 +360,8 @@ https://unifi-live13.secureswiftcontent.com/UnifiHD/live13.mpd
 #KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://get.perfecttv.net/astro_master.mpd?channel=astrovaanavil&username=vip_level7&password=vip_level7
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+https://haoyunlai.serv00.net/Smartv.php?id=Vaanavil
 
 #EXTINF:-1 tvg-id="202.astro" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -447,7 +448,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
+https://haoyunlai.serv00.net/Smartv.php?id=AEC
 
 #EXTINF:-1 tvg-id="308.astro" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro QJ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
