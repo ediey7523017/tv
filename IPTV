@@ -69,7 +69,7 @@ https://haoyunlai.serv00.net/Smartv.php?id=Warna-O
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://get.perfecttv.net/astro_master.mpd?channel=astrocitra&username=vip_level7&password=vip_level7
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
-https://mt05.aa.astro.com.my/linears2-playback.astro.com.my/vsg/413HtMT_ihEenIVn7lK1FJZtwqtn3NHfHjmdtoWKWthwo=GKEy/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/413HtMT_ihEenIVn7lK1FJZtwqtn3NHfHjmdtoWKWthwo=GKEy/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-id="112.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
