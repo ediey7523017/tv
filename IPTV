@@ -1618,7 +1618,7 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-logo="https://i.imgur.com/OjVzvfx.png?v=1.0.0.1" group-title="FirstMediaX",Zee Bioskop
+#EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Zee_Bioskop_%282025%29.svg/revision/latest/scale-to-width-down/300?cb=20250608070019" group-title="FirstMediaX",Zee Bioskop
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
