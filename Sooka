@@ -738,14 +738,18 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-hls-sooka/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="HorseandCountry" group-title="Sooka" tvg-logo="https://i.imgur.com/1x6zYZr.png",Horse & Country TV
-https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WeDoTVBigStories" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/c2927cWD_Big_Stories.png",WeDoTV Big Stories
 https://amg00735-amg00735c19-astrosooka-singapore-6038.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedobigstories-astrosookasingapore/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeDoTVMovies" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/647577WD_Movies.png",WeDoTV Movies
 https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WeDoTVAmor" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e09eceWD_Amor.png",WeDoTV Amor
+https://amg00735-amg00735c15-astrosooka-singapore-6039.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-astrosookasingapore/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WeDoTVSports" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/257dcfWD_Sports.png",WeDoTV Sports
 https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-astrosookasingapore/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseandCountry" group-title="Sooka" tvg-logo="https://i.imgur.com/1x6zYZr.png",Horse & Country TV
+https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8ookasingapore/playlist.m3u8
+
