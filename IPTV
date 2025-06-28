@@ -65,7 +65,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://haoyunlai.serv00.net/Smartv-1.php?id=Warna
+http://lzoq.serv00.net/daili/Smartv.php?id=Warna-O
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="108.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",108 Astro Citra
@@ -110,7 +110,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://haoyunlai.serv00.net/Smartv-1.php?id=Sensasi
+http://lzoq.serv00.net/daili/Smartv.php?id=Sensasi
 ###http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 tvg-id="146.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", 146 TV Okey
@@ -366,6 +366,7 @@ https://unifi-live13.secureswiftcontent.com/UnifiHD/live13.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://get.perfecttv.net/astro_master.mpd?channel=astrovaanavil&username=vip_level7&password=vip_level7
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+http://lzoq.serv00.net/daili/Smartv.php?id=Vaanavil
 https://linears2-playback.astro.com.my/vsg/41kh1nfIyxoNY7CMBsuPCOSR7p9HQ9-RG3gmswQ3ABvwo=zGLs/dash-wv/jitp-dashisowm/2309/default_primary.mpd
 
 #EXTINF:-1 tvg-id="202.astro" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen
