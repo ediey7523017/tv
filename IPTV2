@@ -126,6 +126,12 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Awesome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MY Freeview",Awesome TV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Selangor TV" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="MY Freeview",Selangor TV
+https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1753277382-34de4c5591d64a54b882013b2fe4ed2d-0-09db429dfdef44301cd38f0befe3c0a0&amp;token=1753277382-34de4c5591d64a54b882013b2fe4ed2d-0-09db429dfdef44301cd38f0befe3c0a0
+
+#EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://suketv.com/sitepad-data/uploads/2023/06/STV_WHITE-LOGO.png" group-title="MY Freeview",Suke TV
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1753277359-65bbb1bb37274e0884c99d600a13fa7d-0-c6d33500ef97667c646605235b7ff253&amp;token=1753277359-65bbb1bb37274e0884c99d600a13fa7d-0-c6d33500ef97667c646605235b7ff253
+
 #EXTINF:-1 group-title="MY Freeview" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",BERITA RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 
