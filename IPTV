@@ -286,7 +286,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1753277382-34de4c5591d64a54b882013b2fe4ed2d-0-09db429dfdef44301cd38f0befe3c0a0&amp;token=1753277382-34de4c5591d64a54b882013b2fe4ed2d-0-09db429dfdef44301cd38f0befe3c0a0
 
 #EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://suketv.com/sitepad-data/uploads/2023/06/STV_WHITE-LOGO.png" group-title="MY Freeview",Suke TV
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1753277359-65bbb1bb37274e0884c99d600a13fa7d-0-c6d33500ef97667c646605235b7ff253&amp;token=1753277359-65bbb1bb37274e0884c99d600a13fa7d-0-c6d33500ef97667c646605235b7ff253
+https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1753411684-deda67e44f4c43aca0ac23dae874625a-0-d81ddd7d46cf5228c53e3bf16586ef88&amp;auth_key=1753411684-deda67e44f4c43aca0ac23dae874625a-0-e9f2b4caab845cdeaf649a12178d2845
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",BERITA RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
