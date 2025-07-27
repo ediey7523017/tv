@@ -83,7 +83,7 @@ http://lzoq.serv00.net/daili/Smartv.php?id=Warna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 ###https://get.perfecttv.net/astro_master.mpd?channel=astrocitra&username=vip_level7&password=vip_level7
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41MgP8xcDuTzecD_Hk2nh2KA6G0CrSi6rBRX0V2lX8QOs=VrlG/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=80190e7d-b912-4b59-b916-38f12cd6af69
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41MgP8xcDuTzecD_Hk2nh2KASVVpaCCTOIZiIXpuSHNGU=SWKQ/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=d37b823a-7154-4822-b28d-1eb51746bb20
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Astro",Citra Movies
