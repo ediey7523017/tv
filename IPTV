@@ -288,7 +288,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 #EXTINF:-1 tvg-id="" tvg-name="Selangor TV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png" group-title="MY Freeview",Selangor TV
 https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1753781860-ebc2c01ae1234fd7bfd718ee74d97bd4-0-55893ede1869c5e9b6edfa46162002b1&amp;token=1753781860-ebc2c01ae1234fd7bfd718ee74d97bd4-0-55893ede1869c5e9b6edfa46162002b1
 
-#EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://suketv.com/sitepad-data/uploads/2023/06/STV_WHITE-LOGO.png" group-title="MY Freeview",Suke TV
+#EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MY Freeview",Suke TV
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1753781839-7f182c5a7b9440fb9a2d4a58295e28da-0-e12f5f31e0690711541afc4e85449dff&amp;token=1753781839-7f182c5a7b9440fb9a2d4a58295e28da-0-e12f5f31e0690711541afc4e85449dff
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",BERITA RTM
