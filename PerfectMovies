@@ -192,16 +192,10 @@ https://get.perfecttv.net/sonyliv.mpd?video_id=1000231233&content_id=505555857
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000176017&content_id=505555857
 
 
-###################################VOD INDIA################################
-
-#EXTINF:-1 tvg-id="" tvg-name="1416-Darlings (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyA7kXCIAG17hVuvFOxlMmmv31A.jpg" group-title="▶ VOD INDIA",1416-Darlings (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4507.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1418-Mandela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9A7nv8ac8VrXDt6tgu4UXi2zAq.jpg" group-title="▶ VOD INDIA",1418-Mandela (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4508.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1414-The Goat Life (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwRkVhvJuAFz4i8udXMNkcJCztc.jpg" group-title="▶ VOD INDIA",1414-The Goat Life (2024)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1413-Crew (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mnCtQngfhYt0W0BmkrCePutmvy.jpg" group-title="▶ VOD INDIA",1413-Crew (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4510.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1383-Salaar: Part 1 - Ceasefire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G1C677cokQKFHbUKG9sVlIGOiX.jpg" group-title="▶ VOD INDIA",1383-Salaar: Part 1 - Ceasefire (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4512.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1358-Crakk: Jeetega... Toh Jiyegaa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmrjo8M4rm6NhkBKk20wDSj91go.jpg" group-title="▶ VOD INDIA",1358-Crakk: Jeetega... Toh Jiyegaa (2024)
@@ -212,10 +206,6 @@ http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4517.mp4
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4518.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1251-Chandramukhi 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OT9dFROPL4t53tt3WQ4rl033zC.jpg" group-title="▶ VOD INDIA",1251-Chandramukhi 2 (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1243-Jawan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igPVDl7X2WNYBnvnC0O0oQKXSpF.jpg" group-title="▶ VOD INDIA",1243-Jawan (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1224-OMG 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kApiO3oL6t100aCtkcwEhk2kqgK.jpg" group-title="▶ VOD INDIA",1224-OMG 2 (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4521.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1207-Pizza 3: The Mummy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AozhsNFfa5Qn2ETztnhpALmlWIy.jpg" group-title="▶ VOD INDIA",1207-Pizza 3: The Mummy (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4522.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1206-Spy (2023)" tvg-logo="https://i.ibb.co/ngf67Jm/1695351461294.png" group-title="▶ VOD INDIA",1206-Spy (2023)
@@ -238,12 +228,6 @@ http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4531.mp4
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4532.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1293-Theri (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6BhexotEqO3GejXa3FopBNGL6M.jpg" group-title="▶ VOD INDIA",1293-Theri (2016)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1502-Dil To Pagal Hai (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HKUrZZbXnwCM4129fPlgHEg0eG.jpg" group-title="▶ VOD INDIA",1502-Dil To Pagal Hai (1997)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1352-PK (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg" group-title="▶ VOD INDIA",1352-PK (2014)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 Idiots (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66A9MqXOyVFCssoloscw79z8Tew.jpg" group-title="▶ VOD INDIA",3 Idiots (2009)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4536.mp4
 #EXTINF:-1 tvg-id="" tvg-name="936-Cuttputlli (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVQweL2bdoTlmrVYbcicZQ5VcNP.jpg" group-title="▶ VOD INDIA",936-Cuttputlli (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4537.mp4
 #EXTINF:-1 tvg-id="" tvg-name="921-Vikram (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg" group-title="▶ VOD INDIA",921-Vikram (2022)
@@ -264,8 +248,6 @@ http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4544.mp4
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4545.mp4
 #EXTINF:-1 tvg-id="" tvg-name="907-Bhoot Police (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sysjlCKktlf0t0Ck4ArVNo1kai.jpg" group-title="▶ VOD INDIA",907-Bhoot Police (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="906-Bell Bottom (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSY5LBwNdpMReaZjGBbcB1kvrHU.jpg" group-title="▶ VOD INDIA",906-Bell Bottom (2021)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4547.mp4
 #EXTINF:-1 tvg-id="" tvg-name="905-Narappa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEZDTXGoTsw9cLzLii6NUIuvpQ6.jpg" group-title="▶ VOD INDIA",905-Narappa (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4548.mp4
 #EXTINF:-1 tvg-id="" tvg-name="904-Malik (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLSOpgy8K7UEjFZTTCmRXsBBJNo.jpg" group-title="▶ VOD INDIA",904-Malik (2021)
@@ -274,9 +256,7 @@ http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4549.mp4
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4550.mp4
 
 
-
 ####################################VOD BOLLYWOOD#####################################
-
 
 #EXTINF:-1 tvg-id="b999" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/970/255970-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD", BOLLYWOOD - Khiladi 786
 #KODIPROP:inputstream=inputstream.adaptive
@@ -389,13 +369,6 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=0c3d61bfaab64963a2258a3abfb16e7b:469bb1cfb32d55b3e2f10bccdc8fcf2f
 https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b982
 
-
-#EXTINF:-1 tvg-id="b981" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/621/253621-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD", BOLLYWOOD - Devdas
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2cfdcec9a8d4ca0bd8140275ffddfbc:e879def0a9b117f4b7d6cdf7b10b5fba
-https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b981
-
 #EXTINF:-1 tvg-id="b980" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/587/253587-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD", BOLLYWOOD - Love Possible
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -499,20 +472,34 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=3638803092fa4a678db9e9281d29b3fb:124f602681e7b8b55494a538aee51035
 https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b964
 
-#EXTINF:-1 tvg-id="" tvg-name="Maharaj (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9o8LxGL4YHZKxPrF94Vm1jGuPi.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Maharaj (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2442.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="1452-Ishq (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38xVYSuVXIJS1iyEaRm8wtjotZB.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Ishq (1997)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4551.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1451-Josh (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epulB8WC1mGIEFJPZr50LVCKt6k.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Josh (2000)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1228-Duplicate (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Duplicate (1998)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1227-Baadshah (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXGeUIbEfgO3cfHuYuPkXnKVt43.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Baadshah (1999)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4554.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1204-Rab Ne Bana Di Jodi (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Rab Ne Bana Di Jodi (2008)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4555.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1028-Billu (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWKskigmvBow3uOP4RPQOIaUux.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Billu (2009)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1243-Jawan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igPVDl7X2WNYBnvnC0O0oQKXSpF.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Jawan (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1224-OMG 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kApiO3oL6t100aCtkcwEhk2kqgK.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - OMG 2 (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1502-Dil To Pagal Hai (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HKUrZZbXnwCM4129fPlgHEg0eG.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Dil To Pagal Hai (1997)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1352-PK (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - PK (2014)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Idiots (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66A9MqXOyVFCssoloscw79z8Tew.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - 3 Idiots (2009)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1416-Darlings (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyA7kXCIAG17hVuvFOxlMmmv31A.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Darlings (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1413-Crew (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mnCtQngfhYt0W0BmkrCePutmvy.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Crew (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="906-Bell Bottom (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSY5LBwNdpMReaZjGBbcB1kvrHU.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Bell Bottom (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maharaj (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9o8LxGL4YHZKxPrF94Vm1jGuPi.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Maharaj (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2442.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk3MTU5MDA3OF5BMl5BanBnXkFtZTgwODM3MzY2MzE@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Dilwale Dulhania Le Jayenge (1995)
 https://www.dropbox.com/scl/fi/4ye7ehgpfaqxo1mvhytx6/Dilwale-Dulhania-Le-Jayenge-1995.mp4?rlkey=5suj3447udseec6ycc718wtnp&st=40372m3v&dl=1
@@ -559,8 +546,18 @@ https://www.dropbox.com/scl/fi/1k56h6k62ej8l6hphfewl/Chennai-Express-2013.mp4?rl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwMDkzNTA1OF5BMl5BanBnXkFtZTgwMjU1NjA3MTE@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Heropanti (2014)
 https://www.dropbox.com/scl/fi/5u09m9b1eb418x1x7w312/Heropanti-2014.mp4?rlkey=pingoq6vnetg3o1ykj4l7smbt&st=wc8a2kxb&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="1228-Duplicate (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Duplicate (1998)
+https://www.dropbox.com/scl/fi/di36k0875ofv2q1jqiv5o/Duplicate-1998.mp4?rlkey=trc7t0je4ylnj3uyd9zj3qq0g&st=y8aq8f0p&dl=1
 
-#########################VOD NETFLIX###################################
+#EXTINF:-1 tvg-id="" tvg-name="1227-Baadshah (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXGeUIbEfgO3cfHuYuPkXnKVt43.jpg" group-title="▶ VOD BOLLYWOOD",BOLLYWOOD - Baadshah (1999)
+https://www.dropbox.com/scl/fi/9fshcobro4o5ly7hpgcvc/Baadshah-1999.mp4?rlkey=nb7690yx6wka126thavaqcpfy&st=21wu7idq&dl=1
+
+#EXTINF:-1 tvg-id="b981" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/621/253621-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD", BOLLYWOOD - Devdas (2002)
+https://www.dropbox.com/scl/fi/nagx9piqyvat3k8jcw4fr/Devdas-2002.mp4?rlkey=q878xtjrelj89w5j35ujv8ysh&st=gqbmtvhu&dl=1
+
+
+
+################################VOD NETFLIX###################################
 
 #EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019) N2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="▶ VOD NETFLIX",6 Underground (2019) N2
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2400.mp4
