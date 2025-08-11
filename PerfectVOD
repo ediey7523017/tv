@@ -1748,6 +1748,16 @@ https://cloud.hownetwork.xyz/xxx/5ea0c7b7bd63976799be187ce1fdab0d/11/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Pirates of the Caribbean 5 Dead Men Tell No Tales (2017)
 https://cloud.hownetwork.xyz/xxx/304021506ac502b0d9f226bd60109d2f/11/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Maze Runner (2014)
+https://cloud.hownetwork.xyz/xxx/c726acfb5c3fd827592596cc2433fe9a/5/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Maze Runner The Scorch Trials (2015)
+https://cloud.hownetwork.xyz/xxx/1ec222f0b01cecd7460a7353db4c2a44/5/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_.jpg" group-title="▶ VOD ENGLISH",Maze Runner The Death Cure (2018)
+https://cloud.hownetwork.xyz/xxx/6d1e0657e5133fecd92a20cba7d9cdc1/5/480.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="934-Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="▶ VOD ENGLISH",934-Top Gun: Maverick (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/3727.mp4
 #EXTINF:-1 tvg-id="" tvg-name="978-Black Warrant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7vFFZHbDyxfjuYKzJwruTnwwjT.jpg" group-title="▶ VOD ENGLISH",978-Black Warrant (2023)
