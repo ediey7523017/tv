@@ -278,10 +278,16 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Selangor TV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png" group-title="MY Freeview",Selangor TV
-https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1753781860-ebc2c01ae1234fd7bfd718ee74d97bd4-0-55893ede1869c5e9b6edfa46162002b1&amp;token=1753781860-ebc2c01ae1234fd7bfd718ee74d97bd4-0-55893ede1869c5e9b6edfa46162002b1
+https://live.mana2.my/SelangorTv/tracks-v2a1/mono.m3u8?token=1755256606-926a03f91eae4e0aa92bc4f7ea50116e-0-2fc9577f59f4fad36a7728831ebeaeb1&auth_key=1755256606-926a03f91eae4e0aa92bc4f7ea50116e-0-cabeca945a2401cf69399f0fd0a18d75
 
 #EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MY Freeview",Suke TV
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1753781839-7f182c5a7b9440fb9a2d4a58295e28da-0-e12f5f31e0690711541afc4e85449dff&amp;token=1753781839-7f182c5a7b9440fb9a2d4a58295e28da-0-e12f5f31e0690711541afc4e85449dff
+https://vod.mana2.my/SukeTv/tracks-v1a1/index-1755234000-1800.m3u8?token=1755256442-c30c9e5e568344faabe3af1bf48a2df9-0-4272b041089a006355dd61966cfd0514&auth_key=1755256442-c30c9e5e568344faabe3af1bf48a2df9-0-1842c45a6353afeca88ca9fb34a7e6ee
+
+#EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Enjoy_TV5.png" group-title="MY Freeview",Enjoy TV5
+https://live.mana2.my/Tv5/tracks-v1a1/mono.m3u8?token=1755256328-a0e5db88ca3d4572b38c38c1387028da-0-fb4323bddcae97ee239072ea427ae949&auth_key=1755256328-a0e5db88ca3d4572b38c38c1387028da-0-d38d31a2aef14811069e15d6935e6b6c
+
+#EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/npdqkp.png" group-title="MY Freeview",Borneo TV
+https://live.mana2.my/BorneoTv/tracks-v2a1/mono.m3u8?token=1755256388-65ee10a278994d84b20b5fc23531ef64-0-011b62ab1b0ee397c4de46555390711f&auth_key=1755256388-65ee10a278994d84b20b5fc23531ef64-0-ce6f8c12493c72ae9715b727b20d0243
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",BERITA RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
