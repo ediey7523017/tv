@@ -642,6 +642,9 @@ https://cloud.hownetwork.xyz/xxx/ebe41347bd2cf99ccd937cf644d358e4/6/480.m3u8
 
 ################################VOD NETFLIX###################################
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD NETFLIX",Mission Impossible The Final Reckoning (2025)
+https://cdn150.teifanc.com/data/0/32/68a287e943323/68a287e943323720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019) N2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="▶ VOD NETFLIX",6 Underground (2019) N2
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2400.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Family Affair (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg" group-title="▶ VOD NETFLIX",A Family Affair (2024)
