@@ -278,16 +278,16 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Selangor TV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png" group-title="MY Freeview",Selangor TV
-https://live.mana2.my/SelangorTv/tracks-v2a1/mono.m3u8?token=1755256606-926a03f91eae4e0aa92bc4f7ea50116e-0-2fc9577f59f4fad36a7728831ebeaeb1&auth_key=1755256606-926a03f91eae4e0aa92bc4f7ea50116e-0-cabeca945a2401cf69399f0fd0a18d75
+https://live.mana2.my/SelangorTv/tracks-v2a1/mono.m3u8?token=1755493119-e7501a736133467aa9ff2af7e39f06d5-0-402550358e3efe89c8867e9d385ef38d&auth_key=1755493119-e7501a736133467aa9ff2af7e39f06d5-0-140bb58d99b47f2b537376d542a92d43
 
 #EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MY Freeview",Suke TV
-https://vod.mana2.my/SukeTv/tracks-v1a1/index-1755234000-1800.m3u8?token=1755256442-c30c9e5e568344faabe3af1bf48a2df9-0-4272b041089a006355dd61966cfd0514&auth_key=1755256442-c30c9e5e568344faabe3af1bf48a2df9-0-1842c45a6353afeca88ca9fb34a7e6ee
+https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1755493069-62324c1ccbfa44b28db6535aebc2802b-0-5e164755eed4f646cce40ecc456360ff&auth_key=1755493069-62324c1ccbfa44b28db6535aebc2802b-0-5275c5614a9f2871e9b4c7813689b925
 
 #EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Enjoy_TV5.png" group-title="MY Freeview",Enjoy TV5
-https://live.mana2.my/Tv5/tracks-v1a1/mono.m3u8?token=1755256328-a0e5db88ca3d4572b38c38c1387028da-0-fb4323bddcae97ee239072ea427ae949&auth_key=1755256328-a0e5db88ca3d4572b38c38c1387028da-0-d38d31a2aef14811069e15d6935e6b6c
+https://live.mana2.my/Tv5/tracks-v1a1/mono.m3u8?token=1755492963-2c25002aa33d4f1d80a425f117377749-0-63659daca2bdadf355542677d63bf44d&auth_key=1755492963-2c25002aa33d4f1d80a425f117377749-0-88d04856317f3207f7d788cf77e896b0
 
-#EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/npdqkp.png" group-title="MY Freeview",Borneo TV
-https://live.mana2.my/BorneoTv/tracks-v2a1/mono.m3u8?token=1755256388-65ee10a278994d84b20b5fc23531ef64-0-011b62ab1b0ee397c4de46555390711f&auth_key=1755256388-65ee10a278994d84b20b5fc23531ef64-0-ce6f8c12493c72ae9715b727b20d0243
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/npdqkp.png" group-title="MY Freeview",Borneo TV
+https://live.mana2.my/BorneoTv/tracks-v2a1/mono.m3u8?token=1755493173-e65406fd0a6d4ca087e571a4a8f58cdb-0-f15f67229d53e2be8edb7389059e5b25&auth_key=1755493173-e65406fd0a6d4ca087e571a4a8f58cdb-0-ce159a1af83279643b4091daee83cc92
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",BERITA RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
