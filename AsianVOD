@@ -1,0 +1,231 @@
+#EXTM3U url=""
+
+
+###############################################################▶ VOD iQiyi##########################################
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sinkhole" tvg-logo="https://pic7.iqiyipic.com/image/20220514/7f/ee/v_167187233_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",Sinkhole
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lost Destiny (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240924/c1/01/v_176549722_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",Lost Destiny (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mystery of Jade (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240410/8f/36/v_175795330_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Mystery of Jade (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SWAT: Angels in Mission (2024)" tvg-logo="https://pic6.iqiyipic.com/image/20241007/61/1b/v_178440410_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",SWAT: Angels in Mission (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Unbelievable" tvg-logo="https://pic4.iqiyipic.com/image/20220527/83/06/v_167585812_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",The Unbelievable
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wolf Hiding (2023)" tvg-logo="https://pic4.iqiyipic.com/image/20240311/45/66/v_175601840_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",Wolf Hiding (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Water Monster 2 (2021)" tvg-logo="https://pic9.iqiyipic.com/image/20210826/ce/8f/v_161583210_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Water Monster 2 (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="986-TOMB GUARDING MAN (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240802/ba/99/v_177390532_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",986-TOMB GUARDING MAN (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Zombies (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240524/f3/68/v_176369938_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Zombies (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Wicked Wife (2022)" tvg-logo="https://pic7.iqiyipic.com/image/20220615/48/a4/v_167699193_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Wicked Wife (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Vindicator (1986)" tvg-logo="https://pic2.iqiyipic.com/image/20200806/ff/2e/v_150990887_m_601_zh-CN_720_405.jpg" group-title="▶ VOD iQiyi",The Vindicator (1986)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The River (1984)" tvg-logo="https://pic2.iqiyipic.com/image/20240308/c9/94/v_172271830_m_601_en_m3_720_405.jpg" group-title="▶ VOD iQiyi",The River (1984)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Queen of Kung Fu (2021)" tvg-logo="http://pic7.iqiyipic.com/image/20210607/c3/2b/v_150114725_m_601_en_m4_720_405.jpg" group-title="▶ VOD iQiyi",The Queen of Kung Fu (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Queen of Kung Fu 2 (2021)" tvg-logo="https://pic3.iqiyipic.com/image/20210523/c1/cc/v_159310492_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",The Queen of Kung Fu 2 (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Queen of Kung Fu 3 (2022)" tvg-logo="https://pic5.iqiyipic.com/image/20220804/15/33/v_168546693_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Queen of Kung Fu 3 (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mystic Nine Side Story: Four Belongs to Abelmoschus (2016)" tvg-logo="https://pic6.iqiyipic.com/image/20200904/d2/f7/v_151135016_m_601_en_m2_720_405.jpg" group-title="▶ VOD iQiyi",The Mystic Nine Side Story: Four Belongs to Abelmoschus (2016)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mystery of Humanoid Puppet (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240730/31/41/v_177307921_m_601_en_m2_720_405.jpg" group-title="▶ VOD iQiyi",The Mystery of Humanoid Puppet (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Miracle Spy (2021)" tvg-logo="https://pic1.iqiyipic.com/image/20211122/ff/d0/v_163588652_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Miracle Spy (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of The Monsters (2024)" tvg-logo="https://pic8.iqiyipic.com/image/20240417/79/13/v_175861863_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Lord of The Monsters (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Legend Of Aqua Witch (2022)" tvg-logo="https://pic2.iqiyipic.com/image/20220830/77/23/v_169047881_m_601_zh-CN_720_405.jpg" group-title="▶ VOD iQiyi",The Legend Of Aqua Witch (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Kiddie Tomb (2021)" tvg-logo="https://pic8.iqiyipic.com/image/20211119/62/3f/v_163453449_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Kiddie Tomb (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Godfather of Northeast China (2022)" tvg-logo="https://pic4.iqiyipic.com/image/20221113/76/0e/v_169911206_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Godfather of Northeast China (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Forbidden Depths (2021)" tvg-logo="https://pic7.iqiyipic.com/image/20211027/10/1f/v_163064525_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Forbidden Depths (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Drunken Prodigy (2024)" tvg-logo="https://pic1.iqiyipic.com/image/20240816/bf/9f/v_177648920_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",The Drunken Prodigy (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dragon Hunting Well (2020)" tvg-logo="https://pic9.iqiyipic.com/image/20201102/40/2b/v_153581735_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Dragon Hunting Well (2020)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="981-Strange Tales of Mountain Trvelers (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240919/22/75/v_178096565_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",981-Strange Tales of Mountain Trvelers (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shuigui Bride (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240617/74/54/v_176871370_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Shuigui Bride (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Door and Dark Blade (2022)" tvg-logo="https://pic7.iqiyipic.com/image/20220913/de/e2/v_169138485_m_601_zh-CN_m1_720_405.jpg" group-title="▶ VOD iQiyi",Strange Door and Dark Blade (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Royal Monster Hunter (2019)" tvg-logo="https://pic1.iqiyipic.com/image/20200826/6e/09/v_133223409_m_601_zh-CN_m3_720_405.jpg" group-title="▶ VOD iQiyi",Royal Monster Hunter (2019)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puppet (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240528/7d/1d/v_176549992_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Puppet (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Novo Land Floating Hear (2022)" tvg-logo="https://pic9.iqiyipic.com/image/20220621/59/19/v_167789583_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Novo Land Floating Hear (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and Nine Dragon Coffin (2022)" tvg-logo="https://pic4.iqiyipic.com/image/20220816/4f/05/v_168755957_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Detective Dee and Nine Dragon Coffin (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Dear Bodyguard (2022)" tvg-logo="https://pic3.iqiyipic.com/image/20221106/08/16/v_169660503_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",My Dear Bodyguard (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="978-Master Qianhe (2024)" tvg-logo="https://pic0.iqiyipic.com/image/20240429/0d/5a/v_175379441_m_601_en_m2_720_405.jpg" group-title="▶ VOD iQiyi",978-Master Qianhe (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mountain Porter(2022)" tvg-logo="https://pic1.iqiyipic.com/image/20221226/29/8b/v_170612092_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Mountain Porter(2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster 731 (2019)" tvg-logo="https://pic1.iqiyipic.com/image/20210915/37/ed/v_135659727_m_601_m6_720_405.jpg" group-title="▶ VOD iQiyi",Monster 731 (2019)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uncle Maoshan (2023)" tvg-logo="https://pic6.iqiyipic.com/image/20230921/50/22/v_173794521_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Uncle Maoshan (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lost In Tomb (2024)" tvg-logo="http://pic6.iqiyipic.com/image/20241101/f8/b5/v_177033468_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Lost In Tomb (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="976-Ji Hai Mi Ku (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20241004/96/95/v_178441120_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",976-Ji Hai Mi Ku (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infinite blocks (2022)" tvg-logo="https://pic5.iqiyipic.com/image/20220808/bf/6e/v_168546835_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Infinite blocks (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Headless General (2023)" tvg-logo="https://pic1.iqiyipic.com/image/20230925/97/8e/v_173845130_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",The Headless General (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hard Hit (2021)" tvg-logo="https://pic5.iqiyipic.com/image/20240611/81/eb/v_164061059_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",Hard Hit (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giant Snake Incident at Yellow River (2023)" tvg-logo="https://pic7.iqiyipic.com/image/20230320/d9/18/v_171345432_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Giant Snake Incident at Yellow River (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="977-Detective Dee and the Great Illusionist (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240618/87/f3/v_176908446_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",977-Detective Dee and the Great Illusionist (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Di Renjie and Fire Kirin (2022)" tvg-logo="https://pic7.iqiyipic.com/image/20220803/6b/45/v_168546633_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Di Renjie and Fire Kirin (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detective Dee: Solitary Skies Killer (2020)" tvg-logo="https://pic7.iqiyipic.com/image/20200913/5e/58/v_150598846_m_601_en_m2_720_405.jpg" group-title="▶ VOD iQiyi",Detective Dee: Solitary Skies Killer (2020)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destruction of Opium at Humen (2021)" tvg-logo="https://pic6.iqiyipic.com/image/20210924/5c/ae/v_162217590_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",Destruction of Opium at Humen (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desperate Sniper (2024)" tvg-logo="https://pic0.iqiyipic.com/image/20240530/f7/39/v_176660438_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Desperate Sniper (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="974- Mr. Vampire II (1986)" tvg-logo="http://pic2.iqiyipic.com/image/20201027/21/a6/v_141762522_m_601_zh-CN_m3_720_405.jpg" group-title="▶ VOD iQiyi",974- Mr. Vampire II (1986)
+https://get.perfecttv.net:443/movie/vip_3klp0es8/wg3piwEs/2641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Love Story of Assassin (2024)" tvg-logo="https://pic5.iqiyipic.com/image/20240918/b2/3c/v_178096625_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",A Love Story of Assassin (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eye for an Eye (2022)" tvg-logo="https://pic1.iqiyipic.com/image/20240313/b6/8e/v_167650203_m_601_en_m1_720_405.jpg" group-title="▶ VOD iQiyi",Eye for an Eye (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desert Monster (2022)" tvg-logo="https://pic8.iqiyipic.com/image/20221209/58/03/v_170261204_m_601_en_720_405.jpg" group-title="▶ VOD iQiyi",Desert Monster (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="974-Mr Vampire Saga 4 (1988)" tvg-logo="http://pic0.iqiyipic.com/image/20200908/44/a7/v_143053444_m_601_zh-CN_m1_720_405.jpg" group-title="▶ VOD iQiyi",974-Mr Vampire Saga 4 (1988)
+https://get.perfecttv.net:443/movie/vip_3klp0es8/wg3piwEs/2645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="973-Mr. Vampire (1985)" tvg-logo="http://pic4.iqiyipic.com/image/20200908/f5/7c/v_140319420_m_601_zh-CN_m1_720_405.jpg" group-title="▶ VOD iQiyi",973-Mr. Vampire (1985)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="970-Encounters of the Spooky Kind (1980)" tvg-logo="http://pic0.iqiyipic.com/image/20200917/12/fa/v_143668989_m_601_zh-CN_m1_720_405.jpg" group-title="▶ VOD iQiyi",970-Encounters of the Spooky Kind (1980)
+https://get.perfecttv.net:443/movie/vip_3klp0es8/wg3piwEs/2647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="973- Mr. Vampire III (1987)" tvg-logo="http://pic4.iqiyipic.com/image/20200918/44/c0/v_143055776_m_601_zh-CN_m2_720_405.jpg" group-title="▶ VOD iQiyi",973- Mr. Vampire III (1987)
+https://get.perfecttv.net:443/movie/vip_3klp0es8/wg3piwEs/2648.mkv
+
+
+###############################################################▶ VOD MALAY#############################
+
+#EXTINF:-1 tvg-id="" tvg-name="900-Pengabdi Setan 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hp3eaih3UxpAOUvgsFS9TvVpPD.jpg" group-title="▶ VOD MALAY",900-Pengabdi Setan 2 (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="954-Memoir Seorang Guru (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvET11r3QLJ9UJAvWJM2PJBBWX9.jpg" group-title="▶ VOD MALAY",954-Memoir Seorang Guru (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="955-Para Betina Pengikut Iblis : Part 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37nSfEMphDI4kdAv5lhH8AUsdGv.jpg" group-title="▶ VOD MALAY",955-Para Betina Pengikut Iblis : Part 2 (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="903-Para Betina Pengikut Iblis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="▶ VOD MALAY",903-Para Betina Pengikut Iblis (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="956-Abnormal: Buas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wU038xWl3m2mmrmAIaSrkWZj0ro.jpg" group-title="▶ VOD MALAY",956-Abnormal: Buas (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="902-Mereka yang tak terlihat (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zdckRP04h97MnGPD2aRqitXwRk.jpg" group-title="▶ VOD MALAY",902-Mereka yang tak terlihat (2017)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="959-Pendekar Awang: Darah Indera Gajah (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3VfJM8sq0bqy01EdbSFislkY7x.jpg" group-title="▶ VOD MALAY",959-Pendekar Awang: Darah Indera Gajah (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="960-Saka Perawan (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BS05gmEt3DcDcfajXkqiq9OObF.jpg" group-title="▶ VOD MALAY",960-Saka Perawan (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="961-Rebel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w7vApBT34Kb6B7ITxs45l9gswx.jpg" group-title="▶ VOD MALAY",961-Rebel (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="962-Waruga: Kutukan Ilmu Hitam (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpmWw9KmwLTBYckdSUKn4O56oqt.jpg" group-title="▶ VOD MALAY",962-Waruga: Kutukan Ilmu Hitam (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="953-Ipar Adalah Maut (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lebILB4XqI60dUkJWYYsnaTm24D.jpg" group-title="▶ VOD MALAY",953-Ipar Adalah Maut (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="952-Telekinesis (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KEjjeJ8Ix4WRPPdksmxzqGEplU.jpg" group-title="▶ VOD MALAY",952-Telekinesis (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kuman Thong (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgj6Uh6l8WA7nvXUARrCJ6Vmgcr.jpg" group-title="▶ VOD MALAY",Kuman Thong (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="949- Conquer: Lahad Datu (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpyuq6ClXoTyeNnjRKO5iI6v4SM.jpg" group-title="▶ VOD MALAY",949- Conquer: Lahad Datu (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="963-Agak Laen (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoKAggBy8xUEFEHfAXTBvMlLeKy.jpg" group-title="▶ VOD MALAY",963-Agak Laen (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="964-Kembar sado (2024)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVyzajZG9eCkx-gPtT44KA0mITPMuY9BwqlwQgFb0Tx7KID9vR0ogLbfQg7fhXiorwO2bFdxoRvpOUw6epaicx-ocDL5mmUTIT3Ljq_j9XtB-NHzOn-ilxGtues2msQ8NaL2C0C9rdS8K5YTzdlLdx_tiUTUtDtFMn7KvxruEebkaGdcemsJ23WobKv1od/s16000/Kembar%20Sado.jpg" group-title="▶ VOD MALAY",964-Kembar sado (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="965-Zim Zim Ala Kazim (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3hmkxg4NC2ru1xLhPcI0e4doGa.jpg" group-title="▶ VOD MALAY",965-Zim Zim Ala Kazim (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="966-Sheriff: Narko Integriti (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDU7sxfsIyWqMO1obRdXsCVgeZ8.jpg" group-title="▶ VOD MALAY",966-Sheriff: Narko Integriti (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9007-The Experts (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qY4HM5ayavGPGrhVVLfUJ9xjq8.jpg" group-title="▶ VOD MALAY",9007-The Experts (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="968-Munkar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wQK8BxzosMWOgJYV6tsoBOd2wu.jpg" group-title="▶ VOD MALAY",968-Munkar (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="969-Badarawuhi (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4kY5RKiPJ0sRknU4NojItr93Jr.jpg" group-title="▶ VOD MALAY",969-Badarawuhi (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trinil: Kembalikan Tubuhku(2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7uXTYiFS21wYxluX3gAzfLDiU.jpg" group-title="▶ VOD MALAY",Trinil: Kembalikan Tubuhku(2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="904-Siksa Neraka (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gt0zaEuYDgr5AbgHkLKmTfliBdd.jpg" group-title="▶ VOD MALAY",904-Siksa Neraka (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bisikan Setan (2024)" tvg-logo="https://i.ibb.co/GdH4x03/1714523296757.jpg" group-title="▶ VOD MALAY",Bisikan Setan (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="973-Syaitan Munafik (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9GYEUix85asUoVYMYlQGX84QmU.jpg" group-title="▶ VOD MALAY",973-Syaitan Munafik (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="974-Awak Terlalu Ganu Untuk Saya (2024)" tvg-logo="https://i.ibb.co/9Gb3yHr/1713745013896.jpg" group-title="▶ VOD MALAY",974-Awak Terlalu Ganu Untuk Saya (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="975-Mustaqim (2024)" tvg-logo="https://i.ibb.co/Ctrxrvy/1713750150830.jpg" group-title="▶ VOD MALAY",975-Mustaqim (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="977-Mashaarojinn (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3QpGL4X3KHPYFNxKzvElLTjXDa.jpg" group-title="▶ VOD MALAY",977-Mashaarojinn (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="979-Terpaling Drama (2024)" tvg-logo="https://i.ibb.co/PgNKHnv/1713571993385.jpg" group-title="▶ VOD MALAY",979-Terpaling Drama (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="980-Pemburu Saka (2024)" tvg-logo="https://i.ibb.co/Xs2MBTy/1712655910784.jpg" group-title="▶ VOD MALAY",980-Pemburu Saka (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="905-Ada Apa Dengan Ramadan (2017)" tvg-logo="https://i.ibb.co/tZp3gGp/1712634802867.jpg" group-title="▶ VOD MALAY",905-Ada Apa Dengan Ramadan (2017)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="981-Jadi Raya Tak Jadi (2024)" tvg-logo="https://i.ibb.co/7JPbdvt/1712378366467.jpg" group-title="▶ VOD MALAY",981-Jadi Raya Tak Jadi (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="982-19 Puasa Playboys of Plestik Hitam (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UjXKTrlPnEqqnhSwnZBoqxg8mq.jpg" group-title="▶ VOD MALAY",982-19 Puasa Playboys of Plestik Hitam (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="984-Anak Perjanjian Syaitan 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cykmv1tPLJWHX4sml2VziRbrdr4.jpg" group-title="▶ VOD MALAY",984-Anak Perjanjian Syaitan 2 (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="985-Rampok (2024)" tvg-logo="https://i.ibb.co/1sD6Qc5/1709622475745.jpg" group-title="▶ VOD MALAY",985-Rampok (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="986-Hantu Telekung Kg Lenggong (2024)" tvg-logo="https://i.ibb.co/mvNX74P/1708920002726.jpg" group-title="▶ VOD MALAY",986-Hantu Telekung Kg Lenggong (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="987-Hentian Gerik (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blb09j0WVYtnYCUvz5xOFAzChPK.jpg" group-title="▶ VOD MALAY",987-Hentian Gerik (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="989-Ngesot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5x1T1ljlbSXtOgXIb4QIVFi1CC.jpg" group-title="▶ VOD MALAY",989-Ngesot (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="906-La Luna (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UvfeqDUvuRylh7De3Oje4dvpGA.jpg" group-title="▶ VOD MALAY",906-La Luna (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="907-Geng Sakau vs Hantu Ting Tong (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfSsBs3WPQSf1FI87vagPxxAE7U.jpg" group-title="▶ VOD MALAY",907-Geng Sakau vs Hantu Ting Tong (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="900-Senario Lang Buana (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TFB0Doe92l9Jgc5qtUnE6r9rqt.jpg" group-title="▶ VOD MALAY",900-Senario Lang Buana (2003)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="909-Lagi Lagi Senario (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHPbGqsb25zvXLbgg90hyuHSnm4.jpg" group-title="▶ VOD MALAY",909-Lagi Lagi Senario (2001)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="902- Tiger Stripes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Eg0lFWDH1RBWsj7bu9lZEL2VeG.jpg" group-title="▶ VOD MALAY",902- Tiger Stripes (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="912-Gemencheh Boys (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIYxzxpInTzpZqX58nMSKoFQwxc.jpg" group-title="▶ VOD MALAY",912-Gemencheh Boys (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rahsia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUM8cjJ65yDH0RETDbX6K1YPV6H.jpg" group-title="▶ VOD MALAY",Rahsia (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="923-Perjanjian Gaib (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWq0RoV8d913lZF9AMVsGRgqpR4.jpg" group-title="▶ VOD MALAY",923-Perjanjian Gaib (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="924-Pontianak 100kg (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5SoO75feHyoRR7C9b33o26wYF7.jpg" group-title="▶ VOD MALAY",924-Pontianak 100kg (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9005-Jemputan Ke Neraka (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Wwq3gegxa6GMCnpQNl39Cqf6sh.jpg" group-title="▶ VOD MALAY",9005-Jemputan Ke Neraka (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="926-Polis Evo 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHt8LAmNbuP7rhGWtGyFSLNEdla.jpg" group-title="▶ VOD MALAY",926-Polis Evo 3 (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="930-Imaginur (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GDAe9i6HiFtRB1O5nCbUcGH4j0.jpg" group-title="▶ VOD MALAY",930-Imaginur (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="931-Coast Guard Malaysia: Ops Helang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3KJkSsMOLrqy8bDbYb0BLtM0SX.jpg" group-title="▶ VOD MALAY",931-Coast Guard Malaysia: Ops Helang (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="932-Satu Hari Sebelum Raya (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V23FNRDjMZ0PwQJWjeHCbTtEro.jpg" group-title="▶ VOD MALAY",932-Satu Hari Sebelum Raya (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="909-Mechamato Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM359PBgRGxab70xb8ThWfMeRWK.jpg" group-title="▶ VOD MALAY",909-Mechamato Movie (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="934-Remp-It 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1A1dtk1iLksWfsPT2F5MnkyicK.jpg" group-title="▶ VOD MALAY",934-Remp-It 2 (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2796.mp4
+
