@@ -4,167 +4,234 @@
 #######################################################▶ VOD COLLECTION###########################################################
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▶ VOD COLLECTION",
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▶ VOD COLLECTION",
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▶ VOD COLLECTION",
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▶ VOD COLLECTION",
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▶ VOD COLLECTION",
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Spider-Man (2002)
 https://cloud.hownetwork.xyz/xxx/f3101689c94bd140a3f08cf63a3c145e/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Spider-Man 2 (2004)
 https://cloud.hownetwork.xyz/xxx/d3cd79ae02c227880ae93a5fd7c412e0/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",Spider-Man 3 (2007)
 https://cloud.hownetwork.xyz/xxx/bdb78feca435bcc5b1ee0b85f4b7e5d8/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg" group-title="▶ VOD COLLECTION",The Amazing Spider-Man (2012)
 https://cloud.hownetwork.xyz/xxx/23e83534f66d27324fda25d57ea9ee3b/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM1MWMwOTktMzdlNS00NWUzLWI4ZDItYmY5MGNkYmIzZjg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",The Amazing Spider-Man 2 (2014)
 https://cloud.hownetwork.xyz/xxx/08f3c0ba96291e8cbe91c1d08cce3b56/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Spider-Man Homecoming (2017)
 https://cloud.hownetwork.xyz/xxx/4be08f13608778fec6520fa38fb1e723/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWFlNTU1M2EtZDU0Zi00NTIyLWIwZmQtM2EzZjJiMTFiNDc5XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",Spider-Man Far from Home (2019)
 https://cloud.hownetwork.xyz/xxx/0086f921f2eeacfdd75157840211e6b2/25/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc3ZmMzOGMtNjNlNy00N2QyLTk1MDMtYzA0YjY5NzcyNzYwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",Spider-Man No Way Home (2021)
 https://cloud.hownetwork.xyz/xxx/dafb4188069455ca5f34bb36cfbb8570/11/480.m3u8
 
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Iron Man (2008)
 https://cloud.hownetwork.xyz/xxx/56ccf0850acb8c5881c5ef7d83fe525e/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Iron Man 2 (2010)
 https://cloud.hownetwork.xyz/xxx/0f0b2bb0feca0a5975c474f6f7725c46/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Iron Man 3 (2013)
 https://cloud.hownetwork.xyz/xxx/58c5d4f4b9f80b7b99d62c46f8d4f47d/31/480.m3u8
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyM2YyY2MtNzNlMS00MWU5LTgxNjAtNzZlNmI2NjU2NDZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Captain America 1 The First Avenger (2011)
 https://cloud.hownetwork.xyz/xxx/0d72cac99b8f05cc876d5e0e5142d715/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWY1NjFmNDItZDhmOC00NjI1LWE0ZDItMTM0MjBjZThiOTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Captain America 2 The Winter Soldier (2014)
 https://cloud.hownetwork.xyz/xxx/d7caef9bfaca695decbeca5b69e05401/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Captain America 3 Civil War (2016)
 https://cloud.hownetwork.xyz/xxx/d92792bdb7b848b0967b79c8aa2cb465/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Captain America 4 Brave New World (2025)
 https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwjPBI-KlM3dSAKKDggVBkkNXwAIzFcMnVwSHt7aBsbNDAwDhMbbzRqe096d3Yb/32/480.m3u8
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRhNGZjZjEtYTQzYS00OWUxLThjNGEtMTIwMTE2ZDFlZTZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Thor (2011)
 https://cloud.hownetwork.xyz/xxx/ae82c11613d2b04015513c38af164cd4/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdjNDQ3ZTEtY2Y1Mi00NmE1LWI3NWEtY2VkOTY1ODFkYTY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Thor 2 The Dark World (2013)
 https://cloud.hownetwork.xyz/xxx/808aa744afaf73e4bdd43922643447f7/9/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Thor 3 Ragnarok (2017)
 https://cloud.hownetwork.xyz/xxx/2893bd6219ef15ab8bcec0fe7bb8e7eb/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Thor 4 Love and Thunder (2022)
 https://cloud.hownetwork.xyz/xxx/3f4544b9ad513c5f4f5f7b327867dc27/3/480.m3u8
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",The Avengers (2012)
 https://cloud.hownetwork.xyz/xxx/f380452ec990ffa0b5fa871b2c091a16/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Avengers 2 Age of Ultron (2015)
 https://cloud.hownetwork.xyz/xxx/c7d8aee98848bab0ff32a96a702b2c68/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Avengers 3 Infinity War (2018)
 https://cloud.hownetwork.xyz/xxx/cb34b42763d0f609f2873bc2dbc6d956/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Avengers 4 Endgame (2019)
 https://cloud.hownetwork.xyz/xxx/111ef5d8d394ef495ba104d0c40a5a20/31/480.m3u8
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Jack Reacher (2012)
 https://cloud.hownetwork.xyz/xxx/bb1e7af08345820d0ae8eadb20bd91a2/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ3ODQ3NDI4NV5BMl5BanBnXkFtZTgwMDY1Mzk5OTE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Jack Reacher Never Go Back (2016)
 https://cloud.hownetwork.xyz/xxx/749143cd2154425833c98ac5512ce95a/5/480.m3u8
 
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZjNDlkMTYtMTJkZi00OTkzLWI4NDEtYTA2ODQyMjcwYTdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Mission Impossible 1 (1996)
 https://cloud.hownetwork.xyz/xxx/a9160e9d0c9eef29b5776917040bb154/29/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFjM2NhMTAtNDU1My00ODUxLTkwMzYtODQzNzM0ODM0ZWQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Mission Impossible 2 (2000)
 https://cloud.hownetwork.xyz/xxx/8c3927779fa4d588601a00f5c2660682/25/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1MzdjMjYtNDJiZS00N2U4LWI0MWQtZTRiZWYxMzU3ZmI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Mission Impossible 3 (2006)
 https://cloud.hownetwork.xyz/xxx/60c238530fa21a231820494d39f8d4f2/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Mission Impossible 4 Ghost Protocol (2011)
 https://cloud.hownetwork.xyz/xxx/8da114dc5bd2d4873ff9a3227afa9631/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUwZjg2ZjAtY2RhZi00YmZjLTlhNGQtOWQwNDk1MjhhM2NhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Mission Impossible 5 Rogue Nation (2015)
 https://cloud.hownetwork.xyz/xxx/c0f22fa2f34661c62310606ecae72a1c/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUwZTg2YmMtMmZjOS00ZDYwLWI2ZDgtZDcyY2ZmMWMwZDdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Mission Impossible 6 Fallout (2018)
 https://cloud.hownetwork.xyz/xxx/7b402335882122887abdd777fa460374/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4OTdmM2QtZTkxYy00ZmQyLTg2N2UtMDdmMGJmNDhlZDU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Mission Impossible 7 Dead Reckoning Part One (2023)
 https://s1-hls1-cdn25.streamupcdn.xyz/hls/zTfdfjDtWTYtwyU16xAkkgx03xKjLb/index_1720x720.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",Mission Impossible 8 The Final Reckoning (2025)
 https://s1-hls1-cdn26.streamupcdn.xyz/hls/vwAuCRPeWAAtbWObhkwpiOOJFakciG/index_1370x720.m3u8
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBhNzlkM2UtZTQyOC00NjUyLTkzMmMtNDQ1YTM5N2NmMGE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Jurassic World (2015)
 https://cloud.hownetwork.xyz/xxx/KA07LzYKHiJvJhg-L1R7anJJfGMHFQITIygoFBxUYjt3TC14dA/33/1080.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Jurassic World 2 Fallen Kingdom (2018)
 https://cloud.hownetwork.xyz/xxx/18f1312d7b40bb5a2a3a47bc0512a9e7/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Jurassic World 3 Dominion (2022)
 https://cloud.hownetwork.xyz/xxx/KA07LzYKHiJvJhg-L1R7PC0VICAsFhlscGFFfm5nExoGNBYWGhpBJCYyQXUh/33/958.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE1N2EzMjAtMDY1My00YWE5LWEyYjYtYmE3YjZjNzQwNDhmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",Jurassic World 4 Rebirth (2025)
 https://s1-hls1-cdn22.streamupcdn.xyz/hls/DGncTMXsmB4Asa476NZN4fcVDcGX8B/index_1728x720.m3u8
 
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Pirates of the Caribbean 1 The Curse of the Black Pearl (2003)
 https://cloud.hownetwork.xyz/xxx/7f8e839bf25085597d922c52aa9dc755/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Pirates of the Caribbean 2 Dead Man's Chest (2006)
 https://cloud.hownetwork.xyz/xxx/af7504677434975898904e2e570a164d/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Pirates of the Caribbean 3 At World's End (2007)
 https://cloud.hownetwork.xyz/xxx/9fa1d6fe71cc5bd81ec1c7e9699d0c91/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Pirates of the Caribbean 4 On Stranger Tides (2011)
 https://cloud.hownetwork.xyz/xxx/5ea0c7b7bd63976799be187ce1fdab0d/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Pirates of the Caribbean 5 Dead Men Tell No Tales (2017)
 https://cloud.hownetwork.xyz/xxx/304021506ac502b0d9f226bd60109d2f/11/480.m3u8
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",The Maze Runner (2014)
 https://cloud.hownetwork.xyz/xxx/c726acfb5c3fd827592596cc2433fe9a/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Maze Runner The Scorch Trials (2015)
 https://cloud.hownetwork.xyz/xxx/1ec222f0b01cecd7460a7353db4c2a44/5/480.m3u8
+https://cloud.hownetwork.xyz/xxx/1ec222f0b01cecd7460a7353db4c2a44/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_.jpg" group-title="▶ VOD COLLECTION",Maze Runner The Death Cure (2018)
 https://cloud.hownetwork.xyz/xxx/6d1e0657e5133fecd92a20cba7d9cdc1/5/480.m3u8
 
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxMzYwODE4OV5BMl5BanBnXkFtZTgwNDE5MzE2MDE@._V1_.jpg" group-title="▶ VOD COLLECTION",Divergent (2014)
 https://cloud.hownetwork.xyz/xxx/92a27ac1f993e41a8a15466a486f61d2/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgxOTYxMTg3OF5BMl5BanBnXkFtZTgwMDgyMzA2NDE@._V1_.jpg" group-title="▶ VOD COLLECTION",Insurgent (2015)
 https://cloud.hownetwork.xyz/xxx/6b1fb3307317290593079d8232bc02de/3/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlYzZlNDktMDAxMS00OGZiLThkYzAtNWEzNDliYjAyZmM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Allegiant (2016)
 https://cloud.hownetwork.xyz/xxx/299c1a65977f24388526a967ea006e29/4/480.m3u8
+
 
