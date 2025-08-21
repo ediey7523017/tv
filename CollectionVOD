@@ -5,6 +5,35 @@
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcwMDIyNjctMDVmNS00MzkyLTgxMDMtNTFmNTk0NDkyNzdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",X-Men Dark Phoenix (2019)
+https://cloud.hownetwork.xyz/xxx/a1c875b3f5dbd1a288de5f92b0406610/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjVhNWY3NjItNmZjOS00NTU3LWFiZTctNzdjNGM5Y2Y0MDUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",X-Men Apocalypse (2016)
+https://cloud.hownetwork.xyz/xxx/0ebde2cc791f41c866b0938bde4e7ca0/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiYWE4NjMtMTU4OS00NmM4LWE4ZjAtYmE5OTA5NjkzODExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",X-Men Days of Future Past (2014)
+https://cloud.hownetwork.xyz/xxx/c3136e4e9360510d9428eee00f637a40/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",X-Men First Class (2011)
+https://cloud.hownetwork.xyz/xxx/0c6ba10b877dd4f6898fa8e5cc1cd74a/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThmOWE3OWEtODJmNC00ZDEzLTk4MWUtNzEzM2RiNmJiZmU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",X-Men The Last Stand (2006)
+https://cloud.hownetwork.xyz/xxx/131d4cd3c248eb51bb5a0d21666619bc/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UyOTllMjctOWI3Zi00NDE0LWI2N2EtNTllMzRhNGU5MDEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",X-Men 2 (2003)
+https://cloud.hownetwork.xyz/xxx/b49acd8ec37713bad4b811182ccc48f0/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNjZjQwOTAtNWQ3NC00MmJlLThlZDEtZmUyMWQ3NmE4Y2Y5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",X-Men (2000)
+https://cloud.hownetwork.xyz/xxx/5d0debff0e84dc1cfbe73b10477911dc/1/480.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="▶ VOD COLLECTION" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",Deadpool & Wolverine (2024)
 https://cloud.hownetwork.xyz/xxx/00dc6daaaa8b89f4de305405684ec37c/25/480.m3u8
 
@@ -137,7 +166,7 @@ https://hls2.dewanonton.online/vultr/CeadluetgKNKq/hls-stream.m3u8
 https://cloud.hownetwork.xyz/xxx/574d4b7be406c42dbb0ea89eac65a0a4/11/480.m3u8
 https://hls2.dewanonton.online/vultr/yPALSHkaNQXht/hls-stream.m3u8
 
-#EXTINF:-1 type="" group-title="▶ VOD COLLECTION" tvg-logo="https://s7.lk21static.buzz/wp-contenx`t/uploads/2015/12/film-the-fast-and-the-furious-2001.jpg.webp",The Fast and the Furious (2001)
+#EXTINF:-1 type="" group-title="▶ VOD COLLECTION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFiZTY2OGUtNzZmMC00MTk2LTgyNzMtZmM5YzMzNjIyYTljXkEyXkFqcGc@._V1_.jpg",The Fast and the Furious (2001)
 https://cloud.hownetwork.xyz/xxx/0a18a68f2632ae522618a47a5adfb4a0/5/480.m3u8
 https://cdn7iv.diebutx.com/ownhls/2020/28cdfc9db9535519cd8fe994f9c70bbb/720p/index.m3u8
 
