@@ -131,6 +131,9 @@ https://cloud.hownetwork.xyz/xxx/d307d596a6df919b242c95ad96677a62/1/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Alien Romulus (2024)
 https://cloud.hownetwork.xyz/xxx/096060a5890fcb77bdc5af4bee819122/31/480.m3u8
 
+###EXTINF:-1 tvg-id="" tvg-name="965-Alien: Romulus (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg" group-title="▶ VOD COLLECTION",Alien Romulus (2024)
+###http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4452.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjhiYWQ4MTAtOGY1Zi00ZjcyLTk1ZDYtODI3ODRhNjE4MzZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Alien Covenant (2017)
 https://cloud.hownetwork.xyz/xxx/87bc161da8f2a4692be373f3b30ed44c/2/480.m3u8
 
@@ -169,6 +172,9 @@ https://cloud.hownetwork.xyz/xxx/87df2826c27e796ab399f7c3cf2b6c91/1/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM1OTJjMDMtOTU3Yi00NGZmLWJiNDYtNjkwMGRiZTRlMTAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Skyfall (2012)
 https://cloud.hownetwork.xyz/xxx/93b527a33716d7fff8b47be52cc735ab/4/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMwZTA3MTAtNWU0Yy00NGZmLTg0YmItZTVkZGFjZTI1ZWJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Quantum of Solace (2008)
+https://be4235.rcr32.ams02.i8yz83pn.com/hls2/06/02755/0t3hzyvqofpw_n/index-v1-a1.m3u8?t=40nvmFBu2uDtY3si05WZgSKZzuGK4T0kjGV4KsxDla8&s=1755971477&e=10800&f=13779261&srv=1050&asn=4818&sp=4000&p=
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",Casino Royale (2006)
 https://cloud.hownetwork.xyz/xxx/25845ea4f4a73816b22dc2bbbce0f0f9/2/480.m3u8
 
@@ -176,6 +182,9 @@ https://cloud.hownetwork.xyz/xxx/25845ea4f4a73816b22dc2bbbce0f0f9/2/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUzNmU2Y2YtYmVjOS00NTY0LTgzZDAtNjc5MGIyMzcyMzVhXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",The Equalizer 3 (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4015.mp4
+
+###EXTINF:-1 tvg-id="" tvg-name="The Equalizer 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg" group-title="▶ VOD COLLECTION",The Equalizer 3 (2023)
+###http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4015.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",The Equalizer 2 (2018)
 https://cloud.hownetwork.xyz/xxx/948c474026997295da1faf741469cd38/11/480.m3u8
@@ -661,4 +670,6 @@ https://cloud.hownetwork.xyz/xxx/6b1fb3307317290593079d8232bc02de/3/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlYzZlNDktMDAxMS00OGZiLThkYzAtNWEzNDliYjAyZmM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Allegiant (2016)
 https://cloud.hownetwork.xyz/xxx/299c1a65977f24388526a967ea006e29/4/480.m3u8
+
+
 
