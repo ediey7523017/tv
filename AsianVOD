@@ -257,11 +257,13 @@ https://cloud.hownetwork.xyz/xxx/d9a737d04d787400b7df6e7b28e53259/31/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgyZjcxNzYtNGRkYi00NGEwLTgzNTgtZDBkODRjNWFiNGI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KOREAN",Uprising (2024)
 https://cloud.hownetwork.xyz/xxx/3caa99880710ff5bb099b05eba4a7504/31/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA1OTY1NTYtNDEzZS00OTgyLWI1NWEtNDI5NjBhOTIwNzIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KOREAN",Exhuma (2024)
-https://cloud.hownetwork.xyz/xxx/3246eebf939c1efe719605fdfb1964ba/31/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1351-Exhuma (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg" group-title="▶ VOD KOREAN",Exhuma (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4144.mp4
 
-###EXTINF:-1 tvg-id="" tvg-name="1351-Exhuma (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg" group-title="▶ VOD KOREAN",Exhuma (2024)
-###http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4144.mp4
+###EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPJIS_IVP_LAND_432x243_7E434_20241021_92011.jpg" group-title="▶ VOD KOREAN", Exhuma
+###https://www.dropbox.com/scl/fi/eg4dlmdl05ln4b4xn2dp3/exhuma.mp4?rlkey=kj6km3p581284exr46ul63rvf&st=c0pjehv2&dl=1
+###EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA1OTY1NTYtNDEzZS00OTgyLWI1NWEtNDI5NjBhOTIwNzIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KOREAN",Exhuma (2024)
+###https://cloud.hownetwork.xyz/xxx/3246eebf939c1efe719605fdfb1964ba/31/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQxM2FmYmMtN2YzOS00MmFiLTgxZTgtNmVhZDhhOTcxNmU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KOREAN",I the Executioner (2024)
 https://cloud.hownetwork.xyz/xxx/d44f7bcf0a9d0c1f2b6b6b7ee663ee01/31/480.m3u8
@@ -298,7 +300,6 @@ https://cdn-etnh2hts8ppjned0.orbitcache.com/engine/hls2/01/14429/28fbik8inbdv_,n
 
 #EXTINF:-1 tvg-id="" tvg-name="971-Drive (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5doar0VEH6bkC1rzstB25PhaV4g.jpg" group-title="▶ VOD KOREAN",Drive (2024)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4454.mp4
-
 
 
 #######################################################▶ VOD CHINESE###################################################
@@ -651,4 +652,6 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Jangan%20Tinggal%20Daku%20SDTV.mp4
 #EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Putus Sudah Kasih Sayang
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Putus%20Sudah%20Kasih%20Sayang%20SDTV.mp4
+
+
 
