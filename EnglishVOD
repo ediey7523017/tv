@@ -4,10 +4,6 @@
 ################################################▶ VOD ENGLISH##################################################
 
 #EXTINF:-1 tvg-id="NULL" group-title="▶ VOD ENGLISH" group-logo="https://pictr.com/images/2025/02/21/xLA0dX.png" tvg-logo="https://get.perfecttv.net/first/sonic3.jpg",Sonic 3 (2025)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=66be087fe18f9b5896425003a5218910:b696e138de020de1a172f3c25fd5ee59
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/d0b5fe27-8e7a-57c9-b826-7dc06db16085/default_dash.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE2NzBjNGUtNTJiMy00N2UxLWEyYzMtYzFjODFhMGZlOTgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Flash (2023)
