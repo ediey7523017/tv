@@ -310,9 +310,6 @@ http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4454.mp4
 #######################################################▶ VOD CHINESE###################################################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▶ VOD CHINESE",
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVjMDEzNjMtMWJmMy00NDdjLWFkMzItOTBhZTE3OWU0YmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD CHINESE",Ip Man 4 The Finale (2019)
 https://cloud.hownetwork.xyz/xxx/07e8b0830421d87ae023bcaa8d05965b/5/480.m3u8
 
@@ -452,7 +449,9 @@ https://get.perfecttv.net:443/movie/vip_3klp0es8/wg3piwEs/2647.mkv
 https://get.perfecttv.net:443/movie/vip_3klp0es8/wg3piwEs/2648.mkv
 
 
+
 ######################################################▶ VOD MALAY###########################################
+
 
 #EXTINF:-1 tvg-id="" tvg-name="900-Pengabdi Setan 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hp3eaih3UxpAOUvgsFS9TvVpPD.jpg" group-title="▶ VOD MALAY",900-Pengabdi Setan 2 (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2727.mp4
@@ -571,96 +570,94 @@ https://www.dropbox.com/scl/fi/xrxoqdrwm27zm68kqkthd/impak-maksima-underground-2
 
 
 
-##################################################PRAMLEE##########################################
+##################################################P RAMLEE##########################################
 
 
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Pendekar Bujang Lapok
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Pendekar Bujang Lapok
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Pendekar%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Seniman Bujang Lapok
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Seniman Bujang Lapok
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Seniman%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Bujang Lapok
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Bujang Lapok
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1957%5D%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ali Baba Bujang Lapok
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ali Baba Bujang Lapok
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Ali%20Baba%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anak Bapak
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anak Bapak
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Anak%20Bapak%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Keluarga 69
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Keluarga 69
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1967%5D%20Keluarga%2069%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Tiga Abdul
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Tiga Abdul
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Tiga%20Abdul%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ibu Mertuaku
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ibu Mertuaku
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Ibu%20Mertuaku%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Do Re Mi
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Do Re Mi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nasib Do Re Mi
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nasib Do Re Mi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Nasib%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Laksamana Do Re Mi
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Laksamana Do Re Mi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1972%5D%20Laksamana%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Masam Masam Manis
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Masam Masam Manis
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1965%5D%20Masam%20Masam%20Manis%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Labu dan Labi
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Labu dan Labi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1962%5D%20Labu%20dan%20Labi%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nasib Si Labu Labi
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nasib Si Labu Labi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1963%5D%20Nasib%20Si%20Labu%20Labi%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Enam Jahanam
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Enam Jahanam
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Enam%20Jahanam%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nujum Pak Belalang
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nujum Pak Belalang
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Nujum%20Pak%20Belalang%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ahmad Albab
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ahmad Albab
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Ahmad%20Albab%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Madu Tiga
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Madu Tiga
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Madu%20Tiga%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Rachun Dunia
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Rachun Dunia
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1950%5D%20Rachun%20Dunia%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Juwita
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Juwita
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1951%5D%20Juwita%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anjuran Nasib
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anjuran Nasib
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1952%5D%20Anjoran%20Nasib%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Hujan Panas
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Hujan Panas
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Hujan%20Panas%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ibu
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ibu
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Ibu%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Merana
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Merana
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Merana%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Panggilan Pulau
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Panggilan Pulau
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Panggilan%20Pulau%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Abu Hasan Penchuri
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Abu Hasan Penchuri
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Abu%20Hasan%20Penchuri%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Hang Tuah
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Hang Tuah
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Hang%20Tuah%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Penarek Becha
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Penarek Becha
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Penarek%20Becha%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anakku Sazali
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anakku Sazali
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Anakku%20Sazali%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Semerah padi
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Semerah padi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Semerah%20Padi%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sarjan Hassan
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sarjan Hassan
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sarjan%20Hassan%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sumpah Orang Minyak
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sumpah Orang Minyak
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sumpah%20Orang%20Minyak%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Musang Berjanggut
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Musang Berjanggut
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Musang%20Berjanggut%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Antara Dua Darjat
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Antara Dua Darjat
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1960%5D%20Antara%20Dua%20Darjat%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Kanchan Tirana
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Kanchan Tirana
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Kanchan%20Tirana%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ragam P Ramlee
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ragam P Ramlee
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ragam P Ramlee - Mintak Nombor Ekor
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ragam P Ramlee - Mintak Nombor Ekor
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20-%20Mintak%20Nombor%20Ekor%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sabarudin Tukang Kasut
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sabarudin Tukang Kasut
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Sabarudin%20Tukang%20Kasut%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Di Belakang Tabir
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Di Belakang Tabir
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Di%20Belakang%20Tabir%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Dr Rushdi
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Dr Rushdi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Dr%20Rushdi%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Gerimis
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Gerimis
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Gerimis%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Jangan Tinggal Daku
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Jangan Tinggal Daku
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Jangan%20Tinggal%20Daku%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Putus Sudah Kasih Sayang
+#EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Putus Sudah Kasih Sayang
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Putus%20Sudah%20Kasih%20Sayang%20SDTV.mp4
-
-
 
 
