@@ -1,8 +1,12 @@
 #EXTM3U url=""
 
 
+
 ########################################################▶ VOD KOREAN###################################################
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNhYWM4MzQtM2UxNS00ZDdkLWIyYmMtZDNmNGZmODE2ZjdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KOREAN",Ghost Train (2024)
+https://cloud.hownetwork.xyz/xxx/JRAmPTFUAzMjOBlhcQBkbW8vDAwBNSgZHWNGLnUCZmAm/34/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYzZTNmYWEtN2FmYy00NGQwLThiNTctMjM3YTNlYzc2ZGFmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KOREAN",The Fortress (2017)
 https://cloud.hownetwork.xyz/xxx/ef82c77e6f49bcf29e07d2850d1b59cf/11/480.m3u8
@@ -302,7 +306,11 @@ https://cdn-etnh2hts8ppjned0.orbitcache.com/engine/hls2/01/14429/28fbik8inbdv_,n
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4454.mp4
 
 
+
 #######################################################▶ VOD CHINESE###################################################
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▶ VOD CHINESE",
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVjMDEzNjMtMWJmMy00NDdjLWFkMzItOTBhZTE3OWU0YmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD CHINESE",Ip Man 4 The Finale (2019)
@@ -652,6 +660,7 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Jangan%20Tinggal%20Daku%20SDTV.mp4
 #EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Putus Sudah Kasih Sayang
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Putus%20Sudah%20Kasih%20Sayang%20SDTV.mp4
+
 
 
 
