@@ -1,7 +1,6 @@
 #EXTM3U url=""
 
 
-
 ########################################################▶ VOD KOREAN###################################################
 
 
@@ -310,6 +309,12 @@ http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4454.mp4
 #######################################################▶ VOD CHINESE###################################################
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgwNjIyNTczMF5BMl5BanBnXkFtZTcwODI5MDkyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD CHINESE",Unleashed (2005)
+https://cloud.hownetwork.xyz/xxx/1404a1bfa7ecf5c43015282e2e22e71c/21/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcyNzg3OTEtNGVjYi00MWU5LThlN2EtNTA5MGMzZWVlZWIzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD CHINESE",Fearless (2006)
+https://cloud.hownetwork.xyz/xxx/2350006a0316baa1ef51b8954233de30/30/480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVjMDEzNjMtMWJmMy00NDdjLWFkMzItOTBhZTE3OWU0YmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD CHINESE",Ip Man 4 The Finale (2019)
 https://cloud.hownetwork.xyz/xxx/07e8b0830421d87ae023bcaa8d05965b/5/480.m3u8
 
@@ -449,9 +454,7 @@ https://get.perfecttv.net:443/movie/vip_3klp0es8/wg3piwEs/2647.mkv
 https://get.perfecttv.net:443/movie/vip_3klp0es8/wg3piwEs/2648.mkv
 
 
-
 ######################################################▶ VOD MALAY###########################################
-
 
 #EXTINF:-1 tvg-id="" tvg-name="900-Pengabdi Setan 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hp3eaih3UxpAOUvgsFS9TvVpPD.jpg" group-title="▶ VOD MALAY",900-Pengabdi Setan 2 (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2727.mp4
