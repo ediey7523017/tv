@@ -185,7 +185,7 @@ https://cloud.hownetwork.xyz/xxx/87df2826c27e796ab399f7c3cf2b6c91/1/480.m3u8
 https://cloud.hownetwork.xyz/xxx/93b527a33716d7fff8b47be52cc735ab/4/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMwZTA3MTAtNWU0Yy00NGZmLTg0YmItZTVkZGFjZTI1ZWJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Quantum of Solace (2008)
-https://drive.usercontent.google.com/download?id=1BxsgoGtQq35k184my9UuYZ4Zes6ghAN7&export=download&authuser=0&confirm=t&uuid=4909650a-4fcf-4a5e-9b04-64d085cbb348&at=AN8xHor0DVPNIqBawLGVVueK00WT%3A1756397092387
+https://www.dropbox.com/scl/fi/o935jzbfpjlhqk3aqtc59/Quantum-of-Solace-2008.mp4?rlkey=mb78vd1hcazz0mcyxz9z8aje3&st=e06d9vzv&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",Casino Royale (2006)
 https://cloud.hownetwork.xyz/xxx/25845ea4f4a73816b22dc2bbbce0f0f9/2/480.m3u8
@@ -194,9 +194,6 @@ https://cloud.hownetwork.xyz/xxx/25845ea4f4a73816b22dc2bbbce0f0f9/2/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUzNmU2Y2YtYmVjOS00NTY0LTgzZDAtNjc5MGIyMzcyMzVhXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",The Equalizer 3 (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4015.mp4
-
-###EXTINF:-1 tvg-id="" tvg-name="The Equalizer 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg" group-title="▶ VOD COLLECTION",The Equalizer 3 (2023)
-###http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4015.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",The Equalizer 2 (2018)
 https://cloud.hownetwork.xyz/xxx/948c474026997295da1faf741469cd38/11/480.m3u8
@@ -544,8 +541,7 @@ https://cloud.hownetwork.xyz/xxx/ae82c11613d2b04015513c38af164cd4/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdjNDQ3ZTEtY2Y1Mi00NmE1LWI3NWEtY2VkOTY1ODFkYTY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Thor 2 The Dark World (2013)
-https://drive.usercontent.google.com/download?id=1qGkseA7EKeOysHTfPsme7E1crCi4X0Go&export=download&authuser=1&confirm=t&uuid=950838e9-daef-4d29-b510-f8198b249dd4&at=AN8xHooM3fJi5o0t07f-W8tC3ZYx%3A1756396437330
-https://cloud.hownetwork.xyz/xxx/808aa744afaf73e4bdd43922643447f7/9/480.m3u8
+https://www.dropbox.com/scl/fi/vdldl7xvps1gdjdgjxn01/Thor-The-Dark-World-2013.mp4?rlkey=8yjq91g8mg9qzx3qo466kqxt8&st=i7z2ui91&dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Thor 3 Ragnarok (2017)
@@ -664,7 +660,6 @@ https://cloud.hownetwork.xyz/xxx/c726acfb5c3fd827592596cc2433fe9a/5/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Maze Runner The Scorch Trials (2015)
 https://cloud.hownetwork.xyz/xxx/1ec222f0b01cecd7460a7353db4c2a44/5/480.m3u8
-https://cloud.hownetwork.xyz/xxx/1ec222f0b01cecd7460a7353db4c2a44/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_.jpg" group-title="▶ VOD COLLECTION",Maze Runner The Death Cure (2018)
@@ -682,4 +677,6 @@ https://cloud.hownetwork.xyz/xxx/6b1fb3307317290593079d8232bc02de/3/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlYzZlNDktMDAxMS00OGZiLThkYzAtNWEzNDliYjAyZmM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Allegiant (2016)
 https://cloud.hownetwork.xyz/xxx/299c1a65977f24388526a967ea006e29/4/480.m3u8
+
+
 
