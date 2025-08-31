@@ -10,12 +10,6 @@ https://cloud.hownetwork.xyz/xxx/1a91525c19c7fb8bda685ba3693b5aa8/8/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjNDJhMWEtNmJkMi00ZDViLWE1YmEtYzFhZWRjZTI4ZjQ2XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",1920 Evil Returns (2012)
 https://cloud.hownetwork.xyz/xxx/a4747c19f39f149309172a58e3596b79/21/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU4MGRmMTAtMTY2MC00ZjU1LThiMDAtMWIyNWMzY2YwMzk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",1920 London (2016)
-https://cloud.hownetwork.xyz/xxx/1a91525c19c7fb8bda685ba3693b5aa8/8/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjNDJhMWEtNmJkMi00ZDViLWE1YmEtYzFhZWRjZTI4ZjQ2XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",1920 Evil Returns (2012)
-https://cloud.hownetwork.xyz/xxx/a4747c19f39f149309172a58e3596b79/21/480.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/FsbAjOevHYDjU7eXFFXS8aveWy.jpg" group-title="▶ VOD BOLLYWOOD",Dosti: Friends Forever (2005)
 https://www.dropbox.com/scl/fi/ps5l3ibrdyopiujih70kn/Dosti-Friends-Forever-2005.mp4?rlkey=c87db1fh418240tc5zgs1tr7a&st=a596wpv6&dl=1
 
@@ -87,14 +81,14 @@ https://www.dropbox.com/scl/fi/mr4mnj89an9q99sikvvpz/Fanaa-2006-720p.mp4?rlkey=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M4YWJhNmQtZjBmMy00NmRiLThkZmUtNTZhMDQ1MGRkMzQ3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Chal Mere Bhai (2000)
 https://www.dropbox.com/scl/fi/rb2kc2hm8la2u1kfwup1e/Chal.Mere.Bhai.2000.mp4?rlkey=85vfi1u9wrmqbbizitv1vxv0u&st=6kvh8auk&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk3ZmQyYjAtZTgwZS00YjliLTljZmEtMDU1Nzk1Y2NhYmRlXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Ghajini (2008)
+https://cloud.hownetwork.xyz/xxx/b2b078deb1144330eaabcf8b3770178f/2/480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NmMGFjYTYtNWEwNS00MTM4LWE2ZTktNzZjMTE0OTQyNjFiXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Drishyam (2015)
 https://cloud.hownetwork.xyz/xxx/b1e01491462e5a8572498c7e43ffc057/2/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjVmMTlkNGYtYTM2OC00Yjc2LWIyYmQtMDY4ZmU1MWRlMjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Taare Zameen Par(2007)
-https://cloud.hownetwork.xyz/xxx/f2a11c22266ceb51b6d6e4a874a787d6/6/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk3ZmQyYjAtZTgwZS00YjliLTljZmEtMDU1Nzk1Y2NhYmRlXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Ghajini (2008)
-https://cloud.hownetwork.xyz/xxx/b2b078deb1144330eaabcf8b3770178f/2/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drishyam 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJNNwHQuKYNeHFbsxSFR6yK9Dda.jpg" group-title="▶ VOD BOLLYWOOD",Drishyam 2 (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4531.mp4
 
 #EXTINF:-1 tvg-id="b999" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/970/255970-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Khiladi 786
 #KODIPROP:inputstream=inputstream.adaptive
@@ -162,12 +156,6 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=5f5ed123379f496f995139ec07baca0d:2ae9b5bb168ced8b112bbda9a5f4d3e9
 https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b987
 
-#EXTINF:-1 tvg-id="b986" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/751/89751-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Raid
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f61dd493a564654976577644e1010b2:0e0545adfffcbea9b82c79b6e1bfe18e
-https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b986
-
 #EXTINF:-1 tvg-id="b985" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/982/90982-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Sarkar 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -215,12 +203,6 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49af29eff7fc48f1a199a449cb4b03bc:5f3ef111c7622017208d5433ad625074
 https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b977
-
-#EXTINF:-1 tvg-id="b976" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/594/142594-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Hum Tumhare Hain Sanam
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3505a70afc5149b5b50b337892e2f3eb:4f1e30c997f107dc34d3a0d8815eb346
-https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b976
 
 #EXTINF:-1 tvg-id="b975" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/604/149604-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Omkara
 #KODIPROP:inputstream=inputstream.adaptive
@@ -270,17 +252,17 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=3f04d514b1ca426095d0e50bde0f266c:a6ef89afc69a9cf5a08611638b6cb333
 https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b968
 
-#EXTINF:-1 tvg-id="b967" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/935/95935-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Ki & Ka
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9eed766160e54c52814c4cb7773f73f7:4a6c2cc7479a878db1177c01d40bf1a3
-https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b967
-
 #EXTINF:-1 tvg-id="b966" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/765/89765-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Housefull 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc471a8a5f7420496956f3e5a551e98:24c4c750e4258b20af67f614fc508af8
 https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b966
+
+#EXTINF:-1 tvg-id="b967" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/935/95935-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Ki & Ka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9eed766160e54c52814c4cb7773f73f7:4a6c2cc7479a878db1177c01d40bf1a3
+https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b967
 
 #EXTINF:-1 tvg-id="b965" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/381/93381-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Desi Boyz
 #KODIPROP:inputstream=inputstream.adaptive
@@ -294,27 +276,17 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=3638803092fa4a678db9e9281d29b3fb:124f602681e7b8b55494a538aee51035
 https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b964
 
+#EXTINF:-1 tvg-id="b986" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/751/89751-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Raid (2018)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f61dd493a564654976577644e1010b2:0e0545adfffcbea9b82c79b6e1bfe18e
+https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b986
 
-#EXTINF:-1 tvg-id="" tvg-name="1452-Ishq (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38xVYSuVXIJS1iyEaRm8wtjotZB.jpg" group-title="▶ VOD BOLLYWOOD",Ishq (1997)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4551.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="1451-Josh (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epulB8WC1mGIEFJPZr50LVCKt6k.jpg" group-title="▶ VOD BOLLYWOOD",Josh (2000)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4552.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="1204-Rab Ne Bana Di Jodi (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg" group-title="▶ VOD BOLLYWOOD",Rab Ne Bana Di Jodi (2008)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4555.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="1028-Billu (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWKskigmvBow3uOP4RPQOIaUux.jpg" group-title="▶ VOD BOLLYWOOD",Billu (2009)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4556.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="1243-Jawan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igPVDl7X2WNYBnvnC0O0oQKXSpF.jpg" group-title="▶ VOD BOLLYWOOD",Jawan (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQyOTRiYTQtNzU0MS00ZGM2LWE4MTktODI5ZjZiN2NkYjYyXkEyXkFqcGc@._V1_.jpg"  group-title="▶ VOD BOLLYWOOD",Raid 2 (2025)
+https://www.dropbox.com/scl/fi/yt5o7vxpueq1rezj5tt69/Raid-2-2025.mp4?rlkey=15rbnf8vri4xuwh63a3i5pcf4&st=bz0ql26x&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="1224-OMG 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kApiO3oL6t100aCtkcwEhk2kqgK.jpg" group-title="▶ VOD BOLLYWOOD",OMG 2 (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4521.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="1502-Dil To Pagal Hai (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HKUrZZbXnwCM4129fPlgHEg0eG.jpg" group-title="▶ VOD BOLLYWOOD",Dil To Pagal Hai (1997)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4534.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="1352-PK (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg" group-title="▶ VOD BOLLYWOOD",PK (2014)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4535.mp4
@@ -334,6 +306,29 @@ http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4547.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maharaj (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9o8LxGL4YHZKxPrF94Vm1jGuPi.jpg" group-title="▶ VOD BOLLYWOOD",Maharaj (2024)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2442.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="1452-Ishq (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38xVYSuVXIJS1iyEaRm8wtjotZB.jpg" group-title="▶ VOD BOLLYWOOD",Ishq (1997)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4551.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="1451-Josh (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epulB8WC1mGIEFJPZr50LVCKt6k.jpg" group-title="▶ VOD BOLLYWOOD",Josh (2000)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4552.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="1204-Rab Ne Bana Di Jodi (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg" group-title="▶ VOD BOLLYWOOD",Rab Ne Bana Di Jodi (2008)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4555.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="1028-Billu (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWKskigmvBow3uOP4RPQOIaUux.jpg" group-title="▶ VOD BOLLYWOOD",Billu (2009)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4556.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="1502-Dil To Pagal Hai (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HKUrZZbXnwCM4129fPlgHEg0eG.jpg" group-title="▶ VOD BOLLYWOOD",Dil To Pagal Hai (1997)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4534.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="1243-Jawan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igPVDl7X2WNYBnvnC0O0oQKXSpF.jpg" group-title="▶ VOD BOLLYWOOD",Jawan (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4520.mp4
+
+#EXTINF:-1 tvg-id="b976" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/594/142594-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Hum Tumhare Hain Sanam (2002)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3505a70afc5149b5b50b337892e2f3eb:4f1e30c997f107dc34d3a0d8815eb346
+https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b976
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk3MTU5MDA3OF5BMl5BanBnXkFtZTgwODM3MzY2MzE@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Dilwale Dulhania Le Jayenge (1995)
 https://www.dropbox.com/scl/fi/4ye7ehgpfaqxo1mvhytx6/Dilwale-Dulhania-Le-Jayenge-1995.mp4?rlkey=5suj3447udseec6ycc718wtnp&st=40372m3v&dl=1
@@ -349,9 +344,6 @@ https://www.dropbox.com/scl/fi/p7kbryqaonezfejd2r32n/Kuch-Kuch-Hota-Hai-1998.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTczMDQ0N2EtMTY4NS00ODJhLTk4MzQtOGJmZGRmY2M4MWQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Kal Ho Naa Ho (2003)
 https://www.dropbox.com/scl/fi/0q50ed2fchfpxfvs5lcs9/Kal-Ho-Naa-Ho-2003.mp4?rlkey=f6pwxwe19qj7not8gckrfn0my&st=b1846htj&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzczNDNhYjctNWM2MC00Y2RlLWIyZDYtMTE1MjI0ZmVmYWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Raaz (2002)
-https://www.dropbox.com/scl/fi/v2tjsieqk732i7e6urimh/Raaz-2002.mp4?rlkey=2lr9q1f9bw830r5sk5txo82ie&st=o878h9vx&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcwZDJhOGQtNWI5NS00MmI3LWFkYjMtNTY3OGUxMjgwMjZiXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Main Hoon Na (2004)
 https://www.dropbox.com/scl/fi/1t3r5muu3nypred0jg1st/Main-Hoon-Na-2004.mp4?rlkey=mph631qnk96pkylz25fvgrddz&st=dolo8fbb&dl=1
@@ -378,17 +370,35 @@ https://www.dropbox.com/scl/fi/fsvtblbpfnp7y0ubzcjmi/Phir-Bhi-Dil-Hai-Hindustani
 https://cloud.hownetwork.xyz/xxx/1f04c967883b0d49b5c95561d5efa39a/5/480.m3u8
 https://www.dropbox.com/scl/fi/1k56h6k62ej8l6hphfewl/Chennai-Express-2013.mp4?rlkey=cgp09ad8p7twdly3xzeu8o74h&st=zbswnnk6&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwMDkzNTA1OF5BMl5BanBnXkFtZTgwMjU1NjA3MTE@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Heropanti (2014)
-https://www.dropbox.com/scl/fi/5u09m9b1eb418x1x7w312/Heropanti-2014.mp4?rlkey=pingoq6vnetg3o1ykj4l7smbt&st=wc8a2kxb&dl=1
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg" group-title="▶ VOD BOLLYWOOD",Duplicate (1998)
 https://www.dropbox.com/scl/fi/di36k0875ofv2q1jqiv5o/Duplicate-1998.mp4?rlkey=trc7t0je4ylnj3uyd9zj3qq0g&st=y8aq8f0p&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXGeUIbEfgO3cfHuYuPkXnKVt43.jpg" group-title="▶ VOD BOLLYWOOD",Baadshah (1999)
 https://www.dropbox.com/scl/fi/9fshcobro4o5ly7hpgcvc/Baadshah-1999.mp4?rlkey=nb7690yx6wka126thavaqcpfy&st=21wu7idq&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F5%2Fgracenote%2F5f02c423b0048a7e149750a3aed0470b.jpg"  group-title="▶ VOD BOLLYWOOD",Kabhi Alvida Naa Kehna (2006)
+https://www.dropbox.com/scl/fi/wc7e2kt1sxl6mem30wfg5/Kabhi-Alvida-Naa-Kehna-2006.mp4?rlkey=wao1qkptcz541qfi2rto47wh5&st=evrhz1p3&dl=1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/621/253621-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD",Devdas (2002)
 https://www.dropbox.com/scl/fi/nagx9piqyvat3k8jcw4fr/Devdas-2002.mp4?rlkey=q878xtjrelj89w5j35ujv8ysh&st=gqbmtvhu&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgyNWUxNjItYTgxNi00ZDMzLThiMGItYjVlMjQ4NzkzOThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Om Shanti Om (2007)
+https://cloud.hownetwork.xyz/xxx/66f78886b09c9242c3f0a2b1eff79727/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc2NTYwMTE1NV5BMl5BanBnXkFtZTgwODQ5MzAwMTI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Raees (2017)
+https://cloud.hownetwork.xyz/xxx/47505c9f0bd33cb44107017469513c21/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJlNmQ2NmQtM2U3Yi00MTZjLWI1YzktY2I2MmExMzgwNmE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Swades (2004)
+https://cloud.hownetwork.xyz/xxx/b50473f94d855f68436e7d053e50447f/21/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyMTA4NDYzMV5BMl5BanBnXkFtZTcwMjk5MzcxMw@@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",My Name Is Khan (2010)
+https://cloud.hownetwork.xyz/xxx/7d6afe35875a47efb02da53c13689ef9/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzczNDNhYjctNWM2MC00Y2RlLWIyZDYtMTE1MjI0ZmVmYWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Raaz (2002)
+https://www.dropbox.com/scl/fi/v2tjsieqk732i7e6urimh/Raaz-2002.mp4?rlkey=2lr9q1f9bw830r5sk5txo82ie&st=o878h9vx&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwMDkzNTA1OF5BMl5BanBnXkFtZTgwMjU1NjA3MTE@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Heropanti (2014)
+https://www.dropbox.com/scl/fi/5u09m9b1eb418x1x7w312/Heropanti-2014.mp4?rlkey=pingoq6vnetg3o1ykj4l7smbt&st=wc8a2kxb&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.scdn.co/image/ab67616d0000b273b8e928fe24553b093c038224"  group-title="▶ VOD BOLLYWOOD",Dil Hai Tumhaara (2002)
 https://www.dropbox.com/scl/fi/85p18b69zmie5vh72hkbs/Dil-Hai-Tumhaara-2002.mp4?rlkey=aaqzltw4qnwwf9nrqijhy3pdy&st=qjgs6go6&dl=1
@@ -417,12 +427,6 @@ https://www.dropbox.com/scl/fi/ivvfa0z8hlxpr4lujpkzl/Kyon-Ki...-2005.mp4?rlkey=d
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVjMjZiNGUtZjZiNy00Yzg4LWEzYzYtMmI1NDg5NWNiNjUwXkEyXkFqcGc@._V1_.jpg"  group-title="▶ VOD BOLLYWOOD",Bajrangi Bhaijaan (2015)
 https://www.dropbox.com/scl/fi/pi83gawmdzxlm0e8zhmlk/Bajrangi-Bhaijaan-2015.mp4?rlkey=25s6x2j9nwpthu61dx4yuaqun&st=9v3ktpxv&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F5%2Fgracenote%2F5f02c423b0048a7e149750a3aed0470b.jpg"  group-title="▶ VOD BOLLYWOOD",Kabhi Alvida Naa Kehna (2006)
-https://www.dropbox.com/scl/fi/wc7e2kt1sxl6mem30wfg5/Kabhi-Alvida-Naa-Kehna-2006.mp4?rlkey=wao1qkptcz541qfi2rto47wh5&st=evrhz1p3&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQyOTRiYTQtNzU0MS00ZGM2LWE4MTktODI5ZjZiN2NkYjYyXkEyXkFqcGc@._V1_.jpg"  group-title="▶ VOD BOLLYWOOD",Raid 2 (2025)
-https://www.dropbox.com/scl/fi/yt5o7vxpueq1rezj5tt69/Raid-2-2025.mp4?rlkey=15rbnf8vri4xuwh63a3i5pcf4&st=bz0ql26x&dl=1
 
 ###EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIxYTZmMmItNmRlNy00ZDI0LWJlYmEtMjM2NTA0ZDllN2Y1XkEyXkFqcGc@._V1_.jpg"  group-title="▶ VOD BOLLYWOOD",Hum Tumhare Hain Sanam (2002)
 ###https://www.dropbox.com/scl/fi/18otte1ky1i7xgj8flugh/Hum-Tumhare-Hain-Sanam-2002.mp4?rlkey=7r0yqlhvqyob2zmpjox0gddtj&st=uvk5u3wr&dl=1
@@ -466,23 +470,14 @@ https://cloud.hownetwork.xyz/xxx/3ce2382122a335296ba77a32d28d51da/8/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjAxY2Y3OTAtY2EwOS00ZTJjLTkwNmItNGIwNjcxMmIyM2UwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Akele Hum Akele Tum (1995)
 https://cloud.hownetwork.xyz/xxx/92d49ae4f4ac6e84c45eeadaac3bf7db/20/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjVmMTlkNGYtYTM2OC00Yjc2LWIyYmQtMDY4ZmU1MWRlMjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Taare Zameen Par(2007)
+https://cloud.hownetwork.xyz/xxx/f2a11c22266ceb51b6d6e4a874a787d6/6/480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjdjODdiMTQtYWIwZi00NTQyLWE0YWItMzk3MTBhOGUyNDY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Sitaare Zameen Par (2025)
 https://cloud.hownetwork.xyz/xxx/MRE9LyQLEmw4MBopJl57KCMKZHx1S0JsFRQ1CA9vDgdyTn54cUhGdw/34/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTg5NzI3NzQzNl5BMl5BanBnXkFtZTcwMjM3MDU2OA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Talaash The Answer Lies Within (2012)
 https://cloud.hownetwork.xyz/xxx/9abbfe04bf8b673d15d4f1cd8e4029b7/21/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyMTA4NDYzMV5BMl5BanBnXkFtZTcwMjk5MzcxMw@@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",My Name Is Khan (2010)
-https://cloud.hownetwork.xyz/xxx/7d6afe35875a47efb02da53c13689ef9/25/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgyNWUxNjItYTgxNi00ZDMzLThiMGItYjVlMjQ4NzkzOThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Om Shanti Om (2007)
-https://cloud.hownetwork.xyz/xxx/66f78886b09c9242c3f0a2b1eff79727/25/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc2NTYwMTE1NV5BMl5BanBnXkFtZTgwODQ5MzAwMTI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Raees (2017)
-https://cloud.hownetwork.xyz/xxx/47505c9f0bd33cb44107017469513c21/2/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJlNmQ2NmQtM2U3Yi00MTZjLWI1YzktY2I2MmExMzgwNmE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Swades (2004)
-https://cloud.hownetwork.xyz/xxx/b50473f94d855f68436e7d053e50447f/21/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFkOWM1MTktNTg3Zi00NmI5LTg1NTQtNGFjZTMzNzBjM2VmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Holiday (2014)
 https://cloud.hownetwork.xyz/xxx/0eeae5d545737eb121992f430160550d/1/480.m3u8
@@ -560,31 +555,30 @@ https://cloud.hownetwork.xyz/xxx/3cc98852ff714f6cb1da652734e1f57b/5/480.m3u8
 https://cloud.hownetwork.xyz/xxx/271a1eb2fcaa1e719a292d1647720fd7/5/480.m3u8
 
 
-
 ######################################################▶ VOD INDIA#################################################
 
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5711602/portrait/1920x770f89e144e47944f09a3fb5f418146a3815d150ca208c940f2989295367778c9f7.jpg", 1-Game Changer (2025)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5711602/portrait/1920x770f89e144e47944f09a3fb5f418146a3815d150ca208c940f2989295367778c9f7.jpg",Game Changer (2025)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66ea1bf4756932d0a976b304eac09550:4f33eef247a89b196d7e9e7a6b9fe85d
 https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5711602
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-360780/portrait/00360780cover171284178717128f365dd6475854641b2ef6953c35d1b8c.jpg", Vijay The Master (2021)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-360780/portrait/00360780cover171284178717128f365dd6475854641b2ef6953c35d1b8c.jpg",Vijay The Master (2021)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b448776f47074cc4875a8670041e139f:f54a5f1d4402c617e1f60fae062eaef9
 https://get.perfecttv.net/zee.mpd?content_id=0-0-360780
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5148987/portrait/1920x7709e71a0e093e949a6869e3baa560b5db9b9b372d41d404b139b5004e1885f2e32.jpg", RRR (2022)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5148987/portrait/1920x7709e71a0e093e949a6869e3baa560b5db9b9b372d41d404b139b5004e1885f2e32.jpg",RRR (2022)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=710aefcdab944291abe8a552a98fad72:17ce0ce778dcc9fd9d2a493e0ef2b30d
 https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5148988
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-76092/portrait/theshaukeensms1920x770.jpg", The Shaukeens (2014)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-76092/portrait/theshaukeensms1920x770.jpg",The Shaukeens (2014)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
 https://get.perfecttv.net/zee.mpd?content_id=0-0-76092
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-76106/portrait/zanjeer2013ms1920x770.jpg", Zanjeer (2013)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-76106/portrait/zanjeer2013ms1920x770.jpg",Zanjeer (2013)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
 https://get.perfecttv.net/zee.mpd?content_id=0-0-76106
@@ -604,97 +598,97 @@ https://get.perfecttv.net/zee.mpd?content_id=0-0-1z562203
 #KODIPROP:inputstream.adaptive.license_key=17cd10f25e1e3a0ea9266c3e0dca0767:71284817877187d7f8298d07d64f9556
 https://get.perfecttv.net/zee.mpd?content_id=0-0-399328
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5489618/portrait/1920x7706d131bcebf304ad7b6332f105020eec2742207eab07a44cb9ca27a6bc911e4c277fbd65ab4a94a70924149cd2abb634f.jpg", 3-Tejas (2023)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5489618/portrait/1920x7706d131bcebf304ad7b6332f105020eec2742207eab07a44cb9ca27a6bc911e4c277fbd65ab4a94a70924149cd2abb634f.jpg",Tejas (2023)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4181bb20bb253d3d86d0105abfee6985:47f679216d2d33e27767fef26d4feb4e
 https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5489618
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5535878/portrait/1920x7701fd093d1b0b94fe2be3d46e8ff008f8be33c38c3c18c47cd84985863b44f0296.jpg", 3-Silence 2 (2024)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5535878/portrait/1920x7701fd093d1b0b94fe2be3d46e8ff008f8be33c38c3c18c47cd84985863b44f0296.jpg",Silence 2 (2024)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdd47b236ddc30f0a8f3de146d2ce29b:2ca17434e180ae8cda1ac7f023d3c5b1
 https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5535878
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-369273/portrait/1920x770pg3da76baf5c934f039fedb3c764027e8939b917c3d69a4f1aa250541ee517618d.jpg", 3-Silence (2021)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-369273/portrait/1920x770pg3da76baf5c934f039fedb3c764027e8939b917c3d69a4f1aa250541ee517618d.jpg",Silence (2021)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6326bcf03ece4270a75bdc9e188deaf0:b7e7992edeee6cc8111dd8b155d5e539
 https://get.perfecttv.net/zee.mpd?content_id=0-0-369273
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z51248/portrait/1920x770b4bda81746aa4230a9525ac25305c7e62d9759c955f34a88a28ab8b15cab8185.jpg", 3-Silence (2021)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z51248/portrait/1920x770b4bda81746aa4230a9525ac25305c7e62d9759c955f34a88a28ab8b15cab8185.jpg",Silence (2021)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=37ae0f7828aa3e92a8607bcbec816daa:c92d8d2973bdd8c13547e3989af7c4c8
 https://get.perfecttv.net/zee.mpd?content_id=0-0-1z51248
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-76100/portrait/wantedms1920x770.jpg", Wanted (2009)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-76100/portrait/wantedms1920x770.jpg",Wanted (2009)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
 https://get.perfecttv.net/zee.mpd?content_id=0-0-76100
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-75335/portrait/noproblemms1920x770.jpg", No Problem (2010)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-75335/portrait/noproblemms1920x770.jpg",No Problem (2010)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
 https://get.perfecttv.net/zee.mpd?content_id=0-0-75335
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1803765767/portrait/TimeStory1920x7702e3b15ada92d419d95ef0d15a7919a63.jpg", Time Story (2016)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1803765767/portrait/TimeStory1920x7702e3b15ada92d419d95ef0d15a7919a63.jpg",Time Story (2016)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
 https://get.perfecttv.net/zee.mpd?content_id=0-0-movie_1803765767
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5437988/portrait/1920x77081e7c3745a454a7abb902aee403be0cc7493d090b093437b882068aedf4c9b44.jpg", 2-Gadar 2(2023)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5437988/portrait/1920x77081e7c3745a454a7abb902aee403be0cc7493d090b093437b882068aedf4c9b44.jpg",Gadar 2(2023)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=29ecbefd8e9d4fcfa09878f74d5eb2b9:e9b3117837b8974aa1a9160697c0e46c
 https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5437988
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-gadarekpremkatha/portrait/1920x7705c04ad289f4b421c82e4b963c0f3023a92d70d3a98d94df6bae13eb1354ebed1.jpg", 2-Gadar (2001)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-gadarekpremkatha/portrait/1920x7705c04ad289f4b421c82e4b963c0f3023a92d70d3a98d94df6bae13eb1354ebed1.jpg",Gadar (2001)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9908bd2b24f14a23be78485f50c1e0d5:15115e4625c141b42a51a57821cb9077
 https://get.perfecttv.net/zee.mpd?content_id=0-0-gadarekpremkatha
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1968889812/portrait/parmanu1920x7713299746381329e2a83e087fec42bb8ac77b44e3553b88.jpg", Parmanu (2018)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1968889812/portrait/parmanu1920x7713299746381329e2a83e087fec42bb8ac77b44e3553b88.jpg",Parmanu (2018)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5410fb4b52153cbcb582d36ae02c3206:4adae9d84e70cc6ee0dff4eb8a763df6
 https://get.perfecttv.net/zee.mpd?content_id=0-0-movie_1968889812
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-33204/portrait/1920x7702d80a677f77344018de1aee544a1ebc06de1cecda4914edcba121d7d20095255.jpg", Uri: The Surgical Strike (2019)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-33204/portrait/1920x7702d80a677f77344018de1aee544a1ebc06de1cecda4914edcba121d7d20095255.jpg",Uri: The Surgical Strike (2019)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=29e36b4ea9233111bae841feed8ab309:a887017aeb89f1caf6cfad43fb1b4a4e
 https://get.perfecttv.net/zee.mpd?content_id=0-0-33204
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-131607/portrait/commando31920x549652121549a090707caf344028adf800c0ca2868bd.jpg", Commando 3 (2019)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-131607/portrait/commando31920x549652121549a090707caf344028adf800c0ca2868bd.jpg",Commando 3 (2019)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=573329b9a5aa33558448ef00b75f1a72:21c27675aba7d3005c768c58f2629ccd
 https://get.perfecttv.net/zee.mpd?content_id=0-0-131607
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-2348/portrait/shaktithepower1920x770.jpg", Shakti-The Power (2002)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-2348/portrait/shaktithepower1920x770.jpg",Shakti-The Power (2002)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72403831c5ef4802a0aee84f4f0a5e30:8d039e975b530b97c283f0e6e3b0a0f8
 https://get.perfecttv.net/zee.mpd?content_id=0-0-2348
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206274/portrait/1920x770192a79cb947f40b5a19e9f4e3f2e15c6.jpg", Khuda Haafiz Chapter 2: Agni Pariksha(2022)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206274/portrait/1920x770192a79cb947f40b5a19e9f4e3f2e15c6.jpg",Khuda Haafiz Chapter 2: Agni Pariksha(2022)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c811dc1f26aa3b3bae7ad335dcf59c6f:4800e7e8ca427d16fb6b77310533e885
 https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5206274
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x770d40be52fee38464ea5d389f46e08f4c3.jpg", Raksha Bandhan (2022)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x770d40be52fee38464ea5d389f46e08f4c3.jpg",Raksha Bandhan (2022)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d319030dc68475e972d458c923eaddf:6d59b1c30a0264491fe6c7b6e5cef0b0
 https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5228525
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_2077184162/portrait/1920x770377254293ab14ae08ceeecf9b172d629303371a236784cbfa0d1009c64ac2144.jpg", Pad Man (2018)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_2077184162/portrait/1920x770377254293ab14ae08ceeecf9b172d629303371a236784cbfa0d1009c64ac2144.jpg",Pad Man (2018)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d21bce077683b238187ca277017f3d0:4885a1c5a11187b0ebc3c0d33edf4451
 https://get.perfecttv.net/zee.mpd?content_id=0-0-movie_2077184162
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-toiletekpremkatha/portrait/1920x7701497425846.jpg", Toilet (2017)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-toiletekpremkatha/portrait/1920x7701497425846.jpg",Toilet (2017)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6309f3bc55a7367784a7651e697fb7af:00deba05bcae1cb72c3a0f28c1782b38
 https://get.perfecttv.net/zee.mpd?content_id=0-0-toiletekpremkatha
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-68177/portrait/simmbams17th1920x770.jpg", Simmba (2018)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-68177/portrait/simmbams17th1920x770.jpg",Simmba (2018)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
 https://get.perfecttv.net/zee.mpd?content_id=0-0-36802
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_2116148677/portrait/1920x7701953436430.jpg", Suriya S3 (2017)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_2116148677/portrait/1920x7701953436430.jpg",Suriya S3 (2017)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cab5e349d5439e9c998ee73c9325f9:1300db727c18e85480952f890485e1bd
 https://get.perfecttv.net/zee.mpd?content_id=0-0-movie_2116148677
@@ -704,75 +698,75 @@ https://get.perfecttv.net/zee.mpd?content_id=0-0-movie_2116148677
 #KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
 https://get.perfecttv.net/zee.mpd?content_id=0-0-2488
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/bolt_assets/portrait_thumb/1741071325810_Marco_hp_26feb_portrait_thumb.jpg?h=474&w=316&q=high", 1-Sony-Marco (2024)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/bolt_assets/portrait_thumb/1741071325810_Marco_hp_26feb_portrait_thumb.jpg?h=474&w=316&q=high",Marco (2024)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04d7495233fe4cc9af24c4397d700000:ad799bfb4de8431e9cca1277439c333d
 https://get.perfecttv.net/sonyliv.mpd?video_id=1090468630&content_id=505453173
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/blitz_assets/1090470555/portraitThumb/1742383454480_Rekhachithram_14mar_rating_rev_hotpick_portrait_thumb.jpg?h=494&w=344&q=high", 1-Sony-Rekhachithram (2024)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/blitz_assets/1090470555/portraitThumb/1742383454480_Rekhachithram_14mar_rating_rev_hotpick_portrait_thumb.jpg?h=494&w=344&q=high",Rekhachithram (2024)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47edc2b26a84cc1ace958cb48140000:8313cb526a06496e8ed6587a1efc9a16
 https://get.perfecttv.net/sonyliv.mpd?video_id=1090470555&content_id=505555857
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/blitz_assets/1590014254/portraitThumb/1741851340859_AGENT_Portrait_Thumb_NewMovie.jpg?h=494&w=344&q=high", 1-Sony-Agent (2023)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/blitz_assets/1590014254/portraitThumb/1741851340859_AGENT_Portrait_Thumb_NewMovie.jpg?h=494&w=344&q=high",Agent (2023)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=559cb6f839ee4030a6c292c13f780000:8df546a55e6c4b2a943e564047ab253a
 https://get.perfecttv.net/sonyliv.mpd?video_id=1090471577&content_id=505555857
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/blitz_assets/videoasset_images/ANDROID_PHONE/turbo_10sep_portrait_thumb.jpg?h=474&w=316&q=high", 1-Sony-Turbo (2023)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/blitz_assets/videoasset_images/ANDROID_PHONE/turbo_10sep_portrait_thumb.jpg?h=474&w=316&q=high",Turbo (2023)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1608d96be71e42f488b52bdf36870000:8441d09b4bbf4914be49e33908d421a6
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000285694&content_id=505555857
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/james_kannada_19oct_portrait_thumb.jpg?h=484&w=344&q=high", 1-Sony-James (2022)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/james_kannada_19oct_portrait_thumb.jpg?h=484&w=344&q=high",James (2022)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bd5662cb36a4e19b81d03e98f770000:eb6e765edaf44aa885a6ae09348834cd
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000168201&content_id=505453173
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/portrait_thumb/RamaraoOnDuty_15SEP_telugu_INT_Portrait_Thumb.jpg?h=494&w=344&q=high", 1-Sony-Ramarao On Duty (2022)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/portrait_thumb/RamaraoOnDuty_15SEP_telugu_INT_Portrait_Thumb.jpg?h=494&w=344&q=high",Ramarao On Duty (2022)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=962906689fbb412b9ec9319bd67b0000:e59181cf1145406ab17155c44aba6a41
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000188659&content_id=505453173
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/toby_20dec_kannada_portrait_thum.jpg?h=494&w=344&q=high", 1-Sony-Toby (2023)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/toby_20dec_kannada_portrait_thum.jpg?h=494&w=344&q=high",Toby (2023)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4d50e285c74897b79ba45e2fb10000:d1abcf3c1a2e431f995c4d70a41ebdb7
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000256814&content_id=505555857
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/porthozhil_tamil_19oct_portrait_thumb.jpg?h=484&w=344&q=high", 1-Por Thozhil  (2023)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/porthozhil_tamil_19oct_portrait_thumb.jpg?h=484&w=344&q=high",Por Thozhil  (2023)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=19fa2c9f47a14c0ea2448cada9c20000:6df3a90159d140e1906a49baa788d370
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000231233&content_id=505555857
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/re_nenjukuneedhi_3_02nov_telugu_portrait_thumb.jpg?h=494&w=344&q=high", 1-Nenjuku Needhi  (2022)
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD INDIA" tvg-logo="https://images.slivcdn.com/videoasset_images/re_nenjukuneedhi_3_02nov_telugu_portrait_thumb.jpg?h=494&w=344&q=high",Nenjuku Needhi  (2022)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8c3f3cb46ca47b9a4546eac0fe30000:6e3699bbf8c442f5b872637a7e5a7ca4
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000176017&content_id=505555857
 
 
-#EXTINF:-1 tvg-id="" tvg-name="1418-Mandela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9A7nv8ac8VrXDt6tgu4UXi2zAq.jpg" group-title="▶ VOD INDIA",1418-Mandela (2021)
+#EXTINF:-1 tvg-id="" tvg-name="1418-Mandela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9A7nv8ac8VrXDt6tgu4UXi2zAq.jpg" group-title="▶ VOD INDIA",Mandela (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1414-The Goat Life (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwRkVhvJuAFz4i8udXMNkcJCztc.jpg" group-title="▶ VOD INDIA",1414-The Goat Life (2024)
+#EXTINF:-1 tvg-id="" tvg-name="1414-The Goat Life (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwRkVhvJuAFz4i8udXMNkcJCztc.jpg" group-title="▶ VOD INDIA",The Goat Life (2024)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1383-Salaar: Part 1 - Ceasefire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G1C677cokQKFHbUKG9sVlIGOiX.jpg" group-title="▶ VOD INDIA",1383-Salaar: Part 1 - Ceasefire (2023)
+#EXTINF:-1 tvg-id="" tvg-name="1383-Salaar: Part 1 - Ceasefire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G1C677cokQKFHbUKG9sVlIGOiX.jpg" group-title="▶ VOD INDIA",Salaar: Part 1 - Ceasefire (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1358-Crakk: Jeetega... Toh Jiyegaa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmrjo8M4rm6NhkBKk20wDSj91go.jpg" group-title="▶ VOD INDIA",1358-Crakk: Jeetega... Toh Jiyegaa (2024)
+#EXTINF:-1 tvg-id="" tvg-name="1358-Crakk: Jeetega... Toh Jiyegaa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmrjo8M4rm6NhkBKk20wDSj91go.jpg" group-title="▶ VOD INDIA",Crakk: Jeetega... Toh Jiyegaa (2024)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1320-Mission: Chapter 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpDtEjfzys5p8f5cv1T9l8Iqjel.jpg" group-title="▶ VOD INDIA",1320-Mission: Chapter 1 (2024)
+#EXTINF:-1 tvg-id="" tvg-name="1320-Mission: Chapter 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpDtEjfzys5p8f5cv1T9l8Iqjel.jpg" group-title="▶ VOD INDIA",Mission: Chapter 1 (2024)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1290-Captain Miller (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qKnVaE5BvA2fO1L6r4i1ScX34G.jpg" group-title="▶ VOD INDIA",1290-Captain Miller (2024)
+#EXTINF:-1 tvg-id="" tvg-name="1290-Captain Miller (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qKnVaE5BvA2fO1L6r4i1ScX34G.jpg" group-title="▶ VOD INDIA",Captain Miller (2024)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1251-Chandramukhi 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OT9dFROPL4t53tt3WQ4rl033zC.jpg" group-title="▶ VOD INDIA",1251-Chandramukhi 2 (2023)
+#EXTINF:-1 tvg-id="" tvg-name="1251-Chandramukhi 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OT9dFROPL4t53tt3WQ4rl033zC.jpg" group-title="▶ VOD INDIA",Chandramukhi 2 (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1207-Pizza 3: The Mummy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AozhsNFfa5Qn2ETztnhpALmlWIy.jpg" group-title="▶ VOD INDIA",1207-Pizza 3: The Mummy (2023)
+#EXTINF:-1 tvg-id="" tvg-name="1207-Pizza 3: The Mummy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AozhsNFfa5Qn2ETztnhpALmlWIy.jpg" group-title="▶ VOD INDIA",Pizza 3: The Mummy (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4522.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1206-Spy (2023)" tvg-logo="https://i.ibb.co/ngf67Jm/1695351461294.png" group-title="▶ VOD INDIA",1206-Spy (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1205-Maayon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdfmTnEyGDN46o6q1gUxuNdoQv8.jpg" group-title="▶ VOD INDIA",1205-Maayon (2022)
+#EXTINF:-1 tvg-id="" tvg-name="1205-Maayon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdfmTnEyGDN46o6q1gUxuNdoQv8.jpg" group-title="▶ VOD INDIA",Maayon (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1201-Ramabanam (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYpJc2TdwJugZF3cG7o7HWwixQy.jpg" group-title="▶ VOD INDIA",1201-Ramabanam (2023)
+#EXTINF:-1 tvg-id="" tvg-name="1201-Ramabanam (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYpJc2TdwJugZF3cG7o7HWwixQy.jpg" group-title="▶ VOD INDIA",Ramabanam (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1193-Jailer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTmMxAHqX4vsIDE6HPPxOR0Q6TN.jpg" group-title="▶ VOD INDIA",1193-Jailer (2023)
+#EXTINF:-1 tvg-id="" tvg-name="1193-Jailer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTmMxAHqX4vsIDE6HPPxOR0Q6TN.jpg" group-title="▶ VOD INDIA",Jailer (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4526.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pathaan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg" group-title="▶ VOD INDIA",Pathaan (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4527.mp4
@@ -780,37 +774,35 @@ http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4527.mp4
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4528.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Thandatti (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avhTPLXG3Gedvu5nc7nFt2eXTNy.jpg" group-title="▶ VOD INDIA",Thandatti (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="967-Drishyam 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJNNwHQuKYNeHFbsxSFR6yK9Dda.jpg" group-title="▶ VOD INDIA",967-Drishyam 2 (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1466-Satellite Shankar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGyHwFAgCGNTqz2VpSlcx6Uyf82.jpg" group-title="▶ VOD INDIA",1466-Satellite Shankar (2019)
+#EXTINF:-1 tvg-id="" tvg-name="1466-Satellite Shankar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGyHwFAgCGNTqz2VpSlcx6Uyf82.jpg" group-title="▶ VOD INDIA",Satellite Shankar (2019)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1293-Theri (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6BhexotEqO3GejXa3FopBNGL6M.jpg" group-title="▶ VOD INDIA",1293-Theri (2016)
+#EXTINF:-1 tvg-id="" tvg-name="1293-Theri (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6BhexotEqO3GejXa3FopBNGL6M.jpg" group-title="▶ VOD INDIA",Theri (2016)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="936-Cuttputlli (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVQweL2bdoTlmrVYbcicZQ5VcNP.jpg" group-title="▶ VOD INDIA",936-Cuttputlli (2022)
+#EXTINF:-1 tvg-id="" tvg-name="936-Cuttputlli (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVQweL2bdoTlmrVYbcicZQ5VcNP.jpg" group-title="▶ VOD INDIA",Cuttputlli (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="921-Vikram (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg" group-title="▶ VOD INDIA",921-Vikram (2022)
+#EXTINF:-1 tvg-id="" tvg-name="921-Vikram (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg" group-title="▶ VOD INDIA",Vikram (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="915-RRR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg" group-title="▶ VOD INDIA",915-RRR (2022)
+#EXTINF:-1 tvg-id="" tvg-name="915-RRR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg" group-title="▶ VOD INDIA",RRR (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="913-K.G.F: Chapter 1 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43ZvmTzIJ0tTzgLG8sDOfg9roLF.jpg" group-title="▶ VOD INDIA",913-K.G.F: Chapter 1 (2018)
+#EXTINF:-1 tvg-id="" tvg-name="913-K.G.F: Chapter 1 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43ZvmTzIJ0tTzgLG8sDOfg9roLF.jpg" group-title="▶ VOD INDIA",K.G.F: Chapter 1 (2018)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="914-K.G.F: Chapter 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNVygolU0TxLIDWff5tQlAhZ23.jpg" group-title="▶ VOD INDIA",914-K.G.F: Chapter 2 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="914-K.G.F: Chapter 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNVygolU0TxLIDWff5tQlAhZ23.jpg" group-title="▶ VOD INDIA",K.G.F: Chapter 2 (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="912-Looop Lapeta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onGdT8sYi89drvSJyEJnft97rOq.jpg" group-title="▶ VOD INDIA",912-Looop Lapeta (2022)
+#EXTINF:-1 tvg-id="" tvg-name="912-Looop Lapeta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onGdT8sYi89drvSJyEJnft97rOq.jpg" group-title="▶ VOD INDIA",Looop Lapeta (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="911-A Thursday (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnoyG3rPuKAHeRbNlwuyiC08Sya.jpg" group-title="▶ VOD INDIA",911-A Thursday (2022)
+#EXTINF:-1 tvg-id="" tvg-name="911-A Thursday (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnoyG3rPuKAHeRbNlwuyiC08Sya.jpg" group-title="▶ VOD INDIA",A Thursday (2022)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4543.mp4
-#EXTINF:-1 tvg-id="" tvg-name="909-Sooryavanshi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCymRm6FG62zrKnXiHHJvDgkYoA.jpg" group-title="▶ VOD INDIA",909-Sooryavanshi (2021)
+#EXTINF:-1 tvg-id="" tvg-name="909-Sooryavanshi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCymRm6FG62zrKnXiHHJvDgkYoA.jpg" group-title="▶ VOD INDIA",Sooryavanshi (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="908-The Priest (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EGaC5OlAyIDxD22Eb3ovBKb8Oh.jpg" group-title="▶ VOD INDIA",908-The Priest (2021)
+#EXTINF:-1 tvg-id="" tvg-name="908-The Priest (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EGaC5OlAyIDxD22Eb3ovBKb8Oh.jpg" group-title="▶ VOD INDIA",The Priest (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4545.mp4
-#EXTINF:-1 tvg-id="" tvg-name="907-Bhoot Police (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sysjlCKktlf0t0Ck4ArVNo1kai.jpg" group-title="▶ VOD INDIA",907-Bhoot Police (2021)
+#EXTINF:-1 tvg-id="" tvg-name="907-Bhoot Police (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sysjlCKktlf0t0Ck4ArVNo1kai.jpg" group-title="▶ VOD INDIA",Bhoot Police (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="905-Narappa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEZDTXGoTsw9cLzLii6NUIuvpQ6.jpg" group-title="▶ VOD INDIA",905-Narappa (2021)
+#EXTINF:-1 tvg-id="" tvg-name="905-Narappa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEZDTXGoTsw9cLzLii6NUIuvpQ6.jpg" group-title="▶ VOD INDIA",Narappa (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="904-Malik (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLSOpgy8K7UEjFZTTCmRXsBBJNo.jpg" group-title="▶ VOD INDIA",904-Malik (2021)
+#EXTINF:-1 tvg-id="" tvg-name="904-Malik (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLSOpgy8K7UEjFZTTCmRXsBBJNo.jpg" group-title="▶ VOD INDIA",Malik (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="902-Vittalwadi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWAXEN7fh5iaU69nBiQU2HXt7bb.jpg" group-title="▶ VOD INDIA",902-Vittalwadi (2021)
+#EXTINF:-1 tvg-id="" tvg-name="902-Vittalwadi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWAXEN7fh5iaU69nBiQU2HXt7bb.jpg" group-title="▶ VOD INDIA",Vittalwadi (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4550.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bagheera (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sx9vGOozrntDzlZnePoHitJakZ.jpg" group-title="▶ VOD INDIA",Bagheera (2024)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4190.mp4
