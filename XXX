@@ -1,7 +1,8 @@
-#EXTM3U
+#EXTM3U url=""
 
 
 ###################################XXX####################################
+
 
 #EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",PFAS-029
 https://surrit.com/956ae373-ab24-4952-8cf6-982daf3e3020/480p/video.m3u8
