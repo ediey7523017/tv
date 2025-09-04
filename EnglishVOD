@@ -4,6 +4,12 @@
 ################################################▶ VOD ENGLISH##################################################
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyMWIzM2QtMzdkZi00YWJlLWFjOTgtOWI3ZDIwODUwZGU0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",The Great Wall (2016)
+https://cloud.hownetwork.xyz/xxx/7d113adda3f145f10c3ccf8b07b5ad60/5/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Troy (2004)
+https://cloud.hownetwork.xyz/xxx/57bccb62d437d987108c83ef624beadb/11/480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ0NDgwODQ3NV5BMl5BanBnXkFtZTgwOTYxNjc2ODE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Now You See Me 2 (2016)
 https://cloud.hownetwork.xyz/xxx/dbaec52aab30037a37dd78061a77fee0/11/480.m3u8
 
@@ -283,8 +289,6 @@ http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4212.mp4
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4214.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1626-Five Nights at Freddy's (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dKRTUylqwXQ4VJz0BS84fqW2wa.jpg" group-title="▶ VOD ENGLISH",Five Nights at Freddy's (2023)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="970-Despicable Me 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg" group-title="▶ VOD ENGLISH",Despicable Me 4 (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4453.mp4
 #EXTINF:-1 tvg-id="" tvg-name="987-Land of Bad (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Land of Bad (2024)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4455.mp4
 
