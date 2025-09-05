@@ -4,282 +4,373 @@
 ################################################▶ VOD ENGLISH##################################################
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIwMzExNDEwN15BMl5BanBnXkFtZTYwODMxMzg2._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Gone in Sixty Seconds (2000)
 https://cloud.hownetwork.xyz/xxx/2ed23105cfcadfd5e0b91710356b54d2/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg3Mjg0MDY4M15BMl5BanBnXkFtZTcwNjY5MDQ2NA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Original Sin (2001)
 https://cloud.hownetwork.xyz/xxx/edf1e3e119eb00def3214fd5d3e6dffc/4/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxMzcxNzQzOF5BMl5BanBnXkFtZTcwMzQxNjUyMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Mr. & Mrs. Smith (2005)
 https://cloud.hownetwork.xyz/xxx/3a41914dd0186397459bcffef0330941/25/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjQxMTE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Wanted (2008)
 https://cloud.hownetwork.xyz/xxx/1974dfef27d0a9f084f7a5c4bb5d9aa8/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyMzc3OTkwMV5BMl5BanBnXkFtZTcwMjc0MTgwNA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Tourist (2010)
 https://cloud.hownetwork.xyz/xxx/35e7571503159c253ce98f1f2b59093c/8/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2OGYzMDQtZjAyZi00M2I2LTgxMDYtMThjNWMyMmY0MmZhXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Salt (2010)
 https://cloud.hownetwork.xyz/xxx/6278787db3e02b91a1189a47a57f6c71/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAwMzAzMzExOF5BMl5BanBnXkFtZTgwOTcwMDA5MTE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Maleficent (2014)
 https://cloud.hownetwork.xyz/xxx/69d6836f6ba698f167763e407e74e4a2/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTY4YjYwYzMtYTg1NC00ZmJiLTk0OTYtMWMzM2Y4Yzc5MDc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Maleficent: Mistress of Evil (2019)
 https://cloud.hownetwork.xyz/xxx/a83c94fbad14d285e0784dd75970ac7a/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Last Witch Hunter (2015)
 https://cloud.hownetwork.xyz/xxx/803c30f3090185903a66d0ce1b242d7a/3/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcwMjkxMzQ3NV5BMl5BanBnXkFtZTgwMzgyNDA5MDI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",xXx: Return of Xander Cage(2017)
 https://cloud.hownetwork.xyz/xxx/5de64b56c4a452420e8f25e2b677e706/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTliNDIxZTUtOGViNC00Mzk4LThkYWEtNDFiMjU0ZTcwYjhhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",xXx: State of the Union (2005)
 https://cloud.hownetwork.xyz/xxx/6aa2a8c1d1ddf8fa1ca864ec5f620ed0/25/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjY0MTc4ZDEtY2MxYi00ODIxLWJlNzQtZTlmZDVkYTYwM2NhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",xXx (2002)
 https://cloud.hownetwork.xyz/xxx/877e639a5f093f9eafc988f7172a5bc8/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIwNWU2NTEtMDQ0Yi00MjFkLThhN2UtMjJhOGVjN2UyYzFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Tomb Raider (2018)
 https://cloud.hownetwork.xyz/xxx/cbd52915d44c58a64fa2781e93cc01f6/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM4NzNiNDktOTlhMi00MjVkLTg0NGYtZTQ4MmVmMDNiY2ZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Lara Croft Tomb Raider: The Cradle of Life (2003)
 https://cloud.hownetwork.xyz/xxx/e7514833ad470b213f936efe4f113c06/3/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxYzIyZWItZWRiOS00ODliLWI3ZTEtZTA4NTg4OGQwZDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Lara Croft: Tomb Raider (2001)
 https://cloud.hownetwork.xyz/xxx/430edf044f11954f67f60adb44338833/23/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5NzYwMzQ4MV5BMl5BanBnXkFtZTcwMjE5MTI1OQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Riddick (2013)
 https://cloud.hownetwork.xyz/xxx/6f1326d15b1dc60871e1793b81c2bcb7/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJkZGI1MTktNmNiMS00NTE5LTkyY2EtZjkyMDZjMzdhZTJjXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",The Chronicles of Riddick (2004)
 https://cloud.hownetwork.xyz/xxx/46c6bf2944bd3d5e8c77b577ea608b77/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWZmYzI5OWMtZDg4Ny00ZThiLWFjYjQtNjQ1NzA1MWY1OTJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",10 000 BC (2008)
 https://cloud.hownetwork.xyz/xxx/d3e573816f73a98f5ad90989f727ef9b/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk1NmE2YWItMmNkZi00OTEzLWJkMzctNjFlOWE3Njg2OGI0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Tears of the Sun (2003)
 https://cloud.hownetwork.xyz/xxx/d784058d77a8979a78c2eda8703a446d/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmM1ZTEzNDUtYzUwOC00ZjljLTg3NDQtZDA2ZGM3ZmQzNTc5XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Surrogates (2009)
 https://cloud.hownetwork.xyz/xxx/cb04db8d4fae2b24e3180c6347888877/19/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",A Good Day to Die Hard (2013)
 https://cloud.hownetwork.xyz/xxx/f60d7b9745cc1b548e9af3e5f41a2f7e/3/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQxMDE1OTg4NV5BMl5BanBnXkFtZTcwMTMzOTQzMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Live Free or Die Hard (2007)
 https://cloud.hownetwork.xyz/xxx/6fb2b5ed269c77db8420fcae0c826fe2/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ4NTI1MTEzM15BMl5BanBnXkFtZTcwNDc3NDc1Mw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Centurion (2010)
 https://cloud.hownetwork.xyz/xxx/90be19bc003166ce1b94046e89726c44/8/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJjMDczZDktM2NhYS00NTgxLWE5MDctN2JlOGM0NzI1MDU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Outlander (2008)
 https://cloud.hownetwork.xyz/xxx/d2a4cbdc31662f9ac220a0d097823cec/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMwY2M0MGQtYzBkYS00YWZkLTg0YWUtZThkMzcwNjRjOTJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Inkheart (2008)
 https://cloud.hownetwork.xyz/xxx/e4990b8f23036a0381a108bb7e7ddd31/20/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Prisoners (2013)
 https://cloud.hownetwork.xyz/xxx/6902385279a67dfaa1cdfb840885d85d/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Nocturnal Animals (2016)
 https://cloud.hownetwork.xyz/xxx/0971d8f70a1d57d820ef52a359a596e3/21/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MTc3MzMzNV5BMl5BanBnXkFtZTcwNDE4MjE0NA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Source Code (2011)
 https://cloud.hownetwork.xyz/xxx/afc5396446d5d02b4ed8429c02fa6709/23/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZiY2RmNjgtYzYyZi00ZGEyLTlkOTUtZDc5OTUzY2NlMmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Ambulance (2022)
 https://cloud.hownetwork.xyz/xxx/3bda4a6287e015a416c10e1d4aa026a8/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwNDg0NzcyMV5BMl5BanBnXkFtZTcwNjg4MjQyMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Prince of Persia: The Sands of Time (2010)
 https://cloud.hownetwork.xyz/xxx/d0de3c6dab34e2f46410882253f2939f/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjkxNTAwNTQ0M15BMl5BanBnXkFtZTYwMTQwMjM3._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Scorpion King (2002)
 https://cloud.hownetwork.xyz/xxx/0b48899fc15a71bf7077c2ca78882de7/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI4ODc0M2MtOTIzYi00MmQ0LTg4NDMtMTZiMjQyZTNmYTNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Rundown (2003)
 https://cloud.hownetwork.xyz/xxx/07e0decb5deee4b564efae022298a2cb/21/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0MjYzNzM1N15BMl5BanBnXkFtZTcwMDcwNDc3NA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Walking Tall (2004)
 https://cloud.hownetwork.xyz/xxx/bde63eb12344fc58f99340fadc77d43e/24/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk4NTAwNTAzN15BMl5BanBnXkFtZTcwNjczODYzMQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Gridiron Gang (2006)
 https://cloud.hownetwork.xyz/xxx/2a28e940e46e2fd53d2b09bd239dc264/6/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyOTQ5MTAxOF5BMl5BanBnXkFtZTcwOTYzMDg5Mw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Faster (2010)
 https://cloud.hownetwork.xyz/xxx/b90f11532595ee9e03a07d4f51136c13/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI2MmZjMDItYmE2MS00OGE2LTk3MzYtMGNmODQ3YmJhMzlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Pain & Gain (2013)
 https://cloud.hownetwork.xyz/xxx/9de59ba17a4654c9c7d975427e0063fa/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyMGQ4MWYtZmMyYi00M2JhLWFhZmQtNWM5MTVjYjk1MTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Journey to the Center of the Earth (2008)
 https://cloud.hownetwork.xyz/xxx/43b41740f7417904c45cf92cbd350688/25/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5MTE1MjQyNV5BMl5BanBnXkFtZTcwODI4NDMwNw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Journey 2: The Mysterious Island (2012)
 https://cloud.hownetwork.xyz/xxx/04126131ffba7e000e3a5f2a1bf7dd51/3/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4MTYzNjA3Nl5BMl5BanBnXkFtZTcwMzcyNDA5OA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Snitch (2013)
 https://cloud.hownetwork.xyz/xxx/a25c3046503b03ccf4f55f06057730db/21/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ4ODA5MTA4OF5BMl5BanBnXkFtZTgwNjMyODM5MTE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Hercules (2014)
 https://cloud.hownetwork.xyz/xxx/5ffa6832b604b7e2ffd3f48632e396dc/25/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQzNDEzMzMtM2U5OS00YTUzLWI2NDYtYjI2NjAyNWE5YzMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",San Andreas (2015)
 https://cloud.hownetwork.xyz/xxx/016e4f8c219e98bc06b6dc68b64e06af/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYyYTExNWMtZGYyYy00YTEzLTg5MzEtY2YyMDI3MDNlMjcwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Skyscraper (2018)
 https://cloud.hownetwork.xyz/xxx/11df8f280fec8a2a3c334e8a5b9b622d/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Rampage (2018)
 https://cloud.hownetwork.xyz/xxx/f18bc6f8562a2fd34acf1889aa08bd2a/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU5ZTBkMjQtMzg2Yi00ZmJlLTk4YWEtYTc0ZjU1YzE1NGNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Jungle Cruise (2021)
 https://cloud.hownetwork.xyz/xxx/c2088ede00e17f49f7570f36799ffe4d/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmM3OTM4NDktMmI2NS00OWU0LTg4OTQtNjZhMmFkYjhmOGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Black Adam (2022)
 https://cloud.hownetwork.xyz/xxx/a535f78ff82628b6d4cad0e6a78f34a1/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFkMjE4NjQtZTVmZS00MDZjLWE2ZmEtZTkzODljNjhlNWUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Red One (2024)
 https://cloud.hownetwork.xyz/xxx/3c05acf2dbc1f58b14abb53951c9de8a/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQyMDc5MWQtODc3My00NjBhLWI4MjEtNTZkYmE2NDNlMmM3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Deepwater Horizon (2016)
 https://cloud.hownetwork.xyz/xxx/f31b227693f871abba4a6ae9d1d9ca62/10/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmExZjM5Y2YtNjQwMi00MTU4LTkwYzItM2M3YjkzOTRmMmIxXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Contraband (2012)
 https://cloud.hownetwork.xyz/xxx/39dfd3be5ab0b40aa41653caf6c07be4/20/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4NzM3Njg2NV5BMl5BanBnXkFtZTcwNjU4NDczMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Four Brothers (2005)
 https://cloud.hownetwork.xyz/xxx/a4842f92409699b1e75048bc851cf5b0/20/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFjM2QyMDAtZWE4Mi00OGExLWIxOTktMjE0ZTNjNjY5Y2Q3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",The Italian Job (2003)
 https://cloud.hownetwork.xyz/xxx/ba9de7ebfc9d10a760499590405e8d38/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg" group-title="▶ VOD ENGLISH",The Departed (2006)
 https://cloud.hownetwork.xyz/xxx/049109601317a876080312433ddb4e54/8/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE0NWZiMjktY2U4MC00MDVmLTljMGMtMWZiMThiNjczNzViXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Shooter (2007)
 https://cloud.hownetwork.xyz/xxx/c5224d0027438886bae637a171b272a9/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQxYWNiNzgtOTc2Yi00OGEwLTk5MjAtODdiZTk0ZDJlZGY4XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Uncharted (2022)
 https://cloud.hownetwork.xyz/xxx/b061b47f44be99bcd8a793f5666555b4/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM5MWU2MjUtYTYzNy00YTJlLWI3ZTAtODcxZmUyODNjZmViXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",2 Guns (2013)
 https://cloud.hownetwork.xyz/xxx/c474dabc388682c72d84432b996a603a/4/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5ODkyMjA2Nl5BMl5BanBnXkFtZTcwNTcyNTgzNw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Safe House (2012)
 https://cloud.hownetwork.xyz/xxx/1a6813d880a1f7369a64f917587bddba/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlNTViZGUtYjBhNi00MjUxLWE5NjItMmM5ODZlNDBmOGNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Unstoppable (2010)
 https://cloud.hownetwork.xyz/xxx/5519a46bbe99f76039ea43c921e7e4ce/1/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlZTI3ZTAtYTM1NC00YWFjLWFkNzQtODFlMzc5ZTEyOGQ5XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",The Book of Eli (2010)
 https://cloud.hownetwork.xyz/xxx/934457e991970598b086e05315980888/4/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyOTU4Njg3OF5BMl5BanBnXkFtZTcwNDcyMDIzMg@@._V1_.jpg" group-title="▶ VOD ENGLISH",The Taking of Pelham 123 (2009)
 https://cloud.hownetwork.xyz/xxx/757d1f84c71016afe7183f3a59616763/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZhMThjZjQtNTcwMS00ZjhjLTg3YTctOTQ1OWE4ZGU2ZWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Inside Man (2006)
 https://cloud.hownetwork.xyz/xxx/KxY6JyEcWiwjP1p-cwBgdQAUPBwkACgZHTcWf3pSYWBw/33/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEwNTAwNjEwMV5BMl5BanBnXkFtZTYwMzgzMjA3._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Deja Vu (2006)
 https://cloud.hownetwork.xyz/xxx/d437cc614ae8137d1d5e7beddc32a792/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGMzNjg3ZDgtOGNlNy00NTdjLWI2NDEtMjI1MmEwMTBmMjMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Man on Fire (2004)
 https://cloud.hownetwork.xyz/xxx/0fd73e796b94a99b47b2b5854d616386/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_.jpg" group-title="▶ VOD ENGLISH",The Magnificent Seven (2016)
 https://cloud.hownetwork.xyz/xxx/9b76ca8fde7a4b5edd186a65c1c069b8/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZkMmY2YWYtZmEzZi00OGY1LWI0NGYtYTdjMjhhOTNkYjIzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Jack the Giant Slayer (2013)
 https://cloud.hownetwork.xyz/xxx/01d8fdf986123ff81d808830d9ef0a74/25/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyMWIzM2QtMzdkZi00YWJlLWFjOTgtOWI3ZDIwODUwZGU0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",The Great Wall (2016)
 https://cloud.hownetwork.xyz/xxx/7d113adda3f145f10c3ccf8b07b5ad60/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Troy (2004)
 https://cloud.hownetwork.xyz/xxx/57bccb62d437d987108c83ef624beadb/11/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ0NDgwODQ3NV5BMl5BanBnXkFtZTgwOTYxNjc2ODE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Now You See Me 2 (2016)
 https://cloud.hownetwork.xyz/xxx/dbaec52aab30037a37dd78061a77fee0/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg1ZmRhMzMtODZlOC00NjY0LTk2N2ItYWU3NjkwMzJmYWQzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Now You See Me (2013)
 https://cloud.hownetwork.xyz/xxx/afe3757a3b154430a5789bac2bc193d9/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNhZWI4OTYtY2NhNy00N2ZiLTllODItNmZjNDhmZWU3ZmYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Battleship (2012)
 https://cloud.hownetwork.xyz/xxx/408bbf8b6f94ff5e43d6146caff49490/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJkNzI3ZmEtZmRhOS00YTM1LWI3OTAtZmVjZmNkODIxNmFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Apocalypto (2006)
 https://cloud.hownetwork.xyz/xxx/f08bb46b5d95d945e333f9434d317d0d/10/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk3NTdlYzQtMjhiMy00MWJkLWFjNDctMzE4ZGEwZWExNGViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Van Helsing (2004)
 https://cloud.hownetwork.xyz/xxx/dffe9d5ad93c93fb6d103ad3bc5794f5/2/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Real Steel (2011)
 https://cloud.hownetwork.xyz/xxx/0c684170dfef7df19912ac82fe711039/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Titanic (1997)
 https://cloud.hownetwork.xyz/xxx/b6311a8940a8cec5a683ce8f492f93a6/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyMDQwZjEtYmYwYS00N2Q5LWE4NDQtMjZhZjU0Mzg5YjY3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Nobody 2 (2025)
 https://rr.vikingfile.com/download/je3i6QpmoE/Nobody.2.2025.720p.WEB.MalaySub.MSM.mp4
 https://go.vikingfile.com/download/34Ed2B2YWM/Nobody.2.2025.720p.WEB.MalaySub.MSM.mp4
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNlZDY2YTAtZGNmZS00ZDRmLThhZWQtMWUwNWQwMzUwMTY3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Nobody (2021)
 https://hls1-cdn2.streamupcdn.xyz/hls/dlMc95thnbGImAsokZz8EpIZDT5sle/index_1146x480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM5NzVlNzMtMDNhNy00OGMxLTlmYTktOGIwMzRlZmE0ZWVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Rambo Last Blood (2019)
 https://cloud.hownetwork.xyz/xxx/ba988b1448d4820ab49dd036775d773c/11/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5Mjg1MzM4NF5BMl5BanBnXkFtZTcwNTAyNzUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Rambo (2008)
 https://cloud.hownetwork.xyz/xxx/MBkkLCpURXFyaVobBnISFB0gFi13GkBzJjUR/33/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Dredd (2012)
 https://cloud.hownetwork.xyz/xxx/c2712f4ee791054ea06b8be409bc3104/20/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE2NzBjNGUtNTJiMy00N2UxLWEyYzMtYzFjODFhMGZlOTgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Flash (2023)
 https://cloud.hownetwork.xyz/xxx/NhAsYyMVFjIqfEV8cQN7Dwc6DQIaISgge2YUKSVWZg/33/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjY2NjNiZjctYTY4OS00YjEyLWEzMzItMDc4MTQzMzM3NzhiXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Passengers (2016)
 https://cloud.hownetwork.xyz/xxx/d5f9fa8d67498e409d0a7ff5f4fdf8a9/8/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNhMDJlNjAtNTdiZS00ZGQyLTgyNmQtYzZmNWM5YzI3NjI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",F1: The Movie (2025)
 https://s1-hls2-cdn22.streamupcdn.xyz/hls/4e6g5lPYAghrdcBg5xhJQPT2XSpcFZ/index_1150x480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Superman (2025)
 https://c1-hls1-cdn24.streamupcdn.xyz/hls/5yEsWtH5jq6wwrJO3WRMgTUX4wHVMT/index_1372x720.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA0MzM5YTctZTU2My00NGQ5LWE2NTEtNDM0MjZmMDBkOTZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Zack Snyder's Justice League (2021)
 https://hls1-cdn13.streamupcdn.xyz/hls/wUyJlZ9H0emJ9HBs5kODmdMCZQsmHz/index_960x720.m3u8
 https://hls1-cdn13.streamupcdn.xyz/hls/wUyJlZ9H0emJ9HBs5kODmdMCZQsmHz/index_640x480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5YmQxM2YtZjI2Yy00YjhhLTg5N2MtMTEyMzdlZDU3OTVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Justice League (2017)
 https://cloud.hownetwork.xyz/xxx/134b5f067604bed0634811c077f16d5b/31/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Batman v Superman: Dawn of Justice (2016)
 https://hls1-cdn16.streamupcdn.xyz/hls/J5RP9Dsk0Go9Nu6NERwXExMwTCbQlz/index_1152x480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdhY2M5NjItMWUwZi00MGRhLTgyMWItZTViMzNkYjkxOGI2XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Man of Steel (2013)
 https://p1-hls2-cdn14.streamupcdn.xyz/hls/fGsafwKmZ148ilgpRYwFou56zAQL9n/index_1152x480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzliMDk5ZWEtYTZmNS00ODEzLThlODItM2ZhMTc2NDM1ZTcxXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Superman Returns (2006)
 https://hls2-cdn6.streamupcdn.xyz/hls/q9m4Azq53BBo1HK4lwTZwPcOFOKSLi/index_1156x480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5M2U3OGItYjllMS00ZTE4LWIyMDctZTIzMmM3MzEwNmY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Thunderbolts* (2025)
 https://p1-hls1-cdn18.streamupcdn.xyz/hls/MwibaJKKPOWZFH2wWHY05JnbQYznWI/index_1146x480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Sonic the Hedgehog 3 (2024)
 https://hls2-cdn16.streamupcdn.xyz/hls/ky8Uk6pDmrhin3pKtfnmOYCY4QVx94/index_1152x480.m3u8
 https://hls2-cdn20.streamupcdn.xyz/hls/4WRNTysFAUmtg4uLKrBR1ar6u5iQfd/index_1152x480.m3u8
 
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 ###EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/7yicv34fs63590jku039b/1739668059352920604769934594726.png?rlkey=bo9fjd4x0m24sxi69vv9qfejh&st=fn0g55fp&dl=1" group-title="▶ VOD NETFLIX",Sonic the Hedgehog 3 (2024)
 ###https://www.dropbox.com/scl/fi/mx6798cn5ukvww8n3pacn/sonic.mp4?rlkey=wsj6fowuec67ikbhbljky3a72&st=6e0ag9q8&dl=1
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNmZGYzZjUtODRmOS00ODgzLWE4NWQtMDI3MGUwNjRjYjY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",John Carter (2012)
 https://cloud.hownetwork.xyz/xxx/80c8701928d3242bfb1f15b4492112b9/25/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliNjcwNmItMzk1OC00ZTEyLWEwNzktNTQ4NTJmZjU4ZWI1XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Oblivion (2013)
 https://www.dropbox.com/scl/fi/rvkvw82j0srq70ex0iadq/Oblivion-2013.mp4?rlkey=cwdil93da06fhyesldx3c7i0n&st=qu3885ts&dl=1
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Edge of Tomorrow (2014)
 https://cloud.hownetwork.xyz/xxx/d1fd953545c9f0523aa8a2d164caecba/2/480.m3u8
 
