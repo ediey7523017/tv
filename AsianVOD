@@ -1,8 +1,14 @@
 #EXTM3U url=""
 
 
-########################################################▶ VOD KOREAN###################################################
+########################################################▶ DORAEMON###################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gscmovies.com.my/wp-content/uploads/2025/06/6.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Art World Tales (2025)
+https://cloud.hownetwork.xyz/xxx/Jhc7LyAUGC9vPBg6KlV7Ni0aIDokClogMCVaOyxCOjxvDCgiIApac3JjQmEUdRQcDicREX1IEnd1ZUJ7/34/480.m3u8
+
+
+######################################################▶ VOD KOREAN#####################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNhYWM4MzQtM2UxNS00ZDdkLWIyYmMtZDNmNGZmODE2ZjdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KOREAN",Ghost Train (2024)
