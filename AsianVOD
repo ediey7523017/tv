@@ -15,6 +15,34 @@ https://cloud.hownetwork.xyz/xxx/857247649006822bc67fce8a5e71d368/31/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU1ZGNkYzgtZTJhOC00ZjkyLTgzMWEtOTNiODMzODA3OTIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Sky Utopia (2023)
 https://cloud.hownetwork.xyz/xxx/4b82837f3377e0156e0b80d82ea40cb5/20/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Little_Star_Wars_2021.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Little Star Wars 2021 (2022)
+https://cloud.hownetwork.xyz/xxx/04da22fc98450044e492a67be30377e8/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/a7/f2/94/a7f294bcaeab316ae250fc55aa4e2aea.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's New Dinosaur (2020)
+https://cloud.hownetwork.xyz/xxx/5203fabdb7fcf93fb39ca5d47ef42620/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE4NGIzMmQtOTcwZi00Mjk4LWFhM2ItMDE0NWU4ZDU3ZjVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita's Chronicle of the Moon Exploration (2019)
+https://cloud.hownetwork.xyz/xxx/eb259cb3299b3471a6c02e139732e931/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17615942_v_v13_ac.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Treasure Island (2018)
+https://cloud.hownetwork.xyz/xxx/667ef0396980524a5d016bcd616634df/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjEzYWI5MjQtOTc3OS00MGZhLTk4YTQtZjUzNWQ2MGZjZGQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Great Adventure in the Antarctic Kachi Kochi (2017)
+https://cloud.hownetwork.xyz/xxx/dfd1fa4ddc53f29b8839c2758779201a/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZhOTg4YzEtYTYxNi00ZTA3LWFiZWUtN2I0ZDE0MDBlNDUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Space Heroes (2015)
+https://cloud.hownetwork.xyz/xxx/ccefcb2175af9d5e11e38fc82afe1278/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/21bfa696bb863589a50146a6f5d640cf8d0b05ea5da1ef0a31cf57eb2bc1429b.jpg" group-title="▶ DORAEMON",Doraemon: New Nobita's Great Demon-Peko and the Exploration Party of Five (2014)
+https://cloud.hownetwork.xyz/xxx/b3c986150fce219755a28bfadeba2113/5/480.m3u8
+
 
 ######################################################▶ VOD KOREAN#####################################################
 
