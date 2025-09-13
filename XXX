@@ -85,31 +85,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5173
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5173/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5173
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5173/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5174
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5174/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5174
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5174/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5175
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5175/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5175
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5176
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5176/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5176
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5176/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5177
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5177/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5177
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5177/default_ott.mpd
 
@@ -129,7 +129,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5180
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5180/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5180
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5180/default_ott.mpd
 
@@ -145,7 +145,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jCaEXnIbJXSNUeN90Gcapg", "kid":"nxLHOg2s3BDcixZcbHaYEA" } ], "type":"temporary" }
-#####KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5182
+#####KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5182/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5182
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5182/default_ott.mpd
 
@@ -158,43 +158,43 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5184
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5184/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5184
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5184/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5185
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5185/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5185
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5185/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5186
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5186/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5186
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5187
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5187/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5187
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5187/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5188
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5188/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5188
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5188/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5189
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5189/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5189
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5189/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5190
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5190/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5190
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5190/default_ott.mpd
 
@@ -206,8 +206,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5601
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5601/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5601
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5601/default_ott.mpd
+
+
+
+
+
+
+
+
+
+
+
 
 
