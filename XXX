@@ -1,83 +1,197 @@
-#EXTM3U url=""
 
 
-###################################XXX####################################
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FyYINQnVcLXeRzCrnzOMww", "kid":"5QlzW1+JdQ1CrOJBDq1yEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",707
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
 
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",NSFS-353
-https://surrit.com/3fcced68-bf79-45cf-af18-caf59bdc920c/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",2100
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",PFAS-029
-https://surrit.com/956ae373-ab24-4952-8cf6-982daf3e3020/480p/video.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",HOKS-200
-https://surrit.com/89bb1281-754d-4193-ba35-e8e0073ddbaf/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nV4DYJS7d8uviGfTJyxm0A", "kid":"id5xzzm+CUbeyCjt/4TQEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",2507
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",HOKS-203
-https://surrit.com/87eb70c6-1ac3-4832-9b81-9c95069eb14b/480p/video.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",HOKS-204
-https://surrit.com/84b9d377-d572-4715-bc7a-67aabca83812/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",2605
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",DBNK-075
-https://surrit.com/73ffc3f1-045c-4cbf-ac36-ad5eee35813c/480p/video.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",HOKS-188
-https://surrit.com/0c2e5f2a-25ed-4622-b4ae-8d46d643e1ab/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5071
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",NSFS-410
-https://surrit.com/0a01390f-9f6f-48dd-a933-316c756362d3/480p/video.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",LUCY-017
-https://surrit.com/db9bc67a-cd1a-4f9f-ae70-7acb2f2f483a/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wx746KwRObmFrDZzACtwFA", "kid":"NLgxqXRQHRBvZUXp+T3gEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5085
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",WAAA-557
-https://surrit.com/8fdb82eb-2992-4e88-8cff-3a0077a63d79/480p/video.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",JUR-435
-https://surrit.com/22806540-a2ba-4379-bd46-cfbaab6827a9/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5095
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",ALDN-487
-https://surrit.com/6820064e-a0e7-4e32-8358-f38da9f43f53/480p/video.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",ADN-719
-https://surrit.com/cedb61ac-0209-451a-b4e1-64ae8a3e9414/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5110
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",SONE-804
-https://surrit.com/e4fd9acc-9632-46a7-8737-3c76483aaadb/480p/video.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",WAAA-476
-https://surrit.com/2a4424a8-b58b-43d9-99fb-28acd8bb8d36/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5128
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",WAAA-404
-https://surrit.com/ba09a52b-53a4-40be-aa8a-bd1afed0263c/480p/video.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",WAAA-393
-https://surrit.com/b8242462-9bea-474c-b8af-59e150c90e13/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A/HArhzsN087fUlMdDbT/Q", "kid":"txksRYSBNo3aHstl7JRXEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5135
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",WAAA-247
-https://surrit.com/b69c3a4f-b8be-4b0d-ba1f-5fbef2202623/480p/video.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",WAAA-218
-https://surrit.com/c75d708e-67e8-4c01-b75c-b87034fc35ee/842x480/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"myfU+sMpLPfPyjMSy0CTQw", "kid":"WM4D/XC6yfYerfnXYs6OEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5179
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",SAME-191
-https://surrit.com/b550c66c-af09-4961-b6a7-3b9259e3ddbb/480p/video.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",SAME-181
-https://surrit.com/6ec8e4ae-28fb-4e90-96ab-beacb2ea8fac/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5172
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",WAA-311
-https://surrit.com/87ef26f5-7ed3-42ab-aa9e-bc7148d704df/842x480/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5173
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5173/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",Wanz-860
-https://surrit.com/ad1a5fbd-27bb-4d62-a9f9-f8790700f837/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5174
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5174/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",Aldn-328
-https://surrit.com/24a7a3d1-25ef-4e36-a38a-e86bfe586a24/480p/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5175
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd
 
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",Aldn-242
-https://surrit.com/ad4d1467-40ae-4c14-81a3-8e7729a8c3be/842x480/video.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5176
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5176/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5177
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5177/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qmFz6HlcmwsnM9+DiTSBfw", "kid":"EtmlTkWNMZdWMr4XqNrAEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5178
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="100.astro" group-title="Test" tvg-logo="",5179
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58ce03fd70bac9f61eadf9d762ce8e10:9b27d4fac3292cf7cfca3312cb409343
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5180
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5180/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jCaEXnIbJXSNUeN90Gcapg", "kid":"nxLHOg2s3BDcixZcbHaYEA" } ], "type":"temporary" }
+#####KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5181
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jCaEXnIbJXSNUeN90Gcapg", "kid":"nxLHOg2s3BDcixZcbHaYEA" } ], "type":"temporary" }
+#####KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5182
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5182
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5182/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RbdbB7fPOw9SyGY8LLUVVQ", "kid":"vXMXf35AAUdRy3YWe+48EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5183
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36  
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6l8cd1SD764hJHtcSCY3NQ", "kid":"6cxVKootRqsFyCe286WbEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5600
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ff90rhBkxfL7ANKZX6iJVQ", "kid":"yxiUWSXmXUEfu5htclMQEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",9986
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Xtcnw/KLrFmqPlkU9a1FXA", "kid":"irAU3gPDGoSoNVg8NIpeEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",9988
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",9989
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_ott.mpd
+
+
+
+
+
+
+
+
+
 
 
 
