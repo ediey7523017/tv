@@ -278,6 +278,9 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Awesome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MY Freeview",Awesome TV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Drama_Sangat_2024_logo.svg/250px-Drama_Sangat_2024_logo.svg.png" group-title="MY Freeview",Drama Sangat
+https://live-03.tonton.com.my/1757819188/0xed0538eb8d31f6744aed5378ba689350ad8cfc1fe4d2e6378fafcd6e46877a3d/live-hls/tonton10_720p/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Selangor TV" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="MY Freeview",Selangor TV
 https://live.mana2.my/SelangorTv/tracks-v2a1/mono.m3u8?token=1757827387-9a167314a0f54fe19f8384f303f6e733-0-9a84c32d63acb5100f17e7c5a0b911d9&auth_key=1757827387-9a167314a0f54fe19f8384f303f6e733-0-4e0ec4b961894e734e8ceead5bc25539
 
