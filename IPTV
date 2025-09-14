@@ -278,8 +278,10 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Awesome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MY Freeview",Awesome TV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Drama_Sangat_2024_logo.svg/250px-Drama_Sangat_2024_logo.svg.png" group-title="MY Freeview",Drama Sangat
-https://live-03.tonton.com.my/1757819188/0xed0538eb8d31f6744aed5378ba689350ad8cfc1fe4d2e6378fafcd6e46877a3d/live-hls/tonton10_720p/index.m3u8
+https://live-03.tonton.com.my/1757823408/0x5c0f0be5c032747193685769658e13811f9a0e6513ad72f6e17eee9dbb34ffc7/live-hls/tonton10_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Selangor TV" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="MY Freeview",Selangor TV
 https://live.mana2.my/SelangorTv/tracks-v2a1/mono.m3u8?token=1757827387-9a167314a0f54fe19f8384f303f6e733-0-9a84c32d63acb5100f17e7c5a0b911d9&auth_key=1757827387-9a167314a0f54fe19f8384f303f6e733-0-4e0ec4b961894e734e8ceead5bc25539
@@ -287,7 +289,7 @@ https://live.mana2.my/SelangorTv/tracks-v2a1/mono.m3u8?token=1757827387-9a167314
 #EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MY Freeview",Suke TV
 https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1757827311-2b6c5790fcd943088ae560e8725f16c1-0-ae50a6dfa36a9be1bd36d2c88b58af34&auth_key=1757827311-2b6c5790fcd943088ae560e8725f16c1-0-c8ac2d6a5b7811ed9d3399b2153d4c7c
 
-#EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Enjoy_TV5.png" group-title="MY Freeview",Enjoy TV5
+#EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509" group-title="MY Freeview",Enjoy TV5
 https://live.mana2.my/Tv5/tracks-v1a1/mono.m3u8?token=1757827144-9a8d2dd84009490e91ff6f1610efaf37-0-da1acd8d5160df640fed1599296b8963&auth_key=1757827144-9a8d2dd84009490e91ff6f1610efaf37-0-8838d31d8525e81d8d9e97eab579f278
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/npdqkp.png" group-title="MY Freeview",Borneo TV
@@ -305,7 +307,7 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 #EXTINF:-1 group-title="MY Freeview" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",Astro Awani
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
-#EXTINF:-1 tvg-id="RTM Asean" group-title="MY Freeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/RTM_Asean_%282024%29.svg/revision/latest/smart/width/386/height/259?cb=20240803101302", RTM Asean
+#EXTINF:-1 tvg-id="RTM Asean" group-title="MY Freeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png",RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png ",Dewan Rakyat
