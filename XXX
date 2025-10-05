@@ -3,273 +3,33 @@
 #EXTINF:-1 tvg-id="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/10/11796485_10001419821.webp" group-logo="" group-title="Philippines",Mahal Ko O Mahal Ako (2025)
 https://dingtezuni.com/stream/8cqD5FV-xsaMbSSiNDsPGw/hjkrhuihghfvu/1759692925/32286772/index-v1-a1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FyYINQnVcLXeRzCrnzOMww", "kid":"5QlzW1+JdQ1CrOJBDq1yEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",707
-https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/10/11796463_10001419801.webp" group-logo="" group-title="Philippines",Liwaliw (2025)
+https://dingtezuni.com/stream/k1hIH01_dDIsM4CGp4RV_Q/hjkrhuihghfvu/1759693697/32291165/index-f2-v1-a1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/10/11793646_10001418631.webp" group-logo="" group-title="Philippines",Tenants (2025)
+https://dingtezuni.com/stream/lt_HqvvrqRycRKvFAPxxWg/hjkrhuihghfvu/1759694184/32270163/index-v1-a1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",2100
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/10/rjsS3Q2GoZ1WaUj6ylSAWyamy0p.jpg" group-logo="" group-title="Philippines",Basang Basa (2025)
+https://dingtezuni.com/stream/jrIFEKGmDxZPg05UOj-uNQ/hjkrhuihghfvu/1759694386/32224878/index-v1-a1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/09/l1vVrAs2dtxiSYnD1f5G8iFc6UH.jpg" group-logo="" group-title="Philippines",Kirot (2025)
+https://bingezove.com/stream/avOMBqpCsmI_AssSr4J7vg/hjkrhuihghfvu/1759694609/31949684/index-v1-a1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nV4DYJS7d8uviGfTJyxm0A", "kid":"id5xzzm+CUbeyCjt/4TQEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",2507
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/08/uB2Opos65gHaPSeyziXW4XDHPZT.jpg" group-logo="" group-title="Philippines",Sa Gabing Mainit (2025)
+https://mivalyo.com/stream/kXjK3QgNrS8OJzGhE3Emxg/hjkrhuihghfvu/1759694698/30725795/index-v1-a1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/01/eLCoMknSWjYTb5ObQIAmgzqhgSM.jpg" group-logo="" group-title="Philippines",Las Ilusyunadas (2025)
+https://fin-3dg-b1.i8yz83pn.com/hls2/04/07807/q4nvqth9ebuf_h/index-v1-a1.m3u8?t=Yp-fV9ISq62M271lcYi0uY25AkFlCbwEbMdErPXZpPA&s=1759651886&e=10800&f=39071341&srv=1065&asn=4818&sp=4000&p=
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",2605
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/10/11788724_b44c6538-fe20-45a3-b356-bc72b223ad351.webp" group-logo="" group-title="Philippines",Anak Ng Kontraktor (2025)
+https://dingtezuni.com/stream/HidSOl_FghNGDdXxQxPxCQ/hjkrhuihghfvu/1759695223/32214634/index-v1-a1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/09/Bihag-20251.jpg" group-logo="" group-title="Philippines",Bihag (2025)
+https://bingezove.com/stream/O_JRhHjOEI-kLKk7DY-Q7Q/hjkrhuihghfvu/1759695491/31892849/index-v1-a1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5071
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/09/Lasa-Ng-Lason-20251.jpg" group-logo="" group-title="Philippines",Lasa Ng Lason (2025)
+https://bingezove.com/stream/ap7_H-ZgZin7TBBfMkJhvQ/hjkrhuihghfvu/1759695683/31892842/index-v1-a1.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wx746KwRObmFrDZzACtwFA", "kid":"NLgxqXRQHRBvZUXp+T3gEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5085
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5095
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5110
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5128
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A/HArhzsN087fUlMdDbT/Q", "kid":"txksRYSBNo3aHstl7JRXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5135
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5170/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5170
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5171/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5171
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.366 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5172/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5172
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5173/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5173
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5173/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5174/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5174
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5174/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5175/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5175
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5176/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5176
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5176/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5177/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5177
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5177/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5178/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5178
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58ce03fd70bac9f61eadf9d762ce8e10:9b27d4fac3292cf7cfca3312cb409343
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="100.astro" group-title="Test" tvg-logo="",5179
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5180/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5180
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5180/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5181/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5181
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5182/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5182
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5182/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5183/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5183
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5184/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5184
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5184/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5185/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5185
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5185/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36  
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5186/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5186
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5187/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5187
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5187/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5188/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5188
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5188/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5189/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5189
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5189/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5190/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5190
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5190/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6l8cd1SD764hJHtcSCY3NQ", "kid":"6cxVKootRqsFyCe286WbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5600
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5601/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5601/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5602/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5602
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5602/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5603/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5603
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5603/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5604/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5604
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5604/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5605/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5605
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5605/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5606/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5606
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5606/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5607/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5607
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5607/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5608/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5608
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5608/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5609/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5609
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5609/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5610/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="Test",5610
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5610/default_primary.mpd
 
 
 
