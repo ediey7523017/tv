@@ -68,7 +68,13 @@ https://surrit.com/866b11b2-654c-45c0-bd09-7e281c7586c2/480p/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="XXX",HOKS-204
 https://surrit.com/84b9d377-d572-4715-bc7a-67aabca83812/480p/video.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="XXX",SQIS-106
+https://surrit.com/0a7a84e7-711b-4d96-aa93-d7c1ad0ce4d7/480p/video.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="XXX",HOKS-200
+https://surrit.com/89bb1281-754d-4193-ba35-e8e0073ddbaf/480p/video.m3u8
 
 
 
