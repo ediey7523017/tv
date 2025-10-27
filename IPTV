@@ -1011,6 +1011,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
+#EXTINF:-1 tvg-id="556.astro" group-title="News & Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_DOC.png",556 CGTN DOCUMENTARY
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
 ###EXTINF:-1 tvg-id="556.astro" group-title="News & Documentary" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",556 Animal Planet 
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
