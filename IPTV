@@ -252,7 +252,7 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 ################################################################################MY Freeview################################################################################
 
 
-#EXTINF:-1 group-title="MY Freeview" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1
+#EXTINF:-1 group-title="MY Freeview" group-logo="https://iconape.com/wp-content/png_logo_vector/myfreeview-logo.png" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png",TV2
