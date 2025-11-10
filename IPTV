@@ -112,7 +112,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
-#EXTINF:-1 tvg-id="117.astro" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png",117 Zee Cinema HD
+#EXTINF:-1 tvg-id="117.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png",117 Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
