@@ -11,6 +11,9 @@ https://dintezuvio.com/stream/bfyck_8k_fOJRUvY5aJ41Q/hjkrhuihghfvu/1763504301/34
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Lason
 https://dintezuvio.com/stream/psBCHcPfbuJuIgq7B1xlCw/hjkrhuihghfvu/1763503812/34195559/index-v1-a1.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Akin Ang Gabi
+https://dintezuvio.com/stream/9kxbLDTMwlneAraI5eAL-g/hjkrhuihghfvu/1763504726/34536385/index-f1-v1-a1.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
