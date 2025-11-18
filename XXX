@@ -5,6 +5,11 @@ https://surrit.com/889233d7-5a42-4758-aa72-81e7aabdec31/360p/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="",JUL-702
 https://surrit.com/55f5c517-794c-4981-87ee-16d10b33e383/360p/video.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Linis Tubo
+https://dintezuvio.com/stream/bfyck_8k_fOJRUvY5aJ41Q/hjkrhuihghfvu/1763504301/34313068/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Lason
+https://dintezuvio.com/stream/psBCHcPfbuJuIgq7B1xlCw/hjkrhuihghfvu/1763503812/34195559/index-v1-a1.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
