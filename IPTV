@@ -288,7 +288,7 @@ https://live.mana2.my/SelangorTv/tracks-v2a1/mono.m3u8?token=1757827387-9a167314
 https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1757827311-2b6c5790fcd943088ae560e8725f16c1-0-ae50a6dfa36a9be1bd36d2c88b58af34&auth_key=1757827311-2b6c5790fcd943088ae560e8725f16c1-0-c8ac2d6a5b7811ed9d3399b2153d4c7c
 
 #EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509" group-title="MY Freeview",Enjoy TV5
-https://live.mana2.my/Tv5/tracks-v1a1/mono.m3u8?token=1757827144-9a8d2dd84009490e91ff6f1610efaf37-0-da1acd8d5160df640fed1599296b8963&auth_key=1757827144-9a8d2dd84009490e91ff6f1610efaf37-0-8838d31d8525e81d8d9e97eab579f278
+https://get.perfecttv.net/mytv.m3u8?channel=tv5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/npdqkp.png" group-title="MY Freeview",Borneo TV
 https://live.mana2.my/BorneoTv/tracks-v2a1/mono.m3u8?token=1757827470-145493a78ac84248b24e81613908c64a-0-2d2b97177f2d67ffc5916333a82371a1&auth_key=1757827470-145493a78ac84248b24e81613908c64a-0-f3794601c4da41772e66d9167074c439
