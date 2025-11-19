@@ -739,13 +739,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
-###EXTINF:-1 tvg-id="404.astro" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",404 Astro Boo
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
-###https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=boo
-
 #EXTINF:-1 tvg-id="404.astro" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",404 Astro Boo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"}
@@ -815,19 +808,19 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTINF:-1 tvg-id="ROCKAction.id" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rock_Action.png/290px-Rock_Action.png",ROCK Action
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
-https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mediampd/RockExtremeHD.mpd
+###EXTVLCOPT:http-referrer=https://www.firstmedia.com
+###EXTINF:-1 tvg-id="ROCKAction.id" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rock_Action.png/290px-Rock_Action.png",ROCK Action
+###EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
+###https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mediampd/RockExtremeHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTINF:-1 tvg-id="ROCKEntertainment" group-title="Movies" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",ROCK Entertainment
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
-https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
+###EXTVLCOPT:http-referrer=https://www.firstmedia.com
+###EXTINF:-1 tvg-id="ROCKEntertainment" group-title="Movies" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",ROCK Entertainment
+###EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
+###https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTINF:-1 tvg-id="SONYMAX.id" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png?w=272",SONY MAX
@@ -1141,17 +1134,13 @@ http://203.77.246.58:4500/udp/239.1.2.158:5000
 #EXTINF:-1 tvg-id="Dreamworks Channel HD" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png",Dreamworks
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
-###EXTINF:-1 tvg-id="Dreamworks Channel HD" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png",Dreamworks
-###EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
-###https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
-
-#EXTINF:-1 tvg-id="Animax HD" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png?w=272",Animax
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png" group-title="Kids",Animax 
+https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #EXTINF:-1 tvg-id="Aniplus" group-title="Kids" tvg-logo="https://i.imgur.com/5gMIjA2.png",Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1697,6 +1686,18 @@ https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 #EXTINF:-1 tvg-id="HITSNow.id" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png" group-title="FirstMediaX",HITS Now
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
+#EXTINF:-1 tvg-id="Dreamworks Channel HD" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png",Dreamworks
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
+https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
+
+#EXTINF:-1 tvg-id="Animax HD" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png?w=272",Animax
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="FirstMediaX",Lifetime
@@ -1883,12 +1884,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesH
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mediampd/KIXHD.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" group-title="FirstMediaX",HBO
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mediampd/HBOHD.mpd
+###EXTVLCOPT:http-referrer=https://www.firstmedia.com
+###EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+###EXTINF:-1 tvg-id="HBO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" group-title="FirstMediaX",HBO
+###https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mediampd/HBOHD.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="HBOHD.id" ch-number="550" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809082222536837.png" group-title="FirstMediaX",HBO HD
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1911,13 +1918,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mediampd/HBOFamilyHD.
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="FirstMediaX",HBO Signature
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mediampd/HBOSignatureHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" group-title="FirstMediaX",Cinemax
-https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd
+###EXTVLCOPT:http-referrer=https://www.firstmedia.com
+###EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+###EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" group-title="FirstMediaX",Cinemax
+###https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809084408736zam.png" group-title="FirstMediaX",Cinemax
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 ################################################################################Radio#################################################################################
 
