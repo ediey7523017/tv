@@ -1686,13 +1686,13 @@ https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 #EXTINF:-1 tvg-id="HITSNow.id" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png" group-title="FirstMediaX",HITS Now
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
-#EXTINF:-1 tvg-id="Dreamworks Channel HD" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png",Dreamworks
+#EXTINF:-1 tvg-id="Dreamworks Channel HD" group-title="FirstMediaX" tvg-logo="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png",Dreamworks
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
 
-#EXTINF:-1 tvg-id="Animax HD" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png?w=272",Animax
+#EXTINF:-1 tvg-id="Animax HD" group-title="FirstMediaX" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png?w=272",Animax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
