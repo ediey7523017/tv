@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" refresh="1440" vod_library="https://raw.githubusercontent.com/ediey7523017/tv/main/AsianVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/CollectionVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/EnglishVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/IndianVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/NetflixVOD" billed-msg="JJ EDIEY 87 Editor"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" refresh="1440" vod_library="https://raw.githubusercontent.com/ediey7523017/tv/main/AsianVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/CollectionVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/EnglishVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/IndianVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/NetflixVOD" billed-msg="JJ EDIEY 87 Editor"
 
 
 ##############################################################################Astro####################################################################################
@@ -218,7 +218,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-ast
 #EXTINF:-1 group-title="Sooka" tvg-id="565.sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/94f90eGustoTV.png",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/playlist.m3u8
 
-#EXTINF:-1 group-title="Sooka" tvg-id="Tastemade" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/346283TravelTaste.png",Tastemade
+#EXTINF:-1 group-title="Sooka" tvg-id="497.sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/28616eTastemade.png",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-hls-sooka/playlist.m3u8
 
 #EXTINF:-1  group-title="Sooka" tvg-id="569.sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/a688d0KCM.png",KCM
