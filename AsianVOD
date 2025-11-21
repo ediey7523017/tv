@@ -46,6 +46,11 @@ https://cloud.hownetwork.xyz/xxx/b3c986150fce219755a28bfadeba2113/5/480.m3u8
 
 ######################################################▶ VOD KOREAN#####################################################
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30047840_p_v8_ab.jpg" group-title="▶ VOD KOREAN",It's Okay (2025)
+https://cloud.hownetwork.xyz/xxx/Kww6YyoSFjhvY0d-dh0BHQA8BREdJkV5cmZDdHYA/37/480.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ebayimg.com/images/g/~xQAAOSwQENgfPhU/s-l1200.jpg" group-title="▶ VOD KOREAN",Insadong Scandal (2009)
 https://u3143.send.now/d/uvyvreoo6cosj4l4pnqq5h7kzn6p7trjmaxo2mrfjwcvt6mdlit5wugbhhiwxp4u7oooxyvi/video.mp4
