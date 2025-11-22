@@ -361,7 +361,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="107.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Unifi_TV.svg/1280px-Unifi_TV.svg.png" group-title="Unifi TV",107 DidikTV ᵘⁿⁱᶠⁱ
+#EXTINF:-1 tvg-id="107.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="https://playtv.unifi.com.my/EPG/WEBTV/assets/images/unifi_logo_white.png" group-title="Unifi TV",107 DidikTV ᵘⁿⁱᶠⁱ
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -625,7 +625,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
 
-#EXTINF:-1 tvg-id="317.astro" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png",317 TVB Entertainment News
+#EXTINF:-1 tvg-id="317.astro" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png",317 TVB Entertainment News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -637,7 +637,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 
-#EXTINF:-1 tvg-id="320.astro" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png",320 TVBS Asia
+#EXTINF:-1 tvg-id="320.astro" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png",320 TVBS Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -792,7 +792,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #####KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ROCKAction.id" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rock_Action.png/290px-Rock_Action.png",ROCK Action
+#EXTINF:-1 tvg-id="ROCKAction.id" group-title="Movies" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png",ROCK Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 ###EXTINF:-1 tvg-id="ROCKEntertainment" group-title="Movies" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",ROCK Entertainment
@@ -1611,7 +1611,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
 ##########################################################################FirstMediaX#################################################################################
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTINF:-1 tvg-id="ROCKAction.id"  group-logo="https://play-lh.googleusercontent.com/sy_BpxQxkdw9Ym60ylHReR0TLUUnGCJLRLN3OO4OOjs0ZT3MVNdG-_L23ZtBFeWlDw=w600-h300-pc0xffffff-pd" group-title="FirstMediaX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rock_Action.png/290px-Rock_Action.png",ROCK Action
+#EXTINF:-1 tvg-id="ROCKAction.id"  group-logo="https://play-lh.googleusercontent.com/sy_BpxQxkdw9Ym60ylHReR0TLUUnGCJLRLN3OO4OOjs0ZT3MVNdG-_L23ZtBFeWlDw=w600-h300-pc0xffffff-pd" group-title="FirstMediaX" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png",ROCK Action
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
