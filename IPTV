@@ -307,7 +307,7 @@ https://get.perfecttv.net/mytv.m3u8?channel=tv5
 ###EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/npdqkp.png" group-title="MY Freeview",Borneo TV
 ###https://live.mana2.my/BorneoTv/tracks-v2a1/mono.m3u8?token=1757827470-145493a78ac84248b24e81613908c64a-0-2d2b97177f2d67ffc5916333a82371a1&auth_key=1757827470-145493a78ac84248b24e81613908c64a-0-f3794601c4da41772e66d9167074c439
 
-#EXTINF:-1 group-title="MY Freeview" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",BERITA RTM
+#EXTINF:-1 group-title="MY Freeview" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest/scale-to-width-down/250?cb=20210504031757",BERITA RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png",SUKAN RTM
@@ -1040,7 +1040,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
-#EXTINF:-1 tvg-id="555.astro" group-title="News & Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRny6fRjroetQ4DTO1ETz0l1mni33whZ4wZHeFYO4kbCA&s=10",555 History
+#EXTINF:-1 tvg-id="555.astro" group-title="News & Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png",555 History
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
