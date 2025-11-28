@@ -101,9 +101,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 https://stream-mts.cdnmts.org/mtsstream/AstroxCitra.mpd
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Astro",109 Astro Citra Movies
-###http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Astro",109 Astro Citra Movies
+https://smart.946985.filegear-sg.me/smart.php?id=AAcitra
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
 #EXTINF:-1 tvg-id="112.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -143,8 +144,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-###EXTINF:-1 tvg-name="Astro Sensasi" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png",123 Astro Sensasi
-###http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Sensasi/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Sensasi" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Astro_Sensasi_%28Dec_2024%29.png/960px-Astro_Sensasi_%28Dec_2024%29.png",123 Astro Sensasi
+https://smart.946985.filegear-sg.me/smart.php?id=Sensasi
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Sensasi/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="146.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", 146 TV Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
