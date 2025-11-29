@@ -14,31 +14,18 @@ https://dintezuvio.com/stream/psBCHcPfbuJuIgq7B1xlCw/hjkrhuihghfvu/1763503812/34
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Akin Ang Gabi
 https://dintezuvio.com/stream/9kxbLDTMwlneAraI5eAL-g/hjkrhuihghfvu/1763504726/34536385/index-f1-v1-a1.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-logo="" group-title="Malay",Degup
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DEGUP)/master.mpd
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Nympho
+https://hls.khflix.top/Nympho/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Madulas
+https://hls.khflix.top/Madulas/index.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="474.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="UNIFI TV",ROCK Action
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ROCKACTION)/master.mpd
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Linis Tubo
+https://hls.khflix.top/Linis.Tubo/index.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="116.unifi" ch-number="116" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-logo="" group-title="Malay",Sensasi
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Sensasi)/master.mpd
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Lason
+https://hls.khflix.top/Lason/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Next Room Affair
+https://hls.khflix.top/Next.Room.Affair/index.m3u8
 
