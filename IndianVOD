@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-#################################################VOD BOLLYWOOD##################################################
+#################################################################VOD BOLLYWOOD##########################################################
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -375,6 +375,8 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=4f61dd493a564654976577644e1010b2:0e0545adfffcbea9b82c79b6e1bfe18e
 https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=b986
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQyOTRiYTQtNzU0MS00ZGM2LWE4MTktODI5ZjZiN2NkYjYyXkEyXkFqcGc@._V1_.jpg"  group-title="▶ VOD BOLLYWOOD",Raid 2 (2025)
 https://www.dropbox.com/scl/fi/yt5o7vxpueq1rezj5tt69/Raid-2-2025.mp4?rlkey=15rbnf8vri4xuwh63a3i5pcf4&st=bz0ql26x&dl=1
 
@@ -513,7 +515,7 @@ https://www.dropbox.com/scl/fi/adbfqijnwnhq6549ad5fm/Mann-1999.mp4?rlkey=khdtdbg
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4ZGVhZmItMDZmMS00OTBkLWE0N2QtODczZjdmODA0Yzc2XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Tiger 3 (2023)
-https://cloud.hownetwork.xyz/xxx/83ad56ce2e0d9d21a8131312ac1b65bd/29/480.m3u8
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Tiger%203%20(2023).mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdiNDU4NjUtNmNjMi00YTc5LTk0OTQtNjY4ODQzMDUzYmI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Tiger Zinda Hai (2017)
@@ -575,7 +577,22 @@ https://cloud.hownetwork.xyz/xxx/f12b5e1474256fe8f8c753cef1721752/2/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyOTkzMzg4Ml5BMl5BanBnXkFtZTcwNTkxNzQzNg@@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Bodyguard (2011)
-https://cloud.hownetwork.xyz/xxx/3ce2382122a335296ba77a32d28d51da/8/480.m3u8
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Bodyguard.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hCNl3EkwEAmuZt8vxq9gyGG3e7e.jpg", Yaadein (2001)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Yaadein.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mI4cFL7bEQcTgI6vtoPSkAWU1tJ.jpg", Tumko Na Bhool Paayenge (2002)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Tumko%20Na%20Bhool%20Paayenge.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg", Mardaani 2 (2019)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mardaani%202.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A5xP8gKA4NwL9dG0AodQtQSRucB.jpg", Mardaani (2014)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mardaani.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8lVuWmArvr41CvyvpgI3elD5iB1.jpg", Barfi! (2012)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Barfi!.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjAxY2Y3OTAtY2EwOS00ZTJjLTkwNmItNGIwNjcxMmIyM2UwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Akele Hum Akele Tum (1995)
@@ -600,9 +617,12 @@ https://cloud.hownetwork.xyz/xxx/9abbfe04bf8b673d15d4f1cd8e4029b7/21/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFkOWM1MTktNTg3Zi00NmI5LTg1NTQtNGFjZTMzNzBjM2VmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Holiday (2014)
 https://cloud.hownetwork.xyz/xxx/0eeae5d545737eb121992f430160550d/1/480.m3u8
 
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyMTg0MTA1OF5BMl5BanBnXkFtZTgwMDg2MjMwMjE@._V1_.jpg",Kick (2014)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Kick.mp4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4MmFkNjctNWY0ZC00NWYzLWFhNDItNmE2OGNkMjdkZDc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Gabbar Is Back (2015)
-https://cloud.hownetwork.xyz/xxx/560f4882902f92e2a3912cc9053d9e98/4/480.m3u8
+https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ebpzplo10ZBPlxoT1H_vza8BL2dn7ZDBHzeEecXyw--mhQ
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VmYzgwOTgtNDlmZC00ZjhjLWI3MGYtMWJiOGQwZjg0MjczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Khakee (2004)
@@ -653,7 +673,12 @@ https://cloud.hownetwork.xyz/xxx/94167d962f502a6ae9291cfd166069eb/2/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk0NTY3ZmItMjhlZC00MGY0LWE4MDEtNTAyNDJiMjg0MDFiXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Dil Kya Kare (1999)
-https://cloud.hownetwork.xyz/xxx/e265940f5d0243e78e16438f16ec90bf/4/480.m3u8
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Dil%20Kya%20Kare.mkv
+
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ubxLXZbSXi3MWk8nZRBDEoqfB0.jpg", Main Prem Ki Diwani Hoon (2003)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Main%20Prem%20Ki%20Diwani%20Hoon.mp4
+
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDAyMWJkYWMtYjM0MS00YTM2LWFjNDMtODk1Yzg1MDk4MjYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Fiza (2000)
@@ -693,7 +718,7 @@ https://cloud.hownetwork.xyz/xxx/271a1eb2fcaa1e719a292d1647720fd7/5/480.m3u8
 
 
 
-######################################################▶ VOD INDIA#################################################
+######################################################################▶ VOD INDIA#########################################################
 
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD INDIA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5711602/portrait/1920x770f89e144e47944f09a3fb5f418146a3815d150ca208c940f2989295367778c9f7.jpg",Game Changer (2025)
@@ -881,6 +906,11 @@ https://get.perfecttv.net/sonyliv.mpd?video_id=1000231233&content_id=505555857
 #KODIPROP:inputstream.adaptive.license_key=c8c3f3cb46ca47b9a4546eac0fe30000:6e3699bbf8c442f5b872637a7e5a7ca4
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000176017&content_id=505555857
 
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/485.jpg",Bigil
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ES3QoGUq7vRCmnoPFfs-GBQBAHYAxfoqVBAh33YEHl7d2w
+
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sTNlPGZZyIAQeRVrtYYnBG5agxs.jpg",Thuppakki (2012)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thuppakki.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="1418-Mandela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9A7nv8ac8VrXDt6tgu4UXi2zAq.jpg" group-title="▶ VOD INDIA",Mandela (2021)
 http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4508.mp4
@@ -952,4 +982,3 @@ https://cloud.hownetwork.xyz/xxx/4970c65316b2278669ba77f39eabe3f6/31/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM5NGFjYjgtMmIwYS00MmMzLTk1YTEtZGE0OTMxM2YzMzgzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDIA",Lucky Baskhar (2024)
 https://cloud.hownetwork.xyz/xxx/Lg0qJTxUFSAxOh8tMR1kaHBMZDkgGxMtHQkof3NWNG0nTi0/32/480.m3u8
-
