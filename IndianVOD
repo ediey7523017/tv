@@ -4,7 +4,10 @@
 #################################################################VOD BOLLYWOOD##########################################################
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc5OWU1MWUtZGRiNS00ODQ5LWJhNzUtMjBlZjQxNjYzZjYxXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Jurm (2005)
+https://www.dropbox.com/scl/fi/8hktrxiqievidme256pfv/Jurm-2001.mp4?rlkey=9b5mmlyaw27o7yseaxqehfs81&st=2j1hvt3m&dl=1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ3MGU0MTItZDM2Mi00YjM4LTgyODAtZDU0NjRiYjJjNzRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Dhadak 2 (2025)
 https://cloud.hownetwork.xyz/xxx/JhAoKiQSWnNvY0d-dh0BHQA8BREdJhJzIGZDeiIC/34/480.m3u8
 
@@ -42,7 +45,7 @@ https://cloud.hownetwork.xyz/xxx/97effbd6df27c617f76716ee250e3a9d/11/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWZhMGE2ZWEtZjczZS00NzBhLTkwOTEtZTAyZTQzNTQ2NzA0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Zara Hatke Zara Bachke (2023)
 https://cloud.hownetwork.xyz/xxx/f302f6a032bfd638b026357acf301278/27/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY5ZmYyOTktZmFkNi00YTQ1LWFhY2EtMmFlYzJiYjU4Y2EzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Laxmii (2020)
 https://cloud.hownetwork.xyz/xxx/be2c9fae02df1b2a8f082fe1c741d1e1/2/480.m3u8
 
