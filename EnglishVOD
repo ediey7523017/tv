@@ -3,6 +3,7 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZlODYyNmQtYmQxZS00ZWM0LWJiNTYtMzJkZDhmODlhM2QzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Tron Ares (2025)
@@ -493,6 +494,11 @@ https://www.dropbox.com/scl/fi/rvkvw82j0srq70ex0iadq/Oblivion-2013.mp4?rlkey=cwd
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Edge of Tomorrow (2014)
 https://cloud.hownetwork.xyz/xxx/d1fd953545c9f0523aa8a2d164caecba/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Conjuring Last Rites (2025)
+https://cloud.hownetwork.xyz/xxx/IRcnJDALHi8lfBstMER7KisMLD1oS0dzd3wgCQF0GgcaJysrckERIHpm/34/480.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="934-Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="▶ VOD ENGLISH",Top Gun: Maverick (2022)
