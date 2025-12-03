@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-################################################################## HBO MAX ############################################################
+################################################################# HBO MAX ############################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/tpOml/fGJ7iSi4sChFrWcNw.jpeg" group-title="▶ HBO MAX", 00-Final Destination 1 2000 (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -105,20 +105,17 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=9b9d9055-3638-468b-9889-096b22566f7b
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/9fda2c4f-674f-31c7-906e-7bd8b83c2ace.jpeg" group-title="▶ HBO MAX", Action-Khunpan 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=08adb58b-b75a-42fe-bccb-41c27f622686
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=08adb58b-b75a-42fe-bccb-41c27f622686&sub=t6
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/de37e8f8-be3f-392f-8135-341ded592c4e.jpeg" group-title="▶ HBO MAX", Action-The Grant Heist
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3cd8bb4c-a585-4661-bde7-e312cb938008
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=3cd8bb4c-a585-4661-bde7-e312cb938008&sub=t0
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/02/21/d8511edb-7e97-3aa8-b2f5-3919cce9602b.jpeg" group-title="▶ HBO MAX", Kids-Transformers One
 #KODIPROP:inputstream=inputstream.adaptive
@@ -144,25 +141,17 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bd0a8a14-4c41-4aa9-a80e-3f60353756ef
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=bd0a8a14-4c41-4aa9-a80e-3f60353756ef&sub=t6
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/24/014a7b9f-80a3-3120-828e-926dc1d60834.jpeg" group-title="▶ HBO MAX", Action-1-Self Reliance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=01e9a174-615d-48a9-93f5-d6c337c70ccc
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=01e9a174-615d-48a9-93f5-d6c337c70ccc&sub=t3
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/13/7dd0e35f-faff-33f4-9530-82b2280431b9.jpeg" group-title="▶ HBO MAX", Action-3-Pacific Rim
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=cf40b9a3-23b2-49b6-a6ea-7c6870226907
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=cf40b9a3-23b2-49b6-a6ea-7c6870226907&sub=t6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/13/a5f86bc4-d7f7-336e-9b86-5c8a1386286b.jpeg" group-title="▶ HBO MAX", Kids-How to Train Your Dragon
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bd0a8a14-4c41-4aa9-a80e-3f60353756ef
-https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=bd0a8a14-4c41-4aa9-a80e-3f60353756ef&sub=t6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/6d0ea04e-bf27-3be3-879e-3a270db7dc1d.jpeg" group-title="▶ HBO MAX", Action-The Lord of the Rings: The Fellowship of the Ring Extended Edition
 #KODIPROP:inputstream=inputstream.adaptive
@@ -211,7 +200,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=90265e94-8a28-46d5-8437-07031debbd78
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=90265e94-8a28-46d5-8437-07031debbd78&sub=t9
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/20/0858b004-6542-379f-a979-293f769fc66b.jpeg" group-title="▶ HBO MAX", Action-A Man Apart
 #KODIPROP:inputstream=inputstream.adaptive
@@ -266,7 +254,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=843ee9fd-b65a-4bbb-b86b-030582062dff
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=843ee9fd-b65a-4bbb-b86b-030582062dff&sub=t18
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/02/89dc1e89-5f01-33d1-8de2-027496277966.jpeg" group-title="▶ HBO MAX", Action-1-Batman & Robin
 #KODIPROP:inputstream=inputstream.adaptive
@@ -461,13 +448,11 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=26775ffb-904d-4035-b846-eae5681feabb
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=26775ffb-904d-4035-b846-eae5681feabb&sub=t8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/06/5d7f6491-74e4-3ddd-80e3-e95bcda7b758.jpeg" group-title="▶ HBO MAX", Action-2-Expend4bles
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b3514d38-d9fe-4e54-b7b9-75cafa58aabc
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=b3514d38-d9fe-4e54-b7b9-75cafa58aabc&sub=t1
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/04/5146eee0-92d5-3e75-81d9-4f92a896806f.jpeg" group-title="▶ HBO MAX", Action-1-Fantastic Beasts and Where to Find Them
 #KODIPROP:inputstream=inputstream.adaptive
@@ -475,13 +460,11 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bacb14b5-0815-4d9f-a781-11c8ecf6dfff
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=bacb14b5-0815-4d9f-a781-11c8ecf6dfff&sub=t18
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/417e8f3b-2cd5-3a7e-a3d5-a981c03e9f5a.jpeg" group-title="▶ HBO MAX", Action-1-Fantastic Beasts: The Crimes of Grindelwald
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=76a3cb10-3921-4864-a7db-c87b69f5c4ee
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=76a3cb10-3921-4864-a7db-c87b69f5c4ee&sub=t10
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/17/3806bde4-2f8a-35f9-b4d7-99314806d2c9.jpeg" group-title="▶ HBO MAX", Action-1-Fantastic Beasts: The Secrets of Dumbledore
 #KODIPROP:inputstream=inputstream.adaptive
@@ -531,7 +514,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3b178798-d9b7-42ad-8f7a-a961b1b789f6
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=3b178798-d9b7-42ad-8f7a-a961b1b789f6&sub=t21
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/20/2e6e7d32-a0ef-3f2e-84ee-ad1e0f1129f7.jpeg" group-title="▶ HBO MAX", Action-1-Godzilla vs. Kong
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -555,7 +537,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=4379f4d4-4de9-4d0f-bca2-08d008dcaf1f
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=4379f4d4-4de9-4d0f-bca2-08d008dcaf1f&sub=t4
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/25/2e81c1a3-9a3f-338f-b982-05bccc8d4695.jpeg" group-title="▶ HBO MAX", Action-Inception
 #KODIPROP:inputstream=inputstream.adaptive
@@ -598,7 +579,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=83f6923b-7552-4ded-8704-efca99f0b353
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=83f6923b-7552-4ded-8704-efca99f0b353&sub=t4
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/1f946624-f6a3-3547-94d2-4bf6f86189fa.jpeg" group-title="▶ HBO MAX", Action-King Arthur: Legend of the Sword
 #KODIPROP:inputstream=inputstream.adaptive
@@ -817,7 +797,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ed8ee561-0b79-47a1-8dc7-c42c48b27dd8
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=ed8ee561-0b79-47a1-8dc7-c42c48b27dd8&sub=t0
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/10/1195171a-4287-324c-bb71-d75da83d9008.jpeg" group-title="▶ HBO MAX", Action-1-Snow White and the Huntsman
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -835,7 +814,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=a9190bda-7079-4601-bec1-15f84215ef3d
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=a9190bda-7079-4601-bec1-15f84215ef3d&sub=t2
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/7fb7602e-784b-3244-9ad1-2bdb8a479f2a.jpeg" group-title="▶ HBO MAX", Action-1-Suicide Squad
 #KODIPROP:inputstream=inputstream.adaptive
@@ -860,7 +838,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=cd1f14fa-60f6-4f05-9259-09f11e671c79
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=cd1f14fa-60f6-4f05-9259-09f11e671c79&sub=t6
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/16/938daf5e-4614-3d24-9b1d-53021ea5dd7a.jpeg" group-title="▶ HBO MAX", Action-2-The Accountant
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1151,7 +1128,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d9b233af-8bc2-4ecb-92e4-23584e98f569
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=d9b233af-8bc2-4ecb-92e4-23584e98f569&sub=t2
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/6edc68d1-239f-37ab-af31-8932870c5ca3.jpeg" group-title="▶ HBO MAX", Action-3-War Dogs
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1187,6 +1163,62 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=676043fe-6b5e-4d96-a79c-a3fb95fb5061
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=676043fe-6b5e-4d96-a79c-a3fb95fb5061&sub=t4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/b1ed6d2f-3a60-38ba-b59e-3ea41e198ac7.jpeg" group-title="▶ HBO MAX", Action-1-Joker
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d8eb74cb-58f5-4b5b-8c26-8b7ce4563daa
+https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=d8eb74cb-58f5-4b5b-8c26-8b7ce4563daa&sub=t13
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/c6344dcc-6927-3288-83c0-ffc17a3d4b4d.jpeg" group-title="▶ HBO MAX", Action-First Man
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f1b431b9-5f41-4f9a-9c9d-deaa117ba6d4
+https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=f1b431b9-5f41-4f9a-9c9d-deaa117ba6d4&sub=t0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/18/76479b5b-c3bc-3ee5-aea7-bc3a08c8bdfe.jpeg" group-title="▶ HBO MAX", Action-Flight
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5533c2d3-e174-41d9-85c8-54f18d663959
+https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=5533c2d3-e174-41d9-85c8-54f18d663959&sub=t3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/334c2a59-8ac7-3e85-8719-c4d56921b5f7.jpeg" group-title="▶ HBO MAX", Action-2-The Painter
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=42ab0e0f-eb57-412f-9428-d8dde0481b48
+https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=42ab0e0f-eb57-412f-9428-d8dde0481b48&sub=t5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/15/ad0c4e9a-ae99-3e40-a252-01c63c0bac9a.jpeg" group-title="▶ HBO MAX", Action-2-River Wild
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e71a3bf6-d5c1-49e8-a0a6-9e2759c13cec
+https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=e71a3bf6-d5c1-49e8-a0a6-9e2759c13cec&sub=t0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/23/6ddc7e61-910a-3409-92d1-81110547934d.jpeg" group-title="▶ HBO MAX", Action-2-R.I.P.D. 2: Rise of the Damned
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3ce6cbe5-6f6a-4fa2-b47b-f1767ea961dc
+https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=3ce6cbe5-6f6a-4fa2-b47b-f1767ea961dc&sub=t6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/04a2363a-6512-3cea-8311-4cc52ab88cd6.jpeg" group-title="▶ HBO MAX", Action-Red Eye
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c36c4f3f-0faf-4a70-805f-326435a7f3bd
+https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=c36c4f3f-0faf-4a70-805f-326435a7f3bd&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/10d3cdaf-ba86-3c58-9d96-f941e19b84fc.jpeg" group-title="▶ HBO MAX", Action-2-Oppenheimer
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=dd44def9-a33d-4c8d-8edc-a76e331f33e7
+https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=dd44def9-a33d-4c8d-8edc-a76e331f33e7&sub=t7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/569ca38f-c39b-3e22-b5c1-1c667bcf5df5.jpeg" group-title="▶ HBO MAX", Action-Interstellar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5b100055-dd54-47b7-a965-f7e8a64d620d
+https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=5b100055-dd54-47b7-a965-f7e8a64d620d&sub=t11
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/10/c489d810-728d-3753-9381-a418fd302f11.jpeg" group-title="▶ HBO MAX", Horror-10 Cloverfield Lane
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1230,7 +1262,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0acbe079-4f75-41d2-9d1e-747258f9f09f
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=0acbe079-4f75-41d2-9d1e-747258f9f09f&sub=t17
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/0b4f139c-004a-3d94-8541-88ed3563a86f.jpeg" group-title="▶ HBO MAX", Horror-Beneath
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1248,7 +1279,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b227209d-4b6f-469b-a853-c042af4e20ae
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=b227209d-4b6f-469b-a853-c042af4e20ae&sub=t12
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/24/9b3306dc-fe1e-3014-ba65-27821a24622b.jpeg" group-title="▶ HBO MAX", Horror-Circle Of Eight
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1316,7 +1346,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5235d48e-e237-4d62-b60d-ae1b2496b99e
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=5235d48e-e237-4d62-b60d-ae1b2496b99e&sub=t3
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/24/28eac860-ecd4-379f-8e5e-6b0addb6cb6b.jpeg" group-title="▶ HBO MAX", Horror-Interview with the Vampire
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1365,7 +1394,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=80a5f4a6-c5e1-4314-b22e-31b77da0d6e4
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=80a5f4a6-c5e1-4314-b22e-31b77da0d6e4&sub=t4
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/71d2db26-4c7c-3a22-b03d-abd8b5264ca9.jpeg" group-title="▶ HBO MAX", Horror-Sadako
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1389,7 +1417,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=79f4d54a-045c-46a1-bea0-66bdf6db2e1a
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=79f4d54a-045c-46a1-bea0-66bdf6db2e1a&sub=t6
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/14/efc75144-11b7-3a77-9f02-44bf6ca7eff8.jpeg" group-title="▶ HBO MAX", Horror-1-Tastes of Horror
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1427,7 +1454,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=caacde84-a64c-4334-9001-087766dd890b
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=caacde84-a64c-4334-9001-087766dd890b&sub=t0
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/07/ff4f9212-c4e6-3dd7-ae8e-fa39cd9c742e.jpeg" group-title="▶ HBO MAX", Horror-1-The Exorcist: Believer (2023)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1463,7 +1489,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c8548ae7-901c-49ea-b7d2-234f19f61cfb
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=c8548ae7-901c-49ea-b7d2-234f19f61cfb&sub=t5
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/bf10f3e9-b783-3844-b188-26d94a0ce42b.jpeg" group-title="▶ HBO MAX", Horror-The Uninvited
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1531,59 +1556,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b0e46362-b9fa-4a30-a293-7c2990b3bc2d
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=b0e46362-b9fa-4a30-a293-7c2990b3bc2d&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/b1ed6d2f-3a60-38ba-b59e-3ea41e198ac7.jpeg" group-title="▶ HBO MAX", Action-1-Joker
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d8eb74cb-58f5-4b5b-8c26-8b7ce4563daa
-https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=d8eb74cb-58f5-4b5b-8c26-8b7ce4563daa&sub=t13
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/c6344dcc-6927-3288-83c0-ffc17a3d4b4d.jpeg" group-title="▶ HBO MAX", Action-First Man
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f1b431b9-5f41-4f9a-9c9d-deaa117ba6d4
-https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=f1b431b9-5f41-4f9a-9c9d-deaa117ba6d4&sub=t0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/18/76479b5b-c3bc-3ee5-aea7-bc3a08c8bdfe.jpeg" group-title="▶ HBO MAX", Action-Flight
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5533c2d3-e174-41d9-85c8-54f18d663959
-https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=5533c2d3-e174-41d9-85c8-54f18d663959&sub=t3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/334c2a59-8ac7-3e85-8719-c4d56921b5f7.jpeg" group-title="▶ HBO MAX", Action-2-The Painter
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=42ab0e0f-eb57-412f-9428-d8dde0481b48
-https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=42ab0e0f-eb57-412f-9428-d8dde0481b48&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/15/ad0c4e9a-ae99-3e40-a252-01c63c0bac9a.jpeg" group-title="▶ HBO MAX", Action-2-River Wild
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e71a3bf6-d5c1-49e8-a0a6-9e2759c13cec
-https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=e71a3bf6-d5c1-49e8-a0a6-9e2759c13cec&sub=t0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/23/6ddc7e61-910a-3409-92d1-81110547934d.jpeg" group-title="▶ HBO MAX", Action-2-R.I.P.D. 2: Rise of the Damned
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3ce6cbe5-6f6a-4fa2-b47b-f1767ea961dc
-https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=3ce6cbe5-6f6a-4fa2-b47b-f1767ea961dc&sub=t6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/04a2363a-6512-3cea-8311-4cc52ab88cd6.jpeg" group-title="▶ HBO MAX", Action-Red Eye
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c36c4f3f-0faf-4a70-805f-326435a7f3bd
-https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=c36c4f3f-0faf-4a70-805f-326435a7f3bd&sub=t2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/10d3cdaf-ba86-3c58-9d96-f941e19b84fc.jpeg" group-title="▶ HBO MAX", Action-2-Oppenheimer
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=dd44def9-a33d-4c8d-8edc-a76e331f33e7
-https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=dd44def9-a33d-4c8d-8edc-a76e331f33e7&sub=t7
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/569ca38f-c39b-3e22-b5c1-1c667bcf5df5.jpeg" group-title="▶ HBO MAX", Action-Interstellar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5b100055-dd54-47b7-a965-f7e8a64d620d
-https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=5b100055-dd54-47b7-a965-f7e8a64d620d&sub=t11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/13/b2eb7cba-159b-3e8a-bc9c-0648a21b30e2.jpeg" group-title="▶ HBO MAX", Kids-Despicable Me
 #KODIPROP:inputstream=inputstream.adaptive
