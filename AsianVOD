@@ -1693,7 +1693,7 @@ https://cloud.hownetwork.xyz/xxx/4b82837f3377e0156e0b80d82ea40cb5/20/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Little_Star_Wars_2021.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Little Star Wars 2021 (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJiMDExMmEtMjliMC00ZDJhLWEyZGMtNDI2YjMzZDhkZWY0XkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Little Star Wars 2021 (2022)
 https://cloud.hownetwork.xyz/xxx/04da22fc98450044e492a67be30377e8/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1744,7 +1744,7 @@ https://www.dropbox.com/scl/fi/vipne3sawc0w46iy1eyxb/Doraemon.Movie.2009.720p.BR
 #EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ1Y2JiMDAtNTI2MS00NWIzLTk1YjQtMjIzOGI3Y2E4NWYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Doraemon: Nobita and the Green Giant Legend (2008)
 https://www.dropbox.com/scl/fi/vy89wsz9dcc86t8e18jxj/Doraemon.Movie.2008.720p.BR.MalayDUB.ProAce.mp4?rlkey=i56vseigsw5hhklgph9xdziz7&st=m4azkcau&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="m.media-amazon.com/images/M/MV5BNDM2ZjM4MDMtNmM4NS00MTA5LWJkZTMtMzYyOGI1Nzc1NmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Doraemon: Nobita's New Great Adventure into the Underworld (2007)
+#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM2ZjM4MDMtNmM4NS00MTA5LWJkZTMtMzYyOGI1Nzc1NmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Doraemon: Nobita's New Great Adventure into the Underworld (2007)
 https://www.dropbox.com/scl/fi/nx90oi3poqtn8gjs1a62b/Doraemon.Movie.2007.720p.BR.MalayDUB.ProAce.mp4?rlkey=edbxpm0edybvvqi5nt08gpj23&st=0cd4zr8j&dl=1
 
 #EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyODE2OGQtNWE1MC00OTQ2LWE4NzAtY2M3ZTAzM2E5MzEyXkEyXkFqcGc@._V1_.jpg",Doraemon: Nobita's Dinosaur (2006)
