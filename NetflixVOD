@@ -1,229 +1,63 @@
 #EXTM3U url=""
 
 
-##########################################################VOD NETFLIX################################################
+##########################################################▶ VOD NETFLIX################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="▶ VOD NETFLIX",6 Underground (2019)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2400.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Family Affair (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg" group-title="▶ VOD NETFLIX",A Family Affair (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2401.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AKA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exKj9XSFWLajZ6NI60Gxsj1qNuE.jpg" group-title="▶ VOD NETFLIX",AKA (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Army of the Dead (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8CExJekGrEThbpMXAmCFvvgoJR.jpg" group-title="▶ VOD NETFLIX",Army of the Dead (2021)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Army of Thieves (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fVMognsmbogzkfY7DY0Bvn7h7Y.jpg" group-title="▶ VOD NETFLIX",Army of Thieves (2021)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atlas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg" group-title="▶ VOD NETFLIX",Atlas (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Badland Hunters (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="▶ VOD NETFLIX",Badland Hunters (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ballerina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oE7xtGDqZnr7tFHfwb8oM9iRW6H.jpg" group-title="▶ VOD NETFLIX",Ballerina (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2407.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bangkok Breaking: Heaven and Hell (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VeDn4oIeUK4XwjWGWMb6qvMImQ.jpg" group-title="▶ VOD NETFLIX",Bangkok Breaking: Heaven and Hell (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills Cop: Axel F (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zszRKfzjM5jltiq8rk6rasKVpUv.jpg" group-title="▶ VOD NETFLIX",Beverly Hills Cop: Axel F (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bionic (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVCYzdBE6lo3sUFK1OMZnXvpGtT.jpg" group-title="▶ VOD NETFLIX",Bionic (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2410.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Borderless Fog (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6uPuxzFJs7OyTPrl5V0XUITKj5.jpg" group-title="▶ VOD NETFLIX",Borderless Fog (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carry-On (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjMN7DRi4sGiledsmllEw5HJjPy.jpg" group-title="▶ VOD NETFLIX",Carry-On (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Damsel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/290Lsuy4GJF3VEVqMbJqHs7xFdv.jpg" group-title="▶ VOD NETFLIX",Damsel (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Devara: Part 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9ENz6d4lC3UYOX8Z1gJwDEo1sM.jpg" group-title="▶ VOD NETFLIX",Devara: Part 1 (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Disaster Holiday (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNZHImRQhSq5qEPSpDkmWLRB4RS.jpg" group-title="▶ VOD NETFLIX",Disaster Holiday (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Don't Look Up (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="▶ VOD NETFLIX",Don't Look Up (2021)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Don't Move (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg" group-title="▶ VOD NETFLIX",Don't Move (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Do Patti (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqStHxRVUtFNaNnJtieHeXIackv.jpg" group-title="▶ VOD NETFLIX",Do Patti (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" group-title="▶ VOD NETFLIX",Enola Holmes (2020)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjZjZhNzUtMDQyMC00OWZmLWIzMjQtZDM2OWRhNzgwOGU2XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD NETFLIX",Enola Holmes 2 (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Extinction (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjnNdjrZIdi7d316SjjkgEjJRSg.jpg" group-title="▶ VOD NETFLIX",Extinction (2020)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Extraction (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg" group-title="▶ VOD NETFLIX",Extraction (2020)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Extraction 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg" group-title="▶ VOD NETFLIX",Extraction 2 (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Family Pack (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKDH9pjh1fkBcb3PNouQ0qmN6cW.jpg" group-title="▶ VOD NETFLIX",Family Pack (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Glass Onion: A Knives Out Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg" group-title="▶ VOD NETFLIX",Glass Onion: A Knives Out Mystery (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Golden Kamuy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg" group-title="▶ VOD NETFLIX",Golden Kamuy (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Heart of Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg" group-title="▶ VOD NETFLIX",Heart of Stone (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Heart of the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg" group-title="▶ VOD NETFLIX",Heart of the Hunter (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hit Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oil3EZwKFp3CWxZnfGfGglesvm9.jpg" group-title="▶ VOD NETFLIX",Hit Man (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honeymoonish (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXxs6FSFAYdrhKGD9f4fgCGmzXu.jpg" group-title="▶ VOD NETFLIX",Honeymoonish (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="How It Ends (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4FQ8H77z6rIY82HzR5wgOYoxCA.jpg" group-title="▶ VOD NETFLIX",How It Ends (2021)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Irish Wish (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg" group-title="▶ VOD NETFLIX",Irish Wish (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jaane Jaan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaUOV9VCNM5MjrmonqgH4o3XNwQ.jpg" group-title="▶ VOD NETFLIX",Jaane Jaan (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jurnal Risa by Risa Saraswati (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znicsfFuTboZsNzBdZNKYp7VH4P.jpg" group-title="▶ VOD NETFLIX",Jurnal Risa by Risa Saraswati (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="▶ VOD NETFLIX",Kate (2021)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Leave The World Behind (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otLtsO75RZCC72HPlIDaSZioMO5.jpg" group-title="▶ VOD NETFLIX",Leave The World Behind (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Leo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg" group-title="▶ VOD NETFLIX",Leo (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lift (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg" group-title="▶ VOD NETFLIX",Lift (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg" group-title="▶ VOD NETFLIX",Lou (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Is in the Air (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAn1tvopkqATQ0AfV4LK08ReAvp.jpg" group-title="▶ VOD NETFLIX",Love Is in the Air (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg" group-title="▶ VOD NETFLIX",Luther: The Fallen Sun (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maharaj (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9o8LxGL4YHZKxPrF94Vm1jGuPi.jpg" group-title="▶ VOD NETFLIX",Maharaj (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Memoir Seorang Guru (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvET11r3QLJ9UJAvWJM2PJBBWX9.jpg" group-title="▶ VOD NETFLIX",Memoir Seorang Guru (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Miraculous: Tales of Ladybug & Cat Noir (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miih6wAp8eFCaGGoeFH9nGv8rox.jpg" group-title="▶ VOD NETFLIX",Miraculous: Tales of Ladybug & Cat Noir (2017)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Cross (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE9WqOApdRYsowsGE0118dyA4c9.jpg" group-title="▶ VOD NETFLIX",Mission: Cross (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mother of the Bride (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdTvwykMWvVgdaViBVRh8IFTku5.jpg" group-title="▶ VOD NETFLIX",Mother of the Bride (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mowgli: Legend of the Jungle (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg" group-title="▶ VOD NETFLIX",Mowgli: Legend of the Jungle (2018)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Name Is Vendetta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l3war94J4tRyWUiLAGokr3ViF2.jpg" group-title="▶ VOD NETFLIX",My Name Is Vendetta (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Night in Paradise (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYCWUAidqgakGETwZkfGxU7CWhL.jpg" group-title="▶ VOD NETFLIX",Night in Paradise (2020)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nowhere (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uvCXfpaU1VveV5w9h05OxN0zdN.jpg" group-title="▶ VOD NETFLIX",Nowhere (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Officer Black Belt (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEaJSXAlNfdhRpDHiNcJsoUa9qE.jpg" group-title="▶ VOD NETFLIX",Officer Black Belt (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Outside the Wire (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg" group-title="▶ VOD NETFLIX",Outside the Wire (2021)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Padu (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0kbkXqEt5LKJbafyNGIpfUkoS8.jpg" group-title="▶ VOD NETFLIX",Padu (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paradise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGz88hNPcHUJkUx7MPm0Ue6GZt7.jpg" group-title="▶ VOD NETFLIX",Paradise (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Phir Aayi Hasseen Dillruba (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIBjLUAAw2bzeOHBJIKiZI4QDL0.jpg" group-title="▶ VOD NETFLIX",Phir Aayi Hasseen Dillruba (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="▶ VOD NETFLIX",Rebel Moon - Part One: A Child of Fire (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg" group-title="▶ VOD NETFLIX",Rebel Moon - Part Two: The Scargiver (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rebel Ridge (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg" group-title="▶ VOD NETFLIX",Rebel Ridge (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Red Notice (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAXONuqg41NwUMuzMiFvicDET9Y.jpg" group-title="▶ VOD NETFLIX",Red Notice (2021)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sector 36 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbVcZmmcfqk35Q9hNxRoR7JPiVp.jpg" group-title="▶ VOD NETFLIX",Sector 36 (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sikandar Ka Muqaddar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWUh4rgxtgypgnOa6uGMnUt01ux.jpg" group-title="▶ VOD NETFLIX",Sikandar Ka Muqaddar (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spenser Confidential (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg" group-title="▶ VOD NETFLIX",Spenser Confidential (2020)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big 4 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxtf1bovLDyd0dMcKXdwVyqVsuK.jpg" group-title="▶ VOD NETFLIX",The Big 4 (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Deliverance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nvXNxLY6omubIBI1HpQG6mYCe4.jpg" group-title="▶ VOD NETFLIX",The Deliverance (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Girl on the Train (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg" group-title="▶ VOD NETFLIX",The Girl on the Train (2016)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Gray Man (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Eom3JsXgQlCj6QIsGCwXkX7wyH.jpg" group-title="▶ VOD NETFLIX",The Gray Man (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="▶ VOD NETFLIX",The Killer (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Mother (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8tL9HtheHXHzRMolrFvpyiLOSg.jpg" group-title="▶ VOD NETFLIX",The Mother (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Old Guard (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg" group-title="▶ VOD NETFLIX",The Old Guard (2020)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Platform (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXvQnzy6JCAx1PiQEKXuTY04ZHl.jpg" group-title="▶ VOD NETFLIX",The Platform (2019)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Platform 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg" group-title="▶ VOD NETFLIX",The Platform 2 (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The School for Good and Evil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg" group-title="▶ VOD NETFLIX",The School for Good and Evil (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Sea Beast (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg" group-title="▶ VOD NETFLIX",The Sea Beast (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Union (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9CTnTHip1RbVi2OQbA2LJJQAGI.jpg" group-title="▶ VOD NETFLIX",The Union (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Wages of Fear (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFK2ZLQUzo9pea0jfMCHDfvWsx7.jpg" group-title="▶ VOD NETFLIX",The Wages of Fear (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Time Cut (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg" group-title="▶ VOD NETFLIX",Time Cut (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Troll (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulgKdif3ubMACDltr8VZy6fyVjW.jpg" group-title="▶ VOD NETFLIX",Troll (2022)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trouble (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfgUwFSocC1oPNrQyCDi0eDGetG.jpg" group-title="▶ VOD NETFLIX",Trouble (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uglies (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaUu9zHtbcFwrB5Y1DNYE09HMex.jpg" group-title="▶ VOD NETFLIX",Uglies (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Under Paris (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg" group-title="▶ VOD NETFLIX",Under Paris (2024)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wingwomen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atatNvrn7kBvkARD2YodyYkKicr.jpg" group-title="▶ VOD NETFLIX",Wingwomen (2023)
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2481.mp4
-
-
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/73oyzybmdbvdz2542qnva/1739366958260109527570695878015.jpg?rlkey=un8t89zw9e826qej3vhpw82ze&st=84ab40e4&dl=1" group-title="▶ VOD NETFLIX",Sumala 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/73oyzybmdbvdz2542qnva/1739366958260109527570695878015.jpg?rlkey=un8t89zw9e826qej3vhpw82ze&st=84ab40e4&dl=1",Sumala 2024
 https://www.dropbox.com/scl/fi/ka9q1gz65hlrz1aq3g2zt/Sumala.mp4?rlkey=bq3ncipdjwm60q132jzfqbqko&st=l69pi1ay&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/0q3bcukfgxeu2i6szlxmt/17393668886489199391554442118816.jpg?rlkey=qi84zkt3ghgv8p56whgsw0l3f&st=9himhpzy&dl=1" group-title="▶ VOD NETFLIX",Death Whisperer 2 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/0q3bcukfgxeu2i6szlxmt/17393668886489199391554442118816.jpg?rlkey=qi84zkt3ghgv8p56whgsw0l3f&st=9himhpzy&dl=1",Death Whisperer 2 2024
 https://www.dropbox.com/scl/fi/4o2fi4afschwpyf40slah/Death-Whisperer-2.mp4?rlkey=syxvbfz0d48ld0fq5tzd0hfwl&st=k4evbo5j&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/jb97z2828r00lynmqk1c7/17394960791868846698826873043838.jpg?rlkey=vf2t2urci853ynqmzpow2zy1g&st=r19j06el&dl=1" group-title="▶ VOD NETFLIX",Malam Keramat 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/jb97z2828r00lynmqk1c7/17394960791868846698826873043838.jpg?rlkey=vf2t2urci853ynqmzpow2zy1g&st=r19j06el&dl=1",Malam Keramat 2024
 https://www.dropbox.com/scl/fi/j24esuqmrcnvmbcc1txs5/malam-keramat.mp4?rlkey=skhi1zfe259tpqve4d8xlj5nj&st=wq4rceal&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/a0x5bkwll5f2ndxlhco6d/17387599641469200053883686393735.jpg?rlkey=gxok9afr0lxsz85pqu627g2fs&st=ob6sagb0&dl=1" group-title="▶ VOD NETFLIX",Pushpa 2: The Rule 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/a0x5bkwll5f2ndxlhco6d/17387599641469200053883686393735.jpg?rlkey=gxok9afr0lxsz85pqu627g2fs&st=ob6sagb0&dl=1",Pushpa 2: The Rule 2024
 https://www.dropbox.com/scl/fi/c6vshszn5fqbyxk2vm4ui/pushpa.mp4?rlkey=en2f1csjxcmz7htbfo22npv61&st=ir5qum35&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/c5i1r1hve29lvvyntk6xa/17394987272557185390259927953223.jpg?rlkey=utbmwzkmxehpkaa5xh8di6k6r&st=wxeujcki&dl=1" group-title="▶ VOD NETFLIX",Bogota:City of the lost 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/c5i1r1hve29lvvyntk6xa/17394987272557185390259927953223.jpg?rlkey=utbmwzkmxehpkaa5xh8di6k6r&st=wxeujcki&dl=1",Bogota:City of the lost 2024
 https://www.dropbox.com/scl/fi/kxvsrpygjc78f70cm5bsb/bogota.mp4?rlkey=9qzj9k4b7jhw3yzkpabmm2pdb&st=q6h2lpxp&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/ofghvbqfu1u29k623tuep/17366593465577374042872448877324.jpg?rlkey=5q9je0a5s9xqo58o2ohpia1h1&st=qrlx9dl6&dl=1" group-title="▶ VOD NETFLIX",Talbis Iblis 2022
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/ofghvbqfu1u29k623tuep/17366593465577374042872448877324.jpg?rlkey=5q9je0a5s9xqo58o2ohpia1h1&st=qrlx9dl6&dl=1",Talbis Iblis 2022
 https://www.dropbox.com/scl/fi/eiugciy7xui3cfiwf7eq5/The-Devil_s-Deception-2022-720.ts?rlkey=z35lie47s5q6303ynif7uldwr&st=zetj2i6s&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/et4civxw2xzbb7v0chnjs/17395946049344611652171630247153.jpg?rlkey=gaby42nfifewd3kiiocgihz03&st=e53dnb9i&dl=1" group-title="▶ VOD NETFLIX",Telepon Yang Tak Pernah Berdering (2025)
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/et4civxw2xzbb7v0chnjs/17395946049344611652171630247153.jpg?rlkey=gaby42nfifewd3kiiocgihz03&st=e53dnb9i&dl=1",Telepon Yang Tak Pernah Berdering (2025)
 https://www.dropbox.com/scl/fi/gdneakrsgkgcfoc9h5u43/telepon-yang-tak-pernah-berdering.mp4?rlkey=qrcq6t1bsnkgmwjiam6o8kex7&st=l7udofgf&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/5aomy49r6e9dzxldmw7h8/17396308742571885685805006411221.jpg?rlkey=e1yl3kkmihjlvjjbedav0w2nc&st=6ouhpbnl&dl=1" group-title="▶ VOD NETFLIX",Berebut Jenazah (2025)
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/5aomy49r6e9dzxldmw7h8/17396308742571885685805006411221.jpg?rlkey=e1yl3kkmihjlvjjbedav0w2nc&st=6ouhpbnl&dl=1",Berebut Jenazah (2025)
 https://www.dropbox.com/scl/fi/saolu2v3g7xufkgo9t1nv/berebut-jenazah-2025.mp4?rlkey=nrwt9gkglfhbzhilhk7i9ima1&st=14okb661&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/0lxtopenast6o12xgsu27/17396324770085023778534634178101.jpg?rlkey=7if8dv5c1dvvn7kq90gnad6x0&st=frn4klca&dl=1" group-title="▶ VOD NETFLIX",Ibu 2023
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/0lxtopenast6o12xgsu27/17396324770085023778534634178101.jpg?rlkey=7if8dv5c1dvvn7kq90gnad6x0&st=frn4klca&dl=1",Ibu 2023
 https://www.dropbox.com/scl/fi/krk2eqml67nx9skg2t3lb/ibu.mp4?rlkey=bh8h7xt19cg8fipf01prhwknf&st=xy2aa6en&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/3plghdg11ktvynu8uvl8m/1739632818304919479658411672689.jpg?rlkey=5t332984xu1wwtboc8w6dfxa8&st=rtsr1ez7&dl=1" group-title="▶ VOD NETFLIX",Home Sweet Loan 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/3plghdg11ktvynu8uvl8m/1739632818304919479658411672689.jpg?rlkey=5t332984xu1wwtboc8w6dfxa8&st=rtsr1ez7&dl=1",Home Sweet Loan 2024
 https://www.dropbox.com/scl/fi/e08b2ooittl02pxha8gb0/home-sweet-loan.mp4?rlkey=61y08hat74bhv58rauxupx2zs&st=yous2rgw&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/nxz60b0gj6gna0yk5ym9d/17396735608657054208565035198653.jpg?rlkey=014yl68zo5r9dsdx10s1x9jze&st=7hbkvfwf&dl=1" group-title="▶ VOD NETFLIX",Kinda Pregnant (2025)
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/nxz60b0gj6gna0yk5ym9d/17396735608657054208565035198653.jpg?rlkey=014yl68zo5r9dsdx10s1x9jze&st=7hbkvfwf&dl=1",Kinda Pregnant (2025)
 https://www.dropbox.com/scl/fi/tyxuazmgkrydsoropo8lw/kinda-pregnant.mp4?rlkey=ug70he9oiipsxxfw7fklt1jmb&st=ogctae67&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/w4ecf6oa2f6akx0cf2qlz/1737602371418357591132582989333.jpg?rlkey=z3fevqp1vh92u3swjlhgm7709&st=rjl645yp&dl=1" group-title="▶ VOD NETFLIX", Back In Action (2025)
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/w4ecf6oa2f6akx0cf2qlz/1737602371418357591132582989333.jpg?rlkey=z3fevqp1vh92u3swjlhgm7709&st=rjl645yp&dl=1",Back In Action (2025)
 https://www.dropbox.com/scl/fi/b4vzbbp153yuz694qbqj9/back-in-action.mp4?rlkey=2j5hnk1amd7de8dxanxs0gqak&st=kg6zhh6c&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/g12fenxcmw3v10cba2ug5/17398793530181210645505785787531.jpg?rlkey=54xr85p9hfuwayhbsgbd0v444&st=sfh09cc3&dl=1" group-title="▶ VOD NETFLIX", Kemah Terlarang: Kesurupan Massal 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/g12fenxcmw3v10cba2ug5/17398793530181210645505785787531.jpg?rlkey=54xr85p9hfuwayhbsgbd0v444&st=sfh09cc3&dl=1",Kemah Terlarang: Kesurupan Massal 2024
 https://www.dropbox.com/scl/fi/hvwgohiwbuy2zlc4xt6j2/kemah-terlarang.mp4?rlkey=95y0e1ts4asbf9kq4ubgsdj4q&st=2p6bgsp5&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/v5phcrafyd71reg1pfpkv/17398797130112492344828825698924.jpg?rlkey=6lcn9oz8wtowbod1rh5gytu6k&st=kwbx1yag&dl=1" group-title="▶ VOD NETFLIX", Cocaine Bear 2023
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/v5phcrafyd71reg1pfpkv/17398797130112492344828825698924.jpg?rlkey=6lcn9oz8wtowbod1rh5gytu6k&st=kwbx1yag&dl=1",Cocaine Bear 2023
 https://www.dropbox.com/scl/fi/levxtwnfx8va46823pkgq/cocaine-bear.mp4?rlkey=13vkhnn2z2b2hg3ike1nq3vs8&st=apgst8lb&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/9mli2uvunuzzfsa5otcxc/17400389158928721304768002850122.jpg?rlkey=3lcrwy6s8nmyaweagghcv9z2v&st=hagmca6e&dl=1" group-title="▶ VOD NETFLIX", The Prosecutor 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/9mli2uvunuzzfsa5otcxc/17400389158928721304768002850122.jpg?rlkey=3lcrwy6s8nmyaweagghcv9z2v&st=hagmca6e&dl=1",The Prosecutor 2024
 https://www.dropbox.com/scl/fi/cemww69ecgct5affmifuv/prosecutor.mp4?rlkey=u5do1dqgkch9xzg3kh9r3rv0j&st=3zovq694&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/j7x3lyud6p96pljsxziv5/17388373039624335461282105490506.jpg?rlkey=6cza9xsrx9gybs402cf6rs63p&st=10gvr89o&dl=1" group-title="▶ VOD NETFLIX", Reeza GTR 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/j7x3lyud6p96pljsxziv5/17388373039624335461282105490506.jpg?rlkey=6cza9xsrx9gybs402cf6rs63p&st=10gvr89o&dl=1",Reeza GTR 2024
 https://www.dropbox.com/scl/fi/j9489xtxtfwenf6hr79qh/reeza-gtr.mp4?rlkey=1eyowgn7eexrsse234el2f66t&st=qjpvc92s&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/mxr1wns3c4cth1ksa4hhf/17402437681083734656482586427345.jpg?rlkey=vyf7yc3ajis2s1msqz0qtqyzi&st=ndvmqtze&dl=1" group-title="▶ VOD NETFLIX", Twilight of the Warriors: Walled In 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/mxr1wns3c4cth1ksa4hhf/17402437681083734656482586427345.jpg?rlkey=vyf7yc3ajis2s1msqz0qtqyzi&st=ndvmqtze&dl=1",Twilight of the Warriors: Walled In 2024
 https://www.dropbox.com/scl/fi/ftzdbw6cvnx2qkux2s7sz/twilight-of-the-warriors.mp4?rlkey=9qyfnrcwu9zct9dlywpw8lpel&st=iisubdgz&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/06c6iovbkbjp6ux22z1h8/1740291919619700092048238012063.jpg?rlkey=6df0q1o2auxd3mzay5shmz5ux&st=axwcbb56&dl=1" group-title="▶ VOD NETFLIX", Dhoom Dhaam (2025)
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/06c6iovbkbjp6ux22z1h8/1740291919619700092048238012063.jpg?rlkey=6df0q1o2auxd3mzay5shmz5ux&st=axwcbb56&dl=1",Dhoom Dhaam (2025)
 https://www.dropbox.com/scl/fi/g3ba82z3udh3qprk9xx10/dhoom-dhaam.mp4?rlkey=hnx3nej1imlwsl38839dwa8qi&st=yi49vj1o&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/6rky9lxf0rnlguspqm3sd/17403114004812591191021618678907.jpg?rlkey=r50y3r8oyqctirs1coakkh8vw&st=bimnmjho&dl=1" group-title="▶ VOD NETFLIX", Jangan Pandang Belakang 2 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/6rky9lxf0rnlguspqm3sd/17403114004812591191021618678907.jpg?rlkey=r50y3r8oyqctirs1coakkh8vw&st=bimnmjho&dl=1",Jangan Pandang Belakang 2 2024
 https://www.dropbox.com/scl/fi/z3nwwoaixq5p2q2prsngb/jangan-pandang-belakang-2.mkv?rlkey=2dvfx4udyftottibtldtyrryw&st=33ml65lx&dl=1
 
 #EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sazCl3nmMzwpjNkePfcSm2XYmau.jpg", Silence 2: The Night Owl 2024
@@ -235,13 +69,13 @@ https://www.dropbox.com/scl/fi/1niaunnri8hjl80b4eoc2/big-brother-2018.mp4?rlkey=
 #EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/gib0zyo3060fen187z995/17412993431025835066485010796951.jpg?rlkey=i0cs27eup834n6mtnjozj70se&st=yxjv9iw5&dl=1", Demon City (2025)
 https://www.dropbox.com/scl/fi/ifu4h52mcf6g6bo72e8p9/demon-city.mp4?rlkey=y3u0bobktpuhp8ajdxwk24e8c&st=u8w7uz8p&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/f0b00ubdwsvhtuwbu4ntb/17414516804511235239500895955929.jpg?rlkey=kfhqg1yivw6nm8vx53l4k9ef9&st=w2px7msa&dl=1" group-title="▶ VOD NETFLIX", Daaku Maharaaj
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/f0b00ubdwsvhtuwbu4ntb/17414516804511235239500895955929.jpg?rlkey=kfhqg1yivw6nm8vx53l4k9ef9&st=w2px7msa&dl=1",Daaku Maharaaj
 https://www.dropbox.com/scl/fi/4u6oxxjda34wtab845qm4/daaku-maharaaj.mp4?rlkey=hzczx7u5pm4li06y44p92yps7&st=hii32fx2&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/24gzkt6y2033z0hj3unlm/17414541358375861552572919540836.jpg?rlkey=ikabgurvwsj1yor7a57mg6zia&st=o8xulezj&dl=1" group-title="▶ VOD NETFLIX", Dungeons & Dragons: Honor Among Thieves 2023
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/24gzkt6y2033z0hj3unlm/17414541358375861552572919540836.jpg?rlkey=ikabgurvwsj1yor7a57mg6zia&st=o8xulezj&dl=1",Dungeons & Dragons: Honor Among Thieves 2023
 https://www.dropbox.com/scl/fi/jdblgxuwasgq5gef5ge92/dungeon.mp4?rlkey=cgrzlr4u58enrthob3m4muyd9&st=e2kbgzl2&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/tweu25eiy928e3l7nfra6/1741466651782463580351554101583.jpg?rlkey=8zwhop5fm42tg7z2fmu5c6b9k&st=qou8xebm&dl=1" group-title="▶ VOD NETFLIX", Perewangan 2024
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/tweu25eiy928e3l7nfra6/1741466651782463580351554101583.jpg?rlkey=8zwhop5fm42tg7z2fmu5c6b9k&st=qou8xebm&dl=1",Perewangan 2024
 https://www.dropbox.com/scl/fi/9vpbwwnw4edv8izhraoox/perewangan.mp4?rlkey=erv2qfjt2ntcrl8gjiakdva1q&st=hbjaz2kf&dl=1
 
 #EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",Venom - The Last Dance 2024
@@ -417,138 +251,303 @@ https://www.dropbox.com/scl/fi/u4o3j649zpvofkty31tkw/born-to-fly.mp4?rlkey=4hepd
 #EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/3u16n00uks9x6qi0zrqkn/1746965517247221757411351047707.jpg?rlkey=blbqqwjj6xql5hbc7iwu9596f&st=plafd9ro&dl=1", Havoc (2025)
 https://www.dropbox.com/scl/fi/brfh0f7fpw21o3ukgs83p/havoc.mp4?rlkey=llen0e9ul8v0jmgcjhci3ntjt&st=9ay85sei&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKGQC_P_IVP_PORT_750x1126_202419_20418.jpg" group-title="▶ VOD NETFLIX",War on Terror: KL Anarki
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKGQC_P_IVP_PORT_750x1126_202419_20418.jpg",War on Terror: KL Anarki
 https://www.dropbox.com/scl/fi/lymb1o4txh0fnz4r0fhe4/kl-anarki.mp4?rlkey=h9h0yq584c2lhrsz3lcjt02ws&st=jetyq92g&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://get.perfecttv.net/first/harimaumerah.jpg", Harimau Merah (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://get.perfecttv.net/first/harimaumerah.jpg", Harimau Merah (2025)
 https://www.dropbox.com/scl/fi/3g6r463gd59ujyzdlp73s/harimau-merah.mp4?rlkey=ij3wwom8t0q8yinz8fvu5f9q5&st=4pgumi8k&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zisi00ess5wf03j1dv01n/17473251455257233428024894302905.jpg?rlkey=3vkl5ogx9rxft5kj7bkj4mz0k&st=2rllu1c0&dl=1", Ketindihan (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/zisi00ess5wf03j1dv01n/17473251455257233428024894302905.jpg?rlkey=3vkl5ogx9rxft5kj7bkj4mz0k&st=2rllu1c0&dl=1", Ketindihan (2025)
 https://www.dropbox.com/scl/fi/nnuz6l3shbxn1mbe34tu0/ketindihan.mp4?rlkey=n28lhzz24z0dcjybaw0h9s0eq&st=orczdnha&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/upczhyq1ply5uleb0a81o/17475043205515412300058927542949.jpg?rlkey=vnqdbm1j3usr4kpxt6fkq5md8&st=abk9s1w5&dl=1", Final Destination Bloodlines (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/upczhyq1ply5uleb0a81o/17475043205515412300058927542949.jpg?rlkey=vnqdbm1j3usr4kpxt6fkq5md8&st=abk9s1w5&dl=1", Final Destination Bloodlines (2025)
 https://www.dropbox.com/scl/fi/s83w1gb0xjbpg99pj07ik/final-destination-blood-lines.mp4?rlkey=vdgltul1vl4xywbu2hdism3zb&st=tfd73l3n&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/lmzuu4869f56cr1zkigzi/17475046602665189413984093861710.jpg?rlkey=6c1j1mhh5rl3ram3co400o3k7&st=dzvnhrlo&dl=1", Snow White (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/lmzuu4869f56cr1zkigzi/17475046602665189413984093861710.jpg?rlkey=6c1j1mhh5rl3ram3co400o3k7&st=dzvnhrlo&dl=1", Snow White (2025)
 https://www.dropbox.com/scl/fi/qkd6eid3ktt7l6hadgcl8/snow-white-2025.mp4?rlkey=zplhawaqzgs0x5qi0aq4gdhtr&st=kuiy4kk0&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/gk1uzrl7mzgrqr1zag5bp/1747926058924747499757635511790.jpg?rlkey=c9d2uqglnr4sa1rbfew8aot34&st=vmnh02s3&dl=1", Almarhum (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/gk1uzrl7mzgrqr1zag5bp/1747926058924747499757635511790.jpg?rlkey=c9d2uqglnr4sa1rbfew8aot34&st=vmnh02s3&dl=1", Almarhum (2025)
 https://www.dropbox.com/scl/fi/lzfp1879di3j95d021933/almarhum.mp4?rlkey=s7j7itfxj1s0xweqlbp3lea5f&st=v7albrrr&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/t7wuixy10lnrv7oe515ao/17480579121976099032835148315038.png?rlkey=xpbb1h3tyyk1uk8g1a847k6sh&st=oo6obx1q&dl=1", Pengantin Setan (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/t7wuixy10lnrv7oe515ao/17480579121976099032835148315038.png?rlkey=xpbb1h3tyyk1uk8g1a847k6sh&st=oo6obx1q&dl=1", Pengantin Setan (2025)
 https://www.dropbox.com/scl/fi/nw3mqduzcwrieuzafy89p/Pengantin-setan.mp4?rlkey=vu1bqzl4i7q2fkj6ks3mkrk2i&st=huhinbvh&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/xg1z4w057nj18c77ucbm2/17481723458136478499081910975985.jpg?rlkey=hto4lx06gkznkdjlraer3z9a4&st=bc1d83wg&dl=1", Ejen Ali The Movie 2019
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/xg1z4w057nj18c77ucbm2/17481723458136478499081910975985.jpg?rlkey=hto4lx06gkznkdjlraer3z9a4&st=bc1d83wg&dl=1", Ejen Ali The Movie 2019
 https://www.dropbox.com/scl/fi/tyndsifusk2g8olp1vtrd/ejen-ali-the-movie-2019.mkv?rlkey=b9uzm4u98x44e4w9m4mjeqz3y&st=1d24udr4&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/890wyth8l5kk5dravcqha/17486926960227887356308488251146.jpg?rlkey=ntj2sntrmtxlvuhdcon2trkwt&st=xtbr9x8a&dl=1", Ghost Game 2024
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/890wyth8l5kk5dravcqha/17486926960227887356308488251146.jpg?rlkey=ntj2sntrmtxlvuhdcon2trkwt&st=xtbr9x8a&dl=1", Ghost Game 2024
 https://www.dropbox.com/scl/fi/092tix5y3wpy2gdocgj0c/ghost-game.mp4?rlkey=7qmvs6atfu98qgk425uts4u3r&st=56fbfjcx&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2knw9w1ishw6vudniuxyu/17487935954636086084310299090159.jpg?rlkey=ad5slogw8toayjxwts1tc0vqd&st=8345fhrp&dl=1", Bullet Train Explosion (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/2knw9w1ishw6vudniuxyu/17487935954636086084310299090159.jpg?rlkey=ad5slogw8toayjxwts1tc0vqd&st=8345fhrp&dl=1", Bullet Train Explosion (2025)
 https://www.dropbox.com/scl/fi/paamrkjujdhjm8eslg6i1/Bullet-Train-Explosion.mp4?rlkey=iq3g71tx9dgqeyc54b01zhq7p&st=5knagdzo&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/e73phcjp95ea8yty0pqgh/17488798640176813464450784698860.jpg?rlkey=hoyipp8k0sx5r6vi37pb6yj5j&st=6242venh&dl=1", KKN Desa Penari 2022
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/e73phcjp95ea8yty0pqgh/17488798640176813464450784698860.jpg?rlkey=hoyipp8k0sx5r6vi37pb6yj5j&st=6242venh&dl=1", KKN Desa Penari 2022
 https://www.dropbox.com/scl/fi/00ibzxq7tghysmkjg3qqp/kkn-desa-penari.mp4?rlkey=4qa69iozwwbis2ai8nv4o086j&st=c4tmmp77&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/761k0w8t4uzu1uaxmbshl/17492283324544965573313292000766.jpg?rlkey=diayz4scxwcsbkcax8js01r00&st=qgt62tdx&dl=1", Paris In Bali (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/761k0w8t4uzu1uaxmbshl/17492283324544965573313292000766.jpg?rlkey=diayz4scxwcsbkcax8js01r00&st=qgt62tdx&dl=1", Paris In Bali (2025)
 https://www.dropbox.com/scl/fi/7msx63l2oo8r8lmw3zvoi/paris-in-bali.mp4?rlkey=otcbcmjhku604dc5de4qovvt9&st=9n51hbyj&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/8hbzoidmzkb2kd4n9n3j5/17495516260216032648705358424420.jpg?rlkey=qewor8s29cnoq4khjhfbx3rvc&st=wygtfdnz&dl=1", Sewu Dino
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/8hbzoidmzkb2kd4n9n3j5/17495516260216032648705358424420.jpg?rlkey=qewor8s29cnoq4khjhfbx3rvc&st=wygtfdnz&dl=1", Sewu Dino
 https://www.dropbox.com/scl/fi/hpj30d23ljgecdrh11vo0/sewu-dino.mp4?rlkey=8cz68eg28esto9pbcp40750ui&st=2b5jj7oi&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/jd0s1ix1wpp8spydv72v1/17495629392672410628313401630913.jpg?rlkey=uk08zqt80hyoi5vxfm456twxz&st=j6wz22jp&dl=1", Popeye The Slayer Man (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/jd0s1ix1wpp8spydv72v1/17495629392672410628313401630913.jpg?rlkey=uk08zqt80hyoi5vxfm456twxz&st=j6wz22jp&dl=1", Popeye The Slayer Man (2025)
 https://www.dropbox.com/scl/fi/vjob5chf9ju9r3cfp375s/popeye-the-slayer-man-2025.mp4?rlkey=zjnj8g32z3hcsfpghyj0wq551&st=psjsbkoq&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/om6upz1z33d59azz7990g/17495630677607997926970693181703.jpg?rlkey=hxgjhrkouadhm637688gdz6rl&st=214x53x2&dl=1", Holy Night Demon Hunter (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/om6upz1z33d59azz7990g/17495630677607997926970693181703.jpg?rlkey=hxgjhrkouadhm637688gdz6rl&st=214x53x2&dl=1", Holy Night Demon Hunter (2025)
 https://www.dropbox.com/scl/fi/ab5d3pjdtif0uv21lcxwk/holy-night-demon-hunter.mp4?rlkey=dj99zvwk1l585vb676pckbyso&st=ly7jod6h&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/iedadlzam1k57rcgekmi7/17497859127487659155333527254168.jpg?rlkey=h33s20gyjqq7c2dud9nce4ntt&st=fezdvdqp&dl=1", Jaat (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/iedadlzam1k57rcgekmi7/17497859127487659155333527254168.jpg?rlkey=h33s20gyjqq7c2dud9nce4ntt&st=fezdvdqp&dl=1", Jaat (2025)
 https://www.dropbox.com/scl/fi/2s61gji3en9oib4svcsaj/jaat.mp4?rlkey=tbg5n99hjxd0umc2qsb0y0y4e&st=6sa56la2&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/espm2ou2leufedav3ilxz/17498148499552316916925798981569.jpg?rlkey=3olyenwnfo0g8u0w4msjgxdvr&st=hytnf4ce&dl=1", Sikandar (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/espm2ou2leufedav3ilxz/17498148499552316916925798981569.jpg?rlkey=3olyenwnfo0g8u0w4msjgxdvr&st=hytnf4ce&dl=1", Sikandar (2025)
 https://www.dropbox.com/scl/fi/4max0kmtfaiyajkc35mv0/sikandar.mp4?rlkey=zitl0e4aprmzimve9w61n3qfh&st=t8rjibik&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/umo2pfdzf7jy1eolpyx8i/17499913078812761955911675935195.jpg?rlkey=uefki69t6m2o3f3zsesdro1v4&st=gxqp2vm0&dl=1", The Witch.Part 1.The Subversion 2018
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/umo2pfdzf7jy1eolpyx8i/17499913078812761955911675935195.jpg?rlkey=uefki69t6m2o3f3zsesdro1v4&st=gxqp2vm0&dl=1", The Witch.Part 1.The Subversion 2018
 https://www.dropbox.com/scl/fi/qwsfltzf0vq2qes3nurl3/the-witch-part-1-the-subversion.mp4?rlkey=w2bpqobzhrjhv87nsogh4bq0e&st=t8ud7wev&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/wwszaw06x8aa7ysmqtzdu/17504295927243605005411847022526.jpg?rlkey=t4kla8s8lq9v9s6q3yxzmbo09&st=itn5erww&dl=1", Counterstrike (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/wwszaw06x8aa7ysmqtzdu/17504295927243605005411847022526.jpg?rlkey=t4kla8s8lq9v9s6q3yxzmbo09&st=itn5erww&dl=1", Counterstrike (2025)
 https://www.dropbox.com/scl/fi/jgowv02h9n042yfe34oml/counterstrike-2025.mp4?rlkey=cn5dw68juavorcu9lude14vs9&st=jshwl0l4&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/pt8395jpfix6wmbockocs/17505933558454776981500236536507.jpg?rlkey=tvhnh0lp9c5yogdlfrea1wl28&st=64xk8iek&dl=1", Raging Fire 2023
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/pt8395jpfix6wmbockocs/17505933558454776981500236536507.jpg?rlkey=tvhnh0lp9c5yogdlfrea1wl28&st=64xk8iek&dl=1", Raging Fire 2023
 https://www.dropbox.com/scl/fi/m57hfbpbfuqpm0z5sq8xw/raging-fire.mp4?rlkey=2xnryzkhd91f3wnzfl6r5vz4d&st=u7r33il0&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/mocwf19jm0vxrsp8ndwex/17506000408572948507846028291602.jpg?rlkey=fphlc83121okmpx3uta1dlrh0&st=lglsogxu&dl=1", Petaka Gunung Gede (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/mocwf19jm0vxrsp8ndwex/17506000408572948507846028291602.jpg?rlkey=fphlc83121okmpx3uta1dlrh0&st=lglsogxu&dl=1", Petaka Gunung Gede (2025)
 https://www.dropbox.com/scl/fi/oo7j40f038g0c9vwo0pka/petaka-gunung-gede.mp4?rlkey=azspu6tqsmez0no9lj8iviyz4&st=ms3j2nvt&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/3qo7omhm05nm7c7fgfkl3/17512899212917344587499441021433.jpg?rlkey=h05xvjz05um4ombsyto37v7a3&st=gq1enyg3&dl=1", Word Bubble Up Like Soda Pop
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/3qo7omhm05nm7c7fgfkl3/17512899212917344587499441021433.jpg?rlkey=h05xvjz05um4ombsyto37v7a3&st=gq1enyg3&dl=1", Word Bubble Up Like Soda Pop
 https://www.dropbox.com/scl/fi/egec3nk544r5265ir97rd/word-bubble-up-like-soda-pop.mkv?rlkey=sc0papqdd6sm8isu3gttpvwej&st=exo9eq64&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/3em9nl1ytlwalradguk0e/1751292284171361318498478771568.jpg?rlkey=vipt5cp2aoawxog71cye4ql0e&st=nuuchsk9&dl=1", Flight Risk (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/3em9nl1ytlwalradguk0e/1751292284171361318498478771568.jpg?rlkey=vipt5cp2aoawxog71cye4ql0e&st=nuuchsk9&dl=1", Flight Risk (2025)
 https://www.dropbox.com/scl/fi/wfokq0ghp5eucg19pzv70/flight-risk-2025.mp4?rlkey=o786povqgj7djlsf9ts4vtfyz&st=xsoqatf4&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/uygjwnnqc7onjox8rp8p0/17512923844133607903229813096058.jpg?rlkey=1710jr72zgv4jllb7ohzydr01&st=n97vru4e&dl=1", Romeo And Juliet (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/uygjwnnqc7onjox8rp8p0/17512923844133607903229813096058.jpg?rlkey=1710jr72zgv4jllb7ohzydr01&st=n97vru4e&dl=1", Romeo And Juliet (2025)
 https://www.dropbox.com/scl/fi/dh13z1p533wqdqsxirgsh/juliet-romeo.mp4?rlkey=ln85uifi6fhn8t7y6ubfcx19i&st=p7mjxzkw&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/klphcrpaamlgg81616xry/17513762720661679488324499694151.jpg?rlkey=2avqdydk5852t9yrdfmoqes3l&st=qmt0s5xb&dl=1", Pulung Gantung Pati Ngendat (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/klphcrpaamlgg81616xry/17513762720661679488324499694151.jpg?rlkey=2avqdydk5852t9yrdfmoqes3l&st=qmt0s5xb&dl=1", Pulung Gantung Pati Ngendat (2025)
 https://www.dropbox.com/scl/fi/357ko8ebqfwo5hnarecca/pulung-gantung.mp4?rlkey=kjxj431eu156pgwwe2fmfgocg&st=d28eu120&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/z03gz5r5v1m4qttszdcci/1751506375564608564244871604958.jpg?rlkey=42ap9deam9orq41ajhxylppwa&st=4un0f1ma&dl=1", Perayaan Mati Rasa (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/z03gz5r5v1m4qttszdcci/1751506375564608564244871604958.jpg?rlkey=42ap9deam9orq41ajhxylppwa&st=4un0f1ma&dl=1", Perayaan Mati Rasa (2025)
 https://www.dropbox.com/scl/fi/8m97ibp4bd0tmgqg6cj3m/perayaan-mati-rasa.mp4?rlkey=iqzrpkprulj3279zfymma2tvf&st=ypmitbao&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ygl2bzgb5r0z9fbiy1d3n/17515390730651029697497989655457.jpg?rlkey=dorr7btc3zaxv3pm22av21doh&st=xk9mfvwj&dl=1", A Business Proposal (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/ygl2bzgb5r0z9fbiy1d3n/17515390730651029697497989655457.jpg?rlkey=dorr7btc3zaxv3pm22av21doh&st=xk9mfvwj&dl=1", A Business Proposal (2025)
 https://www.dropbox.com/scl/fi/7thttlz8a81ugm2l99x8x/a-business-proposal.mp4?rlkey=7pm02rgvbq32x3l32amfgecg2&st=xzsf1h9j&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/bmdq32ucn35ar1mkp4pfe/17515391992473531921606379125135.jpg?rlkey=kwwkwxj6oik66g3mb5jqy4y1m&st=ab4ca7g2&dl=1", The Shadows Strays 2024
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/bmdq32ucn35ar1mkp4pfe/17515391992473531921606379125135.jpg?rlkey=kwwkwxj6oik66g3mb5jqy4y1m&st=ab4ca7g2&dl=1", The Shadows Strays 2024
 https://www.dropbox.com/scl/fi/3z4utd8bd0hjrn34k7tcu/the-shadows-strays.mp4?rlkey=66hmsd0peexyst349nhhau8r7&st=j4rorwti&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zbeo456648ixqwocs4u5z/17520744203146697255164031666046.jpg?rlkey=us3fplvalzsf48d0kgc8miq1r&st=hi6h95aw&dl=1", The Old Woman With The Knife (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/zbeo456648ixqwocs4u5z/17520744203146697255164031666046.jpg?rlkey=us3fplvalzsf48d0kgc8miq1r&st=hi6h95aw&dl=1", The Old Woman With The Knife (2025)
 https://www.dropbox.com/scl/fi/tsowlt48c8a6i4qp11a04/the-old-women-with-the-knife-2025.mp4?rlkey=3jfw7jfqylucvbb959k06ftq0&st=uehhsl13&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/jyeppp6h6b8sg7d9eetsg/17520746733892885886762855007017.jpg?rlkey=6h5j0roi4nmckw2azmk1a0o2h&st=rbb9x96j&dl=1", American Assassin 2017
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/jyeppp6h6b8sg7d9eetsg/17520746733892885886762855007017.jpg?rlkey=6h5j0roi4nmckw2azmk1a0o2h&st=rbb9x96j&dl=1", American Assassin 2017
 https://www.dropbox.com/scl/fi/o4oometul7y3a4bssnnx5/American-assassin.mp4?rlkey=8o7sqxm46b5wl2gpr6azoulgg&st=hchdsc75&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zhkyt4quluvpqr5z6ma6r/17523873430143949327870289954595.jpg?rlkey=dfhinehjhbesnorq3zdbercsm&st=nys3yowc&dl=1", Karate Kid Legends (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/zhkyt4quluvpqr5z6ma6r/17523873430143949327870289954595.jpg?rlkey=dfhinehjhbesnorq3zdbercsm&st=nys3yowc&dl=1", Karate Kid Legends (2025)
 https://www.dropbox.com/scl/fi/ibldxpi82iupnlymlc5wh/karate-kid-legend.mp4?rlkey=fgmrbaest4waxd9wtdh2u0vbd&st=s3exr30y&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/wxwcbisdla8yir597eil8/17523874760404710026066901401874.jpg?rlkey=yi01x8vhu3hahcdn6ouui9x7i&st=oh9n5zbk&dl=1", Ice Road Vengeance 
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/wxwcbisdla8yir597eil8/17523874760404710026066901401874.jpg?rlkey=yi01x8vhu3hahcdn6ouui9x7i&st=oh9n5zbk&dl=1", Ice Road Vengeance 
 https://www.dropbox.com/scl/fi/ogmgv0jly3g93o4mlo9xo/ice-road-vengeance.mp4?rlkey=1vy2y9ameg3vdlnflzx51ey19&st=7din1iok&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/3tv9s8lntyi3fa29hsw41/1752402107803778626745095442128.jpg?rlkey=3e491pwl9ml7tp6rvxv7z4i6u&st=q8f44yfd&dl=1", Keluang Man (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/3tv9s8lntyi3fa29hsw41/1752402107803778626745095442128.jpg?rlkey=3e491pwl9ml7tp6rvxv7z4i6u&st=q8f44yfd&dl=1", Keluang Man (2025)
 https://www.dropbox.com/scl/fi/jlr3xftl0z3rtc5ucsuye/keluang-man.mp4?rlkey=1qnjb4zekue6adqb5qbduy5oz&st=pngwj2sa&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zgop4fhqewg9e6pr0bfc7/17526758557691456861809700839599.jpg?rlkey=z9on1ol1s29dk20f0532tqp6i&st=77a6q9uq&dl=1", Ziam (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/zgop4fhqewg9e6pr0bfc7/17526758557691456861809700839599.jpg?rlkey=z9on1ol1s29dk20f0532tqp6i&st=77a6q9uq&dl=1", Ziam (2025)
 https://www.dropbox.com/scl/fi/v0biar03rorkfedtfw1an/ziam.mp4?rlkey=14e0v20osj05xi8nq1wgl9oz8&st=7ox3d8nf&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/j9l851aqqook3o39r69xi/1753025944107528076146402624806.jpg?rlkey=p5ls4511nqi3a9wkrxl7uzexz&st=1ryjry19&dl=1", Panor (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/j9l851aqqook3o39r69xi/1753025944107528076146402624806.jpg?rlkey=p5ls4511nqi3a9wkrxl7uzexz&st=1ryjry19&dl=1", Panor (2025)
 https://www.dropbox.com/scl/fi/b4eixhqpwp9d9jk0ozehw/panor.mp4?rlkey=hx0ntk38zsts3w93uepm9d2of&st=06lph7ih&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/yut8orcp53eiv7hgye6ul/17530883066328855061095348051490.jpg?rlkey=xdg4muuf5w1u8l9m37qn9g9qg&st=nqyhp67a&dl=1", Detective China Town 1900 (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/yut8orcp53eiv7hgye6ul/17530883066328855061095348051490.jpg?rlkey=xdg4muuf5w1u8l9m37qn9g9qg&st=nqyhp67a&dl=1", Detective China Town 1900 (2025)
 https://www.dropbox.com/scl/fi/lgdyhid0tbntkzk2oxyke/detective-china-town.mp4?rlkey=3szpcc9gyqmv7ul5l252bqrvs&st=j5lghyem&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/0jk2mavjvmxr1bge3z39u/17535892361135591419354542355916.jpg?rlkey=ve7ej1v93mydzp8eki34dgrod&st=kmty5ijr&dl=1", Dangerous Animals (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/0jk2mavjvmxr1bge3z39u/17535892361135591419354542355916.jpg?rlkey=ve7ej1v93mydzp8eki34dgrod&st=kmty5ijr&dl=1", Dangerous Animals (2025)
 https://www.dropbox.com/scl/fi/jl8wi3j919peyt1bblfva/dangerous-animals-2025.mp4?rlkey=ij9uuq2ct69mtw2l33nmfzo72&st=dluvya4w&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/9mi95yhv7c2ohs03mzzjq/17538854034002132241345445920716.jpg?rlkey=3ektjscivrqeuehdto1fj0ogh&st=3v2o5pdj&dl=1", 28 Years Later (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/9mi95yhv7c2ohs03mzzjq/17538854034002132241345445920716.jpg?rlkey=3ektjscivrqeuehdto1fj0ogh&st=3v2o5pdj&dl=1", 28 Years Later (2025)
 https://www.dropbox.com/scl/fi/m30yjqlh0e3p7rxrbk8jz/28-years-later-2025.mp4?rlkey=b5ilevzblfy3n82w3iqr8da6k&st=a26rp3xo&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/gezflq4orqnjp5ivbt4zp/17540209601791906032400377716417.jpg?rlkey=3901p7fudy0vrlg7h5hhqu64n&st=uoixr5wk&dl=1", The Fantastic Four First Steps (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/gezflq4orqnjp5ivbt4zp/17540209601791906032400377716417.jpg?rlkey=3901p7fudy0vrlg7h5hhqu64n&st=uoixr5wk&dl=1", The Fantastic Four First Steps (2025)
 https://www.dropbox.com/scl/fi/813ijpbmgm3gp3w14w55b/fantastic-four-2025.mp4?rlkey=dlydbnixjo0cfr9lno6hb204u&st=iva6hfgj&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/yxrb5bunhwunzuexwvox7/17541363804074539563739020711838.jpg?rlkey=d5bvz8tnophttyedm0rbgx7ud&st=7qyn3q3v&dl=1", The Monkey (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/yxrb5bunhwunzuexwvox7/17541363804074539563739020711838.jpg?rlkey=d5bvz8tnophttyedm0rbgx7ud&st=7qyn3q3v&dl=1", The Monkey (2025)
 https://www.dropbox.com/scl/fi/gtyzybw38h4fqqyktxtmz/the-monkey-2025.mp4?rlkey=rbl9xcj8dgg4yiz47ylurs1m2&st=tkajp1nc&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/s0ukwybxstwv6p1ra360y/17541975983094989594869156129266.jpg?rlkey=8w1pmgyvhwdb2x91vxu5bj4bf&st=oiesb0l9&dl=1", Jabang Mayit (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/s0ukwybxstwv6p1ra360y/17541975983094989594869156129266.jpg?rlkey=8w1pmgyvhwdb2x91vxu5bj4bf&st=oiesb0l9&dl=1", Jabang Mayit (2025)
 https://www.dropbox.com/scl/fi/p9f5ifap95h9uyhqvspvq/jabang-mayit.mp4?rlkey=kwxp3sq32gzc4q3sh6rx9ktlm&st=cb3z78i6&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/vgx8gdjq6zu8u4z948vup/17547854130605489099651639645879.jpg?rlkey=mh263wqu51cf0g33k9polz9lk&st=etk0zfvq&dl=1", Blood Brothers Bara Naga (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/vgx8gdjq6zu8u4z948vup/17547854130605489099651639645879.jpg?rlkey=mh263wqu51cf0g33k9polz9lk&st=etk0zfvq&dl=1", Blood Brothers Bara Naga (2025)
 https://www.dropbox.com/scl/fi/z99uott4fdh9kibzn98j6/blood-brothers.mp4?rlkey=pmidhwvwarqf910dlfeo9t3ja&st=3etqdqg8&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/smt3uc46423ck6zanvz11/17549088821395302087944310246390.jpg?rlkey=i1edr8wifklf1bxvimdbtbl54&st=nai4ajf1&dl=1", Martabat Misi Berdarah (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/smt3uc46423ck6zanvz11/17549088821395302087944310246390.jpg?rlkey=i1edr8wifklf1bxvimdbtbl54&st=nai4ajf1&dl=1", Martabat Misi Berdarah (2025)
 https://www.dropbox.com/scl/fi/8cxarz3sj8273heav80vp/martabat-misi-berdarah.mp4?rlkey=dgg1u8a03hypwlwxpdp1mkbqj&st=cct923w1&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/bx3w08t4840voqih5i2cr/17549170368388323124287832717318.jpg?rlkey=exod7ry0ql3e8g8vs8a3or8n5&st=q7te509k&dl=1", Raid 2 (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/bx3w08t4840voqih5i2cr/17549170368388323124287832717318.jpg?rlkey=exod7ry0ql3e8g8vs8a3or8n5&st=q7te509k&dl=1", Raid 2 (2025)
 https://www.dropbox.com/scl/fi/52410tooiumfo3db0dzhx/raid-2.mp4?rlkey=ceegbaghfmaywyyeurtnqe7ok&st=gjqxx08n&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/j961jqfj85adbvl3gxwue/17550930297012280367053205392869.jpg?rlkey=e0b8g1dacr2cquqqq6ewm0c31&st=oxq8t9u4&dl=1", Shadow Force (2025)
+#EXTINF:-1 type="movie" group-title="▶ VOD NETFLIX" tvg-logo="https://www.dropbox.com/scl/fi/j961jqfj85adbvl3gxwue/17550930297012280367053205392869.jpg?rlkey=e0b8g1dacr2cquqqq6ewm0c31&st=oxq8t9u4&dl=1", Shadow Force (2025)
 https://www.dropbox.com/scl/fi/jnba9s8vrv45yecgchkcn/shadow-force.mp4?rlkey=3mfzj2vs1l5il2q9ijtjwj15g&st=085crcr6&dl=1
+
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="6 Underground (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",6 Underground (2019)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2400.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="A Family Affair (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg",A Family Affair (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2401.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="AKA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exKj9XSFWLajZ6NI60Gxsj1qNuE.jpg",AKA (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2402.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Army of the Dead (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",Army of the Dead (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2403.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Army of Thieves (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fVMognsmbogzkfY7DY0Bvn7h7Y.jpg",Army of Thieves (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2404.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Atlas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",Atlas (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2405.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Badland Hunters (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg",Badland Hunters (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2406.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Ballerina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oE7xtGDqZnr7tFHfwb8oM9iRW6H.jpg",Ballerina (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2407.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Bangkok Breaking: Heaven and Hell (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VeDn4oIeUK4XwjWGWMb6qvMImQ.jpg",Bangkok Breaking: Heaven and Hell (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2408.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Beverly Hills Cop: Axel F (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zszRKfzjM5jltiq8rk6rasKVpUv.jpg",Beverly Hills Cop: Axel F (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2409.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Bionic (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVCYzdBE6lo3sUFK1OMZnXvpGtT.jpg",Bionic (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2410.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Borderless Fog (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6uPuxzFJs7OyTPrl5V0XUITKj5.jpg",Borderless Fog (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2411.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Carry-On (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",Carry-On (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2412.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Damsel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/290Lsuy4GJF3VEVqMbJqHs7xFdv.jpg",Damsel (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2413.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Devara: Part 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9ENz6d4lC3UYOX8Z1gJwDEo1sM.jpg",Devara: Part 1 (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2414.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Disaster Holiday (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNZHImRQhSq5qEPSpDkmWLRB4RS.jpg",Disaster Holiday (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2415.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Don't Look Up (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",Don't Look Up (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2416.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Don't Move (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg",Don't Move (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2417.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Do Patti (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqStHxRVUtFNaNnJtieHeXIackv.jpg",Do Patti (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2418.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Enola Holmes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",Enola Holmes (2020)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2419.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjZjZhNzUtMDQyMC00OWZmLWIzMjQtZDM2OWRhNzgwOGU2XkEyXkFqcGc@._V1_.jpg",Enola Holmes 2 (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2420.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Extinction (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjnNdjrZIdi7d316SjjkgEjJRSg.jpg",Extinction (2020)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2421.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Extraction (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",Extraction (2020)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2422.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Extraction 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Extraction 2 (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2423.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Family Pack (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKDH9pjh1fkBcb3PNouQ0qmN6cW.jpg",Family Pack (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2424.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Glass Onion: A Knives Out Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",Glass Onion: A Knives Out Mystery (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2425.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Golden Kamuy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg",Golden Kamuy (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2426.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Heart of Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg",Heart of Stone (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2427.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Heart of the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg",Heart of the Hunter (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2428.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Hit Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",Hit Man (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2429.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Honeymoonish (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXxs6FSFAYdrhKGD9f4fgCGmzXu.jpg",Honeymoonish (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2430.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="How It Ends (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4FQ8H77z6rIY82HzR5wgOYoxCA.jpg",How It Ends (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2431.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Irish Wish (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg",Irish Wish (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2432.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Jaane Jaan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaUOV9VCNM5MjrmonqgH4o3XNwQ.jpg",Jaane Jaan (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2433.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Jurnal Risa by Risa Saraswati (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znicsfFuTboZsNzBdZNKYp7VH4P.jpg",Jurnal Risa by Risa Saraswati (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2434.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Kate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg",Kate (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2435.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Leave The World Behind (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otLtsO75RZCC72HPlIDaSZioMO5.jpg",Leave The World Behind (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2436.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Leo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",Leo (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2437.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Lift (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg",Lift (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2438.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Lou (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg",Lou (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2439.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Love Is in the Air (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAn1tvopkqATQ0AfV4LK08ReAvp.jpg",Love Is in the Air (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2440.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg",Luther: The Fallen Sun (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2441.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Maharaj (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9o8LxGL4YHZKxPrF94Vm1jGuPi.jpg",Maharaj (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2442.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Memoir Seorang Guru (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvET11r3QLJ9UJAvWJM2PJBBWX9.jpg",Memoir Seorang Guru (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2443.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Miraculous: Tales of Ladybug & Cat Noir (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miih6wAp8eFCaGGoeFH9nGv8rox.jpg",Miraculous: Tales of Ladybug & Cat Noir (2017)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2444.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Mission: Cross (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE9WqOApdRYsowsGE0118dyA4c9.jpg",Mission: Cross (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2445.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Mother of the Bride (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdTvwykMWvVgdaViBVRh8IFTku5.jpg",Mother of the Bride (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2446.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Mowgli: Legend of the Jungle (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg",Mowgli: Legend of the Jungle (2018)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2447.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="My Name Is Vendetta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l3war94J4tRyWUiLAGokr3ViF2.jpg",My Name Is Vendetta (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2448.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Night in Paradise (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYCWUAidqgakGETwZkfGxU7CWhL.jpg",Night in Paradise (2020)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2449.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Nowhere (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uvCXfpaU1VveV5w9h05OxN0zdN.jpg",Nowhere (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2450.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Officer Black Belt (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEaJSXAlNfdhRpDHiNcJsoUa9qE.jpg",Officer Black Belt (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2451.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Outside the Wire (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",Outside the Wire (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2452.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Padu (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0kbkXqEt5LKJbafyNGIpfUkoS8.jpg",Padu (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2453.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Paradise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGz88hNPcHUJkUx7MPm0Ue6GZt7.jpg",Paradise (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2454.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Phir Aayi Hasseen Dillruba (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIBjLUAAw2bzeOHBJIKiZI4QDL0.jpg",Phir Aayi Hasseen Dillruba (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2455.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",Rebel Moon - Part One: A Child of Fire (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2456.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg",Rebel Moon - Part Two: The Scargiver (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2457.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Rebel Ridge (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",Rebel Ridge (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2458.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Red Notice (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",Red Notice (2021)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2459.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Sector 36 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbVcZmmcfqk35Q9hNxRoR7JPiVp.jpg",Sector 36 (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2460.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Sikandar Ka Muqaddar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWUh4rgxtgypgnOa6uGMnUt01ux.jpg",Sikandar Ka Muqaddar (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2461.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Spenser Confidential (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",Spenser Confidential (2020)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2462.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Big 4 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxtf1bovLDyd0dMcKXdwVyqVsuK.jpg",The Big 4 (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2463.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Deliverance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nvXNxLY6omubIBI1HpQG6mYCe4.jpg",The Deliverance (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2464.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Girl on the Train (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",The Girl on the Train (2016)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2465.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Gray Man (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Eom3JsXgQlCj6QIsGCwXkX7wyH.jpg",The Gray Man (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2466.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",The Killer (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2467.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Mother (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8tL9HtheHXHzRMolrFvpyiLOSg.jpg",The Mother (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2468.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Old Guard (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",The Old Guard (2020)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2469.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Platform (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXvQnzy6JCAx1PiQEKXuTY04ZHl.jpg",The Platform (2019)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2470.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Platform 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",The Platform 2 (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2471.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The School for Good and Evil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",The School for Good and Evil (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2472.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Sea Beast (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg",The Sea Beast (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2473.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Union (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9CTnTHip1RbVi2OQbA2LJJQAGI.jpg",The Union (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2474.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="The Wages of Fear (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFK2ZLQUzo9pea0jfMCHDfvWsx7.jpg",The Wages of Fear (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2475.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Time Cut (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",Time Cut (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2476.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Troll (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulgKdif3ubMACDltr8VZy6fyVjW.jpg",Troll (2022)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2477.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Trouble (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfgUwFSocC1oPNrQyCDi0eDGetG.jpg",Trouble (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2478.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Uglies (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaUu9zHtbcFwrB5Y1DNYE09HMex.jpg",Uglies (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2479.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Under Paris (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg",Under Paris (2024)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2480.mp4
+#EXTINF:-1 ,type="movie" group-title="▶ VOD NETFLIX" tvg-name="Wingwomen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atatNvrn7kBvkARD2YodyYkKicr.jpg",Wingwomen (2023)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2481.mp4
 
