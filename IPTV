@@ -334,7 +334,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 #EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Rakyat.my" tvg-name="Dewan Rakyat" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png ",Dewan Rakyat
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 
-#EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Negara.my" tvg-name="Dewan Negara" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",DewanNegara
+#EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Negara.my" tvg-name="Dewan Negara" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",Dewan Negara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="MY Freeview",RTM Snap
