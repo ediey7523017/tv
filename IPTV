@@ -299,10 +299,11 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Awesome" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png" group-title="MY Freeview",Awesome TV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
-###KODIPROP:inputstream.adaptive.license_type=clearkey 
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-###EXTINF:-1 tvg-id="" tvg-name="Drama Sangat.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYSOLQOgbI4n1zTkrDXpjXVVDFlPekG_cFNsXdrlK4A&s=10" group-title="MY Freeview",Drama Sangat
-###https://live-03.tonton.com.my/1757823408/0x5c0f0be5c032747193685769658e13811f9a0e6513ad72f6e17eee9dbb34ffc7/live-hls/tonton10_720p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYSOLQOgbI4n1zTkrDXpjXVVDFlPekG_cFNsXdrlK4A&s=10" group-title="MY Freeview",Drama Sangat
+https://live-03.tonton.com.my/1764908464/0x05ee39ea4b0a8069134406054d2a4e88a1f5dc550986511f3c812bb8f452d5f7/live-hls/tonton10_720p/index.m3u8
+https://live-03.tonton.com.my/1757823408/0x5c0f0be5c032747193685769658e13811f9a0e6513ad72f6e17eee9dbb34ffc7/live-hls/tonton10_720p/index.m3u8
 
 ###EXTINF:-1 tvg-id="" tvg-name="Selangor TV" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="MY Freeview",Selangor TV
 ###https://live.mana2.my/SelangorTv/tracks-v2a1/mono.m3u8?token=1757827387-9a167314a0f54fe19f8384f303f6e733-0-9a84c32d63acb5100f17e7c5a0b911d9&auth_key=1757827387-9a167314a0f54fe19f8384f303f6e733-0-4e0ec4b961894e734e8ceead5bc25539
