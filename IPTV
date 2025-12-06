@@ -395,18 +395,18 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 #EXTINF:-1 tvg-id="114.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-logo="" group-title="Unifi TV",114 TV AlHijrah ᵘⁿⁱᶠⁱ
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live07.mpd
 
 #EXTINF:-1  tvg-id="116.unifi" tvg-name="Sensasi" group-title="Unifi TV" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",116 Sensasi ᵘⁿⁱᶠⁱ
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SENSASI)/master.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
@@ -418,9 +418,9 @@ https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
 #EXTINF:-1 tvg-id="120.unifi" group-title="Unifi TV" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",120 Degup ᵘⁿⁱᶠⁱ
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DEGUP)/master.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
@@ -438,62 +438,66 @@ https://unifi-live27.secureswiftcontent.com/UnifiHD/live27.mpd
 #EXTINF:-1 tvg-id="141.unifi" group-title="Unifi TV" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD ᵘⁿⁱᶠⁱ
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(PESONA)/master.mpd
 
 #EXTINF:-1 tvg-id="233.unifi" group-title="Unifi TV" tvg-name="Now Jelli HD" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/nowjelli_0.png",233 Now Jelli ᵘⁿⁱᶠⁱ
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(NOWJELLI)/master.mpd
 
 #EXTINF:-1 tvg-id="239.unifi" tvg-name="SETI" group-title="Unifi TV" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png",239 Unifi SETI ᵘⁿⁱᶠⁱ
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SETI)/master.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 #EXTINF:-1 tvg-id="235.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202204/20220428/2022042801453679957n.png" group-logo="" group-title="Unifi TV",235 CCTV4 ᵘⁿⁱᶠⁱ
 https://unifi-live15.secureswiftcontent.com/UnifiHD/live15.mpd
 
 #EXTINF:-1 tvg-id="473.unifi" group-title="Unifi TV" tvg-logo="https://get.perfecttv.net/logo/rockentertainment.png" group-logo="", 473 Rock Entertainment ᵘⁿⁱᶠⁱ
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ROCKENT)/master.mpd
 https://get.perfecttv.net/mytv.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=rockent
 
 #EXTINF:-1 tvg-id="474.unifi" group-title="Unifi TV" tvg-logo="https://get.perfecttv.net/logo/rockaction.png",474 Rock Action ᵘⁿⁱᶠⁱ
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ROCKACTION)/master.mpd
 https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 #EXTINF:-1 tvg-id="601.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202304/20230413/20230413163257115fw9.png" group-logo="" group-title="Unifi TV",601 BBC News ᵘⁿⁱᶠⁱ
 https://unifi-live28.secureswiftcontent.com/UnifiHD/live28.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 #EXTINF:-1 tvg-id="610.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202210/20221006/20221006162842151p7y.png" group-logo="" group-title="Unifi TV",610 CGTN ᵘⁿⁱᶠⁱ
 https://unifi-live16.secureswiftcontent.com/UnifiHD/live16.mpd
 
@@ -513,17 +517,17 @@ https://unifi-live10.secureswiftcontent.com/UnifiHD/live10.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 #EXTINF:-1 tvg-id="707.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-logo="" group-title="Unifi TV",707 SPOTV2 ᵘⁿⁱᶠⁱ
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live05.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 #EXTINF:-1 tvg-id="708.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202409/20240930/20240930160227557ix6.png" group-logo="" group-title="Unifi TV",708 beIN SPORTS 1 ᵘⁿⁱᶠⁱ
 https://unifi-live13.secureswiftcontent.com/UnifiHD/live13.mpd
 
