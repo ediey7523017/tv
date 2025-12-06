@@ -467,6 +467,20 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SETI)/maste
 #EXTINF:-1 tvg-id="235.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202204/20220428/2022042801453679957n.png" group-logo="" group-title="Unifi TV",235 CCTV4 ᵘⁿⁱᶠⁱ
 https://unifi-live15.secureswiftcontent.com/UnifiHD/live15.mpd
 
+#EXTINF:-1 tvg-id="473.unifi" group-title="Unifi TV" tvg-logo="https://get.perfecttv.net/logo/rockentertainment.png" group-logo="", 473 Rock Entertainment ᵘⁿⁱᶠⁱ
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ROCKENT)/master.mpd
+https://get.perfecttv.net/mytv.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=rockent
+
+#EXTINF:-1 tvg-id="474.unifi" group-title="Unifi TV" tvg-logo="https://get.perfecttv.net/logo/rockaction.png",474 Rock Action ᵘⁿⁱᶠⁱ
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ROCKACTION)/master.mpd
+https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction
+
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
