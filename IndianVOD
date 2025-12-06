@@ -994,7 +994,7 @@ https://get.perfecttv.net/sonyliv.mpd?video_id=1000285694&content_id=505555857
 #KODIPROP:inputstream.adaptive.license_key=8bd5662cb36a4e19b81d03e98f770000:eb6e765edaf44aa885a6ae09348834cd
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000168201&content_id=505453173
 
-#EXTINF:-1 type="movie" tvg-logo="https://images.slivcdn.com/portrait_thumb/RamaraoOnDuty_15SEP_telugu_INT_Portrait_Thumb.jpg?h=494&w=344&q=high"group-title="▶ VOD INDIA",Ramarao On Duty (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://images.slivcdn.com/portrait_thumb/RamaraoOnDuty_15SEP_telugu_INT_Portrait_Thumb.jpg?h=494&w=344&q=high" group-title="▶ VOD INDIA",Ramarao On Duty (2022)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=962906689fbb412b9ec9319bd67b0000:e59181cf1145406ab17155c44aba6a41
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000188659&content_id=505453173
@@ -1092,3 +1092,4 @@ https://cloud.hownetwork.xyz/xxx/4970c65316b2278669ba77f39eabe3f6/31/480.m3u8
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM5NGFjYjgtMmIwYS00MmMzLTk1YTEtZGE0OTMxM2YzMzgzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDIA",Lucky Baskhar (2024)
 https://cloud.hownetwork.xyz/xxx/Lg0qJTxUFSAxOh8tMR1kaHBMZDkgGxMtHQkof3NWNG0nTi0/32/480.m3u8
+
