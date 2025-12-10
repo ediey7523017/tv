@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/main/Ria.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/main/Prima.m3u8
+https://5centscdn-sge1.mobileads.cloud/tokens/prima/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/prima/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 
@@ -426,6 +426,7 @@ https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
+https://raw.githubusercontent.com/elhafizzo/unifi-tv/main/degup.mpd
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DEGUP)/master.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
