@@ -6,6 +6,8 @@
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI5ZGFhMjQtMzZiMC00ZjU3LThlZTctMzNhYjJlOGE4ZTZlXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Arzoo (1999)
 https://fift.larhu.com/hls/vxzxgxe4qoqfycihmtkpzu5hdzntefcvs2dupwkb3c7g6gfho6goocajl2aq/index-v1-a1.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://ww112.pencurimoviesubmalay.guru/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJiOTdhNTctNjRhYy00YzVjLWExOTQtZmE3OWQxYTJhN2Y5XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Thamma (2025)
 https://playerx.ezplayer.stream/pproxy/p16-ttam-va.ibyteimg.com/hls/wvGPeU_tUwPvV4NaOa21Lw/n8l/nc31j61b/gkkwvg/tt/index-f1-v1-a1.m3u8
 
