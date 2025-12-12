@@ -426,7 +426,7 @@ https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
-https://raw.githubusercontent.com/elhafizzo/unifi-tv/main/degup.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DEGUP)/master.mpd?13
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DEGUP)/master.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
