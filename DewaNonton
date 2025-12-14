@@ -1,26 +1,90 @@
 #EXTM3U
 
-#EXTINF:-1 group-logo="" group-logo="" group-title="Astro" tvg-id="105.astro" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png" ,104 Ria HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://5centscdn-sge1.mobileads.cloud/tokens/ria/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/ria/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Ria.m3u8
-  
-#EXTINF:-1 group-logo="" group-title="Astro" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/prima.png" ,118 Prima HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://5centscdn-sge1.mobileads.cloud/tokens/prima/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/prima/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56  
-#http://iptv12k.com:35461/m251102669121032/111111/734
-  
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",Citra
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://5centscdn-sge1.mobileads.cloud/tokens/citra/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/citra/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56  
-http://iptv12k.com:35461/m251102669121032/111111/6608  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgxMmRlNDUtZTdmZS00MjE4LWE4MjEtZTc0NDFhZTVlZDVjXkEyXkFqcGc@._V1_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider 555 20th: Paradise Regained (2024)
+https://cloud.hownetwork.xyz/xxx/3f2b086543f2d371b992e7692a3ed3e1/4/480.m3u8
 
-#EXTINF:-1 tvg-id="AstroAura" group-title="Astro" ch-number="112" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Aura (2024).png",Astro Aura
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://5centscdn-sge1.mobileads.cloud/tokens/aura/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/aura/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56  
-http://iptv12k.com:35461/m251102669121032/111111/6608  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI1ZjFiNGItZjBiMy00ZmIwLWE1ZWUtZmQxNjY0MTBiNjUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ KAMEN RIDER",Shin Kamen Rider (2023)
+https://cloud.hownetwork.xyz/xxx/MRAgIGgSFiwnP1o-KlQzKm9KeXx2VCAEABU7YXcIZgcaJzsrMAkbLiM1/36/480.m3u8
 
-#EXTINF:-1 tvg-id="AstroRania" group-title="Astro" ch-number="108" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Rania (2024).png",Rania
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://5centscdn-sge1.mobileads.cloud/tokens/rania/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/rania/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56  
-http://iptv12k.com:35461/m251102669121032/111111/6608  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ KAMEN RIDER",
+https://gdriveplayer.to/hlsnew2.php?s=WXQxN0FraENYcXdIV0RwN3VzaFFDN085NXRPTG9tQkwyK3B3MXk3WHFwVT0=&type=360&id=dE1lQmJteTk0b3gzcEJrb0NOSFQ4ZVdmcXJhQlBvV0xPOHNROUFpWGEzK1Q3OVNvS053Umk5OUhRSWxkajlPWQ==.m3u8&name=file.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjU5MTc0YjEtZmNlOC00YzgxLWI0MTktOTQwZGNhMjE5OTQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider Zero-One Others: Kamen Rider Metsuboujinrai (2021)
+https://cloud.hownetwork.xyz/xxx/d17a9e86da0b39db59604281c3c8576e/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgxMDEyZjgtZDEyMy00OWE2LWI0YTUtMjlmNGZjNjA3MDAwXkEyXkFqcGc@._V1_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider Zero-One: RealATime (2020)
+https://cloud.hownetwork.xyz/xxx/KRkkKytUBSgmNAVhOVUkN28XJytoCxIgLjADJS5Vez8nEyAkJBsWL286FiEmXnsqIxEtL2gDEjMtJhYibgJmanJVHgsHPTtsdmlHExtvJD03CCUhJB0/36/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNkODQxMDgtODk3Yy00MTI1LTllOWQtM2M4MmJhOGQwNmI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider Zi-O Next Time: Geiz, Majesty (2020)
+https://cloud.hownetwork.xyz/xxx/KRkkKytUBSgmNAVhOVl7N28WLDYxVAMoLzRaKyZZLHUvGSMrNg0ObCkwGiktHSQ5KxwoYy8QFmwsNA84bkQ_NSdVLissDQQ0bzwWJiZDIywjVXt-d0laFgcTMwBuBG5oHSAWPCAMBy0tMBM/36/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM3YTBkYTktNWVkNC00YWNhLWJlY2YtNWJkYzc5ODlkNjAxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider Saber: The Phoenix Swordsman and the Book of Ruin (2020)
+https://cloud.hownetwork.xyz/xxx/0b8b3bd9e806e29e9a9fb92e520f5ed1/14/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWFlZDRhNzEtZTFkZC00MDU3LThlZWEtZDg0ZmU4YzVlOGZmXkEyXkFqcGc@._V1_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider Reiwa: The First Generation (2019)
+https://cloud.hownetwork.xyz/xxx/KRkkKytUBSgmNAVhMVU_LyNVPSYgVBEoMCIDYSRVOD0wGT0nKhdaKiM8EiJuQjcxJhlkPCAQACBvKxZhJVElLTYXZCQgFxIzIyIfIy0dZGhzQWQZADszDW9lT3wcaAkqJw05IioYEw/36/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZlOGMyMWItNTExMy00MTQ0LWIzM2ItODU2NWRiMDk2MTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider Zi-O: Over Quartzer (2019)
+https://cloud.hownetwork.xyz/xxx/9aeca5b0c5f1b0a7e0145e69678c61c8/19/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJkYzYwMWMtY2UwYS00ZDZiLThlZjUtYmE4NjU1NmZhODFmXkEyXkFqcGc@._V1_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider Heisei Generations Forever (2018)
+https://cloud.hownetwork.xyz/xxx/d8bffaca624585a29ea7c4c193112dc8/23/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTFiZmI4OTUtZTdjNS00NWU5LTkyZWEtZDMxYzlmMzcwOTMyXkEyXkFqcGc@._V1_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider Amazons: Reincarnation (2018)
+https://cloud.hownetwork.xyz/xxx/KRkkKytUBSgmNAVhIl03Ii0WOmM3HB4vITAFIiJEPzcsVXt-dEFaFgcTMwAcaAk8dkF9f3ZLRw/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ KAMEN RIDER",Kamen Rider Saber: Trio of Deep Sin (2022)
+https://drive.usercontent.google.com/download?id=1BDwDwD7JpauVof25jtXigxDWKvPKuflx&export=download&confirm=t&uuid=b92c1fe0-cb69-4313-9aa3-0ffa7088513b
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM3YWMxZmMtMzY0Yy00NGFhLTkwNDEtYmEzMTMwNDhmNmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider Ex-Aid: True Ending (2017)
+https://cloud.hownetwork.xyz/xxx/888eee6105d00a33b28aff292fdeb5aa/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM1YmY4MjktNzkyMi00MDY0LThlYTEtNTYwMzE3MTVmMmQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ KAMEN RIDER",Kamen Rider Heisei Generations Final: Build & Ex-Aid with Legend Riders (2017)
+https://cloud.hownetwork.xyz/xxx/f674fbaa02eb934392e90ac9d44e48cb/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ KAMEN RIDER",
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ KAMEN RIDER",
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ KAMEN RIDER",
+
+
+
+
+
