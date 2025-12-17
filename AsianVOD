@@ -5,6 +5,11 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA5ZDE1M2QtZjUwMC00YmUwLTllODEtNTE0N2Q4MDUyZmVlXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Usury Academy (2023)
+https://fift.larhu.com/hls/vxzxgfutqoqfycihmtkpzaf7b4me4infs3rwhlqihu4ujmwplq6a62i7akmq/index-v1-a1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmIyYmVmMTYtMWFkMS00YWNhLTgxZWQtZWM4N2Y4YzFhZGNmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Project Wolf Hunting (2022)
 https://cloud.hownetwork.xyz/xxx/731eb5ed76b3a144c24c2803fc353f0a/29/480.m3u8
 
