@@ -5,6 +5,26 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ENGLISH",
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZkODE1ZDctMzlkNy00N2Q5LTlhNGEtNmU3ODQ1MDY2NzQ3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",The Hitman's Bodyguard (2017) 
+https://cloud.hownetwork.xyz/xxx/ebd5438f4d80880edcdbd4ef80fa7b20/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzcyMzQ5Njc3Ml5BMl5BanBnXkFtZTgwODk5NjY2NDE@._V1_.jpg" group-title="▶ VOD ENGLISH",Hitman: Agent 47 (2015)
+https://cloud.hownetwork.xyz/xxx/b238671ae484dc50f9927f85a2531b42/25/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU4YTUzNGMtZjUyZC00MWU3LWFiZmItMmIwMDA5YmViNGU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Hitman (2007)
+https://cloud.hownetwork.xyz/xxx/KhE9IyQXWnNyYUBhFHUUHA5VfXZ1Ji8eMDQCPC9fNzw/36/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDIyN2JjOTQtYTY3MS00OTQwLWJmNjAtYzVmNTU1MWNjNzYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Arthur the King (2024)
 https://cloud.hownetwork.xyz/xxx/13d702e8626d081edb916e4fe12c2be6/25/480.m3u8
 
@@ -761,4 +781,3 @@ https://cloud.hownetwork.xyz/xxx/084a9c8e7a6f8af954c9e11672dfd98a/25/480.m3u8
 ###EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 ###EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/7yicv34fs63590jku039b/1739668059352920604769934594726.png?rlkey=bo9fjd4x0m24sxi69vv9qfejh&st=fn0g55fp&dl=1" group-title="▶ VOD ENGLISH",Sonic the Hedgehog 3 (2024)
 ###https://www.dropbox.com/scl/fi/mx6798cn5ukvww8n3pacn/sonic.mp4?rlkey=wsj6fowuec67ikbhbljky3a72&st=6e0ag9q8&dl=1
-
