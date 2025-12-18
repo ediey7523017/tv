@@ -2,34 +2,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NetflixVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AsianVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD" billed-msg="JJ EDIEY 87 Editor"
 
 
-<=========================================================================== SEA GAMES 2025 ====================================================================================>
-
-#EXTINF:-1  tvg-id="576059" group-title="Sea Games Thailand 2025" group-logo="https://www.floorball.sport/wp-content/uploads/2025/05/2025_SEA_Games_logo.png" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://ls-mp03.eo-edgefunctions7.com/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-
-#EXTINF:-1  tvg-id="576060" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298974'&EntityType='Item'&EntityId='576060'&Width=289&Height=250", SEA Games CH02
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-https://ls-mp01.eo-edgefunctions7.com/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-
-#EXTINF:-1  tvg-id="576061" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250", SEA Games CH03
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-https://ls-mp02.eo-edgefunctions7.com/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-
-#EXTINF:-1  tvg-id="580750" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298988'&EntityType='Item'&EntityId='580750'&Width=289&Height=250", SEA Games CH04
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
-https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-
-#EXTINF:-1  tvg-id="580751" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298994'&EntityType='Item'&EntityId='580751'&Width=289&Height=250", SEA Games CH05
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
-https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-
-
 ##############################################################################Astro####################################################################################
 
 ####EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Astro_XiLele.png/revision/latest?cb=20250211094733",100 XiLele
@@ -124,11 +96,11 @@ https://5centscdn-sge1.mobileads.cloud/tokens/citra/2411231/index.m3u8?referer=h
 https://smart.946985.filegear-sg.me/smart.php?id=AAcitra
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
-#EXTINF:-1 tvg-id="112.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://5centscdn-sge1.mobileads.cloud/tokens/rania/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/rania/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
+###EXTINF:-1 tvg-id="112.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###https://5centscdn-sge1.mobileads.cloud/tokens/rania/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/rania/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 #EXTINF:-1 tvg-id="112.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania HD
@@ -137,11 +109,11 @@ https://5centscdn-sge1.mobileads.cloud/tokens/rania/2411231/index.m3u8?referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=raniahd
 
-#EXTINF:-1 tvg-id="113.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://5centscdn-sge1.mobileads.cloud/tokens/aura/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/aura/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
+###EXTINF:-1 tvg-id="113.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###https://5centscdn-sge1.mobileads.cloud/tokens/aura/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/aura/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #EXTINF:-1 tvg-id="113.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura HD
