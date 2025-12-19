@@ -529,6 +529,20 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVNHD)/mast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=22fdfcf5cb304eb6b2ebbecbca9c9d10:b7c4f0ab8bc0bd4deabe73cf75dfa537
+#EXTINF:-1 tvg-id="333.unifi" ch-number="333" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202509/20250929/33/013526401143f862175c.png" group-logo="" group-title="Unifi TV",Zee Cinema ᵘⁿⁱᶠⁱ
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeCinema)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=06e1831ba6f946568bdea62e67ca7317:f02c40d2006e036104f7726116861d7c
+#EXTINF:-1 tvg-id="311.unifi" ch-number="311" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202509/20250930/40/160755518385f862175c.png" group-logo="" group-title="Unifi TV",Zee Tamil ᵘⁿⁱᶠⁱ
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeTamil)/master.mpd
+
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
