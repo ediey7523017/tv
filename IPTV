@@ -56,7 +56,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-###https://5centscdn-sge1.mobileads.cloud/tokens/ria/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/ria/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
+https://5centscdn-sge1.mobileads.cloud/tokens/ria/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/ria/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
 https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=ria
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
@@ -70,7 +70,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&chann
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-###https://5centscdn-sge1.mobileads.cloud/tokens/prima/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/prima/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
+https://5centscdn-sge1.mobileads.cloud/tokens/prima/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56/tokens/prima/241231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
 https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=prima
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
