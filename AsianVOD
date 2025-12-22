@@ -3,6 +3,11 @@
 
 ######################################################▶ VOD ASEAN MIX#####################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU1MzUyNmUtMGIyYS00ZmQxLTg5OGQtOGEzNDVlZDkyMGQzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",A Violent Prosecutor (2016)
+https://cloud.hownetwork.xyz/xxx/d7d5b38b11e8d0e16010ca33c5a9033d/17/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/ismdv9e8a1uggvt3u0cd2/17415357300743108087230896399852.jpg?rlkey=88ugmb01d8h4jghp2jcpiz9sk&st=f4snm0kf&dl=1" group-title="▶ VOD ASEAN MIX",Dark Nuns (2025)
 https://www.dropbox.com/scl/fi/mke2fxla1cz08r3ca9xqx/dark-nun.mp4?rlkey=glcct2jn9yauu4w7n9l7e49re&st=gfbsj1ku&dl=1
 
