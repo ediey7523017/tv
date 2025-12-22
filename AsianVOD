@@ -1227,6 +1227,7 @@ https://cloud.hownetwork.xyz/xxx/c980b5ab1a48178cc3e6ed7af0875d9d/25/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="",
 https://cloud.hownetwork.xyz/xxx/060f9e6cbab7633d04f41eed93b73866/3/480.m3u8
 
+
 ##################################▶ VOD VIU##################################
 
 #EXTINF:-1  type="movie" tvg-logo="https://prod-images.viu.com/204393941/eb24bf06559f6833b9d6e413b49abedb94993779" group-title="▶ VOD VIU", Love Clinique 
@@ -1573,16 +1574,16 @@ https://get.perfecttv.net/vidiovod.mpd?username=vip_3klp0es8&password=wg3piwEs&v
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjhiNDkyODItZDc2Ni00YTcwLWFhMWMtZmRlYmQ5MDRmMmMyXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD MALAY",Ejen Ali The Movie 2 (2025)
 https://s3-hls2-cdn47.streamupcdn.com/hls/Fk5ZX01z6ocYextYOoBdrlq3CHGmTl/index_854x480.m3u8?token=61d04920360a6a3ce0e6ca5b8d9e03df-1765921588-2402%3A1980%3A8c2c%3A2229%3A30bc%3Ab5ff%3Afefb%3A5d8d-e0680196b8509ad1413268c662942c65ca47e289efcd626ff8d5707f41925cf0
 
-#EXTINF:-1  tvg-id="" tvg-name="891-Magik Rompak (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbTPVx1TtYpSGkaMBa5fnQC3utV.jpg" group-title="▶ VOD MALAY",Magik Rompak (2025) 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbTPVx1TtYpSGkaMBa5fnQC3utV.jpg" group-title="▶ VOD MALAY",Magik Rompak (2025) 
 https://get.perfecttv.net/okayru.mpd?id=11161037441743 
 
-#EXTINF:-1  tvg-id="" tvg-name="892-Telaga Suriram (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEJuc55kaaWjj3tABr6i78kM1Oz.jpg" group-title="▶ VOD MALAY",Telaga Suriram (2025) 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEJuc55kaaWjj3tABr6i78kM1Oz.jpg" group-title="▶ VOD MALAY",Telaga Suriram (2025) 
 https://get.perfecttv.net/okayru.mpd?id=11100097284815 
 
-#EXTINF:-1  tvg-id="" tvg-name="893-Indera (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thOWbqcgP7Z8YQWY98PtCbZkBgz.jpg" group-title="▶ VOD MALAY",Indera (2025) 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thOWbqcgP7Z8YQWY98PtCbZkBgz.jpg" group-title="▶ VOD MALAY",Indera (2025) 
 https://get.perfecttv.net/okayru.mpd?id=11100009204431 
 
-#EXTINF:-1  tvg-id="" tvg-name="894-Gayong (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjJejZTEp6Qat5AxIBIG3Hdjl2d.jpg" group-title="▶ VOD MALAY",Gayong (2025) 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjJejZTEp6Qat5AxIBIG3Hdjl2d.jpg" group-title="▶ VOD MALAY",Gayong (2025) 
 https://get.perfecttv.net/okayru.mpd?id=11094934751951
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1605,210 +1606,211 @@ https://cloud.hownetwork.xyz/xxx/615cd88483463caa641ff5c08d39bb0f/20/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU5OGJlMDgtZTgzYS00ZDdjLWJjMzctOTU4MDk0YjFjZWI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD MALAY",Paraxnormal (2025)
 https://cloud.hownetwork.xyz/xxx/Mhk7Lz0XGDMvMBthcQBkbW8vDAwBNSgZHWlCeSZTYDt1/37/480.m3u8
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/tvp2fqhpk2aefot3fytng/17504747768781999452768200761542.jpg?rlkey=19hzsai5tvcl59pq74os9gpt4&st=69f62wnr&dl=1", Impak Maksima 2007
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/tvp2fqhpk2aefot3fytng/17504747768781999452768200761542.jpg?rlkey=19hzsai5tvcl59pq74os9gpt4&st=69f62wnr&dl=1" group-title="▶ VOD MALAY", Impak Maksima 2007
 https://www.dropbox.com/scl/fi/8b0albr8vipwcqf46fgr5/impak-maksima-2007.mp4?rlkey=lp6syynp7akp1blqp3jrn0drt&st=fj6wx45l&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/tymn2y7tkmlq3lvk5wb3o/17504748698314214606789175911646.jpg?rlkey=sr0soc45uvqp8olfk855zvw1h&st=bmx9zt4m&dl=1", Impak Maksima 2023
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/tymn2y7tkmlq3lvk5wb3o/17504748698314214606789175911646.jpg?rlkey=sr0soc45uvqp8olfk855zvw1h&st=bmx9zt4m&dl=1" group-title="▶ VOD MALAY", Impak Maksima 2023
 https://www.dropbox.com/scl/fi/xrxoqdrwm27zm68kqkthd/impak-maksima-underground-2023.mp4?rlkey=7kw02f12nf6cq705m9r7owbqd&st=f5k4xin2&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UvfeqDUvuRylh7De3Oje4dvpGA.jpg" group-title="▶ VOD ASEAN MIX", La Luna (2023) FHD
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UvfeqDUvuRylh7De3Oje4dvpGA.jpg" group-title="▶ VOD MALAY", La Luna (2023) FHD
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZUowbdi1JdGvSmNIinivWwBkNs-jevPphyMWeUlwXPMBg
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Ti9SPnh6I2jtWLZCzOvz8u5c3S.jpg" group-title="▶ VOD ASEAN MIX", Syif Malam (2023) FHD
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Ti9SPnh6I2jtWLZCzOvz8u5c3S.jpg" group-title="▶ VOD MALAY", Syif Malam (2023) FHD
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ec_sEPTW1nNEi7bCI4QC_5UBa_vH83O9_JcWohHTGAg6ZA
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Ti9SPnh6I2jtWLZCzOvz8u5c3S.jpg" group-title="▶ VOD ASEAN MIX", Syif Malam (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Ti9SPnh6I2jtWLZCzOvz8u5c3S.jpg" group-title="▶ VOD MALAY", Syif Malam (2023)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Syif%20Malam%202023.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eVDuq4mRUHqWnUeqHCi5DQosmnu.jpg" group-title="▶ VOD ASEAN MIX", Sue-On (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eVDuq4mRUHqWnUeqHCi5DQosmnu.jpg" group-title="▶ VOD MALAY", Sue-On (2023)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Sue-On%202023%201080p%20WEB-DL%20Malaysub.MalayDub.by.MZ.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8eCyMmaHdFDqQYMqmxqr4TU19sn.jpg" group-title="▶ VOD ASEAN MIX", Usin UFO Bikin Kecoh (2016)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8eCyMmaHdFDqQYMqmxqr4TU19sn.jpg" group-title="▶ VOD MALAY", Usin UFO Bikin Kecoh (2016)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Usin.UFO.Bikin.Kecoh.2016.720p.WEB-DL.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/rn4MlSR.jpg" group-title="▶ VOD ASEAN MIX", Maid Pun Nak Raya (2015) SD
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/rn4MlSR.jpg" group-title="▶ VOD MALAY", Maid Pun Nak Raya (2015) SD
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Maid%20Pun%20Nak%20Raya.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/rn4MlSR.jpg" group-title="▶ VOD ASEAN MIX", Saka Viral (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/rn4MlSR.jpg" group-title="▶ VOD MALAY", Saka Viral (2020)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Saka%20Viral%20(2020).mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Eg0lFWDH1RBWsj7bu9lZEL2VeG.jpg" group-title="▶ VOD ASEAN MIX", Tiger Stripes (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Eg0lFWDH1RBWsj7bu9lZEL2VeG.jpg" group-title="▶ VOD MALAY", Tiger Stripes (2023)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUS5hFPxdnhGiFLttTDuquQB6NdUO0KRD7Au_haIjNGcYg
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/AVJgSKn.jpg" group-title="▶ VOD ASEAN MIX", Penunggu Simpang (2019) SD
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/AVJgSKn.jpg" group-title="▶ VOD MALAY", Penunggu Simpang (2019) SD
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Penunggu%20Simpang%202019%20HDTV@PH-OU.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/BPZlRps.jpg" group-title="▶ VOD ASEAN MIX", Kasih Dari Syurga (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/BPZlRps.jpg" group-title="▶ VOD MALAY", Kasih Dari Syurga (2022)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Kasih%20Dari%20Syurga%20(2022)%20Malay.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fzE6qXiMJ2ZlsWLci0Yf2tVo5b7.jpg" group-title="▶ VOD ASEAN MIX", Tuan Petri Saadong (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fzE6qXiMJ2ZlsWLci0Yf2tVo5b7.jpg" group-title="▶ VOD MALAY", Tuan Petri Saadong (2020)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Tuan%20Petri%20Saadong.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wWpn2u5q9fwlHJVNcnxuqkqXvjE.jpg" group-title="▶ VOD ASEAN MIX", Pok Ya Cong Codei Siti Di Hati (2018)
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wWpn2u5q9fwlHJVNcnxuqkqXvjE.jpg" group-title="▶ VOD MALAY", Pok Ya Cong Codei Siti Di Hati (2018)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Pok%20Ya%20Cong%20Codei-%20Siti%20Di%20Hati.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k6hfUWYSH3PLWZzmME9BWcZkNBB.jpg" group-title="▶ VOD ASEAN MIX", Town Mall 2 (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k6hfUWYSH3PLWZzmME9BWcZkNBB.jpg" group-title="▶ VOD MALAY", Town Mall 2 (2023)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/town.Malls2.2024.1080p.AAC.x264-KSO.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hSfbxTM5c0iPI00bMwTCVK0kNHH.jpg" group-title="▶ VOD ASEAN MIX", The Lord  Musang King (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hSfbxTM5c0iPI00bMwTCVK0kNHH.jpg" group-title="▶ VOD MALAY", The Lord  Musang King (2023)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYbvd12jgQBKgIe463A8VJABBxXXaX6eUGilUcKa0Ylv9w
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cEqx5uY5PN3wcmQJU1HFkFyv5BP.jpg" group-title="▶ VOD ASEAN MIX", Pontianak Menjerit (2005)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cEqx5uY5PN3wcmQJU1HFkFyv5BP.jpg" group-title="▶ VOD MALAY", Pontianak Menjerit (2005)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Pontianak%20Menjerit.mkv
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ffv5vhbiLUzN7eI7VznSFf9MGKo.jpg" group-title="▶ VOD ASEAN MIX", Manap Karaoke (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ffv5vhbiLUzN7eI7VznSFf9MGKo.jpg" group-title="▶ VOD MALAY", Manap Karaoke (2020)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Manap%20Karaoke.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zpOeVUo0RdHL69qEn9FVcDv5r1a.jpg" group-title="▶ VOD ASEAN MIX", Bravo 5 (2015)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zpOeVUo0RdHL69qEn9FVcDv5r1a.jpg" group-title="▶ VOD MALAY", Bravo 5 (2015)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Bravo%205.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xASjk4bzCl4queDJvOa5HgcZOW1.jpg" group-title="▶ VOD ASEAN MIX", War On Terror: KL Anarchy (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xASjk4bzCl4queDJvOa5HgcZOW1.jpg" group-title="▶ VOD MALAY", War On Terror: KL Anarchy (2023)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ERVmsaeg_BxLmymzu6SZbywBvUKigFtSH06rpWtlj2ohFg
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fJ8s0NTmPqxAObKYRMnvWj7r8tr.jpg" group-title="▶ VOD ASEAN MIX", Syaaban (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fJ8s0NTmPqxAObKYRMnvWj7r8tr.jpg" group-title="▶ VOD MALAY", Syaaban (2023)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Edyojn0dzXZKnPmldUWwSMMBxrg1l5bNDPEe-OT20_yZcw
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY3NjIwZGItYmQ2Ny00YTUwLTljOWUtYzk5YTc2ODA3MDQzXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX", Bangkitkan Aku Kembali (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY3NjIwZGItYmQ2Ny00YTUwLTljOWUtYzk5YTc2ODA3MDQzXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD MALAY", Bangkitkan Aku Kembali (2023)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecx-5buDJPZMqw95wn6Q64cBd2YvZ1w2CkTYMpl9PionhA
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g6kBEK9g8I1UhfQNew17DKsFzRT.jpg" group-title="▶ VOD ASEAN MIX", 44 Hari Bangkitnya Pocong (2021)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g6kBEK9g8I1UhfQNew17DKsFzRT.jpg" group-title="▶ VOD MALAY", 44 Hari Bangkitnya Pocong (2021)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/44%20Hari%20Bangkitnya%20Pocong.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d6FCwjy8Z5Uj45tiqWTmjeNG9S3.jpg" group-title="▶ VOD ASEAN MIX", Malam Tahlil Suhaila Balik (2019)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d6FCwjy8Z5Uj45tiqWTmjeNG9S3.jpg" group-title="▶ VOD MALAY", Malam Tahlil Suhaila Balik (2019)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Malam%20Tahlil%20Suhaila%20Balik.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/sti2cmu.jpg" group-title="▶ VOD ASEAN MIX", Hantu Telekung (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/sti2cmu.jpg" group-title="▶ VOD MALAY", Hantu Telekung (2023)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Hantu.Telekung.2023.1080p.AAC.x264-KSO.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yOeVLDPk4e9T4Z7EzbL0VatS0X7.jpg" group-title="▶ VOD ASEAN MIX", Puaka Janda (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yOeVLDPk4e9T4Z7EzbL0VatS0X7.jpg" group-title="▶ VOD MALAY", Puaka Janda (2022)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Puaka%20Janda.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/OnGi9OP.jpg" group-title="▶ VOD ASEAN MIX", Menantu Second Class (2017)
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/OnGi9OP.jpg" group-title="▶ VOD MALAY", Menantu Second Class (2017)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Menantu%20Second%20Class%202017%20720p%20WEBRip@PH-OU.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jhM8KSGnHbVFSzLY3XyxGP9eDwT.jpg" group-title="▶ VOD ASEAN MIX", Durjana Pujaan (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jhM8KSGnHbVFSzLY3XyxGP9eDwT.jpg" group-title="▶ VOD MALAY", Durjana Pujaan (2023)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Durjana.Pujaan.2023.1080p.HDTV.AAC.H264-OPET%20@muvimy.mkv
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qIYxzxpInTzpZqX58nMSKoFQwxc.jpg" group-title="▶ VOD ASEAN MIX", Gemencheh Boys FHD (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qIYxzxpInTzpZqX58nMSKoFQwxc.jpg" group-title="▶ VOD MALAY", Gemencheh Boys FHD (2023)
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWrp14jiEoZAgM1lnSh41t8B-TvKNI-syPH07GWT4Brq0w
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://kepalabergetar9.tv/wp-content/uploads/2023/12/Latah-Fighter.jpg" group-title="▶ VOD ASEAN MIX", Latah Fighter (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://kepalabergetar9.tv/wp-content/uploads/2023/12/Latah-Fighter.jpg" group-title="▶ VOD MALAY", Latah Fighter (2023)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Telefilem%20Latah%20Fighter%20(2023)%201080p.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AvoJHNtGPmwAkrXOOpsBvtujsJr.jpg" group-title="▶ VOD ASEAN MIX", Pok Ya Cong Codei (2018)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AvoJHNtGPmwAkrXOOpsBvtujsJr.jpg" group-title="▶ VOD MALAY", Pok Ya Cong Codei (2018)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Pok%20Ya%20Cong%20Codei.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yyBZAWovC1dNlDN2WBYO6cyjjKN.jpg" group-title="▶ VOD ASEAN MIX", Penanggal (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yyBZAWovC1dNlDN2WBYO6cyjjKN.jpg" group-title="▶ VOD MALAY", Penanggal (2013)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Penanggal.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jy6qkFJRz8udDZGPHJsZgRRVIEJ.jpg" group-title="▶ VOD ASEAN MIX", BenCinta (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jy6qkFJRz8udDZGPHJsZgRRVIEJ.jpg" group-title="▶ VOD MALAY", BenCinta (2013)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Bencinta%202013.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/kfU1CVs.jpg" group-title="▶ VOD ASEAN MIX", Jihan Nak Disiplinkan Anak (2018)
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/kfU1CVs.jpg" group-title="▶ VOD MALAY", Jihan Nak Disiplinkan Anak (2018)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Jihan%20Nak%20Displinkan%20Anak.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/Qsl7cp4.png", Jihan Bodek Mak Mertua (2016)
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/Qsl7cp4.png" group-title="▶ VOD MALAY", Jihan Bodek Mak Mertua (2016)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Jihan%20Bodek%20Mak%20Mertua.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNlZDI1NzEtYjQ1Zi00ZTA5LWFmZjItYTI2MTcyZTg5NmZkXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_.jpg" group-title="▶ VOD ASEAN MIX", Cerai (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNlZDI1NzEtYjQ1Zi00ZTA5LWFmZjItYTI2MTcyZTg5NmZkXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_.jpg" group-title="▶ VOD MALAY", Cerai (2020)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Cerai%20(2020)%20Malay.mkv
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBqzOUqXfEcjGuERnM9SPwByuXA.jpg" group-title="▶ VOD ASEAN MIX", Kembara Seniman Jalanan (1986)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBqzOUqXfEcjGuERnM9SPwByuXA.jpg" group-title="▶ VOD MALAY", Kembara Seniman Jalanan (1986)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Kembara%20Seniman%20Jalanan.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBqzOUqXfEcjGuERnM9SPwByuXA.jpg" group-title="▶ VOD ASEAN MIX", Kembara Seniman Jalanan (1986) SD
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBqzOUqXfEcjGuERnM9SPwByuXA.jpg" group-title="▶ VOD MALAY", Kembara Seniman Jalanan (1986) SD
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Kembara%20Seniman%20Jalanan%201986%20John%20Movie%20.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/3/3/8/4/5/233845-cinta-metropolitan-0-230-0-345-crop.jpg" group-title="▶ VOD ASEAN MIX", Cinta Metropolitan (1994)
+#EXTINF:-1 type="movie" tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/3/3/8/4/5/233845-cinta-metropolitan-0-230-0-345-crop.jpg" group-title="▶ VOD MALAY", Cinta Metropolitan (1994)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Cinta%20Metropolitan%20(1996)%20HDRip%201080p.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480300376i/33140299.jpg" group-title="▶ VOD ASEAN MIX", Kalau Aku Kaya (2016)
+#EXTINF:-1 type="movie" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480300376i/33140299.jpg" group-title="▶ VOD MALAY", Kalau Aku Kaya (2016)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Kalau%20Aku%20Kaya.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/fe/Aku_kaya_the_movie_01.jpg" group-title="▶ VOD ASEAN MIX", Aku Kaya The Movie (2003)
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/fe/Aku_kaya_the_movie_01.jpg" group-title="▶ VOD MALAY", Aku Kaya The Movie (2003)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Aku%20Kaya%20The%20Movie.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/nXDp1dR.jpg" group-title="▶ VOD ASEAN MIX", Aku Kaya (2002)
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/nXDp1dR.jpg" group-title="▶ VOD MALAY", Aku Kaya (2002)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Aku%20Kaya.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2NujbgBfD0fId0Go1pHLmujYf.jpg" group-title="▶ VOD ASEAN MIX", Malbatt Misi Bakara (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2NujbgBfD0fId0Go1pHLmujYf.jpg" group-title="▶ VOD MALAY", Malbatt Misi Bakara (2023)
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdTvx3tjX1ZFv8-3BagATcQBvExBZlF3AfaVitd6qTzd0g
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2NujbgBfD0fId0Go1pHLmujYf.jpg" group-title="▶ VOD ASEAN MIX", Malbatt Misi Bakara B (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2NujbgBfD0fId0Go1pHLmujYf.jpg" group-title="▶ VOD MALAY", Malbatt Misi Bakara B (2023)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Malbatt.Misi.Bakara.2023.1080p.WEB-DL-en.id.ms-PENCURiMOViE.AUTOS.mkv
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEdLBXwKJZsgbI2hOewsuxapAdM.jpg" group-title="▶ VOD ASEAN MIX", Hantu Kak Limah Balik Rumah (2010)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEdLBXwKJZsgbI2hOewsuxapAdM.jpg" group-title="▶ VOD MALAY", Hantu Kak Limah Balik Rumah (2010)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Hantu%20Kak%20Limah%20Balik%20Rumah.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jMhjFHuIXBTQDk1A9IvKmdgnOIF.jpg" group-title="▶ VOD ASEAN MIX", Soal Hati (2000)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jMhjFHuIXBTQDk1A9IvKmdgnOIF.jpg" group-title="▶ VOD MALAY", Soal Hati (2000)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Soal%20Hati.mkv
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/nz1UJ8m.png", Baby Sita (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/nz1UJ8m.png" group-title="▶ VOD MALAY", Baby Sita (2023)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Baby-Sita%20(2023)%20Subs%20Malay.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6E4IrN4O2AO18CuBm5dnCRHEYh.jpg" group-title="▶ VOD ASEAN MIX", Mael Totey: The Movie (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6E4IrN4O2AO18CuBm5dnCRHEYh.jpg" group-title="▶ VOD MALAY", Mael Totey: The Movie (2020)
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Mael.Totey.The.Movie.2020.720p.WEBRip.PENCURiMOViE.TODAY.mkv
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cus8hc9UBt9EdyDOZ0Hiv83NRU7.jpg" group-title="▶ VOD ASEAN MIX", Kampong Pisang Musikal Raya Istimewa (2021)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cus8hc9UBt9EdyDOZ0Hiv83NRU7.jpg" group-title="▶ VOD MALAY", Kampong Pisang Musikal Raya Istimewa (2021)
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVCEFQ6Jkx1HlRoVx0Tn4WYBxxM3Cs9aXaDoaEMUmdk4Sg
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eHt8LAmNbuP7rhGWtGyFSLNEdla.jpg" group-title="▶ VOD ASEAN MIX", Polis Evo 3 (2023) 4K
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eHt8LAmNbuP7rhGWtGyFSLNEdla.jpg" group-title="▶ VOD MALAY", Polis Evo 3 (2023) 4K
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETtaQ2HY1eZIpCw3sO9cA6wBpZiV8Q8VUbfbV8z-0qOtMQ
 
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcxMzY4NTYtNDg0Yi00NTdiLTliMWUtYjYzMWQ1OGNiMTVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD MALAY", Merewang Keluarga Pak Awang
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Merewang%20Keluarga%20Pak%20Awang.mp4
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e5J8CiTqctNgE5UMyokqnOrSNGJ.jpg" group-title="▶ VOD ASEAN MIX", Hanyut (2016)
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e5J8CiTqctNgE5UMyokqnOrSNGJ.jpg" group-title="▶ VOD MALAY", Hanyut (2016)
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Hanyut.2016.1080p.WEB-DL.PENCURiMOViE.MONSTER.mkv.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncdXowirCrB1MV8VYWDp9lvVGm3.jpg" group-title="▶ VOD ASEAN MIX", Imaginur (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncdXowirCrB1MV8VYWDp9lvVGm3.jpg" group-title="▶ VOD MALAY", Imaginur (2023)
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Imaginur.2023.1080p.AMZN.WEB-DL.DDP5.1.H264-KIKI.mkv
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncdXowirCrB1MV8VYWDp9lvVGm3.jpg" group-title="▶ VOD ASEAN MIX", Imaginur (2023) 4K
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncdXowirCrB1MV8VYWDp9lvVGm3.jpg" group-title="▶ VOD MALAY", Imaginur (2023) 4K
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXezH8MKDiBHlKBBz9smg9MByHJJ_Np6CoCC-GpvGLPc8A
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Hiki34ItCJEi4bH01tCUlyTkhE.jpg" group-title="▶ VOD ASEAN MIX", Duan Nago Bogho (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Hiki34ItCJEi4bH01tCUlyTkhE.jpg" group-title="▶ VOD MALAY", Duan Nago Bogho (2023)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Duan%20Nago%20Bogho.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gqKjggEmuv0H40jwPdVqh52LVc3.jpg" group-title="▶ VOD ASEAN MIX", Hantu Tenggek (2022)
-
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5bzImABsMJwXIFcft9K72nGW1u.jpg" group-title="▶ VOD ASEAN MIX", Mulut Masin (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5bzImABsMJwXIFcft9K72nGW1u.jpg" group-title="▶ VOD MALAY", Mulut Masin (2020)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Mulut%20Masin.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kEGYKOurGRH1qy6ONdxzJY8tXeb.jpg" group-title="▶ VOD ASEAN MIX", Abang Long Fadil 3 (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kEGYKOurGRH1qy6ONdxzJY8tXeb.jpg" group-title="▶ VOD MALAY", Abang Long Fadil 3 (2022)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Abang%20Long%20Fadil%203.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFmNDhhZmEtNWVkNi00NTgyLTkzY2YtMjNkOWNjZGZjYzEyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX", Halimun (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFmNDhhZmEtNWVkNi00NTgyLTkzY2YtMjNkOWNjZGZjYzEyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD MALAY", Halimun (2022)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Halimun.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://i.imgur.com/ECqVE2t.png",Rompak (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/ECqVE2t.png" group-title="▶ VOD MALAY",Rompak (2022)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Rompak.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tdtYxbL9uARITgWw3FyIgucF4Ax.jpg" group-title="▶ VOD ASEAN MIX",Mat Kilau (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tdtYxbL9uARITgWw3FyIgucF4Ax.jpg" group-title="▶ VOD MALAY",Mat Kilau (2022)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Mat.Kilau.2022.1080p.NF.WEB-DL.x264.6CH-Pahe.in.mkv.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinWTBAh4TAk6xMUF7l3Ymt5RH5esVMc1zAd4yZMi0m9AUmcetK09tqBvCWuko5Ugu3LcUz-r8whCkv2znD8OgVJY1i8ayrpg-dFUyniaSIaC9W1ZCP9ok1Gx_fVOBEOO12O8PF70I0WeszBY6um7cawXs_szr8Qul8rzlP6OOjDdEAprK5Dsicdqf2/s800/Angah.jpg" group-title="▶ VOD ASEAN MIX", Angah (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinWTBAh4TAk6xMUF7l3Ymt5RH5esVMc1zAd4yZMi0m9AUmcetK09tqBvCWuko5Ugu3LcUz-r8whCkv2znD8OgVJY1i8ayrpg-dFUyniaSIaC9W1ZCP9ok1Gx_fVOBEOO12O8PF70I0WeszBY6um7cawXs_szr8Qul8rzlP6OOjDdEAprK5Dsicdqf2/s800/Angah.jpg" group-title="▶ VOD MALAY", Angah (2022)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Angah%202022%20720p%20HDTV@PH-Cap.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjVhZjQ2MmItNmY3Mi00Y2IxLWFlNDYtYmI0ZTlkODk0OTJjXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX", Hantu Mok Joh (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjVhZjQ2MmItNmY3Mi00Y2IxLWFlNDYtYmI0ZTlkODk0OTJjXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD MALAY", Hantu Mok Joh (2022)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Hantu%20Mok%20Joh.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://cdn.statically.io/img/www.funtasticko.net/f=auto%2Cq=70/wp-content/uploads/2021/12/Poster-Marabahaya-Underground.jpg" group-title="▶ VOD ASEAN MIX", Marabahaya Underground (2021)
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.statically.io/img/www.funtasticko.net/f=auto%2Cq=70/wp-content/uploads/2021/12/Poster-Marabahaya-Underground.jpg" group-title="▶ VOD MALAY", Marabahaya Underground (2021)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Marabahaya%20Underground.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://live.staticflickr.com/65535/51466369620_05eab2bcd6_c.jpg" group-title="▶ VOD ASEAN MIX", Kampong Pisang Kita Setandan
+#EXTINF:-1 type="movie" tvg-logo="https://live.staticflickr.com/65535/51466369620_05eab2bcd6_c.jpg" group-title="▶ VOD MALAY", Kampong Pisang Kita Setandan
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Kampong%20Pisang%20Kita%20Setandan.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY0ZDI1YzQtZDNmYS00OTBlLWFmNTAtZjRkNzI4ZDAzMGIyXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg" group-title="▶ VOD ASEAN MIX", Mat Bond Malaya (2021)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY0ZDI1YzQtZDNmYS00OTBlLWFmNTAtZjRkNzI4ZDAzMGIyXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg" group-title="▶ VOD MALAY", Mat Bond Malaya (2021)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Mat%20Bond%20Malaya.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w500/pFrBJ6AH9m8WohNFSOEV3Bo0WWo.jpg" group-title="▶ VOD ASEAN MIX", Ola Bola 2016
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/pFrBJ6AH9m8WohNFSOEV3Bo0WWo.jpg" group-title="▶ VOD MALAY", Ola Bola 2016
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Ola.Bola.2016.1080p.WEB-DL.x264.AAC-ExpectHD.mkv
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w500/zHPbGqsb25zvXLbgg90hyuHSnm4.jpg" group-title="▶ VOD ASEAN MIX", Lagi Lagi Senario
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/zHPbGqsb25zvXLbgg90hyuHSnm4.jpg" group-title="▶ VOD MALAY", Lagi Lagi Senario
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Lagi%20Lagi%20Senario.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://walter.trakt.tv/images/movies/000/149/685/posters/thumb/234d4c91c8.jpg.webp", Guru Badul
+#EXTINF:-1 type="movie" tvg-logo="https://walter.trakt.tv/images/movies/000/149/685/posters/thumb/234d4c91c8.jpg.webp" group-title="▶ VOD MALAY", Guru Badul
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Guru%20Badul.mp4
 
-#EXTINF:-1 group-title="▶ VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w500/8mLcZ69bdiDQapUnRgBVweDOl9T.jpg" group-title="▶ VOD ASEAN MIX", Suatu Kala Timun Mas & Ijo
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/8mLcZ69bdiDQapUnRgBVweDOl9T.jpg" group-title="▶ VOD MALAY", Suatu Kala Timun Mas & Ijo
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/simpan/backupm/Suatukala-%20Timun%20Mas%20&%20Ijo.mp4
 
 
@@ -2150,106 +2152,105 @@ https://get.perfecttv.net/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&cha
 
 ###########################################################▶ ▶ P RAMLEE#######################################################
 
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Pendekar Bujang Lapok
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Pendekar Bujang Lapok
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Pendekar%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Seniman Bujang Lapok
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Seniman Bujang Lapok
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Seniman%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Bujang Lapok
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Bujang Lapok
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1957%5D%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Ali Baba Bujang Lapok
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Ali Baba Bujang Lapok
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Ali%20Baba%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Anak Bapak
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Anak Bapak
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Anak%20Bapak%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Keluarga 69
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Keluarga 69
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1967%5D%20Keluarga%2069%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Tiga Abdul
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Tiga Abdul
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Tiga%20Abdul%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Ibu Mertuaku
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Ibu Mertuaku
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Ibu%20Mertuaku%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Do Re Mi
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Do Re Mi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Nasib Do Re Mi
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Nasib Do Re Mi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Nasib%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Laksamana Do Re Mi
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Laksamana Do Re Mi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1972%5D%20Laksamana%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Masam Masam Manis
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Masam Masam Manis
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1965%5D%20Masam%20Masam%20Manis%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Labu dan Labi
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Labu dan Labi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1962%5D%20Labu%20dan%20Labi%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Nasib Si Labu Labi
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Nasib Si Labu Labi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1963%5D%20Nasib%20Si%20Labu%20Labi%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Enam Jahanam
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Enam Jahanam
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Enam%20Jahanam%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Nujum Pak Belalang
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Nujum Pak Belalang
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Nujum%20Pak%20Belalang%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Ahmad Albab
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Ahmad Albab
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Ahmad%20Albab%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Madu Tiga
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Madu Tiga
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Madu%20Tiga%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Rachun Dunia
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Rachun Dunia
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1950%5D%20Rachun%20Dunia%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Juwita
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Juwita
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1951%5D%20Juwita%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Anjuran Nasib
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Anjuran Nasib
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1952%5D%20Anjoran%20Nasib%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Hujan Panas
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Hujan Panas
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Hujan%20Panas%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Ibu
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Ibu
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Ibu%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Merana
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Merana
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Merana%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Panggilan Pulau
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Panggilan Pulau
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Panggilan%20Pulau%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Abu Hasan Penchuri
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Abu Hasan Penchuri
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Abu%20Hasan%20Penchuri%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Hang Tuah
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Hang Tuah
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Hang%20Tuah%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Penarek Becha
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Penarek Becha
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Penarek%20Becha%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Anakku Sazali
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Anakku Sazali
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Anakku%20Sazali%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Semerah padi
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Semerah padi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Semerah%20Padi%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Sarjan Hassan
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Sarjan Hassan
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sarjan%20Hassan%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Sumpah Orang Minyak
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Sumpah Orang Minyak
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sumpah%20Orang%20Minyak%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Musang Berjanggut
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Musang Berjanggut
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Musang%20Berjanggut%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Antara Dua Darjat
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Antara Dua Darjat
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1960%5D%20Antara%20Dua%20Darjat%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Kanchan Tirana
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Kanchan Tirana
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Kanchan%20Tirana%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Ragam▶ ▶ P RAMLEE
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Ragam▶ ▶ P RAMLEE
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Ragam▶ ▶ P RAMLEE - Mintak Nombor Ekor
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Ragam▶ ▶ P RAMLEE - Mintak Nombor Ekor
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20-%20Mintak%20Nombor%20Ekor%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Sabarudin Tukang Kasut
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Sabarudin Tukang Kasut
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Sabarudin%20Tukang%20Kasut%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Di Belakang Tabir
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Di Belakang Tabir
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Di%20Belakang%20Tabir%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Dr Rushdi
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Dr Rushdi
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Dr%20Rushdi%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Gerimis
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Gerimis
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Gerimis%20VCD.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Jangan Tinggal Daku
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Jangan Tinggal Daku
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Jangan%20Tinggal%20Daku%20SDTV.mp4
-#EXTINF:-1 type="movie" group-title="▶ P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ VOD ASEAN MIX", Putus Sudah Kasih Sayang
+#EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/CYe1wpn.jpg" group-title="▶ P RAMLEE", Putus Sudah Kasih Sayang
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Putus%20Sudah%20Kasih%20Sayang%20SDTV.mp4
 
 
 ###################################################################▶ DORAEMON###################################################
 
-
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc2ZGZlZmMtMjZhOC00YWI0LWIxYzQtZWRmODNhZGJhYjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Stand by Me Doraemon 2 (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc2ZGZlZmMtMjZhOC00YWI0LWIxYzQtZWRmODNhZGJhYjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Stand by Me Doraemon 2 (2020)
 https://www.dropbox.com/scl/fi/f4eiw6ockdrhn64ycfl95/Stand.by.Me.Doraemon.2.2020.720p.BR.MalayDUB.MSM.mp4?rlkey=at5y80s0senyd0ihhm45qpy43&st=0r7ugioc&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM2NmNiZWYtMGRlYy00NGM4LTliZGUtMzE1ZWZmMTllMjUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Stand by Me Doraemon (2014)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM2NmNiZWYtMGRlYy00NGM4LTliZGUtMzE1ZWZmMTllMjUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Stand by Me Doraemon (2014)
 https://www.dropbox.com/scl/fi/fapu5n1c7y4tg390nhn44/Stand.by.Me.Doraemon.2014.720p.BR.MalayDUB.MSM.mp4?rlkey=f8aa3bqwj5s42ou2hzvfia1pz&st=m7jvr2o4&dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita and the New Castle of the Undersea Devil (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the New Castle of the Undersea Devil (2026)
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -2296,7 +2297,7 @@ https://cloud.hownetwork.xyz/xxx/667ef0396980524a5d016bcd616634df/5/480.m3u8
 https://www.dropbox.com/scl/fi/h0wp81bgj4uzm7vkxsb1j/Doraemon.Movie.2017.720p.BR.MalayDub.ProAce.mp4?rlkey=qjwemlff939hzrmztvdmi4tto&st=6mjiix81&dl=1
 https://cloud.hownetwork.xyz/xxx/dfd1fa4ddc53f29b8839c2758779201a/5/480.m3u8
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjRhYjRhYTktOGNlNS00ZmM4LWFiNmItZDZlN2QxNGU4NzBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita and the Birth of Japan (2016)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjRhYjRhYTktOGNlNS00ZmM4LWFiNmItZDZlN2QxNGU4NzBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Birth of Japan (2016)
 https://www.dropbox.com/scl/fi/6en57457jsxukkme8hb17/Doraemon.Movie.2016.720p.BR.MalayDub.MSM.mp4?rlkey=4phl7cl40vmbpkujxybtarcto&st=9arv72bp&dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -2310,42 +2311,42 @@ https://cloud.hownetwork.xyz/xxx/ccefcb2175af9d5e11e38fc82afe1278/1/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/21bfa696bb863589a50146a6f5d640cf8d0b05ea5da1ef0a31cf57eb2bc1429b.jpg" group-title="▶ DORAEMON",Doraemon: New Nobita's Great Demon-Peko and the Exploration Party of Five (2014)
 https://cloud.hownetwork.xyz/xxx/b3c986150fce219755a28bfadeba2113/5/480.m3u8
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE5ZTAzZjUtYWViMy00MDQ3LThiOTUtYjhhODAwZjI5ZWZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita's Secret Gadget Museum (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE5ZTAzZjUtYWViMy00MDQ3LThiOTUtYjhhODAwZjI5ZWZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita's Secret Gadget Museum (2013)
 https://www.dropbox.com/scl/fi/t1xidof2u1wkdlqle7mxf/Doraemon.Movie.2013.720p.BR.MalayDUB.ProAce.mp4?rlkey=r8rtywtj83noupve00p6ehnn9&st=3sd9p32c&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VkOTJlMmYtMDdiNC00YWI2LTkwY2QtMzAzZjAwZjA5OWI3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita and the Island of Miracles Animal Adventure (2012)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VkOTJlMmYtMDdiNC00YWI2LTkwY2QtMzAzZjAwZjA5OWI3XkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Island of Miracles Animal Adventure (2012)
 https://www.dropbox.com/scl/fi/0vdmhd4cs2v25c16m5pv1/Doraemon.Movie.2012.720p.BR.MalayDUB.ProAce.mp4?rlkey=d83r25gyiaknef28v5sd87vm4&st=3asui9is&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTEzMjI4YmMtNzU1Ny00NWM2LWI1N2QtOTA2NjlkMGVhNjk1XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita and the New Steel Troops Winged Angels (2011)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTEzMjI4YmMtNzU1Ny00NWM2LWI1N2QtOTA2NjlkMGVhNjk1XkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the New Steel Troops Winged Angels (2011)
 https://www.dropbox.com/scl/fi/jjmlxablldpofdbbeby51/Doraemon.Movie.2011.720p.BR.MalayDUB.ProAce.mp4?rlkey=lh1dabcp5fo9bohsw9i5wilsj&st=qjqbeu2d&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThhYTQ2MGEtMDJmOS00OGZjLWJiZDgtMjVkNmI5YWM4ZTdjXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita's Great Battle of the Mermaid King (2010)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThhYTQ2MGEtMDJmOS00OGZjLWJiZDgtMjVkNmI5YWM4ZTdjXkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita's Great Battle of the Mermaid King (2010)
 https://www.dropbox.com/scl/fi/oykqy8g1x4x3o9o8qpqai/Doraemon.Movie.2010.720p.BR.MalayDUB.ProAce.mp4?rlkey=ksgyb88kvodhb2u86nl73v0nu&st=lsa399de&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRjMzdjYjYtNmFiYy00OTMwLTg2NDctNjUyYWY0N2ZjNzEwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: The New Record of Nobita's Spaceblazer (2009)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRjMzdjYjYtNmFiYy00OTMwLTg2NDctNjUyYWY0N2ZjNzEwXkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: The New Record of Nobita's Spaceblazer (2009)
 https://www.dropbox.com/scl/fi/vipne3sawc0w46iy1eyxb/Doraemon.Movie.2009.720p.BR.MalayDUB.ProAce.mp4?rlkey=vhreq55kbgtaoczj57c6y532c&st=rtb4omqd&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ1Y2JiMDAtNTI2MS00NWIzLTk1YjQtMjIzOGI3Y2E4NWYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita and the Green Giant Legend (2008)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ1Y2JiMDAtNTI2MS00NWIzLTk1YjQtMjIzOGI3Y2E4NWYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Green Giant Legend (2008)
 https://www.dropbox.com/scl/fi/vy89wsz9dcc86t8e18jxj/Doraemon.Movie.2008.720p.BR.MalayDUB.ProAce.mp4?rlkey=i56vseigsw5hhklgph9xdziz7&st=m4azkcau&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM2ZjM4MDMtNmM4NS00MTA5LWJkZTMtMzYyOGI1Nzc1NmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita's New Great Adventure into the Underworld (2007)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM2ZjM4MDMtNmM4NS00MTA5LWJkZTMtMzYyOGI1Nzc1NmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita's New Great Adventure into the Underworld (2007)
 https://www.dropbox.com/scl/fi/nx90oi3poqtn8gjs1a62b/Doraemon.Movie.2007.720p.BR.MalayDUB.ProAce.mp4?rlkey=edbxpm0edybvvqi5nt08gpj23&st=0cd4zr8j&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyODE2OGQtNWE1MC00OTQ2LWE4NzAtY2M3ZTAzM2E5MzEyXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita's Dinosaur (2006)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyODE2OGQtNWE1MC00OTQ2LWE4NzAtY2M3ZTAzM2E5MzEyXkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita's Dinosaur (2006)
 https://www.dropbox.com/scl/fi/9pdgzm61t7h7wkdt27xda/Doraemon.Movie.2006.720p.BR.MalayDUB.ProAce.mp4?rlkey=qiyavsgzuw6lawpawtfwqetll&st=nzqu9qhk&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzNWNkNDktYzRkMi00NTQwLWE1NjUtNTA3Njg2NDkxMTA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzNWNkNDktYzRkMi00NTQwLWE1NjUtNTA3Njg2NDkxMTA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
 https://www.dropbox.com/scl/fi/o1ya9d7x1zkhw40up5uxi/Doraemon.Movie.2004.720p.WEB.MalayDub.ProAce.mp4?rlkey=rqkea9hfryupbn8ldh9gvaqgs&st=1ey6mgb0&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UwNWMxNjctNjUyNi00ZmRjLTg3NGEtNWQzMGVkOWJmMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita and the Windmasters (2003)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UwNWMxNjctNjUyNi00ZmRjLTg3NGEtNWQzMGVkOWJmMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Windmasters (2003)
 https://www.dropbox.com/scl/fi/do87ihaabsrnq4qhez84t/Doraemon.Movie.2003.720p.WEB.MalayDub.ProAce.mp4?rlkey=sx6lrdccf8ywbfv0fzrvap1j0&st=uod8njsw&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYxOWQ2ZjQtYWI3MC00OGVjLWFkMDgtZDJmNTkyOGExM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita in the Robot Kingdom (2002)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYxOWQ2ZjQtYWI3MC00OGVjLWFkMDgtZDJmNTkyOGExM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita in the Robot Kingdom (2002)
 https://www.dropbox.com/scl/fi/1rx8lslbe5gkoeavv73f2/Doraemon.Movie.2002.720p.WEB.MalayDub.ProAce.mp4?rlkey=jefcu1hs0fotv4a2a1g5tn3md&st=04ofx7ks&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZhYmE0NWQtNWUyNy00MzA3LWI4MzEtZGYxNTY5N2Q1MDgzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita and the Winged Braves (2001)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZhYmE0NWQtNWUyNy00MzA3LWI4MzEtZGYxNTY5N2Q1MDgzXkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Winged Braves (2001)
 https://www.dropbox.com/scl/fi/9n40qaiyvrp07o6a1kf8m/Doraemon.Movie.2001.720p.HDTV.MalayDub.ProAce.mp4?rlkey=687hotbfdxtmhg3gbrjfap7lf&st=iash67yn&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU3MTFhZDgtODc3Yy00OTA2LWI5MzYtYTlmM2JmMTJhOGRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Doraemon: Nobita and the Legend of the Sun King (2000)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU3MTFhZDgtODc3Yy00OTA2LWI5MzYtYTlmM2JmMTJhOGRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Legend of the Sun King (2000)
 https://www.dropbox.com/scl/fi/ofvo8zr9fg3eg3yjlc60k/Doraemon-Nobita-and-the-Legend-of-the-Sun-King-2000.mp4?rlkey=gdj1xs24i50d0meqt8ieb75cc&st=aispfwwl&dl=1
 
