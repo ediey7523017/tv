@@ -1304,13 +1304,17 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png" group-title="Kids",Animax 
 https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
-#EXTINF:-1 tvg-id="Aniplus" group-title="Kids" tvg-logo="https://i.imgur.com/5gMIjA2.png",Aniplus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://slive.mana2.my/AniPlus/index.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+###EXTINF:-1 tvg-id="Aniplus" group-title="Kids" tvg-logo="https://i.imgur.com/5gMIjA2.png",Aniplus
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+###https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTINF:-1 tvg-id="Aniplus" group-title="Kids" tvg-logo="https://i.imgur.com/5gMIjA2.png",Aniplus
+https://slive.mana2.my/AniPlus/index.mpd
 
 ############################################################################Variety###################################################################################
 
