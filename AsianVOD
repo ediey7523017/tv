@@ -1191,6 +1191,7 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Space%20S
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/hNf8rQoICiK0ujDhnBWStrXbsc1.jpg" group-title="▶ VOD ASEAN MIX", Nezha Conquers the Dragon King
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Nezha%20Conquers%20the%20Dragon%20King.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/rqTxkcoq31q3mRJMV1iXexTanIE.jpg" group-title="▶ VOD ASEAN MIX", Danur
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Danur.mp4
 
@@ -1211,6 +1212,29 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Gundala.m
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/3v22y85Wv0N84fzFvNZxyBrZKYG.jpg" group-title="▶ VOD ASEAN MIX", Lampor Keranda Terbang
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Lampor-%20Keranda%20Terbang.mp4
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgzMTgyNDI0OF5BMl5BanBnXkFtZTcwMjkzNzExNg@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",3D Sex and Zen: Extreme Ecstasy (2011)
+https://cloud.hownetwork.xyz/xxx/94a66354b6c0459696da7d90db74689c/2/480.m3u8
+https://vidcdn2.eroticmv.com/dat1/sexandzen3dextreme/sexandzen3dextreme.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk3MDhkMjgtNTU4Yi00NjlmLTk2N2ItZjZhNTgxYTUxNGU4XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Sex and Zen III (1998)
+https://vidcdn2.eroticmv.com/dat1/sexandzen3/sexandzen3.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5NjIzODQzMF5BMl5BanBnXkFtZTcwODUzMTEyMQ@@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Sex and Zen II (1996)
+https://cloud.hownetwork.xyz/xxx/b2e35e6cda24a85e193201356683d4e4/1/480.m3u8
+https://vidcdn2.eroticmv.com/dat1/sexandzen2/sexandzen2.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTZjNGZiNzEtNDgxYi00NjU1LTlhNGYtYzZhMWJhZTQyNjU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Sex and Zen (1991)
+https://vidcdn2.eroticmv.com/dat1/sexandzen1/sexandzen1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
