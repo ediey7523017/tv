@@ -662,10 +662,13 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(RockAction)
 ###https://unifi-live16.secureswiftcontent.com/UnifiHD/live16.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
 #EXTINF:-1 tvg-id="701.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="Unifi TV",701 Unifi Sport ᵘⁿⁱᶠⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ###EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
