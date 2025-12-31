@@ -470,6 +470,24 @@ https://unifi-live27.secureswiftcontent.com/UnifiHD/live27.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(PESONA)/master.mpd
 
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
+#EXTINF:-1 tvg-id="201.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202206/20220630/20220630160122105iu5.png" group-title="Unifi TV",201 tvN Movies ᵘⁿⁱᶠⁱ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd
+
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=925fe1266db744a3b9524a23a6cc524b:d1266e747e241339a539e54f26890286
+#EXTINF:-1 tvg-id="211.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="Unifi TV",211 tvN ᵘⁿⁱᶠⁱ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVNHD)/master.mpd
+
 ###EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 ###KODIPROP:inputstream=inputstream.adaptive
 ###KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -484,18 +502,18 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(PESONA)/mas
 ###KODIPROP:inputstream.adaptive.manifest_type=dash
 ###KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ###KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
-###EXTINF:-1 tvg-id="239.unifi" group-title="Unifi TV" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png",239 Unifi SETI ᵘⁿⁱᶠⁱ
+###EXTINF:-1 tvg-id="235.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202204/20220428/2022042801453679957n.png" group-title="Unifi TV",235 CCTV4 ᵘⁿⁱᶠⁱ
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-###https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SETI)/master.mpd
+###https://unifi-live15.secureswiftcontent.com/UnifiHD/live15.mpd
 
 ###EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 ###KODIPROP:inputstream=inputstream.adaptive
 ###KODIPROP:inputstream.adaptive.manifest_type=dash
 ###KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ###KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
-###EXTINF:-1 tvg-id="235.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202204/20220428/2022042801453679957n.png" group-title="Unifi TV",235 CCTV4 ᵘⁿⁱᶠⁱ
+###EXTINF:-1 tvg-id="239.unifi" group-title="Unifi TV" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png",239 Unifi SETI ᵘⁿⁱᶠⁱ
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-###https://unifi-live15.secureswiftcontent.com/UnifiHD/live15.mpd
+###https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SETI)/master.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -515,23 +533,12 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Celestial)/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CelestialC)/master.mpd
 
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=925fe1266db744a3b9524a23a6cc524b:d1266e747e241339a539e54f26890286
-#EXTINF:-1 tvg-id="211.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="Unifi TV",211 tvN ᵘⁿⁱᶠⁱ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVNHD)/master.mpd
-
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
-#EXTINF:-1 tvg-id="201.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202206/20220630/20220630160122105iu5.png" group-title="Unifi TV",201 tvN Movies ᵘⁿⁱᶠⁱ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=06e1831ba6f946568bdea62e67ca7317:f02c40d2006e036104f7726116861d7c
+#EXTINF:-1 tvg-id="311.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202509/20250930/40/160755518385f862175c.png" group-title="Unifi TV",311 Zee Tamil ᵘⁿⁱᶠⁱ
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeTamil)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -539,13 +546,6 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/maste
 #KODIPROP:inputstream.adaptive.license_key=22fdfcf5cb304eb6b2ebbecbca9c9d10:b7c4f0ab8bc0bd4deabe73cf75dfa537
 #EXTINF:-1 tvg-id="333.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202509/20250929/33/013526401143f862175c.png" group-title="Unifi TV",333 Zee Cinema ᵘⁿⁱᶠⁱ
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeCinema)/master.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=06e1831ba6f946568bdea62e67ca7317:f02c40d2006e036104f7726116861d7c
-#EXTINF:-1 tvg-id="311.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202509/20250930/40/160755518385f862175c.png" group-title="Unifi TV",311 Zee Tamil ᵘⁿⁱᶠⁱ
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeTamil)/master.mpd
 
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
