@@ -519,7 +519,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CelestialC)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5dcc7b00add745619ff1dd29ac7e591c:cdab9ac07955a7a2ea78b03343b77fbd
-#EXTINF:-1 tvg-id="302.unifi" ch-number="302" tvg-logo="https://unifi.com.my/tv/sites/default/files/2025-06/148x84_ZeeThirai_2025-CHweb.png" group-title="Unifi TV",Zee Thirai
+#EXTINF:-1 tvg-id="302.unifi" ch-number="302" tvg-logo="https://i.ibb.co/jP6vwdRr/0-16x9.png" group-title="Unifi TV",Zee Thirai
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeThi)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
