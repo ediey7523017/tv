@@ -311,6 +311,10 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Awesome" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png" group-title="MY Freeview",Awesome TV
 https://get.perfecttv.net/mytv.m3u8?channel=awesometv
 
+#EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="MY Freeview",Degup
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.api.tm.quickplay.com/getlicense?service=tm&version=1.0&kid=A1623B76-6E4B-48EB-88CE-A29E1C309CC7&ptoken=eyJjb250ZW50SWQiOiJBMTYyM0I3Ni02RTRCLTQ4RUItODhDRS1BMjlFMUMzMDlDQzciLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc2MDU1MzU4MTE2MSwiZW50aXRsZWRDb250ZW50SWRzIjoiUVRFMk1qTkNOell0TmtVMFFpMDBPRVZDTFRnNFEwVXRRVEk1UlRGRE16QTVRME0zIiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiM2Q1Zjg4NzY4ODA3ODZkMDY1ODFkOWRjOWFlNjIzMGMyZTA2OWUxN2YwODZkMDhkMWUyYWRmNGE5MzQ4M2RiNSIsInVuaXF1ZUlkIjoiMTU0YjI1NTEtYmVkYy00MDRhLTlkM2EtYTI1NzExZGMyNDQ4IiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTc2MDUxMDQ0MTE2MSwiY3JlYXRlZFRpbWUiOjE3NjA1MTAzODExNjEsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ==
+https://get.perfecttv.net/degup/degup.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
 
 #EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYSOLQOgbI4n1zTkrDXpjXVVDFlPekG_cFNsXdrlK4A&s=10" group-title="MY Freeview",Drama Sangat
 
@@ -344,6 +348,16 @@ https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Negara.my" tvg-name="Dewan Negara" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",Dewan Negara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="473.unifi" ch-number="473" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="MY Freeview",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockent.my
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="474.unifi" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="MY Freeview",Rock Action
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction.my
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="MY Freeview",RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
@@ -447,11 +461,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 #EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="Unifi TV",Degup
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DEGUP)/master.mpd
-
-#EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="Unifi TV",Degup
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.api.tm.quickplay.com/getlicense?service=tm&version=1.0&kid=A1623B76-6E4B-48EB-88CE-A29E1C309CC7&ptoken=eyJjb250ZW50SWQiOiJBMTYyM0I3Ni02RTRCLTQ4RUItODhDRS1BMjlFMUMzMDlDQzciLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc2MDU1MzU4MTE2MSwiZW50aXRsZWRDb250ZW50SWRzIjoiUVRFMk1qTkNOell0TmtVMFFpMDBPRVZDTFRnNFEwVXRRVEk1UlRGRE16QTVRME0zIiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiM2Q1Zjg4NzY4ODA3ODZkMDY1ODFkOWRjOWFlNjIzMGMyZTA2OWUxN2YwODZkMDhkMWUyYWRmNGE5MzQ4M2RiNSIsInVuaXF1ZUlkIjoiMTU0YjI1NTEtYmVkYy00MDRhLTlkM2EtYTI1NzExZGMyNDQ4IiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTc2MDUxMDQ0MTE2MSwiY3JlYXRlZFRpbWUiOjE3NjA1MTAzODExNjEsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ==
-https://get.perfecttv.net/degup/degup.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -640,23 +649,12 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Animax)/mas
 #EXTINF:-1 tvg-id="473.unifi" ch-number="473" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="Unifi TV",Rock Entertainment
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(RockEnt)/master.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="473.unifi" ch-number="473" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="Unifi TV",Rock Entertainment
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockent.my
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64cf911505e42c8aa17869ae51206ba:2f3f5f1c609c1120216d4d72377d1ac2
 #EXTINF:-1 tvg-id="474.unifi" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="Unifi TV",Rock Action
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(RockAction)/master.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="474.unifi" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="Unifi TV",Rock Action
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction.my|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
