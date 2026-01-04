@@ -327,6 +327,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 group-title="MY Freeview" tvg-id="SukanRTM.my" tvg-name="SUKAN RTM" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+#EXTINF:-1 group-title="MY Freeview" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/badmintonTerbukaMalaysiadua.jpeg",Badminton Terbuka Malaysia Saluran 1
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+
+#EXTINF:-1 group-title="MY Freeview" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/badmintonTerbukaMalaysia.jpeg",Badminton Terbuka Malaysia Saluran 2
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
+
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TVIKIM.my" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://i.ibb.co/Y426PJ6h/output-onlinepngtools.png",TV Ikim
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
