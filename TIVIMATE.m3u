@@ -273,19 +273,19 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 ###############################################################MY Freeview#############################################################
 
 #EXTINF:-1 group-title="MY Freeview" group-logo="https://iconape.com/wp-content/png_logo_vector/myfreeview-logo.png" tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png",TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TV3.my"  tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="OKEY" tvg-name="OKEY.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png",TV Okey
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TV6.my" tvg-name="TV6" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png",TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="DidikTVKPM.my" tvg-name="DidikTv KPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTv KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -322,10 +322,10 @@ https://get.perfecttv.net/mytv.m3u8?channel=awesometv
 https://get.perfecttv.net/mytv.m3u8?channel=tv5
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="BeritaRTM.my" tvg-name="BERITA RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest/scale-to-width-down/250?cb=20210504031757",BERITA RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="SukanRTM.my" tvg-name="SUKAN RTM" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png",SUKAN RTM
-https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TVIKIM.my" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://i.ibb.co/Y426PJ6h/output-onlinepngtools.png",TV Ikim
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
@@ -334,13 +334,13 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
 #EXTINF:-1 tvg-id="RTM Asean" group-title="MY Freeview" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM Asean
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Rakyat.my" tvg-name="Dewan Rakyat" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png ",Dewan Rakyat
-https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 
 #EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Negara.my" tvg-name="Dewan Negara" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",Dewan Negara
-https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="MY Freeview",RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
