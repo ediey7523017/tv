@@ -660,7 +660,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Moonbug)/ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe60385da93e48cda9dce2c686862462:8e7c6f6beb074f153da1b00c3cf95908
-#EXTINF:-1 tvg-id="552.unifi" ch-number="552" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202402/20240215/202402150918186623m3.png" group-title="hhh",Nick Jr. 
+#EXTINF:-1 tvg-id="552.unifi" ch-number="552" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202402/20240215/202402150918186623m3.png" group-title="Unifi TV",Nick Jr. 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickjr)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
