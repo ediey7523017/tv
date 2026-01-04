@@ -311,7 +311,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Awesome" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png" group-title="MY Freeview",Awesome TV
-https://get.perfecttv.net/mytv.m3u8?channel=awesometv
+http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 
 #EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="MY Freeview",Degup
 #KODIPROP:inputstream.adaptive.license_type=widevine
