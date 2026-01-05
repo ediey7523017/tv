@@ -4,35 +4,36 @@
 
 ###################################################################Astro###############################################################
 
-####EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Astro_XiLele.png/revision/latest?cb=20250211094733",100 XiLele
-####KODIPROP:inputstream.adaptive.license_type=clearkey
-####KODIPROP:inputstream.adaptive.license_key=58ce03fd70bac9f61eadf9d762ce8e10:9b27d4fac3292cf7cfca3312cb409343
-####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
-
-####EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png" group-title="Astro",100 Scream
-####KODIPROP:inputstream.adaptive.license_type=clearkey
-####KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
-####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-####https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
-
-####EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 Heroes
-####KODIPROP:inputstream.adaptive.license_type=clearkey
-####KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5183/
-####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-####https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
-
-####EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 KITA
-####KODIPROP:inputstream.adaptive.license_type=clearkey
-####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lhx3Q44RHyCr09uW+Izf0g", "kid":"eUhI2HjhD6sgkFnA5pQgEA" } ], "type":"temporary" }
-####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-####https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
+###EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 KITA
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lhx3Q44RHyCr09uW+Izf0g", "kid":"eUhI2HjhD6sgkFnA5pQgEA" } ], "type":"temporary" }
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
 ###EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LOL.png" group-title="Astro" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 LOL 
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EVNYahpFPgNAJxSimZZFZA","kid":"EiyEvBMJQFhslhuuZSs2EA"}],"type":"temporary"}
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_primary.mpd
+
+###EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Astro_XiLele.png/revision/latest?cb=20250211094733",100 XiLele
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=58ce03fd70bac9f61eadf9d762ce8e10:9b27d4fac3292cf7cfca3312cb409343
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
+
+###EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png" group-title="Astro",100 Scream
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
+
+###EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 Heroes
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5183/
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
+
 
 #EXTINF:-1 tvg-id="101.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png"  group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -398,10 +399,23 @@ https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
 #EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYSOLQOgbI4n1zTkrDXpjXVVDFlPekG_cFNsXdrlK4A&s=10" group-title="MY Freeview",Drama Sangat
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Selangor TV" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="MY Freeview",Selangor TV
+#KODIPROP:inputstream.adaptive.license_key=dbb535495b2b4d1fa1ff529b8db77ed7:97fcf63fd1ba3ac9efb50db40826c73a
+https://live.mana2.my/SelangorTv/tracks-v3a1/mono.m3u8?token=1767643077
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509" group-title="MY Freeview",Enjoy TV5
+#KODIPROP:inputstream.adaptive.license_key=f98399fcf0944ecebc5d7109d3080daf:4e15f34f42c5ae4c5dc17147d677a2d2
+https://live.mana2.my/Tv5/tracks-v2a1/mono.m3u8?token=1767643554
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MY Freeview",Suke TV
-
+#KODIPROP:inputstream.adaptive.license_key=3a584866bb3042f995be1a06bde77479:53ae15c90c9cd1e0919b30584ae4d9a8
+https://live.mana2.my/SukeTv/tracks-v2a1/mono.m3u8?token=1767643737
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
