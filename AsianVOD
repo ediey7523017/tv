@@ -5,8 +5,19 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="",
-https://cloud.hownetwork.xyz/xxx/060f9e6cbab7633d04f41eed93b73866/3/480.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY3MTA3ZTctNWI1OS00MzYxLTg0OWUtM2M0YTQ4N2M0MmMzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",La Tahzan (2025)
+https://minochinos.com/stream/FEy3JVbZpkP208IBw_WO1Q/hjkrhuihghfvu/1767718394/35743993/index-v1-a1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODk1OTU1Y2ItNjk2Zi00NzdjLWFhYWItZTgxNDE5OThkNzVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Pamali Tumbal (2025)
+https://imaxstreams.net/stream/_pyALLIYAotkIJ7_QliKyQ/kjhhiuahiuhgihdf/1767715719/66774661/index-v1-a1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY0ZGRiMDQtY2JhOC00ZTVhLWIwNWUtNjBjYzZiYjhiMjFkXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Arwah (2025)
+https://imaxstreams.com/stream/fwJerHdVtnkbzAgeR003hw/hjkrhuihghfvu/1767715411/36067146/index-v1-a1.m3u8
+https://imaxstreams.net/stream/Nd36YVo8Z6raHKryhw908w/kjhhiuahiuhgihdf/1767715458/66777905/index-v1-a1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
@@ -1238,19 +1249,19 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/The%20Vil
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhCMalYgJgyljNGCCNpvxQ7QuBd.jpg" group-title="▶ VOD ASEAN MIX", Jalan yang Jauh Jangan Lupa Pulang (2023)
 https://index.edgem.workers.dev/2:/A.Long.Way.to.Come.Home.2023.1080p.NF.WEB-DL.VP9.DDP5.1-ProAce.mkv
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ryaPV0ldnCaRkf1cQG9Qk1dkZ40.jpg" group-title="▶ VOD ASEAN MIX", Qorin (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ryaPV0ldnCaRkf1cQG9Qk1dkZ40.jpg" group-title="▶ VOD ASEAN MIX",Qorin (2022)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Qorin.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/sNe8NIiCkUFaAnHvnolOocl6hlm.jpg" group-title="▶ VOD ASEAN MIX", Makmum 2 (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/sNe8NIiCkUFaAnHvnolOocl6hlm.jpg" group-title="▶ VOD ASEAN MIX",Makmum 2 (2022)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Makmum%202.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bCoq0Lvk1Mq7bxyLnEodLkjp2XH.jpg" group-title="▶ VOD ASEAN MIX", Makmum (2019)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bCoq0Lvk1Mq7bxyLnEodLkjp2XH.jpg" group-title="▶ VOD ASEAN MIX",Makmum (2019)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Makmum.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/u9GVOc3hDwNGEoLdSdxqdLTGS9A.jpg" group-title="▶ VOD ASEAN MIX", Filosofi Kopi (2015)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Filosofi%20Kopi.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3JCXWQdgepkKxK86drRh8tpViL2.jpg" group-title="▶ VOD ASEAN MIX", Filosofi Kopi 2- Ben dan Jody (2017)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3JCXWQdgepkKxK86drRh8tpViL2.jpg" group-title="▶ VOD ASEAN MIX",Filosofi Kopi 2- Ben dan Jody (2017)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Filosofi%20Kopi%202-%20Ben%20&%20Jody.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/p2TnX8MwCM6GUjcX0R6s3wDb9En.jpg" group-title="▶ VOD ASEAN MIX", A Chinese Odyssey: Part One - Pandora's Box (1995)
@@ -1359,13 +1370,13 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Gundala.m
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Lampor-%20Keranda%20Terbang.mp4
 
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ASEAN MIX",Jan Dara The Finale (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQwMjVkZGEtNmJiNS00NTFlLWI5ZTktMGNkZjZhYjlkMDlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Jan Dara The Finale (2013)
 https://vidcdn2.eroticmv.com/dat1/jandarathefinale2013/jandarathefinale2013.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ASEAN MIX",Jan Dara The Beginning (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ2NzQyOTgtZWI3MC00ODQyLThkNDUtNWJiOTM5MzczNGEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Jan Dara The Beginning (2013)
 https://vidcdn2.eroticmv.com/dat1/jandarathebeginning2013/jandarathebeginning2013.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ASEAN MIX",Jan Dara (2001)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2NzY1MjUxN15BMl5BanBnXkFtZTcwODkxMjkyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Jan Dara (2001)
 https://vidcdn2.eroticmv.com/dat1/jandara2001/jandara2001.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1425,18 +1436,65 @@ https://cloud.hownetwork.xyz/xxx/LRYuYycYHGxwfEV8cwh7Dwc6DQJoTU9xHQkoPiZFJjQtGS0
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTcwMTAzNDItODg2MC00MjE0LWEyNzYtYzZjNjZmNjdhODE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Ong Bak (2003)
 https://cloud.hownetwork.xyz/xxx/c980b5ab1a48178cc3e6ed7af0875d9d/25/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEwNmQ0NzAtMGVlZi00NDBiLWE2NzktZGZhOTAyYzk1MTk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Iceman: The Time Traveller (2018)
+https://cloud.hownetwork.xyz/xxx/ee97a873d72e99e0023669a3c0e192ba/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWUxODBhOWEtNTk5OC00MzAxLThlNmYtMTQzYmNkNTJiODRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Iceman (2014)
+https://cloud.hownetwork.xyz/xxx/a6c7a9c7d2268f0d0bd2e6a6d6c828c1/20/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1ZDIwY2MtMjA2ZS00NGYxLWIwNTMtZGJlMWFiOTJmNDg4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Sakra (2023)
+https://cloud.hownetwork.xyz/xxx/777fb6785620ff780797f5cab38d1afe/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UyZGQ0ODQtYTQ4YS00YWRlLWI4NzctYjcwOTVhNjRlODRmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",The Prosecutor (2024)
+https://cloud.hownetwork.xyz/xxx/a5c5014afe093c5dde4540fb6afb1bd4/31/480.m3u8
+https://www.dropbox.com/scl/fi/cemww69ecgct5affmifuv/prosecutor.mp4?rlkey=u5do1dqgkch9xzg3kh9r3rv0j&st=3zovq694&dl=1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjgxNjg1Mjg1Ml5BMl5BanBnXkFtZTgwODgyODA1MjE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",14 Blades (2010)
+https://cloud.hownetwork.xyz/xxx/eadc4492842a4000925b33eedc825e98/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2M4NDUwZDItNTM0Ny00MTJkLTkwOGUtYjE0MjQzYTM2MzhhXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",New Kung Fu Cult Master 2 (2022)
+https://cloud.hownetwork.xyz/xxx/6a226c6cd00b334c81d1b6370e9b924e/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRmZTRkZWQtZmI1NS00ZmY2LWFhMDQtNDlmN2ExOWU3NGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",New Kung Fu Cult Master (2022)
+https://cloud.hownetwork.xyz/xxx/ce05e091daf242cf82258e99ff300a90/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc4YTRjNWItYWYxMC00YmFiLWI1NmYtMDQzZWNiNjY2MGE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN MIX",Kung Fu Cult Master (1993)
+https://cloud.hownetwork.xyz/xxx/6cee262485bdbec8387a7c79f7c675ac/5/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9DOGlKfXWlnxAdOJHQzP3aRqt0.jpg" group-title="▶ VOD ASEAN MIX",Unlocked (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3778.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXGVc5a3sIFpER8oIZU3Bccv9HL.jpg" group-title="▶ VOD ASEAN MIX",Ransomed (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3998.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xshVuSmZsPKcN2uvsh5DZPeDAIn.jpg" group-title="▶ VOD ASEAN MIX",The Djinn's Curse (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4138.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg" group-title="▶ VOD ASEAN MIX",Exhuma (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4144.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="▶ VOD ASEAN MIX",City Hunter (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4151.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg" group-title="▶ VOD ASEAN MIX",Kung Fu Hustle (2004)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4163.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5doar0VEH6bkC1rzstB25PhaV4g.jpg" group-title="▶ VOD ASEAN MIX",Drive (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4454.mp4
 
