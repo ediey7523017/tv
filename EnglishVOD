@@ -817,7 +817,7 @@ https://cloud.hownetwork.xyz/xxx/084a9c8e7a6f8af954c9e11672dfd98a/25/480.m3u8
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4596.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1000-Deep Cover (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euM8fJvfH28xhjGy25LiygxfkWc.jpg" group-title="▶ VOD ENGLISH",1000-Deep Cover (2025)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1000-The Amateur (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg"group-title="▶ VOD ENGLISH",1000-The Amateur (2025)
+#EXTINF:-1 tvg-id="" tvg-name="1000-The Amateur (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg" group-title="▶ VOD ENGLISH",1000-The Amateur (2025)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4610.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1001-Thunderbolts (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg" group-title="▶ VOD ENGLISH",1001-Thunderbolts (2025)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4609.mp4
@@ -843,8 +843,6 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3775.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3776.mp4
 #EXTINF:-1 tvg-id="" tvg-name="984-Infinity Pool (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg" group-title="▶ VOD ENGLISH",984-Infinity Pool (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="985-Unlocked (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9DOGlKfXWlnxAdOJHQzP3aRqt0.jpg" group-title="▶ VOD ENGLISH",985-Unlocked (2023)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3778.mp4
 #EXTINF:-1 tvg-id="" tvg-name="One Ranger (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puffdkze3GZmQHu2Hy8t1XdOYtM.jpg" group-title="▶ VOD ENGLISH",One Ranger (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3801.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1009-Simulant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmDJhZIq1xnu5ZiMOlb0nHJH1qb.jpg" group-title="▶ VOD ENGLISH",1009-Simulant (2023)
@@ -903,7 +901,7 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3883.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3885.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1192-Birth/Rebirth (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg" group-title="▶ VOD ENGLISH",1192-Birth/Rebirth (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1194-Sympathy for the Devil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg" group-title="▶ VOD ENGLISH",1194-Sympathy for the Devil (2023)
+#EXTINF:-1 tvg-id="" tvg-name="1194-Sympathy for the Devil (2023)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZkODA0ZWYtYTY2Ni00MmJlLTgyYmYtZTU5NWQ0N2I5NmM4XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",1194-Sympathy for the Devil (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3992.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1195-Hitmen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdbNHV7Rjy72WgZyIuh3QwxgVS2.jpg" group-title="▶ VOD ENGLISH",1195-Hitmen (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3993.mp4
@@ -911,8 +909,6 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3993.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1199-Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" group-title="▶ VOD ENGLISH",1199-Oppenheimer (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1200-Ransomed (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXGVc5a3sIFpER8oIZU3Bccv9HL.jpg" group-title="▶ VOD ENGLISH",1200-Ransomed (2023)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3998.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1202-White Paradise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bD3TKQzXbSEzCzDEw5bonMyjTyc.jpg" group-title="▶ VOD ENGLISH",1202-White Paradise (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4000.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1203-Trust Nobody 2: Still No Trust (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idzEm8ogXrhWzrix9K6gK7jW6xe.jpg" group-title="▶ VOD ENGLISH",1203-Trust Nobody 2: Still No Trust (2023)
@@ -975,8 +971,6 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4067.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4075.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1299-The Shift (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voLxg0emuu862JAgFwM4yTH3eGj.jpg" group-title="▶ VOD ENGLISH",1299-The Shift (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1310-Dune: Part Two (2024)[CAM]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg" group-title="▶ VOD ENGLISH",1310-Dune: Part Two (2024)[CAM]
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4107.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Punch (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq5fQ8go2M66OsvkRZGUIrtuchz.jpg" group-title="▶ VOD ENGLISH",Punch (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4108.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1313-Upgraded (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fKjh7zJrlAcZfIfNQCDvvrT5vN.jpg" group-title="▶ VOD ENGLISH",1313-Upgraded (2024)
@@ -985,14 +979,8 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4109.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4112.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Woody Woodpecker Goes to Camp (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaINMBMGIow4kd8Dq06aytoomtS.jpg" group-title="▶ VOD ENGLISH",Woody Woodpecker Goes to Camp (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1346-The Djinn's Curse (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xshVuSmZsPKcN2uvsh5DZPeDAIn.jpg" group-title="▶ VOD ENGLISH",1346-The Djinn's Curse (2024)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1351-Exhuma (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg" group-title="▶ VOD ENGLISH",1351-Exhuma (2024)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4144.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1353-Ghostbusters: Frozen Empire (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg" group-title="▶ VOD ENGLISH",1353-Ghostbusters: Frozen Empire (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1357-City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="▶ VOD ENGLISH",1357-City Hunter (2024)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4151.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1365-Down the Rabbit Hole (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5HdtvogDClJjNdtdIxGgOfaZjK.jpg" group-title="▶ VOD ENGLISH",1365-Down the Rabbit Hole (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4153.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1366-Arthur the King (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg" group-title="▶ VOD ENGLISH",1366-Arthur the King (2024)
@@ -1011,8 +999,6 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4159.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4160.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1402-Colombiana (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEdGDgRB3gducezNSIyx2lbKQy4.jpg" group-title="▶ VOD ENGLISH",1402-Colombiana (2011)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1434-Kung Fu Hustle (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg" group-title="▶ VOD ENGLISH",1434-Kung Fu Hustle (2004)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4163.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1448-Speak No Evil (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDtkrO2OAF8LKQTdzYmu1Y7lCLB.jpg" group-title="▶ VOD ENGLISH",1448-Speak No Evil (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4164.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom: The Last Dance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg" group-title="▶ VOD ENGLISH",Venom: The Last Dance (2024)
@@ -1029,27 +1015,18 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4191.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4192.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1583-Red One (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" group-title="▶ VOD ENGLISH",1583-Red One (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1598-Mufasa: The Lion King [HDCAM](2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lurEK87kukWNaHd0zYnsi3yzJrs.jpg" group-title="▶ VOD ENGLISH",1598-Mufasa: The Lion King [HDCAM](2024)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4210.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Return (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg" group-title="▶ VOD ENGLISH",The Return (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4211.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Conjuring the Cult (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg" group-title="▶ VOD ENGLISH",Conjuring the Cult (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1602-Gladiator II (2024)" tvg-logo="https://i" group-title="▶ VOD ENGLISH",1602-Gladiator II (2024)
+#EXTINF:-1 tvg-id="" tvg-name="1602-Gladiator II (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",1602-Gladiator II (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1623-Sonic the Hedgehog 3 (2024)[HDCAM]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg" group-title="▶ VOD ENGLISH",1623-Sonic the Hedgehog 3 (2024)[HDCAM]
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4223.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1626-Five Nights at Freddy's (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dKRTUylqwXQ4VJz0BS84fqW2wa.jpg" group-title="▶ VOD ENGLISH",1626-Five Nights at Freddy's (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4225.mp4
 #EXTINF:-1 tvg-id="" tvg-name="965-Alien: Romulus (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg" group-title="▶ VOD ENGLISH",965-Alien: Romulus (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4452.mp4
 #EXTINF:-1 tvg-id="" tvg-name="970-Despicable Me 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg" group-title="▶ VOD ENGLISH",970-Despicable Me 4 (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="971-Drive (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5doar0VEH6bkC1rzstB25PhaV4g.jpg" group-title="▶ VOD ENGLISH",971-Drive (2024)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="987-Land of Bad (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5doar0VEH6bkC1rzstB25PhaV4g.jpg" group-title="▶ VOD ENGLISH",987-Land of Bad (2024)
+#EXTINF:-1 tvg-id="" tvg-name="987-Land of Bad (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",987-Land of Bad (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4455.mp4
-
-
-
 
