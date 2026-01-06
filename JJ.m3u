@@ -4,29 +4,29 @@
 
 ###################################################################Astro###############################################################
 
-####EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Astro_XiLele.png/revision/latest?cb=20250211094733",100 XiLele
-####KODIPROP:inputstream.adaptive.license_type=clearkey
-####KODIPROP:inputstream.adaptive.license_key=58ce03fd70bac9f61eadf9d762ce8e10:9b27d4fac3292cf7cfca3312cb409343
-####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Astro_XiLele.png/revision/latest?cb=20250211094733",100 XiLele
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=58ce03fd70bac9f61eadf9d762ce8e10:9b27d4fac3292cf7cfca3312cb409343
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
 
-####EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png" group-title="Astro",100 Scream
-####KODIPROP:inputstream.adaptive.license_type=clearkey
-####KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
-####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png" group-title="Astro",100 Scream
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
 
-####EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 Heroes
-####KODIPROP:inputstream.adaptive.license_type=clearkey
-####KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5183/
-####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-####https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
+###EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 Heroes
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5183/
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
 
-####EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 KITA
-####KODIPROP:inputstream.adaptive.license_type=clearkey
-####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lhx3Q44RHyCr09uW+Izf0g", "kid":"eUhI2HjhD6sgkFnA5pQgEA" } ], "type":"temporary" }
-####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-####https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
+###EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 KITA
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lhx3Q44RHyCr09uW+Izf0g", "kid":"eUhI2HjhD6sgkFnA5pQgEA" } ], "type":"temporary" }
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
 ###EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LOL.png" group-title="Astro" group-logo="https://i.ibb.co/tB2KhxS/Astro-Logo.png",100 LOL 
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -104,7 +104,6 @@ https://5centscdn-sge1.mobileads.cloud/tokens/citra/2411231/index.m3u8?referer=h
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash2.mpd?channel=astrorania&username=vip_level7&password=vip_level7
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/39.ts
 https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=rania
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
@@ -119,7 +118,6 @@ https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&chann
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash2.mpd?channel=astroaura&username=vip_level7&password=vip_level7
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/38.ts
 https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=aura
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
@@ -277,80 +275,95 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 
 ###############################################################MY Freeview#############################################################
 
-#EXTINF:-1 group-title="MY Freeview" group-logo="https://iconape.com/wp-content/png_logo_vector/myfreeview-logo.png" tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png",TV1
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV1.my" group-title="MY Freeview" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-logo="https://iconape.com/wp-content/png_logo_vector/myfreeview-logo.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 group-title="MY Freeview" tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png",TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MY Freeview" tvg-id="TV2.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 group-title="MY Freeview" tvg-id="TV3.my"  tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 group-title="MY Freeview" tvg-id="TV3.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTINF:-1 group-title="MY Freeview" tvg-id="OKEY" tvg-name="OKEY.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png",TV Okey
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 group-title="MY Freeview" tvg-id="TVIKIM.my" tvg-logo="https://i.ibb.co/Y426PJ6h/output-onlinepngtools.png",TV Ikim
+https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509" group-title="MY Freeview",Enjoy TV5
+https://get.perfecttv.net/mytv.m3u8?channel=tv5
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TV6.my" tvg-name="TV6" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png",TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="MY Freeview" tvg-id="DidikTVKPM.my" tvg-name="DidikTv KPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTv KPM
+#EXTINF:-1 group-title="MY Freeview" tvg-id="DidikTVKPM.my" tvg-logo="https://didik.tv/images/logotv2.png",DidikTv KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 ###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
 
-#EXTINF:-1 group-title="MY Freeview" tvg-id="8TV.my" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+#EXTINF:-1 group-title="MY Freeview" tvg-id="8TV.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
 ###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 group-title="MY Freeview" tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
+#EXTINF:-1 group-title="MY Freeview" tvg-id="TV9.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
 ###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Awesome" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png" group-title="MY Freeview",Awesome TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 group-title="MY Freeview" tvg-id="BeritaRTM.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/Berita_Trans.png",BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 group-title="MY Freeview" tvg-id="SukanRTM.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="RTM Asean" group-title="MY Freeview" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Rakyat.my" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png ",Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Negara.my" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png" group-title="MY Freeview",Awesome TV
 http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 
-#EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="MY Freeview",Degup
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.api.tm.quickplay.com/getlicense?service=tm&version=1.0&kid=A1623B76-6E4B-48EB-88CE-A29E1C309CC7&ptoken=eyJjb250ZW50SWQiOiJBMTYyM0I3Ni02RTRCLTQ4RUItODhDRS1BMjlFMUMzMDlDQzciLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc2MDU1MzU4MTE2MSwiZW50aXRsZWRDb250ZW50SWRzIjoiUVRFMk1qTkNOell0TmtVMFFpMDBPRVZDTFRnNFEwVXRRVEk1UlRGRE16QTVRME0zIiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiM2Q1Zjg4NzY4ODA3ODZkMDY1ODFkOWRjOWFlNjIzMGMyZTA2OWUxN2YwODZkMDhkMWUyYWRmNGE5MzQ4M2RiNSIsInVuaXF1ZUlkIjoiMTU0YjI1NTEtYmVkYy00MDRhLTlkM2EtYTI1NzExZGMyNDQ4IiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTc2MDUxMDQ0MTE2MSwiY3JlYXRlZFRpbWUiOjE3NjA1MTAzODExNjEsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="MY Freeview",Degup
 https://get.perfecttv.net/degup/degup.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
-
-#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYSOLQOgbI4n1zTkrDXpjXVVDFlPekG_cFNsXdrlK4A&s=10" group-title="MY Freeview",Drama Sangat
-
-#EXTINF:-1 tvg-id="" tvg-name="Selangor TV" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="MY Freeview",Selangor TV
-
-#EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MY Freeview",Suke TV
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/npdqkp.png" group-title="MY Freeview",Borneo TV
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509" group-title="MY Freeview",Enjoy TV5
-https://get.perfecttv.net/mytv.m3u8?channel=tv5
-
-#EXTINF:-1 group-title="MY Freeview" tvg-id="BeritaRTM.my" tvg-name="BERITA RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest/scale-to-width-down/250?cb=20210504031757",BERITA RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
-
-#EXTINF:-1 group-title="MY Freeview" tvg-id="SukanRTM.my" tvg-name="SUKAN RTM" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png",SUKAN RTM
-https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
-
-#EXTINF:-1 group-title="MY Freeview" tvg-id="TVIKIM.my" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://i.ibb.co/Y426PJ6h/output-onlinepngtools.png",TV Ikim
-https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
-
-#EXTINF:-1 group-title="MY Freeview" tvg-id="AstroAwani.my" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",Astro Awani
-https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
-
-#EXTINF:-1 tvg-id="RTM Asean" group-title="MY Freeview" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM Asean
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Rakyat.my" tvg-name="Dewan Rakyat" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png ",Dewan Rakyat
-https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
-
-#EXTINF:-1 group-title="MY Freeview" tvg-id="Dewan Negara.my" tvg-name="Dewan Negara" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",Dewan Negara
-https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -363,6 +376,16 @@ https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="RockAction.id" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="MY Freeview",Rock Action
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction.my
+
+
+#EXTINF:-1 tvg-id="DramaSangat.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYSOLQOgbI4n1zTkrDXpjXVVDFlPekG_cFNsXdrlK4A&s=10" group-title="MY Freeview",Drama Sangat
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="MY Freeview",Selangor TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MY Freeview",Suke TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/npdqkp.png" group-title="MY Freeview",Borneo TV
+
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="MY Freeview",RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
@@ -385,20 +408,32 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="MY Freeview",RTM Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
-###EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="MY Freeview",RTB Sukmaindera
-###https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MY Freeview" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/badmintonTerbukaMalaysiadua.jpeg",Badminton Terbuka Malaysia Saluran 1
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
 
-###EXTINF:-1 tvg-id="" tvg-name="RTB Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="MY Freeview",RTB Aneka
-###https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MY Freeview" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/badmintonTerbukaMalaysia.jpeg",Badminton Terbuka Malaysia Saluran 2
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
 
 
 ###############################################################Unifi TV################################################################
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="101.unifi" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-title="Unifi TV" group-logo="https://playtv.unifi.com.my/EPG/WEBTV/assets/images/unifi_logo_white.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV1)/master.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="102.unifi" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-title="Unifi TV",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV2)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -425,10 +460,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
-###KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
 #EXTINF:-1 tvg-id="109.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-title="Unifi TV",TV9
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV9)/master.mpd
-https://unifi-live27.secureswiftcontent.com/UnifiHD/live09.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -440,10 +473,8 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-#EXTINF:-1 tvg-id="114.unifi" ch-number="114" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="Unifi TV",TV AlHijrah HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=f3665ce09fcb49229602d45d1d5be4d4:eb122760bbad018974689ce1372bce26
+#EXTINF:-1 tvg-id="114.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="Unifi TV",TV AlHijrah 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TVAL)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -477,10 +508,9 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
-#EXTINF:-1 tvg-id="122.unifi" ch-number="122" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png" group-title="Unifi TV",TVS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=fe6c43961ea8401e8e8bc211b1197961:b9ce7dc616a3987e2b8900ce44735b07
+#EXTINF:-1 tvg-id="122.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png" group-title="Unifi TV",TVS
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TVS)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -599,10 +629,8 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/ma
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
-#EXTINF:-1 tvg-id="407.unifi" ch-number="407" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202110/20211002/202110020531032952nt.png" group-title="Unifi TV",Hits Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=74ecb929cd504143bb68bd0e7cac6f4e:b71cfa4590853ea63014e128ecdb4fbe
+#EXTINF:-1 tvg-id="407.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202110/20211002/202110020531032952nt.png" group-title="Unifi TV",Hits Movies
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsM)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -671,16 +699,85 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Dreamworks)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3189457b38b4ed9888c5a2e763f0ab8:d4dc62e11dd1856ed4f9a26d44271d0b
+#EXTINF:-1 tvg-id="551.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202305/20230501/20230501030506432ny5.png" group-title="Unifi TV",Moonbug 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Moonbug)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe60385da93e48cda9dce2c686862462:8e7c6f6beb074f153da1b00c3cf95908
+#EXTINF:-1 tvg-id="552.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202402/20240215/202402150918186623m3.png" group-title="Unifi TV",Nick Jr. 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickjr)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+#EXTINF:-1 tvg-id="554.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202307/20230731/20230731161309802h25.png" group-title="Unifi TV",Nickelodeon 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2da2675c6da34253b376318ef350cf19:688c0015a6b4863f0663f25f42036800
+#EXTINF:-1 tvg-id="556.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202307/20230714/2023071408091010586q.png" group-title="Unifi TV",Cartoon Network 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CartoonNet)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="633.unifi" ch-number="633" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202208/20220810/20220810211708829sbp.png" group-title="Unifi TV",Parlimen Malaysia
+#EXTINF:-1 tvg-id="633.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202208/20220810/20220810211708829sbp.png" group-title="Unifi TV",Parlimen Malaysia
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(parlimen)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
-#EXTINF:-1 tvg-id="701.unifi" ch-number="701" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="Unifi TV",Unifi Sports
+#EXTINF:-1 tvg-id="701.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="Unifi TV",Unifi Sports
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
+#EXTINF:-1 tvg-id="706.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210930/20210930184212950ddn.png" group-title="Unifi TV",Spotv
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
+#EXTINF:-1 tvg-id="707.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-title="Unifi TV",Spotv 2
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV2)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+#EXTINF:-1 tvg-id="708.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202409/20240930/20240930160227557ix6.png" group-title="Unifi TV",beIN Sport 1
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+#EXTINF:-1 tvg-id="709.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202212/20221221/20221221082841690jit.png" group-title="Unifi TV",beIN Sport 2
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+#EXTINF:-1 tvg-id="710.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202204/20220422/202204220814593293cl.png" group-title="Unifi TV",beIN Sport 3
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="711.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202208/20220812/20220812083713068j19.png" group-title="Unifi TV",beIN Sport 4
 
 
 #################################################################Indian#################################################################
