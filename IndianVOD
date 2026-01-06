@@ -284,6 +284,7 @@ https://cloud.hownetwork.xyz/xxx/cea2f48704e5ca5c641a272fef6137cc/21/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2NTAyNTMyMDdeQTJeQWpwZ15BbWU3MDEyMTY1ODU@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Singham (2011)
+https://pixeldrain.com/api/file/Bg5Bca4W
 https://cloud.hownetwork.xyz/xxx/5f9be2a5a3bc51a444db8fe92ed6d71b/4/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -1380,8 +1381,6 @@ https://cloud.hownetwork.xyz/xxx/dd5798c783dfeb5f75b1ccf25462629f/11/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="1529-Bagheera (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sx9vGOozrntDzlZnePoHitJakZ.jpg" group-title="▶ VOD INDIA",1529-Bagheera (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1601-Singham Again (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JbNkHg8m7LaBy61LyrnnlenaxY.jpg" group-title="▶ VOD INDIA",1601-Singham Again (2024)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4213.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1416-Darlings (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyA7kXCIAG17hVuvFOxlMmmv31A.jpg" group-title="▶ VOD INDIA",1416-Darlings (2022)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4507.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1418-Mandela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9A7nv8ac8VrXDt6tgu4UXi2zAq.jpg" group-title="▶ VOD INDIA",1418-Mandela (2021)
