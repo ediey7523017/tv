@@ -5,6 +5,12 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg0Y2UxYTUtMDE5My00M2VkLWE1Y2QtZmM0ZDQ3M2JjMDZlXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",Sewu Dino (2023)
+https://s3-hls1-cdn60.strmupcdn.cc/hls/9FDu1GsIUMoSlDJ2V8nZrMeITZYjDn/index_1584x720.m3u8?token=8a1de7a105a42f35ce617c6c1f02a4c1-1767696760-2402%3A1980%3A8848%3A2d39%3Ac828%3A8c9d%3A9298%3A3b07-e3c956e4db3221ba7464a7d0c0f2dd1259616316f0e23f591159dea6b62c6863
+https://movuna.xyz/hls/a06df8235e66407d-cff25a5b537f048f9bf74ce6-f86a739ab97fd4c6f5751e143e63a73207b79c88dc25ed8bd3cb7b0e0d62ca74b3416cc7326403f4b3c6e57c5d/360.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY3MTA3ZTctNWI1OS00MzYxLTg0OWUtM2M0YTQ4N2M0MmMzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN MIX",La Tahzan (2025)
 https://minochinos.com/stream/FEy3JVbZpkP208IBw_WO1Q/hjkrhuihghfvu/1767718394/35743993/index-v1-a1.m3u8
 
