@@ -447,14 +447,14 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 #EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-title="Unifi TV", DIDIK TV KPM
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Didik)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
 #EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-title="Unifi TV",8TV
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -468,7 +468,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV9)/master
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
 #EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="Unifi TV",Salam
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Salam)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -489,7 +489,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Sensasi)/ma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
 #EXTINF:-1 tvg-id="118.unifi" ch-number="118" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-title="Unifi TV",Inspirasi
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Inspirasi)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -503,7 +503,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DEGUP)/mast
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="Unifi TV",Siar
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Siar)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
