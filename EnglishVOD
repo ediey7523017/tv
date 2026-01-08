@@ -3,6 +3,12 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU2MzYwNzctZjJlYi00OGNmLWE0NGEtOWFmNDdjMWRhMzcyXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",The Smashing Machine (2025)
+https://cloud.secure-storage.top:8080/d/jmdiljqoiybu2djuem53ikfwsf5ranw7gx7uqq7xrkev47qyhvwmeo4ug44e7tatlhdrltku/The.Smashing.Machine.2025.720p.WEB-DL.MalaySub.mp4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJkZjYzMGQtNmZhZi00NTBiLTljMTgtZGU2YzUxZmE4ZGJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Tiger (2025)
