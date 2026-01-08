@@ -766,7 +766,6 @@ https://www.dropbox.com/scl/fi/cwpikzzdv7du3dczkq1y3/Kaho-Naa...-Pyaar-Hai-2000.
 
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU0NmEyM2UtNWZiNy00MDM1LTgxZWQtMDE0M2ZjMzQxM2U5XkEyXkFqcGc@._V1_.jpg"  group-title="▶ VOD BOLLYWOOD",Mann (1999)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Mann.mp4
-https://www.dropbox.com/scl/fi/adbfqijnwnhq6549ad5fm/Mann-1999.mp4?rlkey=khdtdbg4fbzlpd56n6tmyr7tl&st=3930cqmt&dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
@@ -969,7 +968,8 @@ https://cloud.hownetwork.xyz/xxx/ac0160e1de56d9c4c7dc002e093fca93/5/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA1YTcyZTctZjc0Ni00NWNjLWJjZDEtYTJkZTA0MDkyZGVlXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Mujhse Dosti Karoge! (2002)
-https://cloud.hownetwork.xyz/xxx/cf0713db9ed3ef41ffac8a27e18ef389/5/480.m3u8
+###https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Mujhse%20Dosti%20Karoge!.mp4
+###https://cloud.hownetwork.xyz/xxx/cf0713db9ed3ef41ffac8a27e18ef389/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
@@ -1223,10 +1223,6 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Dangal.mp4
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfXyALul2d5HvwTksusXg6EB6vBR5Jggx1KRP4g84Hn15g
 #EXTINF:-1 type="movie"  group-title="▶ VOD BOLLYWOOD" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/617.jpg", Dilwale Dulhania Le Jayenge
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Dilwale%20Dulhania%20Le%20Jayenge.mp4
-#EXTINF:-1 type="movie"  group-title="▶ VOD BOLLYWOOD" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/821.jpg", Mann
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Mann.mp4
-#EXTINF:-1 type="movie"  group-title="▶ VOD BOLLYWOOD" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/4036.jpg", Mujhse Dosti Karoge!
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Mujhse%20Dosti%20Karoge!.mp4
 #EXTINF:-1 type="movie"  group-title="▶ VOD BOLLYWOOD" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1546.jpg", Mujhse Shaadi Karogi
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Mujhse%20Shaadi%20Karogi.mp4
 #EXTINF:-1 type="movie"  group-title="▶ VOD BOLLYWOOD" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/489.jpg", Har Dil Jo Pyar Karega
