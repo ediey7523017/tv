@@ -327,7 +327,10 @@ https://cloud.hownetwork.xyz/xxx/d4a543ff57f0d80ba5a65299851af8b3/31/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWI1ZDY1YTQtMjRkNy00ZDZhLWE3OTItMTIwNzliY2Y1MTZhXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Transformers One (2024)
 https://cloud.hownetwork.xyz/xxx/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA2NmEwZGQtNWI1Ni00MTEyLTlkZDUtZDc5ZTJiOGYyNDQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Dragon Ball Super: Super Hero (2022)
+https://cloud.hownetwork.xyz/xxx/Jhc7LyIWGWwgPgU5bkMjKCNVOjs1GFopKyMYYXEAZGpvOiU7FxgOHhoORHt0AW5pdhw/34/480.m3u8
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3868.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
