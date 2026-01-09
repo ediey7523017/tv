@@ -75,8 +75,8 @@ https://hls.khflix.top/Tuli/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",Lagusan
 https://hls.khflix.top/Lagusan/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",One Night Hug
-https://hls.khflix.top/One.Night.Hug/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",One Last Hug
+https://hls.khflix.top/One.Last.Hug/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",Habang Buhay
 https://hls.khflix.top/Habang.Buhay/index.m3u8
