@@ -1,112 +1,416 @@
 #EXTM3U url=""
 
-###################################################################▶ DORAEMON###################################################
+###################################################################▶ VOD KIDS###################################################
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc2ZGZlZmMtMjZhOC00YWI0LWIxYzQtZWRmODNhZGJhYjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Stand by Me Doraemon 2 (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc2ZGZlZmMtMjZhOC00YWI0LWIxYzQtZWRmODNhZGJhYjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Stand by Me Doraemon 2 (2020)
 https://www.dropbox.com/scl/fi/f4eiw6ockdrhn64ycfl95/Stand.by.Me.Doraemon.2.2020.720p.BR.MalayDUB.MSM.mp4?rlkey=at5y80s0senyd0ihhm45qpy43&st=0r7ugioc&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM2NmNiZWYtMGRlYy00NGM4LTliZGUtMzE1ZWZmMTllMjUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Stand by Me Doraemon (2014)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM2NmNiZWYtMGRlYy00NGM4LTliZGUtMzE1ZWZmMTllMjUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Stand by Me Doraemon (2014)
 https://www.dropbox.com/scl/fi/fapu5n1c7y4tg390nhn44/Stand.by.Me.Doraemon.2014.720p.BR.MalayDUB.MSM.mp4?rlkey=f8aa3bqwj5s42ou2hzvfia1pz&st=m7jvr2o4&dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the New Castle of the Undersea Devil (2026)
-
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita and the New Castle of the Undersea Devil (2026)
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://www.gscmovies.com.my/wp-content/uploads/2025/06/6.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Art World Tales (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://www.gscmovies.com.my/wp-content/uploads/2025/06/6.jpg" group-title="▶ VOD KIDS",Doraemon the Movie: Nobita's Art World Tales (2025)
 https://cloud.hownetwork.xyz/xxx/Jhc7LyAUGC9vPBg6KlV7Ni0aIDokClogMCVaOyxCOjxvDCgiIApac3JjQmEUdRQcDicREXdAQnhxZxUt/34/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://images.justwatch.com/poster/321402779/s718/eiga-doraemon-nobita-no-chikyu-symphony.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Earth Symphony (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://images.justwatch.com/poster/321402779/s718/eiga-doraemon-nobita-no-chikyu-symphony.jpg" group-title="▶ VOD KIDS",Doraemon the Movie: Nobita's Earth Symphony (2024)
 https://cloud.hownetwork.xyz/xxx/857247649006822bc67fce8a5e71d368/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU1ZGNkYzgtZTJhOC00ZjkyLTgzMWEtOTNiODMzODA3OTIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Sky Utopia (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU1ZGNkYzgtZTJhOC00ZjkyLTgzMWEtOTNiODMzODA3OTIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon the Movie: Nobita's Sky Utopia (2023)
 https://cloud.hownetwork.xyz/xxx/4b82837f3377e0156e0b80d82ea40cb5/20/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJiMDExMmEtMjliMC00ZDJhLWEyZGMtNDI2YjMzZDhkZWY0XkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Little Star Wars 2021 (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJiMDExMmEtMjliMC00ZDJhLWEyZGMtNDI2YjMzZDhkZWY0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Doraemon the Movie: Nobita's Little Star Wars 2021 (2022)
 https://cloud.hownetwork.xyz/xxx/04da22fc98450044e492a67be30377e8/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://i.pinimg.com/736x/a7/f2/94/a7f294bcaeab316ae250fc55aa4e2aea.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's New Dinosaur (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://i.pinimg.com/736x/a7/f2/94/a7f294bcaeab316ae250fc55aa4e2aea.jpg" group-title="▶ VOD KIDS",Doraemon the Movie: Nobita's New Dinosaur (2020)
 https://www.dropbox.com/scl/fi/wrs3tf2jio7kleb10wl9a/Doraemon-Nobita-s-New-Dinosaur-2020.mp4?rlkey=kc3rzkq34eb56b1ljwsocpj0r&st=6vy2h9yu&dl=1
 https://cloud.hownetwork.xyz/xxx/5203fabdb7fcf93fb39ca5d47ef42620/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE4NGIzMmQtOTcwZi00Mjk4LWFhM2ItMDE0NWU4ZDU3ZjVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita's Chronicle of the Moon Exploration (2019)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE4NGIzMmQtOTcwZi00Mjk4LWFhM2ItMDE0NWU4ZDU3ZjVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita's Chronicle of the Moon Exploration (2019)
 https://www.dropbox.com/scl/fi/a6hy4r1es8esd5g86nzqd/Doraemon.Movie.2019.720p.BR.MalayDub.ProAce.mp4?rlkey=kh6gmmq5ejh33qtpqzik3779x&st=xrrrsvqm&dl=1
 https://cloud.hownetwork.xyz/xxx/eb259cb3299b3471a6c02e139732e931/3/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17615942_v_v13_ac.jpg" group-title="▶ DORAEMON",Doraemon the Movie: Nobita's Treasure Island (2018)
+#EXTINF:-1 type="movie" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17615942_v_v13_ac.jpg" group-title="▶ VOD KIDS",Doraemon the Movie: Nobita's Treasure Island (2018)
 https://www.dropbox.com/scl/fi/xy60ct9rgoydivw2hgqye/Doraemon.Movie.2018.720p.BR.MalayDub.ProAce.mp4?rlkey=2lnipvayfo8tmtfqzb4ou6f4n&st=ko1n9lbe&dl=1
 https://cloud.hownetwork.xyz/xxx/667ef0396980524a5d016bcd616634df/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjEzYWI5MjQtOTc3OS00MGZhLTk4YTQtZjUzNWQ2MGZjZGQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Great Adventure in the Antarctic Kachi Kochi (2017)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjEzYWI5MjQtOTc3OS00MGZhLTk4YTQtZjUzNWQ2MGZjZGQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Great Adventure in the Antarctic Kachi Kochi (2017)
 https://www.dropbox.com/scl/fi/h0wp81bgj4uzm7vkxsb1j/Doraemon.Movie.2017.720p.BR.MalayDub.ProAce.mp4?rlkey=qjwemlff939hzrmztvdmi4tto&st=6mjiix81&dl=1
 https://cloud.hownetwork.xyz/xxx/dfd1fa4ddc53f29b8839c2758779201a/5/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjRhYjRhYTktOGNlNS00ZmM4LWFiNmItZDZlN2QxNGU4NzBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Birth of Japan (2016)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjRhYjRhYTktOGNlNS00ZmM4LWFiNmItZDZlN2QxNGU4NzBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita and the Birth of Japan (2016)
 https://www.dropbox.com/scl/fi/6en57457jsxukkme8hb17/Doraemon.Movie.2016.720p.BR.MalayDub.MSM.mp4?rlkey=4phl7cl40vmbpkujxybtarcto&st=9arv72bp&dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZhOTg4YzEtYTYxNi00ZTA3LWFiZWUtN2I0ZDE0MDBlNDUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Space Heroes (2015)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZhOTg4YzEtYTYxNi00ZTA3LWFiZWUtN2I0ZDE0MDBlNDUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita and the Space Heroes (2015)
 https://www.dropbox.com/scl/fi/343hqmdrggob6ltfyp2t1/Doraemon.Movie.2015.720p.BR.MalayDub.ProAce.mp4?rlkey=c3tlgd077y7ir8vmv5bhq4pt6&st=s3v5k89t&dl=1
 https://cloud.hownetwork.xyz/xxx/ccefcb2175af9d5e11e38fc82afe1278/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/21bfa696bb863589a50146a6f5d640cf8d0b05ea5da1ef0a31cf57eb2bc1429b.jpg" group-title="▶ DORAEMON",Doraemon: New Nobita's Great Demon-Peko and the Exploration Party of Five (2014)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/21bfa696bb863589a50146a6f5d640cf8d0b05ea5da1ef0a31cf57eb2bc1429b.jpg" group-title="▶ VOD KIDS",Doraemon: New Nobita's Great Demon-Peko and the Exploration Party of Five (2014)
 https://cloud.hownetwork.xyz/xxx/b3c986150fce219755a28bfadeba2113/5/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE5ZTAzZjUtYWViMy00MDQ3LThiOTUtYjhhODAwZjI5ZWZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita's Secret Gadget Museum (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE5ZTAzZjUtYWViMy00MDQ3LThiOTUtYjhhODAwZjI5ZWZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita's Secret Gadget Museum (2013)
 https://www.dropbox.com/scl/fi/t1xidof2u1wkdlqle7mxf/Doraemon.Movie.2013.720p.BR.MalayDUB.ProAce.mp4?rlkey=r8rtywtj83noupve00p6ehnn9&st=3sd9p32c&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VkOTJlMmYtMDdiNC00YWI2LTkwY2QtMzAzZjAwZjA5OWI3XkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Island of Miracles Animal Adventure (2012)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VkOTJlMmYtMDdiNC00YWI2LTkwY2QtMzAzZjAwZjA5OWI3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita and the Island of Miracles Animal Adventure (2012)
 https://www.dropbox.com/scl/fi/0vdmhd4cs2v25c16m5pv1/Doraemon.Movie.2012.720p.BR.MalayDUB.ProAce.mp4?rlkey=d83r25gyiaknef28v5sd87vm4&st=3asui9is&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTEzMjI4YmMtNzU1Ny00NWM2LWI1N2QtOTA2NjlkMGVhNjk1XkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the New Steel Troops Winged Angels (2011)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTEzMjI4YmMtNzU1Ny00NWM2LWI1N2QtOTA2NjlkMGVhNjk1XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita and the New Steel Troops Winged Angels (2011)
 https://www.dropbox.com/scl/fi/jjmlxablldpofdbbeby51/Doraemon.Movie.2011.720p.BR.MalayDUB.ProAce.mp4?rlkey=lh1dabcp5fo9bohsw9i5wilsj&st=qjqbeu2d&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThhYTQ2MGEtMDJmOS00OGZjLWJiZDgtMjVkNmI5YWM4ZTdjXkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita's Great Battle of the Mermaid King (2010)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThhYTQ2MGEtMDJmOS00OGZjLWJiZDgtMjVkNmI5YWM4ZTdjXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita's Great Battle of the Mermaid King (2010)
 https://www.dropbox.com/scl/fi/oykqy8g1x4x3o9o8qpqai/Doraemon.Movie.2010.720p.BR.MalayDUB.ProAce.mp4?rlkey=ksgyb88kvodhb2u86nl73v0nu&st=lsa399de&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRjMzdjYjYtNmFiYy00OTMwLTg2NDctNjUyYWY0N2ZjNzEwXkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: The New Record of Nobita's Spaceblazer (2009)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRjMzdjYjYtNmFiYy00OTMwLTg2NDctNjUyYWY0N2ZjNzEwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Doraemon: The New Record of Nobita's Spaceblazer (2009)
 https://www.dropbox.com/scl/fi/vipne3sawc0w46iy1eyxb/Doraemon.Movie.2009.720p.BR.MalayDUB.ProAce.mp4?rlkey=vhreq55kbgtaoczj57c6y532c&st=rtb4omqd&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ1Y2JiMDAtNTI2MS00NWIzLTk1YjQtMjIzOGI3Y2E4NWYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Green Giant Legend (2008)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ1Y2JiMDAtNTI2MS00NWIzLTk1YjQtMjIzOGI3Y2E4NWYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita and the Green Giant Legend (2008)
 https://www.dropbox.com/scl/fi/vy89wsz9dcc86t8e18jxj/Doraemon.Movie.2008.720p.BR.MalayDUB.ProAce.mp4?rlkey=i56vseigsw5hhklgph9xdziz7&st=m4azkcau&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM2ZjM4MDMtNmM4NS00MTA5LWJkZTMtMzYyOGI1Nzc1NmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita's New Great Adventure into the Underworld (2007)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM2ZjM4MDMtNmM4NS00MTA5LWJkZTMtMzYyOGI1Nzc1NmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita's New Great Adventure into the Underworld (2007)
 https://www.dropbox.com/scl/fi/nx90oi3poqtn8gjs1a62b/Doraemon.Movie.2007.720p.BR.MalayDUB.ProAce.mp4?rlkey=edbxpm0edybvvqi5nt08gpj23&st=0cd4zr8j&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyODE2OGQtNWE1MC00OTQ2LWE4NzAtY2M3ZTAzM2E5MzEyXkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita's Dinosaur (2006)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyODE2OGQtNWE1MC00OTQ2LWE4NzAtY2M3ZTAzM2E5MzEyXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita's Dinosaur (2006)
 https://www.dropbox.com/scl/fi/9pdgzm61t7h7wkdt27xda/Doraemon.Movie.2006.720p.BR.MalayDUB.ProAce.mp4?rlkey=qiyavsgzuw6lawpawtfwqetll&st=nzqu9qhk&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzNWNkNDktYzRkMi00NTQwLWE1NjUtNTA3Njg2NDkxMTA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzNWNkNDktYzRkMi00NTQwLWE1NjUtNTA3Njg2NDkxMTA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
 https://www.dropbox.com/scl/fi/o1ya9d7x1zkhw40up5uxi/Doraemon.Movie.2004.720p.WEB.MalayDub.ProAce.mp4?rlkey=rqkea9hfryupbn8ldh9gvaqgs&st=1ey6mgb0&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UwNWMxNjctNjUyNi00ZmRjLTg3NGEtNWQzMGVkOWJmMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Windmasters (2003)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UwNWMxNjctNjUyNi00ZmRjLTg3NGEtNWQzMGVkOWJmMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita and the Windmasters (2003)
 https://www.dropbox.com/scl/fi/do87ihaabsrnq4qhez84t/Doraemon.Movie.2003.720p.WEB.MalayDub.ProAce.mp4?rlkey=sx6lrdccf8ywbfv0fzrvap1j0&st=uod8njsw&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYxOWQ2ZjQtYWI3MC00OGVjLWFkMDgtZDJmNTkyOGExM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita in the Robot Kingdom (2002)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYxOWQ2ZjQtYWI3MC00OGVjLWFkMDgtZDJmNTkyOGExM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita in the Robot Kingdom (2002)
 https://www.dropbox.com/scl/fi/1rx8lslbe5gkoeavv73f2/Doraemon.Movie.2002.720p.WEB.MalayDub.ProAce.mp4?rlkey=jefcu1hs0fotv4a2a1g5tn3md&st=04ofx7ks&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZhYmE0NWQtNWUyNy00MzA3LWI4MzEtZGYxNTY5N2Q1MDgzXkEyXkFqcGc@._V1_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Winged Braves (2001)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZhYmE0NWQtNWUyNy00MzA3LWI4MzEtZGYxNTY5N2Q1MDgzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita and the Winged Braves (2001)
 https://www.dropbox.com/scl/fi/9n40qaiyvrp07o6a1kf8m/Doraemon.Movie.2001.720p.HDTV.MalayDub.ProAce.mp4?rlkey=687hotbfdxtmhg3gbrjfap7lf&st=iash67yn&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU3MTFhZDgtODc3Yy00OTA2LWI5MzYtYTlmM2JmMTJhOGRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ DORAEMON",Doraemon: Nobita and the Legend of the Sun King (2000)
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU3MTFhZDgtODc3Yy00OTA2LWI5MzYtYTlmM2JmMTJhOGRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita and the Legend of the Sun King (2000)
 https://www.dropbox.com/scl/fi/ofvo8zr9fg3eg3yjlc60k/Doraemon-Nobita-and-the-Legend-of-the-Sun-King-2000.mp4?rlkey=gdj1xs24i50d0meqt8ieb75cc&st=aispfwwl&dl=1
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Zootopia 2 (2025)
+https://cloud.hownetwork.xyz/xxx/OBcmOioJHiBvY1p-cwJjdRU9CwoJJi8edjRBKCdVZGE/38/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_.jpg" group-title="▶ VOD KIDS",Zootopia (2016)
+https://cloud.hownetwork.xyz/xxx/6b4be59dbc79fe2abf327d20ea519c4f/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Moana 2 (2024)
+https://cloud.hownetwork.xyz/xxx/737fad4b7579c10ed6eba780fd51b704/25/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Moana (2016)
+https://cloud.hownetwork.xyz/xxx/b3a0c2018e00e7bfafdba2b60716fd2a/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon (2010)
+https://www.dropbox.com/scl/fi/fyrvwmkmqd3xzah3kmmar/How.to.Train.Your.Dragon.2010.720p.BR.MalayDub.MSM.mp4.mp4?rlkey=8pp3v3y5jfz8xt0yqtaqhrzah&st=lsmayces&dl=1
+https://cloud.hownetwork.xyz/xxx/8be6aff4755f79a2e3723cd26445d40a/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon 2 (2014)
+https://www.dropbox.com/scl/fi/ngno8tm4e8y6g2q6iiqg9/How.to.Train.Your.Dragon.2.2014.720p.BR.MalayDub.MSM.mp4.mp4?rlkey=ore2ztit03djt4b1z23zw1osb&st=donq217o&dl=1
+https://cloud.hownetwork.xyz/xxx/26b0d143dd4020952057ef5d734c7339/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon 3 The Hidden World (2019)
+https://www.dropbox.com/scl/fi/pkzygwc0op207e6tw6afj/How_to_Train_Your_Dragon_The_Hidden_World_2019_720p_BR_MalayDub.mp4?rlkey=cn3tro49hj28rifecnxa5n9xb&st=t5yksjf9&dl=1
+https://cloud.hownetwork.xyz/xxx/3cfebae4141f810e47e72608c2828929/5/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU4ZjZjYmEtY2I0My00MzQ3LThkNmUtODc5ZDQ0NjUyY2QxXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Kung Fu Panda (2008)
+https://www.dropbox.com/scl/fi/ho3prc8jqkj0fuxs6w79x/Kung.Fu.Panda.2008.720p.BluRay.MalayDub.ProAce.mp4?rlkey=efprgpkbqtg6yykchk5qvqlqs&st=efaq7z2h&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmIxMGYzMTUtZDQzYy00ODc4LWE1YzQtZGMwYTc0YTYyYTE0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 2 (2011)
+https://www.dropbox.com/scl/fi/dzndwmz3eb5ltbhib458i/Kung.Fu.Panda.2.2011.720p.BluRay.MalayDub.ProAce.mp4?rlkey=cxdz0frjrsj2aadfpbv4jdpyk&st=f8sll2qm&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 3 (2016)
+https://www.dropbox.com/scl/fi/h00osruz0hfyutmh28fut/Kung.Fu.Panda.3.2016.720p.BluRay.MalayDub.ProAce.mp4?rlkey=r4qq60a31o69hj4n392qx0sei&st=noyypwqs&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjlmYmVmYzEtMjM2Zi00YTcwLThhOWEtZDM4OTZjY2FkYzRiXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 4 (2024)
+https://www.dropbox.com/scl/fi/dmn20cowy10769basmjmp/Kung.Fu.Panda.4.2024.720p.BluRay.MalayDub.MSM.mp4?rlkey=umvu8rnn6hm2zbonws7ddi5ge&st=72rz5t56&dl=1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg2Yjc5MzItNzVmMi00MTllLWI2MDQtOTYyOWNjYWIxNzEzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Sonic the Hedgehog (2020)
+https://cloud.hownetwork.xyz/xxx/2acd83d4777edc037887d542c2ff2e87/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBiYzk0YTMtNWRiYi00YWY0LWE3NjgtYmJiYTAwZmYzOTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Sonic the Hedgehog 2 (2022)
+https://cloud.hownetwork.xyz/xxx/f3b9e5770d07c302ea0485a9849998fb/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Sonic the Hedgehog 3 (2024)
+https://cloud.hownetwork.xyz/xxx/084a9c8e7a6f8af954c9e11672dfd98a/25/480.m3u8
+
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+###EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+###EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/7yicv34fs63590jku039b/1739668059352920604769934594726.png?rlkey=bo9fjd4x0m24sxi69vv9qfejh&st=fn0g55fp&dl=1" group-title="▶ VOD KIDS",Sonic the Hedgehog 3 (2024)
+###https://www.dropbox.com/scl/fi/mx6798cn5ukvww8n3pacn/sonic.mp4?rlkey=wsj6fowuec67ikbhbljky3a72&st=6e0ag9q8&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg" group-title="▶ VOD KIDS",The SpongeBob Movie: Sponge on the Run (2020)
+http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3869.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",KPop Demon Hunters (2025)
+https://www.dropbox.com/scl/fi/wwt7trkhdjb0b90k3kof7/KPop.Demon.Hunters.Sing-Along.2025.720p.WEB.MalayDUB.MSM.mp4.mp4?rlkey=ajzsybknl3wodf47s2ig2oqin&st=a65780jy&dl=1
+https://cloud.hownetwork.xyz/xxx/KQgmPmgdEiwtP1okNl4iPTALZHx1S0JsNTQVKC9vDgcnSystJEpDdA/33/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjhiNDkyODItZDc2Ni00YTcwLWFhMWMtZmRlYmQ5MDRmMmMyXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Ejen Ali The Movie 2 (2025)
+https://cloud.hownetwork.xyz/xxx/JxIsIGgYGyhvPBg6KlV7am9KeXxwVCAEABU7ExtvZG4hG3F6dEs/34/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUzMmFhM2YtYjk5Mi00NzBkLTg4NGEtYTFjY2EzYjk3MmMzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Ejen Ali The Movie (2019)
+https://cloud.hownetwork.xyz/xxx/763b45d006dc7b44ef2790960290589e/10/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",BoBoiBoy The Movie 2 (2019)
+https://cloud.hownetwork.xyz/xxx/2f5d81294fc6871fb0d3f8c717ad428a/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU4OGRhMDEtMzNlNi00ZDI2LTkyOWQtNzE4YTg0YzU1MGYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",BoBoiBoy The Movie (2016)
+https://cloud.hownetwork.xyz/xxx/5ee0f10b3629bb4ac370194cf5afa1fd/8/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcwYjE5NjktYjU4Yy00N2ZhLWEwNTEtNGMwZTQ1MTY3ZDE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Upin & Ipin: Keris Siamang Tunggal (2019)
+https://cloud.hownetwork.xyz/xxx/884f101338c14ce8ab81c9b70239ce48/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ5OWRkNjgtNmVmNi00NTVlLWJkYzQtMTkwMDA0Nzk5MzkzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Upin Dan Ipin : Jeng Jeng Jeng! (2016)
+https://cloud.hownetwork.xyz/xxx/4cefdc321f4ab3db463d3457d787dbea/8/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYyN2E0NjUtZDQ1Mi00YWJhLThhOWEtMTIxZWUwMjFhZTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Geng: Pengembaraan bermula (2009)
+https://cloud.hownetwork.xyz/xxx/8cc78d2ca714dea6eef3e11992687912/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg" group-title="▶ VOD KIDS",Despicable Me 4 (2024)
+https://cloud.hownetwork.xyz/xxx/5f8390a014e045f4457638c24aa9aec0/30/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Despicable Me 3 (2017)
+https://cloud.hownetwork.xyz/xxx/cd516d5d5c82a57a462a0093e1a4a75b/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQxNzY1MjI5NF5BMl5BanBnXkFtZTcwNTI0MDY1OQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Despicable Me 2 (2013)
+https://cloud.hownetwork.xyz/xxx/0a67f4edcd1345b019342bb1360e3786/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_.jpg" group-title="▶ VOD KIDS",Despicable Me (2010)
+https://cloud.hownetwork.xyz/xxx/0b98f04603a2e3a52a574efacc47f1ce/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODI4NzMyNjE0MF5BMl5BanBnXkFtZTgwMTcwNzI0MzE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Minions (2015)
+https://cloud.hownetwork.xyz/xxx/f3fdc74162669e75f5d5c69b18f27d2d/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTAzMTkyNmQtNTMzZS00MTM1LWI4YzEtMjVlYjU0ZWI5Y2IzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Minions: The Rise of Gru (2022)
+https://cloud.hownetwork.xyz/xxx/28ce35dca40e6342eed0871ef43c9557/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk2OTY1ZDgtZGRkMi00NGU1LTgzZjgtMmIyZTVkMTliNGEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Didi & Friends the Movie (2023)
+https://cloud.hownetwork.xyz/xxx/ebcf25ab99333040a5d8aaace232337d/10/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmJiYWY4NzgtYmE1OC00ZTgxLWFiZTEtNGVhMmE1Mjc1ZmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Mechamato Movie (2022)
+https://cloud.hownetwork.xyz/xxx/c4fc1e312abfa63eb58651d2afae3f3c/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJmNjA3NmEtZGZjNi00YzMzLWJmNGQtM2U0OThmMzZjNzVmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",BoBoiBoy The Movie (2016)
+https://cloud.hownetwork.xyz/xxx/5ee0f10b3629bb4ac370194cf5afa1fd/8/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",BoBoiBoy Movie 2 (2019)
+https://cloud.hownetwork.xyz/xxx/2f5d81294fc6871fb0d3f8c717ad428a/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI3ZjUyM2ItNmFjYy00NGE3LTg2OTYtMTI2MDk0MjIxNDA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Lightyear (2022)
+https://cloud.hownetwork.xyz/xxx/987b66aa473e5df49f7426c58c508f13/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWJjZTA3MzgtNTJjZC00YmNjLWFjZGYtYjVhYTkwNTgzMTRlXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",The Ice Age Adventures of Buck Wild (2022)
+https://cloud.hownetwork.xyz/xxx/e24f210c848e7ca895cb77ddeeaa3830/13/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUyNzIwNjQyNF5BMl5BanBnXkFtZTgwNTE1Mzk0NzE@._V1_.jpg" group-title="▶ VOD KIDS",Ice Age Collision Course (2016)
+https://cloud.hownetwork.xyz/xxx/eec1d25a5a0bd44fc41441ee02e2b249/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Ice Age Continental Drift (2012)
+https://cloud.hownetwork.xyz/xxx/eea80a931d95d314931bbf2b81c7e6d4/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJjZDYwMjgtZDZiMy00YzcyLThjN2YtYjI1ZDQ2ZDJkOTVmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Ice Age Dawn of the Dinosaurs (2009)
+https://cloud.hownetwork.xyz/xxx/abe4da0c563c1b505f49c3441a255810/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAwODg3OTAxMl5BMl5BanBnXkFtZTcwMjg2NjYyMw@@._V1_.jpg" group-title="▶ VOD KIDS",Ice Age The Meltdown (2006)
+https://cloud.hownetwork.xyz/xxx/de1ceef515d0b20f390b6d49366d51bc/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBlYzU2OGMtOGJjNi00ZGZjLWIwNjMtYzdiZjkwYWNjZDljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Ice Age (2002)
+https://cloud.hownetwork.xyz/xxx/ea61e28633a918f785bdd94d0a56c460/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",The Lion King (2019)
+https://cloud.hownetwork.xyz/xxx/335a66f2eb9b4813ffc60979c0a8e4e0/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjg1YzI5ZmQtZjZkOC00ZDMzLWI4YjYtMmY5MzZjYWE3YzhjXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Mufasa The Lion King (2024)
+https://cloud.hownetwork.xyz/xxx/5a21b06356d4ba4337dbdf276d7c8451/31/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIwMDE4YzktZjI3NS00NWQ0LWFkOTgtYmI2ODNjMTc0MzA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Dongeng Sang Kancil (2024)
+https://cloud.hownetwork.xyz/xxx/d4a543ff57f0d80ba5a65299851af8b3/31/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWI1ZDY1YTQtMjRkNy00ZDZhLWE3OTItMTIwNzliY2Y1MTZhXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Transformers One (2024)
+https://cloud.hownetwork.xyz/xxx/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA2NmEwZGQtNWI1Ni00MTEyLTlkZDUtZDc5ZTJiOGYyNDQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Dragon Ball Super: Super Hero (2022)
+http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3868.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Dragon Ball Super: Broly (2018)
+https://cloud.hownetwork.xyz/xxx/ba1c5059048498b9754b925ca5241081/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjViOWI4ZmMtYzI3Zi00ZDBhLWFiMTUtMTQyMzNlN2RjZWM1XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Dragon Ball Z: Resurrection 'F' (2015)
+https://cloud.hownetwork.xyz/xxx/JgooKSoXWiMjPRthOR0kPTENOzwgGgMoLT9aKm4CZml3VR4LBz07bHZpRxMbbyQ9NwglISQd/36/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzkxMzJlMTQtZjg2MS00YTVlLWIxZmQtNDUxNWUxMTgyZDU0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Dragon Ball Z: Battle of Gods (2013)
+https://cloud.hownetwork.xyz/xxx/JgooKSoXWiMjPRthOR00OTYMJStoFhFsJT4TP24CZmlxVR4LBz07bHZpRxMbbyQ9NwglISQd/36/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYyN2Q5NGQtYWI3OS00MDMxLTlhNTktNjBkOWIwMTIzNGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Hotel Transylvania 4: Transformania (2022)
+https://cloud.hownetwork.xyz/xxx/b3c453bc31de3ca613abf5cd1a7772f3/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU4MmE4MjEtOTU4NS00ZTZiLTg5NTYtNzE2ZWMyODcyYzFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Hotel Transylvania 3: Summer Vacation (2018)
+https://cloud.hownetwork.xyz/xxx/14ee649c8cdbe2ee8b4cb6faa273002e/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Hotel Transylvania 2 (2015)
+https://cloud.hownetwork.xyz/xxx/402c6a15f0163cde500205c0358448e4/25/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_.jpg" group-title="▶ VOD KIDS",Hotel Transylvania (2012)
+https://cloud.hownetwork.xyz/xxx/5f7733b2ec4e095802d8ddfec30f986e/3/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVkYzBjNTktYTIyYi00Mjg0LTg1ZDYtY2NmMWQwN2UzNTlkXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Frozen II (2019)
+https://cloud.hownetwork.xyz/xxx/bfeb92719e8cd21f9146586c43d191f8/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI3OTZjM2UtYzQ4My00NzhlLWE4MGMtNjMzNjQxNjNlZGJjXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Frozen (2013)
+https://cloud.hownetwork.xyz/xxx/138c940ac321f994f0e815f67b6b29c6/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU5ZjY0NDEtMGZmNi00MzQ5LWIzZDUtYzgyYzZjZmNmMWJjXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Night at the Museum: Kahmunrah Rises Again (2022)
+https://cloud.hownetwork.xyz/xxx/6eb9d824146ec147b582a68ed0cb03f9/13/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEyNzk2M2MtNjBhZS00MzYwLWI0Y2YtYjc5ZWE2MjM0YWE5XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Encanto (2021)
+https://cloud.hownetwork.xyz/xxx/00471f1a5e19f1bc0099474102321a6c/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWMyNGNlZTktODVkNS00ZmMyLTk0NmUtNWVjOWU1MWMzZGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Luca (2021)
+https://cloud.hownetwork.xyz/xxx/9b08def2cc562d20dde4101ac09a0d12/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2NjExYmUtZTQ4NS00NzM2LWE2NWYtZWY2NGIyOTBmNzI3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD KIDS",Turning Red
+https://cloud.hownetwork.xyz/xxx/319fc40b633f3a7a8e03f590fe49afdd/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2VlYWJjMGMtYjcwZC00MDE2LThmMDItYjVlMzNhYzBhYTk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Finding Dory (2016)
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD KIDS",Finding Nemo (2003)
+https://cloud.hownetwork.xyz/xxx/31329be07575faf58edb11eab828e411/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="htt" group-title="▶ VOD KIDS",
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="htt" group-title="▶ VOD KIDS",
 
