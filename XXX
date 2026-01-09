@@ -60,6 +60,33 @@ https://hls.khflix.top/Foreign-Exchange/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Iuihq4TWhEiCZXURNUhJFlpe0.jpg" group-title="XXX",Las Ilusyunadas (2025)
 https://videos.khflix.top/Las.Ilusyunadas.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",Broken Promises
+https://hls.khflix.top/Broken.Promises/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",Wind of Change
+https://hls.khflix.top/Wind.of.Change/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",Tahan Tahanan
+https://hls.khflix.top/Tahan.Tahanan/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",Tuli
+https://hls.khflix.top/Tuli/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",Lagusan
+https://hls.khflix.top/Lagusan/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",One Night Hug
+https://hls.khflix.top/One.Night.Hug/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",Habang Buhay
+https://hls.khflix.top/Habang.Buhay/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",Breast Friends Forever
+https://hls.khflix.top/Breast.Friends.Forever/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",Happy Ending
+https://hls.khflix.top/Happy.Ending/index.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",JUR-499
 https://surrit.com/ade634b8-1ddf-43d6-9df2-1d06c69e6a08/480p/video.m3u8
 
