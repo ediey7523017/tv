@@ -639,11 +639,6 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CartoonNet)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6349d2165514fa38fb6f1348679ba36:1db75d2e54ff52806d84af64499685ff
-#EXTINF:-1 tvg-id="TV1.unifi" tvg-logo="" group-title="Unifi TV",ABC Australia
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ABC)/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55da3b7a04b34d93a2ce0c4e3d33a6cd:57ace0638aef039c73f23056add87781
 #EXTINF:-1 tvg-id="611.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202209/20220913/202209131536473499qq.png" group-title="Unifi TV",CNA
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CAN)/master.mpd
@@ -662,6 +657,11 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bernama)/ma
 #KODIPROP:inputstream.adaptive.license_key=dce6cb3389014684b2abc82f6a478bff:086c0ad70d90bbd9e39478dd0c2460b0
 #EXTINF:-1 tvg-id="633.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202208/20220810/20220810211708829sbp.png" group-title="Unifi TV",Parlimen Malaysia
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(parlimen)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6349d2165514fa38fb6f1348679ba36:1db75d2e54ff52806d84af64499685ff
+#EXTINF:-1 tvg-id="641.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/2560px-ABC_Australia_logo.svg.png" group-title="Unifi TV",ABC Australia
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ABC)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68d2decb97b1437fb29922333892c2e8:1f326af1645f96c0993b142e57db9ab7
