@@ -530,7 +530,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CelestialC)
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="302.unifi" ch-number="302" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Zee_Thirai_2025.svg/2560px-Zee_Thirai_2025.svg.png" group-title="Unifi TV",Zee Thirai
+#EXTINF:-1 tvg-id="302.unifi" ch-number="302" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Zee_Thirai_%282025%29.svg/revision/latest/scale-to-width-down/250?cb=20250609120756" group-title="Unifi TV",Zee Thirai
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeThi)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
