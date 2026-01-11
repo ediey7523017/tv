@@ -1857,33 +1857,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #EXTINF:-1 tvg-id="509" group-title="IndihomeTV" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",ROCK Entertainment
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/thrill/manifest.mpd
-
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/axn/manifest.mpd
-
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kix.png",KIX
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/kix/manifest.mpd
-
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
-
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png",Cartoonito
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/boomerang/manifest.mpd
-
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png",Zee Bioskop
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/zbioskop/manifest.mpd
-
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvcompre.png",New TV Comprehensive
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvcomprehensive/manifest.mpd
-
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvfinance.png",New TV Finance
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvfinance/manifest.mpd
-
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvvariety.png",New TV Variety
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvvariety/manifest.mpd
-
 
 ##############################################################FirstMediaX###############################################################
 
