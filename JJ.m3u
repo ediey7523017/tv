@@ -56,9 +56,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-###https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
-###https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=ria
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/532.ts
+https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="104.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",104 Astro Ria HD
@@ -71,9 +69,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&chann
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-###https://get.perfecttv.net/dash2.mpd?channel=astroprima&username=vip_level7&password=vip_level7
-###https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=prima
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/33.ts
+https://get.perfecttv.net/dash2.mpd?channel=astroprima&username=vip_level7&password=vip_level7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima HD
@@ -106,9 +102,7 @@ https://get.perfecttv.net/citra/citra.mpd?username=vip_3klp0es8&password=wg3piwE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/39.ts
-###https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=rania
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 #EXTINF:-1 tvg-id="112.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -120,9 +114,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&chann
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/38.ts
-###https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=aura
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #EXTINF:-1 tvg-id="113.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1396,7 +1388,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-title="Variety",Warner TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1644,11 +1636,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="701.unifi" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="Sports",701 Unifi Sports
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 ###################################################################Astro Audio##########################################################
