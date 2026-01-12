@@ -295,11 +295,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98fa744c4eb3454d82ca441ac466838c:d0d44a311f8138d71523417038108512
-#KODIPROP:inputstream.adaptive.license_key=98fa744c4eb3454d82ca441ac466838c:b54e77412270e0d33dd386606470bbc4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509" group-title="MYTV Mana-Mana",Enjoy TV5
-https://live.mana2.my/Tv5/tracks-v2a1/mono.m3u8?token=1768214885
+https://live.mana2.my/Tv5/tracks-v2a1/mono.m3u8?token=1768226419-611dbe2b968745939e26cf457a9d47b0-0-db9958794b7eaf0a259b9deb0fa1ec64&auth_key=1768226419-611dbe2b968745939e26cf457a9d47b0-0-0b6f49c5edbcf027cba686b36808132a
 https://get.perfecttv.net/mytv.m3u8?channel=tv5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -376,23 +374,17 @@ https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="MYTV Mana-Mana",Selangor TV
-#KODIPROP:inputstream.adaptive.license_key=8731dafe96dc4727b010e3a08d154a64:d442a945d235d9c1d797c7c59fdbdd5d
-#KODIPROP:inputstream.adaptive.license_key=8731dafe96dc4727b010e3a08d154a64:382c76e213918aa57a126331e0f24e17
-https://live.mana2.my/SelangorTv/tracks-v3a1/mono.m3u8?token=1768215627
+https://live.mana2.my/SelangorTv/tracks-v3a1/mono.m3u8?token=1768226512-e8a40b849fa443f28343a15198eeb8dc-0-abfc4524b15be1b1eaf968ccd13dcbca&auth_key=1768226512-e8a40b849fa443f28343a15198eeb8dc-0-e7b8cfbe06c0e299cbf448acd79debcd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MYTV Mana-Mana",Suke TV
-#KODIPROP:inputstream.adaptive.license_key=5608b033285e4717942f7017e9e88b40:6b0df041abd567c24730a38f73e8a318
-#KODIPROP:inputstream.adaptive.license_key=5608b033285e4717942f7017e9e88b40:1d81c9292ee7aed3b9f96554494c31ed
-https://live.mana2.my/SukeTv/tracks-v2a1/mono.m3u8?token=1768215412
+https://live.mana2.my/SukeTv/tracks-v2a1/mono.m3u8?token=1768226583-c8cfa76b8cd240fca4758a1647a7fd93-0-f58eb7da3d452401fc8fc43aacc4e6e3&auth_key=1768226583-c8cfa76b8cd240fca4758a1647a7fd93-0-79adf1d7114c67eb20602abeba3a33a8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.usim.edu.my/wp-content/uploads/2016/04/USIMTV-LOGO.png" group-title="MYTV Mana-Mana",USIM TV
-#KODIPROP:inputstream.adaptive.license_key=e116fc1ce5104c7ab81b3d84af77e41d:dfa7f776bfbd17f7884ea474f6d93687
-#KODIPROP:inputstream.adaptive.license_key=e116fc1ce5104c7ab81b3d84af77e41d:65ef256bb11a2ccf1d4347eb01716109
-https://live.mana2.my/UsimTV/tracks-v3a1/mono.m3u8?token=1768215897
+https://live.mana2.my/UsimTV/tracks-v3a1/mono.m3u8?token=1768226642-e69732ae166d4524a63ce200c05abd90-0-ed0cc50d3e529e978d1055afe2aeef27&auth_key=1768226642-e69732ae166d4524a63ce200c05abd90-0-c9f612e1be3f87cc9069c9c4967c8c92
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
