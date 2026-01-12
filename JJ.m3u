@@ -283,7 +283,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MYTV Mana-Mana" tvg-id="TV3.my" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
-https://live-ssar-02.tonton.com.my/1768240515/0x3ae24973140fc6a24c18ed7035d0b3cb103e236fd5538a77c79a3f2d1b5ed81c/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10d3d45e73-c09a6bc1-799f-47ae-b0f9-81d74a71e91c&category=all&did=afa42b80-f215-4bbf-47f0-e794468a55b1&dnt=0&ifatype=sessionid&lot_auds=ca_1035,ca_897,ca_1101,ca_724,ca_288,ca_365,ca_394,all,ca_797,ca_305,ca_330,ca_290,ca_378,ca_730,ca_384,ca_803,ca_1034,ca_1056,ca_672,ca_775,ca_773,ca_1040,ca_420,ca_1096,ca_972,ca_364&mm_sp&plt=web&ttd_uid2=A4AAACZ9V4D6woZxl65ACSnz8dt-mWDx9HBBZUg4vNhr92raRoR6btZN9fd4VMKTZuAYA6qrMkeA7ecpgaiHxln3dYa4jMczIvcMKNX6b1YFTf4ylmYxwUQ_GaiEIo42wQKQhn0GAET3Gg7C00tLy1_3goW128R6ESAuTOXwNgFr2nm5V9_Cp8FOxOmsa_ecxwPNWaxdN_jQ8pC9erk3h8qt_w
+https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_5n79e3qb&password=z8cwUIl1&episode_id=6420323&channel=tv3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1245,6 +1245,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=ceria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #EXTINF:-1 tvg-id="615.astro" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",615 Cartoon Network
