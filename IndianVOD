@@ -38,10 +38,10 @@ https://cloud.hownetwork.xyz/xxx/af75ffc6126ae0274faa7f2b3e22746a/11/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGMxMGEwY2QtYzE5ZS00ZjA0LWI1OGMtNjI4ZDE5MGUxNGQ4XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Dear Zindagi (2016)
 https://cloud.hownetwork.xyz/xxx/ba4f84a93d7bc03352af7092340259b3/25/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdkNTY1MDQtY2I5MC00OTFlLTg5OWQtZWE2YzE5NWFiMDgzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Pathaan (2023) 
-https://cloud.hownetwork.xyz/xxx/Mhk9JiQYGWxwYUV_blI6LTAZMBEdJkB4I2cUe3tU/32/480.m3u8
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+###EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+###EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdkNTY1MDQtY2I5MC00OTFlLTg5OWQtZWE2YzE5NWFiMDgzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Pathaan (2023) 
+###https://cloud.hownetwork.xyz/xxx/Mhk9JiQYGWxwYUV_blI6LTAZMBEdJkB4I2cUe3tU/32/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
@@ -654,10 +654,10 @@ https://cloud.hownetwork.xyz/xxx/333f0733d9775b2639ff9038add58a76/20/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HKUrZZbXnwCM4129fPlgHEg0eG.jpg" group-title="▶ VOD BOLLYWOOD",Dil To Pagal Hai (1997)
 https://cloud.hownetwork.xyz/xxx/dc1a38fe0cf9078866831508914e29fa/1/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igPVDl7X2WNYBnvnC0O0oQKXSpF.jpg" group-title="▶ VOD BOLLYWOOD",Jawan (2023)
-https://cloud.hownetwork.xyz/xxx/2cc4e105aa1a2d45224596e392c32d03/25/480.m3u8
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+###EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+###EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igPVDl7X2WNYBnvnC0O0oQKXSpF.jpg" group-title="▶ VOD BOLLYWOOD",Jawan (2023)
+###https://cloud.hownetwork.xyz/xxx/2cc4e105aa1a2d45224596e392c32d03/25/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIxYTZmMmItNmRlNy00ZDI0LWJlYmEtMjM2NTA0ZDllN2Y1XkEyXkFqcGc@._V1_.jpg"  group-title="▶ VOD BOLLYWOOD",Hum Tumhare Hain Sanam (2002)
 https://www.dropbox.com/scl/fi/18otte1ky1i7xgj8flugh/Hum-Tumhare-Hain-Sanam-2002.mp4?rlkey=7r0yqlhvqyob2zmpjox0gddtj&st=uvk5u3wr&dl=1
@@ -1096,7 +1096,7 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/I%20(2015)%2
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW2ExTC60EtOpSX4W-a7U1wB7E6Wfw7UN4H0ArlyVwSMjQ
 #EXTINF:-1 type="movie"  group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j7Kt4Yc4Do58YhgEW38EY9RSBvr.jpg", Big Brother (2007)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Big%20Brother.mp4
-#EXTINF:-1 type="movie"  group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg", Jawan (2023) x265
+#EXTINF:-1 type="movie"  group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg", Jawan (2023)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETpnzDOklGlChwDMlKxgNe8B10RRsMohaQRkXexsajp80g
 #EXTINF:-1 type="movie"  group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/12VEUEHebd9ydQs0Y4ikzb179LY.jpg", Bodyguard (2011)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Bodyguard.mp4
@@ -1507,8 +1507,6 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Captain_Mill
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZR6LSWByYVEm9xEL4itNFAB9xhJfYcswxA1DPeGPaF2Xw
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rzSBCrS7ZSkB8quje1Na31gRze.jpg", Leo (2023)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW2ExTC60EtOpSX4W-a7U1wB7E6Wfw7UN4H0ArlyVwSMjQ
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg", Jawan (2023) x265
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETpnzDOklGlChwDMlKxgNe8B10RRsMohaQRkXexsajp80g
 #EXTINF:-1 typ="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a3kM4CBTSI4NC8KYeSRJCh55liV.jpg", Bajirao Mastani (2015)
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EShrpYSXluBKg4sNq6MCuSwB5vQgbEzfobuNtEsj9Ly_wg
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/54.jpg", Bahubali: The Beginning
