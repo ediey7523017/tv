@@ -387,7 +387,7 @@ https://live.mana2.my/UsimTV/tracks-v3a1/mono.m3u8?token=1768226642-e69732ae166d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6576795:378:CHANNEL:IMAGE:png&w=200&appID=TONTON" group-title="MYTV Mana-Mana",FIFA+
-https://live-ssar-01.tonton.com.my/1768239951/0x36acfb5ea0a8ac7a52eb6a06521e48c45de30dc60a5035c629bf312840fe380e/v1/sysdata_s_p_a_fifa_6/ohlscdn_us/V00000000/0/HLS/playlist_4300k_20251020T100738.m3u8?bpkio_serviceid=6c0958d82a830a0209c322ecb3772978&bpkio_sessionid=10d3c6e128-510a3e57-039a-4630-a784-3e6c739ea425&category=all&did=afa42b80-f215-4bbf-47f0-e794468a55b1&dnt=0&ifatype=sessionid&lot_auds=ca_1035,ca_897,ca_1101,ca_724,ca_288,ca_365,ca_394,all,ca_797,ca_305,ca_330,ca_290,ca_378,ca_730,ca_384,ca_803,ca_1034,ca_1056,ca_672,ca_775,ca_773,ca_1040,ca_420,ca_1096,ca_972,ca_364&mm_sp&plt=web&ttd_uid2=A4AAACZ9V4D6woZxl65ACSnz8dt-mWDx9HBBZUg4vNhr92raRoR6btZN9fd4VMKTZuAYA6qrMkeA7ecpgaiHxln3dYa4jMczIvcMKNX6b1YFTf4ylmYxwUQ_GaiEIo42wQKQhn0GAET3Gg7C00tLy1_3goW128R6ESAuTOXwNgFr2nm5V9_Cp8FOxOmsa_ecxwPNWaxdN_jQ8pC9erk3h8qt_w
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
