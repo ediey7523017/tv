@@ -258,6 +258,11 @@ https://cloud.hownetwork.xyz/xxx/a91829587b033dc5fd01d5e91cc3d09c/27/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI0ZTVlODEtMTgzZi00ZjQyLTkxMTQtYzVjMGQ1MDY3NzNlXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",De De Pyaar De 2 (2025)
+https://cloud.hownetwork.xyz/xxx/Jh1kKiBUBzgjMAVhJ1V7am9KeXxwVCAEABU7Extvbmh1HC93Jx8/38/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU4ZDNmOGQtNzUxMC00MmJkLWE5MDYtZTA4NTNiOTk3OTAwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",De De Pyaar De (2019)
 https://cloud.hownetwork.xyz/xxx/ddf2e2b79e242baeb868b03120d39c95/22/480.m3u8
 
