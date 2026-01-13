@@ -282,9 +282,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MYTV Mana-Mana" tvg-id="TV3.my" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
-#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
-https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_5n79e3qb&password=z8cwUIl1&episode_id=6420323&channel=tv3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+###KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+https://live-ssar-02.tonton.com.my/1768288249/0x14f7a25a7b83c9e59f2cc0b0f77475eac3513a0bd5b7e70f9ea322d774d07d10/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&did=4D5EE642-62C4-4D27-85C6-EF36EF1D4698&dnt=0&ifatype=adid&plt=andr_tablet&lot_auds=1045822&ttd_uid2=A4AAACTbPQpFw0rLvODMXJKQoFUze-ojMNA1U0Q4S0jCurXPpmK5E9PRlxaULnOK0h8L3Gy7NVtZkLQdNqZs3iZF6cK1nF478dmnu19gX3-ls5ec67v4ovlnenVuyvPTDl0BSQkXMLGLNtcnFVELBiQ0TbY9bV1VpulE1KdSiE3-Ox0D2xPqek0X1pXuHl37QLghP3MT5B2L0UA0TpBzQGpQhQ&bpkio_sessionid=10d3d40b220-5a55987a-446c-41ac-b190-0e3f0f7ddd4a&category=all
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -311,22 +311,22 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MYTV Mana-Mana" tvg-id="DidikTVKPM.my" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DidikTv KPM
 #KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
-https://live-ssar-02.tonton.com.my/1768240187/0xb55091d70d3382b0186346789d860b922c156f75dcac6ec4343f67ca88966f65/stream-ntv7/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846&bpkio_sessionid=10e3d10e66-647c0695-4356-464b-874b-46e5afd19570&category=all&did=afa42b80-f215-4bbf-47f0-e794468a55b1&dnt=0&ifatype=sessionid&lot_auds=ca_1035,ca_897,ca_1101,ca_724,ca_288,ca_365,ca_394,all,ca_797,ca_305,ca_330,ca_290,ca_378,ca_730,ca_384,ca_803,ca_1034,ca_1056,ca_672,ca_775,ca_773,ca_1040,ca_420,ca_1096,ca_972,ca_364&mm_sp&plt=web&ttd_uid2=A4AAACZ9V4D6woZxl65ACSnz8dt-mWDx9HBBZUg4vNhr92raRoR6btZN9fd4VMKTZuAYA6qrMkeA7ecpgaiHxln3dYa4jMczIvcMKNX6b1YFTf4ylmYxwUQ_GaiEIo42wQKQhn0GAET3Gg7C00tLy1_3goW128R6ESAuTOXwNgFr2nm5V9_Cp8FOxOmsa_ecxwPNWaxdN_jQ8pC9erk3h8qt_w
+https://live-ssar-02.tonton.com.my/1768288249/0x14f7a25a7b83c9e59f2cc0b0f77475eac3513a0bd5b7e70f9ea322d774d07d10/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&did=4D5EE642-62C4-4D27-85C6-EF36EF1D4698&dnt=0&ifatype=adid&plt=andr_tablet&lot_auds=1045822&ttd_uid2=A4AAACTbPQpFw0rLvODMXJKQoFUze-ojMNA1U0Q4S0jCurXPpmK5E9PRlxaULnOK0h8L3Gy7NVtZkLQdNqZs3iZF6cK1nF478dmnu19gX3-ls5ec67v4ovlnenVuyvPTDl0BSQkXMLGLNtcnFVELBiQ0TbY9bV1VpulE1KdSiE3-Ox0D2xPqek0X1pXuHl37QLghP3MT5B2L0UA0TpBzQGpQhQ&bpkio_sessionid=10d3d40b220-5a55987a-446c-41ac-b190-0e3f0f7ddd4a&category=all
 https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MYTV Mana-Mana" tvg-id="8TV.my" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
-#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
-https://live-ssar-02.tonton.com.my/1768240366/0x8cbf4d4342ba8f728d3a2ed8173f8b0cd0be441fe2f3da43807865859d921cb3/stream-8tv/master_540.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf&bpkio_sessionid=10d3d10e66-a0a81858-b83b-433d-80f3-3cb150e2cfda&category=all&did=afa42b80-f215-4bbf-47f0-e794468a55b1&dnt=0&ifatype=sessionid&lot_auds=ca_1035,ca_897,ca_1101,ca_724,ca_288,ca_365,ca_394,all,ca_797,ca_305,ca_330,ca_290,ca_378,ca_730,ca_384,ca_803,ca_1034,ca_1056,ca_672,ca_775,ca_773,ca_1040,ca_420,ca_1096,ca_972,ca_364&mm_sp&plt=web&ttd_uid2=A4AAACZ9V4D6woZxl65ACSnz8dt-mWDx9HBBZUg4vNhr92raRoR6btZN9fd4VMKTZuAYA6qrMkeA7ecpgaiHxln3dYa4jMczIvcMKNX6b1YFTf4ylmYxwUQ_GaiEIo42wQKQhn0GAET3Gg7C00tLy1_3goW128R6ESAuTOXwNgFr2nm5V9_Cp8FOxOmsa_ecxwPNWaxdN_jQ8pC9erk3h8qt_w
-https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
+###KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
+https://live-ssar-02.tonton.com.my/1768288249/0x14f7a25a7b83c9e59f2cc0b0f77475eac3513a0bd5b7e70f9ea322d774d07d10/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&did=4D5EE642-62C4-4D27-85C6-EF36EF1D4698&dnt=0&ifatype=adid&plt=andr_tablet&lot_auds=1045822&ttd_uid2=A4AAACTbPQpFw0rLvODMXJKQoFUze-ojMNA1U0Q4S0jCurXPpmK5E9PRlxaULnOK0h8L3Gy7NVtZkLQdNqZs3iZF6cK1nF478dmnu19gX3-ls5ec67v4ovlnenVuyvPTDl0BSQkXMLGLNtcnFVELBiQ0TbY9bV1VpulE1KdSiE3-Ox0D2xPqek0X1pXuHl37QLghP3MT5B2L0UA0TpBzQGpQhQ&bpkio_sessionid=10d3d40b220-5a55987a-446c-41ac-b190-0e3f0f7ddd4a&category=all
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MYTV Mana-Mana" tvg-id="TV9.my" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
-#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
-https://live-ssar-02.tonton.com.my/1768240445/0xcbeadaffa2c12a94faf24de04f70a8847fe0963110189947cc0693e11a3353dd/stream-tv9/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&bpkio_sessionid=10a3e44f76-eabee4c9-eb8f-4d07-9b57-2541c5863609&category=all&did=afa42b80-f215-4bbf-47f0-e794468a55b1&dnt=0&ifatype=sessionid&lot_auds=ca_1035,ca_897,ca_1101,ca_724,ca_288,ca_365,ca_394,all,ca_797,ca_305,ca_330,ca_290,ca_378,ca_730,ca_384,ca_803,ca_1034,ca_1056,ca_672,ca_775,ca_773,ca_1040,ca_420,ca_1096,ca_972,ca_364&mm_sp&plt=web&ttd_uid2=A4AAACZ9V4D6woZxl65ACSnz8dt-mWDx9HBBZUg4vNhr92raRoR6btZN9fd4VMKTZuAYA6qrMkeA7ecpgaiHxln3dYa4jMczIvcMKNX6b1YFTf4ylmYxwUQ_GaiEIo42wQKQhn0GAET3Gg7C00tLy1_3goW128R6ESAuTOXwNgFr2nm5V9_Cp8FOxOmsa_ecxwPNWaxdN_jQ8pC9erk3h8qt_w
-https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
+###KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+https://live-ssar-02.tonton.com.my/1768288249/0x14f7a25a7b83c9e59f2cc0b0f77475eac3513a0bd5b7e70f9ea322d774d07d10/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&did=4D5EE642-62C4-4D27-85C6-EF36EF1D4698&dnt=0&ifatype=adid&plt=andr_tablet&lot_auds=1045822&ttd_uid2=A4AAACTbPQpFw0rLvODMXJKQoFUze-ojMNA1U0Q4S0jCurXPpmK5E9PRlxaULnOK0h8L3Gy7NVtZkLQdNqZs3iZF6cK1nF478dmnu19gX3-ls5ec67v4ovlnenVuyvPTDl0BSQkXMLGLNtcnFVELBiQ0TbY9bV1VpulE1KdSiE3-Ox0D2xPqek0X1pXuHl37QLghP3MT5B2L0UA0TpBzQGpQhQ&bpkio_sessionid=10d3d40b220-5a55987a-446c-41ac-b190-0e3f0f7ddd4a&category=all
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
