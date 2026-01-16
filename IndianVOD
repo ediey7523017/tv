@@ -5,6 +5,11 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYwM2ZmM2EtOTFhNi00MGQyLWEyYmUtZTRiOGNmYjk0NmNkXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Paradha (2025)
+https://be2719.rcr22.ams01.i8yz83pn.com/hls2/02/10154/35ji3p5louyt_h/index-v1-a1.m3u8?t=QjycOyxIss3ooJPgd_U8P4__BRyjVPLrZjDJiBoWqZM&s=1768574061&e=10800&f=50772800&srv=1055&asn=4818&sp=4000&p=0
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDhhODU1OWQtYWU4NC00MzIzLTk1YTMtZjA5OTdjMDlmODNmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Hungama (2003)
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/06/10198/0ckp5lsokc7x_h/index-v1-a1.m3u8?t=m56ne63rJApjU4MitlivdYjh-YJ5cCEGKKxV2LUwPew&s=1768573466&e=10800&f=50992108&srv=1050&asn=4818&sp=4000&p=0
 
