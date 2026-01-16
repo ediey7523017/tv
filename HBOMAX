@@ -676,7 +676,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d9c78382-59bb-4f62-8750-00b4c1eaeac1
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=d9c78382-59bb-4f62-8750-00b4c1eaeac1&sub=t1
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/2a322e53-5afb-31d1-86b9-c76d652a2e77.jpeg" group-title="▶ HBO MAX", Action-1-Mortal Kombat 1997
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1079,7 +1078,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=16c3204c-cbfb-40fd-adfa-3b8fafd74c82
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=16c3204c-cbfb-40fd-adfa-3b8fafd74c82&sub=t0
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/c718c92a-11ce-391a-9235-1489f3e77ab0.jpeg" group-title="▶ HBO MAX", Action-1-Zack Snyder is Justice League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1217,8 +1215,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5b100055-dd54-47b7-a965-f7e8a64d620d
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=5b100055-dd54-47b7-a965-f7e8a64d620d&sub=t11
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/10/c489d810-728d-3753-9381-a418fd302f11.jpeg" group-title="▶ HBO MAX", Horror-10 Cloverfield Lane
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1555,8 +1551,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b0e46362-b9fa-4a30-a293-7c2990b3bc2d
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=b0e46362-b9fa-4a30-a293-7c2990b3bc2d&sub=t4
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/13/b2eb7cba-159b-3e8a-bc9c-0648a21b30e2.jpeg" group-title="▶ HBO MAX", Kids-Despicable Me
 #KODIPROP:inputstream=inputstream.adaptive
