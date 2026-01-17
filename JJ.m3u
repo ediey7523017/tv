@@ -1409,7 +1409,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
 #EXTINF:-1 tvg-id="556.astro" group-title="News & Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_DOC.png",556 CGTN DOCUMENTARY
-https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5082ef4a1f53079360ed8283bbe05c10:9a837b648a223d23ff05045972dbb6ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5119/default_primary.mpd
+###https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 ###EXTINF:-1 tvg-id="556.astro" group-title="News & Documentary" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.pngng",556 Animal Planet 
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1490,9 +1494,7 @@ http://203.77.246.58:4500/udp/239.1.2.158:5000
 #EXTINF:-1 tvg-id="307" tvg-name="Dreamworks Channel HD" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png",Dreamworks
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="532" tvg-name="Animax HD" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png" group-title="Kids",Animax 
@@ -1832,8 +1834,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="835.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png",835 Astro Cricket Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-####KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5117/
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"454iPTZ55TO4FEpiQfeUug","kid":"WBaYvX0Emkh3InVT4pAkEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
