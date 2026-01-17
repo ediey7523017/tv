@@ -3,6 +3,37 @@
 
 #######################################################▶ VOD COLLECTION###########################################################
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/10/film-terminator-dark-fate-2019-lk21.jpg" group-title="▶ VOD COLLECTION",Terminator Dark Fate (2019)
+https://cloud.hownetwork.xyz/xxx/84ad409a30031c2b5af2ad2f3d5ebcfb/11/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/952.jpg" group-title="▶ VOD COLLECTION",Terminator Genisys (2015)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Terminator%20Genisys%20(2015)%20720p%20Bluray%20Malay%20Hardsub.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-terminator-salvation-2009.jpg" group-title="▶ VOD COLLECTION",Terminator Salvation (2009)
+https://cloud.hownetwork.xyz/xxx/8ea1c2f95a42d73ef9c5b46fbd911026/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/953.jpg" group-title="▶ VOD COLLECTION",Terminator 3 Rise of the Machines
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Terminator_3_Rise_Of_The.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/12/film-terminator-2-judgment-day-1991.jpg" group-title="▶ VOD COLLECTION",Terminator 2: Judgment Day (1991)
+https://cloud.hownetwork.xyz/xxx/f7534d0548a1eb8403df61d31c2fd8dd/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/08/film-the-terminator-1984.jpg" group-title="▶ VOD COLLECTION",The Terminator (1984)
+https://cloud.hownetwork.xyz/xxx/1213bacc9bfdccefaff00a72d5ef4c45/7/480.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI1MzM2ODEyMV5BMl5BanBnXkFtZTgwNTIzODAwMzE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Night at the Museum: Secret of the Tomb (2014)
@@ -334,11 +365,13 @@ https://cloud.hownetwork.xyz/xxx/e38e302868c56c03b66673fbd70beec4/10/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ViOTc0NWQtZDdhYi00Y2VlLWJhYzctZTM2NWYyMDYwZTJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Aliens vs. Predator Requiem (2007)
+https://47226.ohflix.workers.dev/0:/x11/Random2%20Movies%20Malay%20Sub/Aliens%20Vs%20Predator%20Requiem%20720p%20bluray%20Malayhardsub.mp4
 https://cloud.hownetwork.xyz/xxx/eae040c0481b67da65b7a91d0a0b0012/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Alien vs. Predator (2004)
+https://47226.ohflix.workers.dev/0:/x11/Random2%20Movies%20Malay%20Sub/Alien%20Vs%20Predator%20(2004)%20bluray%20720p%20Malayhardsub.mp4
 https://cloud.hownetwork.xyz/xxx/2e950c2ed320ba1017eb6dd92ae09934/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -359,11 +392,13 @@ https://cloud.hownetwork.xyz/xxx/827d75c0f41284e953814c3d916e8789/11/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODRkNWZiMjctMzJjNy00ZDRiLTk0ZDUtNTQ1M2I4YmI3MmRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Predators (2010)
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/4/Predators%20(2010)%20BluRay.mkv
 https://cloud.hownetwork.xyz/xxx/9f9150f19f8b02989e8a536c6e7fa26b/8/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFjMjRkYWUtNmI4YS00ZmMwLWFiMmYtNWViY2RjZjMyODQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Predator 2 (1990)
+https://47226.ohflix.workers.dev/0:/x11/Random2%20Movies%20Malay%20Sub/Predator21990720pHardsub.mp4
 https://cloud.hownetwork.xyz/xxx/d3c1801cedd4e24a2add88401a317125/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
