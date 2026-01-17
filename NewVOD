@@ -539,7 +539,7 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Langgar.Pantang.2024.108
 #EXTINF:-1 type="movie" group-title="VOD MOVIES 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8GwRZHBW4YCGhFsDkY7L8OIGW1x.jpg", From the Ashes (2024)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/From.the.Ashes.2024.1080p.WEB-DL.MalaySub.bymovieclub.mp4
 
-#EXTINF:-1, type="movie" group-title="VOD MOVIES 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jojfbnIHGsRpodIood3OQoqA45Y.jpg", Sixty Minutes (2024)
+#EXTINF:-1 type="movie" group-title="VOD MOVIES 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jojfbnIHGsRpodIood3OQoqA45Y.jpg", Sixty Minutes (2024)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Sixty.Minutes.2024.GERMAN.1080p.WEB-DL.MalaySub.bymovieclub.mp4
 
 
@@ -1862,5 +1862,6 @@ https://cloud.hownetwork.xyz/xxx/MQ07KykAWjUtPBg-MV8hdTEdKD0qF1pwbzQHJTBfMj1vSXh
 #EXTVLCOPT:http-referrer=https://tv3.nontondrama.my/
 #EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://asianwiki.com/images/c/c7/Surely_Tomorrow-p.jpg",  Surely Tomorrow S1 E12
 https://cloud.hownetwork.xyz/xxx/MQ07KykAWjUtPBg-MV8hdTEdKD0qF1pwbzQHJTBfMj1vSXtjd0lFdG8GMg4HfAkAHUkvendJQCMh/38/480.m3u8
+
 
 
