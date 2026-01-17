@@ -636,6 +636,7 @@ https://cloud.hownetwork.xyz/xxx/0dadd23f6f12297691adf570989d8676/11/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Fury (2014)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Fury%20(2014)%20Malay%20hardsub.mp4
 https://cloud.hownetwork.xyz/xxx/9029fcae9ac2a84ce758c028779a6ee4/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -681,6 +682,7 @@ https://cloud.hownetwork.xyz/xxx/408bbf8b6f94ff5e43d6146caff49490/5/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJkNzI3ZmEtZmRhOS00YTM1LWI3OTAtZmVjZmNkODIxNmFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Apocalypto (2006)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Apocalypto%20(2006)720pbluray%20Malay%20hardsub.mp4
 https://cloud.hownetwork.xyz/xxx/f08bb46b5d95d945e333f9434d317d0d/10/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -776,6 +778,7 @@ https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVCyIwKxY4HQkofSAJMG17TH8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNmZGYzZjUtODRmOS00ODgzLWE4NWQtMDI3MGUwNjRjYjY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",John Carter (2012)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/John%20Carter%202012.mp4
 https://cloud.hownetwork.xyz/xxx/80c8701928d3242bfb1f15b4492112b9/25/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1303,3 +1306,11 @@ https://www.dropbox.com/scl/fi/nkdp5ebcizhtoi4ijqrgr/Sobat-Film-Nonton-Red-Cliff
 #EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JjZDYxMjgtNjRhMi00MGIwLWI5ZjktNDhmNDY2N2MyZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Red Cliff II (2009)
 https://www.dropbox.com/scl/fi/wva5t56jr6kkuncyasg08/Sobat-Film-Nonton-Red-Cliff-II-2009-Film-Streaming-Download-Movie-Cinema-21-Bioskop-Subtitle-Indonesia-Layarkaca21-HD-Dunia21.ts?rlkey=izhz3hvrkek0kbhvxrlspkh2j&st=ibczv9km&dl=1
 
+#EXTINF:-1, type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/825.jpg",Men in Black International
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Men_In_Black_International.mp4
+#EXTINF:-1, type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/809.jpg",Jumanji
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Jumanji%20(1995)%20Bluray%20720p%20Malay%20Hardsub.mp4
+#EXTINF:-1, type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/887.jpg",Robin Hood
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Robin%20Hood%20(2018)720p%20brrip%20Malay%20Hardsub.mp4
+#EXTINF:-1, type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/882.jpg",Prospect
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Prospect.2018.1080p.BluRay.mp4
