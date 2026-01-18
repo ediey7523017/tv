@@ -3,25 +3,45 @@
 
 #######################################################▶ VOD COLLECTION###########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD COLLECTION",Universal Soldier 4: Day of Reckoning
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/7/Universal%20Soldier%204%20Day%20of%20Reckoning%20(2012)%20BluRay%20UNCUT.mp4
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTA3NDlf?temp_key=Rx%AFz%BB%1A%97m%12%A2Wbz%BD%B4%E3m%03k-%B4%A1%FD%B4E%E7%24%A2x%A7%83m6%D3%5D%A6%A7&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/1563.jpg" group-title="▶ VOD COLLECTION",Universal Soldier 3 Regeneration
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/7/Universal%20Soldier%203%20Regeneration%20(2009)%20BluRay.mp4
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNTk4MDFf?temp_key=Rx%AFz%BB%1A%97m%12%A2Wbz%BD%B4%DFm%11z%07%A7z%B6%AD%8A%89%F6%D3o6%D3Ov%F7m%01%96%E4Z%CAjx&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD COLLECTION",Universal Soldier The Return
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTA3MjRf?temp_key=Rx%AFz%BB%1A%97m%12%A2Wbz%BD%B4%DBm%13%85%ED%B4E%EBn%AE%7D%B4%DB%CD%7D%F7%DD%BD%9A%9E&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/11287.jpg" group-title="▶ VOD COLLECTION",Universal Soldier
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTA3NjNf?temp_key=Rx%AFz%BB%1A%97m%12%A2Wbz%BD%B4%D7m6%F3_%7D%DBof%A7&inline=1
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/10/film-terminator-dark-fate-2019-lk21.jpg" group-title="▶ VOD COLLECTION",Terminator Dark Fate (2019)
+https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/The%20Terminator%20Salvation%20(2009)-1-720.mp4
+https://web.opendrive.com/api/v1/download/file.json/NzJfNDcyNDUyNDJf?temp_key=M%EA%E6%8Av%AD%A2%BD%B4%AA%E4%DBAZ%B5%ED%B4%DB%CD%B4%D7%DD%BD%D7%BD%B4%9A%9E&inline=1
 https://cloud.hownetwork.xyz/xxx/84ad409a30031c2b5af2ad2f3d5ebcfb/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/952.jpg" group-title="▶ VOD COLLECTION",Terminator Genisys (2015)
-https://ucc7e72ae177f76d65f88e043a42.dl.dropboxusercontent.com/cd/0/inline/C5L-NBgstNXfpMWIZBQs6wMWd_miYhPSpXUVY3pfS9IFLvQIoqbCEjZ8tKFtZLStHjO7fl7yNVgmmlMYstQGGixx9q09MQM0a0uJHFbpZB1dIkgNVPvsjinGx1nrXWABCkPKmBX7hidqxCkOsDkZg_Xw/file
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Terminator%20Genisys%20(2015)%20720p%20Bluray%20Malay%20Hardsub.mp4
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNTYxMjVf?temp_key=M%EA%E6%8Av%AD%A2%BD%B4%19%E9%E2%B3%2B6%D3o6%D3%5Ev%F7m%3B%DBJv%D0%19n%AD%AC%B6%D0%C6%A5k-%B4%1D%AA%DD%B2%E6%E6%A7&inline=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-terminator-salvation-2009.jpg" group-title="▶ VOD COLLECTION",Terminator Salvation (2009)
+https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/The%20Terminator%20Salvation%20(2009)-1-720.mp4
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDE0NTdf?temp_key=N%17%B6%D17%AB%9A%29%DA%B6%8A%F6%D1%26%A5%BD%ABb%A2%7D%B4%DB%CD%B4%D3%DD%BD%D7%BD%B4%9A%9E&inline=1
 https://cloud.hownetwork.xyz/xxx/8ea1c2f95a42d73ef9c5b46fbd911026/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/953.jpg" group-title="▶ VOD COLLECTION",Terminator 3 Rise of the Machines
-https://uc1595a2bc7056e893833a0e135a.dl.dropboxusercontent.com/cd/0/inline/C5LOCBTtS_tn2ixiBWLqwuLWdK1a3w-NWU3KOXcfECr60XS0oVnvlReDt4krgbI_IeJMH7Mn7wetXHVVwppSeFcOECyPG2yE-rlTzBSYMSlk6vgBuqF2MviW06Y5c6M7vzbHR3GEcCbZSYqCU5OBvf3V/file
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Terminator_3_Rise_Of_The.mp4
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNTYxMzdf?temp_key=M%EA%E6%8Av%AD%A2%BD%D1%8A%C7%8E%7D8%5E%9A%9E&inline=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
@@ -180,72 +200,65 @@ https://cloud.hownetwork.xyz/xxx/b1a7190146c0ca405c4ada809d1d2c92/1/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwMjcxYTQtYjJlOS00YTE1LWIyZGYtOGRlOTBlMWZmYTliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Kong: Skull Island (2017)
-https://uc4ea37244f767ee40500b759b32.dl.dropboxusercontent.com/cd/0/inline/C5IYDqWpyd1gDB0Nl-7l9CfDCYHIjy81N4_PIkF6s0lPRq-kI7rXx9Xwj5FIpgsHy-czZlb2eMQue_UoAxqtHgBcAUSMuzcuWSAdUiPk3Z4LvmXTBCqpJ5syfve5PoCXBkpJaX1TjAqCvtiy3in0I9gl/file
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Kong%20Skull%20Island%202017-1-720.mp4
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDU1Njhf?temp_key=%2A%89%E0%DBD%A4%BAYv%D0%8B%25jwv%D3m5%EF%5E%F6%D2jx&inline=1
 https://cloud.hownetwork.xyz/xxx/de398381a95d87de9ffa5cb0e6630f52/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVmZDlhNmEtM2NhNC00N2EwLWJiNzgtNDE0ODI4YjI4NGJhXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",King Kong (2005)
-https://uc4a945a3e6b7cd6a6a493e87cb1.dl.dropboxusercontent.com/cd/0/inline/C5KXJLoIlvEDEXmAZCaAjHyh3o_s3kfmrgDfkgrySNq4TyWlEnHflxIxSV7NINAz95wezSXSnUYuNslQaCiJhNCrgPoXnLxWostFfI-9uKWGFp5leBr-ve8cdgU31zmEVdmqqc70ghCWphwI-mZzLmVC/file
+https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTgwMjNf?temp_key=%2A%29%E0%DBB%A8%9E%B4%DBM9%9A%9E&inline=1
 https://www.dropbox.com/scl/fi/543f5tzf4coq7aav5lu89/King-Kong-2005-1080p.mp4?rlkey=islebj5tw4f1x0ga0vheavxka&st=y1ok3qs6&dl=1
 https://cloud.hownetwork.xyz/xxx/KREnKWgSGC8lfEV8cwV7Dwc6DQJoTU9xHQkoPiZFJjQtGS0/36/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",300 Rise of an Empire (2014)
-https://ucdec8347a693d71d661e1fdd86e.dl.dropboxusercontent.com/cd/0/inline/C5LtZwX6hTxeAqbC58Tv2UgKsuO76lo5zDMcH9hhfgMlM4cIf3clRT6fkaRi6hq12rMuzg95cIowilpBg16_dNCBf665KIoWe184zWUsed7_NA7aPt3Aj0zQ4dQQpx6yMhetSAtev4m_nV3xdzeTJB0T/file
 https://cloud.hownetwork.xyz/xxx/86b5c29a8972b2b6a4686e6aab167912/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",300 (2006)
-https://uce4ad06be15e02b1a498286e6df.dl.dropboxusercontent.com/cd/0/inline/C5I9jRT1Ibnaq4Iyj3meb1dtkhfP0Q6kyheXVr10TzaGllx_F-FKK_fFNrDQ0FKypCn0oD_W09OBksH3hABzWHBqJ5yy3SOYLEq-6pBI0LGS5tI2SRmaoZxCjl-lLPwh9mAxnf7QPsMrlQE8DVt5qyIK/file
 https://cloud.hownetwork.xyz/xxx/cd8c6cee5bf5badb172d2b95d9dabba9/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyMzk1Nzg3OF5BMl5BanBnXkFtZTcwOTQ2NjcxNw@@._V1_.jpg" group-title="▶ VOD COLLECTION",Wrath of the Titans (2012)
-https://uce9b282386cdee2a1f49edfbff8.dl.dropboxusercontent.com/cd/0/inline/C5LqY-YoEsh7dwLJZCfzw6dZCI1LA9INBWZruNcbWlHNz2_H5A19mh2oaY9cHgXqihGkZ8rwilm53bQ3DbjU4Tni8MTt50wVskXRPGRF9gmIq2eWNG3wams8crp-AGecE--k6ESIvBQ-KctqTdJfhYPv/file
 https://cloud.hownetwork.xyz/xxx/9c5a57f4ac75711a86270b3713950fa6/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxNjg4MzU5OV5BMl5BanBnXkFtZTcwOTA3NTUwMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Clash of the Titans (2010)
-https://uc339e04fce245c25fa428911a02.dl.dropboxusercontent.com/cd/0/inline/C5L30h50b-18krdpYknTVErRQuX0vpO67zCH6mhUCHIu1OTfzGEkeUp6TiVmU4JbCG38vZVgmtvn4FC-dNuCDzc7TGhTOU8yC4YP9LIb6Tn6zM7hjruj7V2xnD6e3tfsUZzGSb1DkdcsP8Fd6bo0Ly52/file
 https://cloud.hownetwork.xyz/xxx/b6572806b83ffc07f4eeb5408b1c269d/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/8628.jpg" group-title="▶ VOD COLLECTION",Snake Eyes G.I. Joe Origins
-https://ucb712ccefa109ec540fd5e4ff11.dl.dropboxusercontent.com/cd/0/inline/C5J6J98KoZuwt2RviXGZW-WCmoEr8OnBDeNEbtcN_iYCXROvfdr_XGRfoKPlF8Jda1CV83P5P8XKY4w2qj1qyYVttgJjTg5yFET6l_gwptRdfMpSF3exzoF2GIl4JM9tbdNmGPnhxXNwQ05j5XLP6UwG/file
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDE0NzNf?temp_key=Jv%A4%7Bm%04%C9%EB6%D0b6%D0%9A%1E%DBC%AB%8A%08%A7%B3m6%D3mf%A7&inline=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJlYWE4NTQtMGNhYS00NzZkLThmMWEtNGVhNGMwZGNkZGUwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",G.I. Joe: Retaliation (2013)
-https://uc8be8f54883d475ed35ad926f16.dl.dropboxusercontent.com/cd/0/inline/C5K82_3XwHdZduTQq3MDQB0PWTppS0qTOX4Nag5Tk2Q0kvR4lNpBHyQO0Zvilpy-20GldYk7hMGLjC_jiLxkzctJ1QRJYUAs6hsMe5_TLZ3JM-eNSSi_uS4B9WAw8DoxKX97Qh1Pkfc20eqSpz4r82xk/file
 https://cloud.hownetwork.xyz/xxx/54ca87990b52e593298cc718e5410d7d/2/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTE5NDQ2OWItNThjZi00MTdhLThkMjUtMGJkZTk1NmZmZmUzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",G.I. Joe The Rise of Cobra (2009)
-https://uc8be8f54883d475ed35ad926f16.dl.dropboxusercontent.com/cd/0/inline/C5K82_3XwHdZduTQq3MDQB0PWTppS0qTOX4Nag5Tk2Q0kvR4lNpBHyQO0Zvilpy-20GldYk7hMGLjC_jiLxkzctJ1QRJYUAs6hsMe5_TLZ3JM-eNSSi_uS4B9WAw8DoxKX97Qh1Pkfc20eqSpz4r82xk/file
 https://www.dropbox.com/scl/fi/dafhewi2agupdrmqcr12r/Lk21-Nonton-G.I.-Joe-The-Rise-of-Cobra-2009-Sub-Indo-Streaming-dan-Download-Film-Full-Movie-HD.mp4?rlkey=3q74rp0oixx8wo4qukc4nasyi&st=w0j70bfa&dl=1
 https://cloud.hownetwork.xyz/xxx/JVUjISBUBSgxNFovLFIkOW9KeX58VCAEABU7YXcIZgcaJzsrMAkbLiM1/36/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNkNGIzMmQtNTNlMS00MjllLTliZGItNmQxZjVmNzJjOGZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Jumanji The Next Level (2019)
-https://uc4017e9adb031796b6da62515e3.dl.dropboxusercontent.com/cd/0/inline/C5LC5RKDYR52zg6PGO4V9gzs7-QiKqRjoukahTkkLeI-vD2D6HTsDx89CpHJEiqfT8DJ3PZArKVJgGXMQEocfvzmJ0JRkkVVeHKUMv7FddpuUyg8QtHI7GQvKHQcOdbQRBRL6KpE2N_Hxl5SV80y2w3E/file
 https://cloud.hownetwork.xyz/xxx/075d595b48bc5384a7f2c3161752a022/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTliYTE2NjUtNDkwZS00ZTNlLTgwN2MtMjZlOGJmODY5ZjE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Jumanji Welcome to the Jungle (2017)
-https://uce038d361b71a11f9489ddd1fe9.dl.dropboxusercontent.com/cd/0/inline/C5JaEnSPrm93Xu3JibgLXayxq_FVxH2QLlh_CZcpd3kwqx0QeZ2LTDJ7p0dVoAp9DG0klP07mRl80B_MNQBtSlwZfJj0Ztutc3PWGTOMpnI7f_wgB3wA4QS7VN9WJ5Sq6IUVXCV0jRq-N7rJq4IPYsCW/file
 https://cloud.hownetwork.xyz/xxx/780ac18de2c288d4190c8c2399945d15/5/480.m3u8
 
 #EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/809.jpg",Jumanji
-https://uc961bf920a7a5eb7a0da7d94423.dl.dropboxusercontent.com/cd/0/inline/C5KgAlTRHU6cSZ7A3fsToSve29FPC5VaTi0ql2Vy6KNHaACD1UIF7P20XtNFRF1Rl-4tLUOgL2SGXlf30zAo5oTPiKxdN4XWEFhSNd2czWEEh_ocnS0mnFW6-sDAekgNbwGo7uSTW-B2sXaGnj232zvF/file
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Jumanji%20(1995)%20Bluray%20720p%20Malay%20Hardsub.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
@@ -382,13 +395,11 @@ https://cloud.hownetwork.xyz/xxx/e38e302868c56c03b66673fbd70beec4/10/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ViOTc0NWQtZDdhYi00Y2VlLWJhYzctZTM2NWYyMDYwZTJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Aliens vs. Predator Requiem (2007)
-https://ucf2aa5d9831759e5ab17e6eb44b.dl.dropboxusercontent.com/cd/0/inline/C5IHFQovxG-ComGMg_TipLKPYhQzw2oJddyrjdo8nn91JvmnzEItmlLFAyrwaABERbjNiIkj-d-sMb5clxHOPrmvfXRxmfIQR388pHxoBpaW7QMYv7tHzSrcpAvPZSiLUZJigV7f_DZpmKSYOQtIEX8e/file
 https://cloud.hownetwork.xyz/xxx/eae040c0481b67da65b7a91d0a0b0012/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Alien vs. Predator (2004)
-https://uc58a144d4c1d226f7445abeea1d.dl.dropboxusercontent.com/cd/0/inline/C5LXg6ws8hwlK480W-N-r-INohPoyzh1TI9sYajWeMycP_Q69KgEKud5j6-UUfUdXB3wRHHdWuUcOa_slLQRq3N2UX0LpL0S2kNcnck9X5j0ccpQnaoud_GQkHCiVsL9obCra4SHySDYWVRatUIf561r/file
 https://cloud.hownetwork.xyz/xxx/2e950c2ed320ba1017eb6dd92ae09934/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -404,37 +415,31 @@ https://cloud.hownetwork.xyz/xxx/e0b8051ecf35e35ed07857ef23b11672/13/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_.jpg" group-title="▶ VOD COLLECTION",The Predator (2018)
-https://uc998cf14e9c0f4146b2967e3f74.dl.dropboxusercontent.com/cd/0/inline/C5KhFPIb6lUSy5bDa0uKjnTTFt0SFqoFtfqEr9JhOTR3bLg5EcNglC_dLB-Cm3hhC1_ZD8dlXM-KlGD6Dd7zPLBr8Ug5PE6Yjafys0o_8fKfR3yCD-xE_Fc6gMYxb6ymha3G702v-uVGghu8NdA6sIrg/file
 https://cloud.hownetwork.xyz/xxx/827d75c0f41284e953814c3d916e8789/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODRkNWZiMjctMzJjNy00ZDRiLTk0ZDUtNTQ1M2I4YmI3MmRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Predators (2010)
-https://uc210f3f1c5a5b9f458c2b4ff730.dl.dropboxusercontent.com/cd/0/inline/C5LFJS3rgvIbSvpF0uN2J1XrWDeEDuVwJsSuBxKEFMbPTLDfG7PJTHjYl_s986C0yaR5bHLfYWR89B4d3SrGvrJklEp7AtB1rzhUU8eYR332pGXlOGOJkbIPELWuy3WBhilOPbcU_W8wyAHxlurhLK8V/file
 https://cloud.hownetwork.xyz/xxx/9f9150f19f8b02989e8a536c6e7fa26b/8/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFjMjRkYWUtNmI4YS00ZmMwLWFiMmYtNWViY2RjZjMyODQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Predator 2 (1990)
-https://uc7843fdea6757fb70de94d1872a.dl.dropboxusercontent.com/cd/0/inline/C5LUK2wPwMON50po5UhfHb_hmWnqS1oZlPKVoLhi0cZ_b4qemdOuKUt1Hu-YlAzH5Rbj59ckvT8JyKbWxrhj0eGrVCqdxxdEvBZ7TlvW2rj9ysXhkFnE-dx85S2avHjcf5JmL-EmhfObC2yHZ16RK1_6/file
 https://cloud.hownetwork.xyz/xxx/d3c1801cedd4e24a2add88401a317125/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFmZTI4NzYtYmU2ZS00NjQxLTk3M2EtNWNjMTAwNGY2ZGZjXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",Predator (1987)
-https://uc7ba9eabadcc5570ec20e24ed90.dl.dropboxusercontent.com/cd/0/inline/C5LBTjSrEsVvnu10HuLyXq66jFLs7JKvfw9ZznQ1jWd_uj_9iyUpgUXAoy_uw1eXb7U893xMoiCQIxTp5BT6qbGqGWuOmVcUBIoLSn6cSWa0_NPJ0mgQ2QM1gJLC0QkAMwg3KoD5ZhhUH3w87asrCMBO/file
 https://cloud.hownetwork.xyz/xxx/d307d596a6df919b242c95ad96677a62/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Alien Romulus (2024)
-https://ucec897ff5d30c296463732f18d5.dl.dropboxusercontent.com/cd/0/inline/C5KW2hLlr9jIer9yOqavplMKkygBc1iDCClhI9eR7-SrJ9Yk7btU-9qpt3BwzJ5ar2YpCtItPjXJzNVuNFoarqASPryexBgCkh1wrCtxALJunL9htSAv0zKY7-jcvk9yKLAyjPDYvHlA6syfJ0GQTZQu/file
 https://cloud.hownetwork.xyz/xxx/096060a5890fcb77bdc5af4bee819122/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjhiYWQ4MTAtOGY1Zi00ZjcyLTk1ZDYtODI3ODRhNjE4MzZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Alien Covenant (2017)
-https://uc79d8908864f09e5d2692bc0f94.dl.dropboxusercontent.com/cd/0/inline/C5LJRK2oTgpquT2fW8ktamOqf4pI04py2tTT2kT4dXSP9tAxpG1d7Uocu-H4Bx2JxOdxf2bOWVKJGIZ3V2J4-iDa0zFG8daNZJ6Ao4kW6_DeoTXasiMLL46LIgg7CYTMIitawNR5U5yGbuwXEYt2tEW8/file
 https://cloud.hownetwork.xyz/xxx/87bc161da8f2a4692be373f3b30ed44c/2/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -445,7 +450,7 @@ https://cloud.hownetwork.xyz/xxx/a33201cd0bfd7cf3ee339af59bab6b83/1/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/7555.jpg" group-title="▶ VOD COLLECTION",Cowboys & Aliens
-https://uc8aaec6a4f356f97ab6a997639c.dl.dropboxusercontent.com/cd/0/inline/C5Kjd9keQgHNRBmOqXdrQmjCxpjYasBY7qgghW_MxD1LkxakCUxxdrfGcK8Nc1_Gujqs0fm6Zat2-sA-Mlai4CcAnhFHzWe-fnZdC5mqVo26UyWbc31lHIu7tDS3EGijACI_d0FuYkBnNsqrEqosfPEC/file
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDczOTVf?temp_key=%8C%1B%A3%2B6%D1%A9%DD%DB%40%25%89%E9%EC%DBM%BC%DBMu%DB%D9%A9&inline=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
@@ -481,31 +486,26 @@ https://cloud.hownetwork.xyz/xxx/1ffcad2fb6f48025a361b92a9408c91c/11/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI1NTk5MjMtOWYxZi00ZGMyLTg5YzAtNTI0MmFjODhlMTYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",No Time to Die (2021)
-https://ucee864d6f4bbeec88049a55ded5.dl.dropboxusercontent.com/cd/0/inline/C5L4iWq00hNLCxbj93MgTIPOErrNT2gPrCmy8E97z6SmO2ABuqq9Qq0oQTjnAP-G0EKlnBcN4RSzxWyrX2Bx07AQ_urG-w5IWEf3rt8_RjolizzgfuQUSNXsQJSl0NhYSWO1sRTefzwBYMJryc6SPTOJ/file
 https://cloud.hownetwork.xyz/xxx/73e2211b8069af640d0ed87e5f7d06bc/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQxYjYwNjQtOGZjOS00MmUxLWJhM2UtZjFhYjJkNjhkYzk3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",Spectre (2015)
-https://uc381c2990e4e303c64dc19dd0d0.dl.dropboxusercontent.com/cd/0/inline/C5JwaFatR_0Z6hWczBocrysMs2V2JelcZ0YqLlwpdd0xqgrQ__RbNcs8NIaYiCgl9TkXemMVNnDuuKd9hpQhDpuV7S8WDeAOsPLwyAY2huk7IPaJaadFZs86aFVhObsXcGiONoId6ZmXUGE_r3h6fXX3/file
 https://cloud.hownetwork.xyz/xxx/87df2826c27e796ab399f7c3cf2b6c91/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM1OTJjMDMtOTU3Yi00NGZmLWJiNDYtNjkwMGRiZTRlMTAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Skyfall (2012)
-https://ucff26d1d4b5b66170bf3df08d9f.dl.dropboxusercontent.com/cd/0/inline/C5JktmNcE_uPxFEOZ_qCYsDXuKRgZw1tIZ8xBSLcXijX81YlCauUfLd6x1ysL-M9wTAoLOVkfZPKDUpDV05OlQTcGdVmsgLO2yZ8j-JKKynzEP9uaQ5CQ6-bOydKcbHkSUn5WUfaPEDgrMtsu9MESzdk/file
 https://cloud.hownetwork.xyz/xxx/93b527a33716d7fff8b47be52cc735ab/4/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMwZTA3MTAtNWU0Yy00NGZmLTg0YmItZTVkZGFjZTI1ZWJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Quantum of Solace (2008)
-https://ucaa22ca87c948759dadd810eacf.dl.dropboxusercontent.com/cd/0/inline/C5JzS2GPF6vlA2rdGwHwAZtd0fVmVLy-lTFc7vyx-Tqn7xJwvqH4IF_WweptQfWG9LRz-Soj2QHFcA0EhVsOYvZMYLSDoZXrqqF32Nx21gMbNqNqkmQUdceSXtEnbzexVceKPxK1UOtiKcjBtTfaGlSY/file
 https://cloud.hownetwork.xyz/xxx/Mw0oIDEMGmwtN1o_LFw3OydVe351QVoWBxMzAG4EbmgdIBY8IAwHLS0wEw/36/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD COLLECTION",Casino Royale (2006)
-https://ucaf2d503fc42594d3206384f619.dl.dropboxusercontent.com/cd/0/inline/C5JpwRudlXbzkzUI2aX_SaJloxNrx7w1opxLNMEi1JCyILK79kueeXu66Nxg1LKLpTfXQwxOpOiRAyydcojBIlHQI4t-maBZ0PzhP7lH2Nhw5ppSx8rwk0pM2tcC-mPsmZpub2PbcKkrqiyN-CAWi2Sb/file
 https://cloud.hownetwork.xyz/xxx/25845ea4f4a73816b22dc2bbbce0f0f9/2/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -989,8 +989,9 @@ https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwjPBI-KlM3dSAKKDggVBkkNXwAIzFcMnVwSHt
 https://cloud.hownetwork.xyz/xxx/ae82c11613d2b04015513c38af164cd4/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdjNDQ3ZTEtY2Y1Mi00NmE1LWI3NWEtY2VkOTY1ODFkYTY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Thor 2 The Dark World (2013)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Thor%20The%20Dark%20World%202013-1-720.mp4
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDMyMjlf?temp_key=N%1A%2B%DBD%E1%7Bm%03j%B96%D1j%2B%95%DD%B4%DBMw%D7%BD%B4%9A%9E&inline=1
 https://www.dropbox.com/scl/fi/vdldl7xvps1gdjdgjxn01/Thor-The-Dark-World-2013.mp4?rlkey=8yjq91g8mg9qzx3qo466kqxt8&st=i7z2ui91&dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
