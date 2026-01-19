@@ -3,6 +3,21 @@
 
 ######################################################▶ VOD ASEAN#####################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/13168.jpg" group-title="▶ VOD ASEAN",A Day
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTk4MDFf?temp_key=%03m%03k-%B4%DBM%7B%9A%9E&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/12341.jpg" group-title="▶ VOD ASEAN",Hot Blooded
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru30/Hot%20Blooded%202022.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/11265.jpg" group-title="▶ VOD ASEAN",Sea Fog
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTI4MDVf?temp_key=I%E6%B6%D0Z+%DBM%B4%D7%89%A9&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/8771.jpg" group-title="▶ VOD ASEAN",Money
+https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTgzNjhf?temp_key=2%89%DE%CBm6%D3_f%A7&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/2591.jpg" group-title="▶ VOD ASEAN",Black Money
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/28/Black%20Money%202019.mp4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY1ZTMyZGUtNmRlMC00NDFhLWI5NTUtOWI0YzU1YjkyNmM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN",Crypto Man (2025)
