@@ -308,7 +308,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TV3.my"  tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
@@ -323,43 +323,46 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TV6.my" tvg-name="TV6" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTINF:-1 group-title="MY Freeview" tvg-id="DidikTVKPM.my" tvg-name="DidikTv KPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTv KPM
+#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTINF:-1 group-title="MY Freeview" tvg-id="8TV.my" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTINF:-1 group-title="MY Freeview" tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
+#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Awesome" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png" group-title="MY Freeview",Awesome TV
 http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 
-#EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="MY Freeview",Degup
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.api.tm.quickplay.com/getlicense?service=tm&version=1.0&kid=A1623B76-6E4B-48EB-88CE-A29E1C309CC7&ptoken=eyJjb250ZW50SWQiOiJBMTYyM0I3Ni02RTRCLTQ4RUItODhDRS1BMjlFMUMzMDlDQzciLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc2MDU1MzU4MTE2MSwiZW50aXRsZWRDb250ZW50SWRzIjoiUVRFMk1qTkNOell0TmtVMFFpMDBPRVZDTFRnNFEwVXRRVEk1UlRGRE16QTVRME0zIiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiM2Q1Zjg4NzY4ODA3ODZkMDY1ODFkOWRjOWFlNjIzMGMyZTA2OWUxN2YwODZkMDhkMWUyYWRmNGE5MzQ4M2RiNSIsInVuaXF1ZUlkIjoiMTU0YjI1NTEtYmVkYy00MDRhLTlkM2EtYTI1NzExZGMyNDQ4IiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTc2MDUxMDQ0MTE2MSwiY3JlYXRlZFRpbWUiOjE3NjA1MTAzODExNjEsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ==
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="MY Freeview",Degup
 #https://get.perfecttv.net/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
 https://get.perfecttv.net/degup/degup.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="RockEntertainment.id" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="MY Freeview",Rock Entertainment
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockent.my
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+###EXTINF:-1 tvg-id="RockEntertainment.id" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="MY Freeview",Rock Entertainment
+###KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+###https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockent.my
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="RockAction.id" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="MY Freeview",Rock Action
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction.my
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+###EXTINF:-1 tvg-id="RockAction.id" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="MY Freeview",Rock Action
+###KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+###https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction.my
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -5075,7 +5078,3 @@ https://cloud.hownetwork.xyz/xxx/f3b9e5770d07c302ea0485a9849998fb/11/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Sonic the Hedgehog 3 (2024)
 https://cloud.hownetwork.xyz/xxx/084a9c8e7a6f8af954c9e11672dfd98a/25/480.m3u8
 
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-###EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
-###EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/7yicv34fs63590jku039b/1739668059352920604769934594726.png?rlkey=bo9fjd4x0m24sxi69vv9qfejh&st=fn0g55fp&dl=1" group-title="▶ VOD ENGLISH",Sonic the Hedgehog 3 (2024)
-###https://www.dropbox.com/scl/fi/mx6798cn5ukvww8n3pacn/sonic.mp4?rlkey=wsj6fowuec67ikbhbljky3a72&st=6e0ag9q8&dl=1
