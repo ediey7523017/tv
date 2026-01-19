@@ -14,6 +14,11 @@ https://web.opendrive.com/api/v1/download/file.json/NDZfODk2NDQ0NzFf?temp_key=%3
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDhhODU1OWQtYWU4NC00MzIzLTk1YTMtZjA5OTdjMDlmODNmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Hungama (2003)
 https://www.dropbox.com/scl/fi/2acm93zmp32ku5jbzvr19/Hungama-2003.mp4?rlkey=h8hxgm9dh6inykkumgrm7c134&st=x70ju185&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/19801.jpg" group-title="▶ VOD BOLLYWOOD",Sikandar Ka Muqaddar
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/tamil36/Sikandar%20Ka%20Muqaddar%202024-1-720.mp4
+
+
+
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/22569.jpg" group-title="▶ VOD BOLLYWOOD",Jaan-E-Mann
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Jaan-E-Mann%202006.mp4
 
@@ -1480,8 +1485,16 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Raatchasi.mp4
 
 ######################################################################▶ VOD INDIA#########################################################
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFiMzEzZTQtZjFiZC00YjhjLTk3Y2QtYzA2MjE4MmRiNzdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Dude (2025)
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD INDIA",
 
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/97.jpg" group-title="▶ VOD INDIA",Devi 2
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil1/Devi%202%20HDRip%20(2019).mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/1766.jpg" group-title="▶ VOD INDIA",Devi
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/12/Devi%20(2016)-indon.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/532.jpg" group-title="▶ VOD INDIA",Petromax
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil6/Petromax%20(2019)%20HDRip.mkv
 
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlYWM0ZmUtN2FjZi00ZDFkLTgwMDgtYmM2OTEyMTNlZTI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Thandakaaranyam (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Thandakaaranyam%20(2025).mp4
