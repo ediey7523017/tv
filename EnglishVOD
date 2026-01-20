@@ -3,8 +3,25 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
-#EXTINF:-1 type="movie" tvg-logo=https://vvww.ohflix.my.id/uploads/video_thumb/623.jpg"" group-title="▶ VOD ENGLISH",Arctic (2018)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2020/08/film-legacy-of-lies-2020-lk21.jpg" group-title="▶ VOD ENGLISH",Legacy of Lies (2020)
+https://cloud.hownetwork.xyz/xxx/c9a2db8663cab2e54c5c05a96dae8903/3/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/623.jpg" group-title="▶ VOD ENGLISH",Arctic (2018)
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Arctic%20(2018)%20720p%20Bluray%20Malay%20Hardsub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/633.jpg" group-title="▶ VOD ENGLISH",Boyka Undisputed IV
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Boyka-%20Undisputed%20IV%20(2017)%20BluRay%20720p%20853MB%20-[NSM].mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/992.jpg" group-title="▶ VOD ENGLISH",Undisputed III Redemption
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Undisputed_3_Redemption_2010.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/990.jpg" group-title="▶ VOD ENGLISH",Undisputed II Last Man Standing
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Undisputed%202%20(20o6).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/623.jpg" group-title="▶ VOD ENGLISH",Undisputed
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Undisputed.2002.720p.BluRay.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv7.lk21official.cc/
