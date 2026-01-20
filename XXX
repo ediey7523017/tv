@@ -3,6 +3,30 @@
 
 ################################################▶ FILIPINA##################################################
 
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",JUFE-101
+https://surrit.com/53fd5c2a-ab77-470f-a03f-a19f49a2c6a9/480p/video.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",JUFD-868
+https://surrit.com/370dc210-270d-479d-b019-d0a25c37be6c/480p/video.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",JUFE-044
+https://surrit.com/0bf78125-a239-406e-bb9e-809b14ea6f43/480p/video.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdnupload.com/wp-content/uploads/2026/01/Karaoke-Girls-2026.jpg" group-title="XXX",
+https://m3u8-play-240924.playkrx18.site/m3u8/tp1-rdv1/720/64ca9e03aa97fec013a4c341/6969b58b9d3c04d8ad47d3a7/53616c7465645f5f5070d4ce13af0b5febe0d40833fe9976f4f5ba2bde8f0d98/1768935380/ea0ebc224cb70818c2a5d2d00e386bf5
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdnupload.com/wp-content/uploads/2026/01/Karaoke-Girls-2026.jpg" group-title="XXX",Karaoke Girls
+https://m3u8-play-240924.playkrx18.site/m3u8/tp1-rdv1/1080/64ca9e03aa97fec013a4c341/696ed0d89d3c04d8ad48062e/53616c7465645f5f997960a360e85b93694f668d6854b5395a4393d8dd6a4f01/1768935189/e1e01f58a57972bff8a8f05a3a56d8ce
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdnupload.com/wp-content/uploads/2026/01/Angkinin-mo-ako-2026a.jpg" group-title="XXX",Angkinin mo ako
+https://m3u8-play-240924.playkrx18.site/m3u8/tp1-rdv1/1080/64ca9e03aa97fec013a4c341/696ec0189d3c04d8ad4803e4/53616c7465645f5f30c16b01c714698d6c9237307e7af6dcde56a4a4754c15dd/1768935539/18562ac9421e5def404a92d7b2983a9d
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/01/Aquarium.jpg" group-title="XXX",Aquarium
+https://hls.khflix.top/Aquarium/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/01/Kapatid-Sa-Labas.jpg" group-title="XXX",Kapatid Sa Labas
+https://hls.khflix.top/Kapatid.Sa.Labas/index.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/01/kd11696ab32WhHUeq5ZkWi9k09Y.jpg" group-title="XXX",Sulutan
 https://hls.khflix.top/Sulutan/index.m3u8
 
