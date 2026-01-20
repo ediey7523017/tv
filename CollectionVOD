@@ -259,7 +259,7 @@ https://cloud.hownetwork.xyz/xxx/075d595b48bc5384a7f2c3161752a022/5/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTliYTE2NjUtNDkwZS00ZTNlLTgwN2MtMjZlOGJmODY5ZjE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD COLLECTION",Jumanji Welcome to the Jungle (2017)
 https://cloud.hownetwork.xyz/xxx/780ac18de2c288d4190c8c2399945d15/5/480.m3u8
 
-#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/809.jpg",Jumanji
+#EXTINF:-1 type="movie" group-title="▶ VOD COLLECTION" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/809.jpg",Jumanji
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Jumanji%20(1995)%20Bluray%20720p%20Malay%20Hardsub.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
