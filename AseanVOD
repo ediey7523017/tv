@@ -3,6 +3,9 @@
 
 ######################################################▶ VOD ASEAN#####################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://i.mydramalist.com/jQAkkb_4f.jpg" group-title="▶ VOD ASEAN",Blocking the Horse (2025)
+https://fift.larhu.website/hls/vxzxg5naqoqfycihmtk7zxnvad6akxytl2uys3hg6yplexlhi57scm3aqxla/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/13168.jpg" group-title="▶ VOD ASEAN",A Day
 https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTk4MDFf?temp_key=%03m%03k-%B4%DBM%7B%9A%9E&inline=1
 
