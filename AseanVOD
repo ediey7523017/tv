@@ -1277,24 +1277,21 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Nezha%20C
 
 ##########################################################################VOD INDONESIA#####################################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="httpscGc@._V1_.jpg" group-title="▶ VOD INDONESIA",La Tahzan (2025)
+https://fift.larhu.website/hls/vxzxhlf5qoqfycihmtk7zxf6bifxduiixosyw46dbwuxe6q3nrsp5klfp6qa/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY3MTA3ZTctNWI1OS00MzYxLTg0OWUtM2M0YTQ4N2M0MmMzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDONESIA",La Tahzan (2025)
-https://minochinos.com/stream/FEy3JVbZpkP208IBw_WO1Q/hjkrhuihghfvu/1767718394/35743993/index-v1-a1.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODk1OTU1Y2ItNjk2Zi00NzdjLWFhYWItZTgxNDE5OThkNzVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDONESIA",Pamali Tumbal (2025)
-https://imaxstreams.net/stream/_pyALLIYAotkIJ7_QliKyQ/kjhhiuahiuhgihdf/1767715719/66774661/index-v1-a1.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY0ZGRiMDQtY2JhOC00ZTVhLWIwNWUtNjBjYzZiYjhiMjFkXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDONESIA",Arwah (2025)
-https://imaxstreams.com/stream/fwJerHdVtnkbzAgeR003hw/hjkrhuihghfvu/1767715411/36067146/index-v1-a1.m3u8
-https://imaxstreams.net/stream/Nd36YVo8Z6raHKryhw908w/kjhhiuahiuhgihdf/1767715458/66777905/index-v1-a1.m3u8
+
 
 #EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU2YjE0ZjctNmQ1Mi00NGVjLTlkNGEtNzJiMTYxNTE2NTdhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",Sijjin (2023)
-https://pub-3d90e1cc79e34865a9901f6f4e3c692a.r2.dev/Sijjin.2023.720p.WEB-DL.MalaySub.bymovieclub.mp4
+https://web.opendrive.com/api/v1/download/file.json/NzJfNDcyMDczMTFf?temp_key=J%28%E3%8A%7D%B4%DBM%B7%D7%BD%B4%9A%9E&inline=1
+
 #EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIxZmE1OWEtZjYyNi00MjMyLWI1YzgtY2FlMWE0YjNiMTk0XkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",Saranjana: Kota Ghaib (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Saranjana.Kota.Ghaib.2023.1080p.WEB-DL.MalaySub.MSM.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMyOTA1YzEtODZjZS00ZTgwLWE4MTYtZWNhMTY2ZjU2MTVhXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg", Sewu Dino (2023)
