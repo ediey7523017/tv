@@ -8,452 +8,229 @@
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=a5b607bdb3da585f0564f9ec6491d510:ea77dc9e6d06ca58d5e424794e6829f3
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/beetlejuice2024.jpg",Beetle Juice 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOONW_IVP_LAND_448x252_7C0F9_2025710_133710.jpg",BeetleJuice (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b48b9365-b71f-5e0c-93eb-1f2227e3f68a/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=c7ed8bf9d10c7dce1eac14d0b8de9610:623db46477ed9cc93e4e9919d9c4e599
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/jiwa182024.jpg",Jiwa 18 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkZDA0M2YtMzliNS00YzY0LWE3Y2EtNjYxOWFjYzcwOGVlXkEyXkFqcGc@._V1_.jpg",Jiwa 18 (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/9b4a322d-7a67-51de-85c5-06b0257f1cd5/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=a2e36e866278297dc4fd6b44c9136810:1c9141ee3d020633af07bd8c2ec03f2a
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/pakutanahjawa2024.jpg",Paku Tanah Jawa 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vde9dinWwNXPW7EkLvhCRc5DtaI.jpg",Paku Tanah Jawa (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/8e9b15c9-6e5d-531a-8602-3e6088df7cdb/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=42a2d3fc7e909f9ff12bbbc3bec5f110:72288380fc78de3f36b31541cc43520d
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/handsomeguys2024.jpg",Handsome Guys 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYXV_IVP_LAND_448x252_81F44_2025128_101048.jpg",Handsome Guys (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f4d8afa4-7e17-5edd-bc65-894310de04f3/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=14a31c1e5f70dd6095a10f428446f110:b957efb6a4d71e0dce896b03c33a4586
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/telekinesis2024.jpg",Telekinesis 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8KEjjeJ8Ix4WRPPdksmxzqGEplU.jpg",Telekinesis (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/fd635c11-1aef-5cd8-aa52-94a125f6dfa6/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=fb5d8d29833c7a5feafe37a418963b10:99c8e4336dea23199e0fa88266315880
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/purplecrayon2024.jpg",Harold and Purple Crayon 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",Harold and Purple Crayon (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ffb25971-a87a-5778-a003-73307331af0d/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=fa86f27f7b2fccb5d5776551ada95810:4fe75f6fe382c606739ed0e86de7b84e
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/lampir2024.jpg",Lampir 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hu1AMgk1U8eny5G4zUH5TAgkyz6.jpg",Lampir (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/7b8e0a72-d310-56de-abd6-2597a53daa1c/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=3c0d9dce63c9eff6c158faa798bb0110:d1c81980c58b5f6f2b1f1acc2f469da3
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/hijack19712024.jpg",Hijack 1971 (2024)
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/68jNkFi61MQjrJEqj2up5wZ4w5R.jpg",Hijack 1971 (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c186a37c-6d84-5cb1-a081-d382ecf5ddcd/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=5f5876d6d868934e91611b24c54bde10:b53bf99c9b7f57ebebdf4bf0d86bbdcc
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/despicable2024.jpg",Despicable Me 4 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",Despicable Me 4 (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/071886f2-5831-51dc-b328-afb8c94b4bea/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=24f3139016d9bb78585811a2a191bd10:6ee6d40bfa8f1fc43fa717774c60d4e8
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/ultramanginga2024.jpg",Ultraman Ginga S 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/62c0hsfqi3EB9px96GLb7A8u6iz.jpg",Ultraman Ginga S (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/338c7334-6fb5-5fd1-8aac-b56315e2ef85/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=e00d7d226f27208121479385a4a20b10:feec00b0bc5ef867da6452d296d904de
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/quietplacedayone2024.jpg",A Quiet Place Day 1 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNRAM_IVP_LAND_448x252_7C666_2025624_192551.jpg",A Quiet Place Day One (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/0a5d9373-340a-5783-be8e-c00bb8ab2196/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=044f3b0e2540b722dbf66ec8ee7aa410:6db819a84bb8b48bc38180c75a7c54b2
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/watchers2024.jpg",The Watchers 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLSYZ_IVP_LAND_448x252_8D674_20251230_151641.jpg",The Watchers (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ec79fcd9-446a-5694-9958-e47a75adf37a/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=9c5654904348e9e1213efc47fa65f410:5b0c58fc8e4bdc5199764a4555845ee1
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/twisters2024.jpg",Twister 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPWPD_IVP_LAND_448x252_7F523_2025710_134021.jpg",Twister (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/2469b070-c300-56e2-9da3-9a0ef31c1816/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=ab115ed13e9bddc2299a4eda5cd73410:a07f55bd1bdc2ef7e921d9597677e7c4
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/if2024.jpg",IF 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMTGX_IVP_LAND_448x252_79D74_2025624_19238.jpg",IF (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/7f8a84a0-19ab-55dc-83ad-4454cfa8ef41/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=cf625b09eaeb98dad939df9581262a10:40cc9997a8cc658ac6b262b2aab18cc4
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/thecursed2024.jpg",The Curse 2024 
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNDGK_IVP_LAND_448x252_829C2_2025220_35822.jpg",The Curse (2024) 
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/0170f1d3-4f46-56e2-8b89-84030abf6018/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=979ce26e91eaa0e122043b3f80818110:b238cb7b255e830193ab4cc686884ecf
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/rathnam2024.jpg",Rathnam 2024 
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNMRB_IVP_LAND_448x252_2024719_161716.jpg",Rathnam (2024) 
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/766eb135-89b7-538d-90da-5b3d727669d4/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=2d41007e4ccd8094cdd91aeb02473b10:c86ca240eacef5e6aa4ed45b64901705
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/romeo2024.jpg",Romeo 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOBAX_IVP_LAND_586x330_2024719_1100.jpg",Romeo (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/d8cb626d-66d0-56ac-aac9-5f4eca7bced9/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=7786a7a7a46f28ebd7adaa91b1cd2210:1a52c5f3a2cab283385e0af7b75e1792
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/shruthi2024.jpg",My Name Shruti 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNUCN_IVP_LAND_448x252_2024719_111713.jpg",My Name Shruthi (2024)
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/41a81671-ed9d-58d7-ab5a-d48c029dacdc/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f3f78db63d6294b5f1bf198080f3a710:784e95f7d2db0386bc6faafbaf294dff
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/tarot2024.jpg",Tarot 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",Tarot (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/9a5679e9-ace8-590a-8843-ba12019799e7/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=33cf4c54194b60161c6a12c617c12e10:6f7dfa2e800403a4527e26463c4b705a
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/badboys2024.jpg",Bad Boys 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oGythE98MYleE6mZlGs5oBGkux1.jpg",Bad Boys Ride or Die (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/2813bed5-d159-50c9-9cc7-7668f24295b5/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f1ec03ed72195311c5365aae1757be10:ffc14a502dca4d635188b130942de589
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/vikram2024.jpg",Vikram 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBZOG_IVP_LAND_586x330_62502_20251016_84749.jpg",Vikram (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f0c3c9bd-d76a-5e0a-81fd-f1143b6f67bd/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=732b162752464ddd68f4112d04056e10:4b4ff75bbff8761893f56c4f2a185163
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/siren2024.jpg",Siren 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMZDA_IVP_LAND_917x516_2024513_111314.jpg",Siren (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/51558f66-f240-5f04-89a5-38384c17492e/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=31438377a746e36ac6e4bb8422c6d910:c4e83bbce5237128cc0f6566d631c8d0
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/maharaja2024.jpg",Maharaja 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/s0m4TM1XRAftQStgKpw024RvkJo.jpg",Maharaja (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/86ee1805-30f5-5a86-a2ef-08eac163993e/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=65a10660ac4b6e1cfc85112af6358b10:041fa0c7cf85cbad9cc3a3284680346f
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/abigail2024.jpg",Abigail 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",Abigail (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e71ae9d0-1e34-5d2f-b734-73f31e0f58b5/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=4e6aae74347b1b8f8952822229f1a410:edc733dcb2aebd608d63c2e0a779719b
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/garfield2024.jpg",The Garfield 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xYduFGuch9OwbCOEUiamml18ZoB.jpg",The Garfield Movie (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/6b925e24-974f-574a-a798-07927003c9b7/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=d818cd437470152ab1f1d4c58de0f410:cb6ae99436baef9195f8bed2376e3c2f
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/ghostbusters2024.jpg",Ghostbusters 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",Ghostbusters Frozen Empire (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/28e8a6fe-98c5-5f0c-a2ae-2e193f0142a0/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=924629e4321c1ddab4fcf01cd86def10:46f90913f4e64e7c6dcc9e00510b3c81
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/furiosa2024.jpg",Furiosa 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vjyrLHDKNWBUFQitdUemYfMrr8T.jpg",Furiosa (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/7c079dbc-a62b-5b63-a04f-64eda34f361a/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=17506d6777ad16676b3af3ca1a3fc210:13e65797d007aff9ee592b0d8ea2987d
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/godzillakong2024.jpg",Godzilla X Kong 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLEJX_IVP_LAND_448x252_86ED1_2025628_92042.jpg",Godzilla X Kong (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/fcfd553b-b611-5664-b2f0-0e306c5c31a9/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=e5b9235ef525feb7035cace947fc0310:51a64000d9d9600d5845399427f7f45b
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/monkeyman2024.jpg",Monkey Man 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",Monkey Man (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/98cc9ade-483f-5056-b620-5d039599aa5d/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=77a1eb5d87ab3d71c08aa89bc24dd410:251cbc0ece31d5b8a4a86c5b07576281
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/madamweb2024.jpg",Madame web 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",Madame web (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/d31650bc-4469-52c7-9ff5-3843f2c50a62/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=d1c88a90651d1afe62ba6f5c3eebdb10:4c8ab4165be0dce7c1da2d866c8822a3
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/lightsout2024.jpg",Lights Out 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg",Lights Out (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c161e6a9-1eff-5a00-8038-194923df8e3f/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=51291793e54b7c9efb4cf1baf8b3c110:f358e2bc2d32e893740c7889c5cc67a9
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://perfecttv.net/first/thanksgiving2024.jpg",Thanksgiving 2024
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rTI2utjOJxCyALzKETS63xArjJM.jpg",Thanksgiving (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e3ea91fd-e682-55e1-b01a-68f74dadab20/default_dash.mpd
 
 
 ###########################################################################Astro VOD#############################################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=a5b607bdb3da585f0564f9ec6491d510:ea77dc9e6d06ca58d5e424794e6829f3
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/beetlejuice2024.jpg",Beetle Juice 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b48b9365-b71f-5e0c-93eb-1f2227e3f68a/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=c7ed8bf9d10c7dce1eac14d0b8de9610:623db46477ed9cc93e4e9919d9c4e599
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/jiwa182024.jpg",Jiwa 18 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/9b4a322d-7a67-51de-85c5-06b0257f1cd5/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=a2e36e866278297dc4fd6b44c9136810:1c9141ee3d020633af07bd8c2ec03f2a
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/pakutanahjawa2024.jpg",Paku Tanah Jawa 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/8e9b15c9-6e5d-531a-8602-3e6088df7cdb/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=42a2d3fc7e909f9ff12bbbc3bec5f110:72288380fc78de3f36b31541cc43520d
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/handsomeguys2024.jpg",Handsome Guys 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f4d8afa4-7e17-5edd-bc65-894310de04f3/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=14a31c1e5f70dd6095a10f428446f110:b957efb6a4d71e0dce896b03c33a4586
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/telekinesis2024.jpg",Telekinesis 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/fd635c11-1aef-5cd8-aa52-94a125f6dfa6/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=fb5d8d29833c7a5feafe37a418963b10:99c8e4336dea23199e0fa88266315880
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/purplecrayon2024.jpg",Harold and Purple Crayon 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ffb25971-a87a-5778-a003-73307331af0d/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=fa86f27f7b2fccb5d5776551ada95810:4fe75f6fe382c606739ed0e86de7b84e
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/lampir2024.jpg",Lampir 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/7b8e0a72-d310-56de-abd6-2597a53daa1c/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=3c0d9dce63c9eff6c158faa798bb0110:d1c81980c58b5f6f2b1f1acc2f469da3
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/hijack19712024.jpg",Hijack 1971 (2024)
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c186a37c-6d84-5cb1-a081-d382ecf5ddcd/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=5f5876d6d868934e91611b24c54bde10:b53bf99c9b7f57ebebdf4bf0d86bbdcc
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/despicable2024.jpg",Despicable Me 4 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/071886f2-5831-51dc-b328-afb8c94b4bea/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=24f3139016d9bb78585811a2a191bd10:6ee6d40bfa8f1fc43fa717774c60d4e8
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/ultramanginga2024.jpg",Ultraman Ginga S 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/338c7334-6fb5-5fd1-8aac-b56315e2ef85/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=e00d7d226f27208121479385a4a20b10:feec00b0bc5ef867da6452d296d904de
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/quietplacedayone2024.jpg",A Quiet Place Day 1 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/0a5d9373-340a-5783-be8e-c00bb8ab2196/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=044f3b0e2540b722dbf66ec8ee7aa410:6db819a84bb8b48bc38180c75a7c54b2
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/watchers2024.jpg",The Watchers 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ec79fcd9-446a-5694-9958-e47a75adf37a/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=9c5654904348e9e1213efc47fa65f410:5b0c58fc8e4bdc5199764a4555845ee1
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/twisters2024.jpg",Twister 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/2469b070-c300-56e2-9da3-9a0ef31c1816/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=ab115ed13e9bddc2299a4eda5cd73410:a07f55bd1bdc2ef7e921d9597677e7c4
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/if2024.jpg",IF 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/7f8a84a0-19ab-55dc-83ad-4454cfa8ef41/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=cf625b09eaeb98dad939df9581262a10:40cc9997a8cc658ac6b262b2aab18cc4
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/thecursed2024.jpg",The Curse 2024 
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/0170f1d3-4f46-56e2-8b89-84030abf6018/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=979ce26e91eaa0e122043b3f80818110:b238cb7b255e830193ab4cc686884ecf
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/rathnam2024.jpg",Rathnam 2024 
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/766eb135-89b7-538d-90da-5b3d727669d4/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=2d41007e4ccd8094cdd91aeb02473b10:c86ca240eacef5e6aa4ed45b64901705
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/romeo2024.jpg",Romeo 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/d8cb626d-66d0-56ac-aac9-5f4eca7bced9/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=7786a7a7a46f28ebd7adaa91b1cd2210:1a52c5f3a2cab283385e0af7b75e1792
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/shruthi2024.jpg",My Name Shruti 2024
-https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/41a81671-ed9d-58d7-ab5a-d48c029dacdc/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=f3f78db63d6294b5f1bf198080f3a710:784e95f7d2db0386bc6faafbaf294dff
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/tarot2024.jpg",Tarot 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/9a5679e9-ace8-590a-8843-ba12019799e7/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=33cf4c54194b60161c6a12c617c12e10:6f7dfa2e800403a4527e26463c4b705a
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/badboys2024.jpg",Bad Boys 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/2813bed5-d159-50c9-9cc7-7668f24295b5/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=f1ec03ed72195311c5365aae1757be10:ffc14a502dca4d635188b130942de589
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/vikram2024.jpg",Vikram 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f0c3c9bd-d76a-5e0a-81fd-f1143b6f67bd/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=732b162752464ddd68f4112d04056e10:4b4ff75bbff8761893f56c4f2a185163
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/siren2024.jpg",Siren 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/51558f66-f240-5f04-89a5-38384c17492e/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=31438377a746e36ac6e4bb8422c6d910:c4e83bbce5237128cc0f6566d631c8d0
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/maharaja2024.jpg",Maharaja 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/86ee1805-30f5-5a86-a2ef-08eac163993e/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=65a10660ac4b6e1cfc85112af6358b10:041fa0c7cf85cbad9cc3a3284680346f
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/abigail2024.jpg",Abigail 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e71ae9d0-1e34-5d2f-b734-73f31e0f58b5/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=4e6aae74347b1b8f8952822229f1a410:edc733dcb2aebd608d63c2e0a779719b
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/garfield2024.jpg",The Garfield 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/6b925e24-974f-574a-a798-07927003c9b7/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=d818cd437470152ab1f1d4c58de0f410:cb6ae99436baef9195f8bed2376e3c2f
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/ghostbusters2024.jpg",Ghostbusters 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/28e8a6fe-98c5-5f0c-a2ae-2e193f0142a0/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=924629e4321c1ddab4fcf01cd86def10:46f90913f4e64e7c6dcc9e00510b3c81
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/furiosa2024.jpg",Furiosa 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/7c079dbc-a62b-5b63-a04f-64eda34f361a/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=17506d6777ad16676b3af3ca1a3fc210:13e65797d007aff9ee592b0d8ea2987d
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/godzillakong2024.jpg",Godzilla X Kong 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/fcfd553b-b611-5664-b2f0-0e306c5c31a9/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=e5b9235ef525feb7035cace947fc0310:51a64000d9d9600d5845399427f7f45b
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/monkeyman2024.jpg",Monkey Man 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/98cc9ade-483f-5056-b620-5d039599aa5d/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=77a1eb5d87ab3d71c08aa89bc24dd410:251cbc0ece31d5b8a4a86c5b07576281
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/madamweb2024.jpg",Madame web 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/d31650bc-4469-52c7-9ff5-3843f2c50a62/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=d1c88a90651d1afe62ba6f5c3eebdb10:4c8ab4165be0dce7c1da2d866c8822a3
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/lightsout2024.jpg",Lights Out 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c161e6a9-1eff-5a00-8038-194923df8e3f/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=51291793e54b7c9efb4cf1baf8b3c110:f358e2bc2d32e893740c7889c5cc67a9
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://perfecttv.net/first/thanksgiving2024.jpg",Thanksgiving 2024
-http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e3ea91fd-e682-55e1-b01a-68f74dadab20/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -21603,7 +21380,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/3ec3d9dc-
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=26225148e68d7e472bef63db4895046d:a26a2788358804102d329a71fc64fe46
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jGKreGg9s4ruL25UFt7budrGJfy.jpg" group-title="Vivamax",Forbidden Desire
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/x0IwIYvKzYWraEpKM8yMTQMiFKF.jpg" group-title="Vivamax",Forbidden Desire
 https://cdnbp.vivamax.net/video/T99969FFLMFORBIDDENDESIRE_7386037af5ab3cd7a23421ae2c64aefed8416e69c3d9a38b221ac3a5082dfb73/dash/hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
