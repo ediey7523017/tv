@@ -351,15 +351,6 @@ https://cloud.hownetwork.xyz/xxx/NhckLGgOFjUhORI-bgJmandVHgsHPTseGg5Pe3FRYmgjTQ/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZlMWM0YTQtMjZjZi00NTQyLTk2NTctOWExMzg2ZjQyYmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN",Host (2025)
 https://cloud.hownetwork.xyz/xxx/Khc6OmhLR3N3fCAJAXQaBxonKHt0SUZwIzA/25/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccixawV7majgSNvg40CcSHuIapYKN-MCCogvUpj21sbgkJzUecZFOPaM&s=10" group-title="▶ VOD ASEAN",Jalan Pulang (2025)
-https://vdkzfuwkpzz7q.premilkyway.com/hls2/01/12625/yzykt9j2opqc_n/index-v1-a1.m3u8?t=n-kxGxawrZLoTXzGMznV60LDPsX1-WCCU-F2X9v854M&s=1765943571&e=129600&f=63126908&srv=yEbrSpZaZQvW6&i=0.4&sp=500&p1=yEbrSpZaZQvW6&p2=yEbrSpZaZQvW6&asn=4818
-
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4YzRhMjAtNGVkMC00ZWE0LThjZjMtYmI4ZWRiZTA2NmNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN",Sihir Pelakor (2025)
-https://dario83027.takeplcdn.fit/d/e2zagtcyo7hvw4m6gkv5xky43cwseifftxs7aq3flwmmx77kqsdiytqvaslznzprrmvhz2b7/Sihir.Pelakor.2025.720p.WEB.AAC.x264.MSM.mkv
-
-#EXTINF:-1 type="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjRlYjRhNzQtMDc4ZS00NTY0LWFmNTUtODk4YWVkMjk0MDI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN",Kitab Sijjin & Illiyyin (2025)
-https://fcgbwu5x4pis.drewimplemnt.top/d/ggza5wcyo7hvw4m6bov5f3k6yymtxyzlhi7ejr5i2y2gezx4b4arzrvjddlcradihcpv537f/Kitab.Sijjin.and.Illiyyin.2024.720p.MalaySub.WEB.MSM.mp4
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmYzMzA5OWEtMTdiYy00NjEyLTg4ZDAtNjZhMWY3Y2NlOTEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN",Hansel and Gretel (2007)
@@ -1277,20 +1268,66 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Nezha%20C
 
 ##########################################################################VOD INDONESIA#####################################################################
 
-#EXTINF:-1 type="movie" tvg-logo="httpscGc@._V1_.jpg" group-title="▶ VOD INDONESIA",La Tahzan (2025)
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xIEDbEwWAeV7OpeYlJKmR1aPtwk.jpg" group-title="▶ VOD INDONESIA",Labinak Mereka Ada di Sini (2025)
 https://fift.larhu.website/hls/vxzxhlf5qoqfycihmtk7zxf6bifxduiixosyw46dbwuxe6q3nrsp5klfp6qa/index-v1-a1.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY3MTA3ZTctNWI1OS00MzYxLTg0OWUtM2M0YTQ4N2M0MmMzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDONESIA",La Tahzan (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/y2IWi91VN8fS7kQffz1ifD2wTRr.jpg" group-title="▶ VOD INDONESIA",La Tahzan (2025)
+https://www.dropbox.com/scl/fi/w7zmrzfm2jldcdebrmmsm/La-Tahzan-2025.mp4?rlkey=hvdpii8lhcspjlblohe2t7nku&st=ilebdum7&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gFngyELRl5T8k4I37cE1rqiUMgr.jpg" group-title="▶ VOD INDONESIA",Pamali Tumbal (2025)
+https://www.dropbox.com/scl/fi/827ez49ym9774kkr2op1w/Pamali-Tumbal-2025.mp4?rlkey=9q2vekis3a52d8orpsd1mt5ul&st=v41qlgj0&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODk1OTU1Y2ItNjk2Zi00NzdjLWFhYWItZTgxNDE5OThkNzVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDONESIA",Pamali Tumbal (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8t8BdgEHi61GdZNIGAo5np7oKGU.jpg" group-title="▶ VOD INDONESIA",Panggilan Dari Kubur (2025)
+https://www.dropbox.com/scl/fi/rirjo150zcesbxpyqxob9/Panggilan-Dari-Kubur-2025.mp4?rlkey=ttfn4nefrmxy7bkbs02sbwk5t&st=v2l2b856&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3v24kc1jJwiYtC1CqOYebRbEX7h.jpg" group-title="▶ VOD INDONESIA",Arwah (2025)
+https://www.dropbox.com/scl/fi/n7w5ekn89ygm7frh88e0p/Arwah-2025.mp4?rlkey=lejfp4zubvn00ruevbox3xuxi&st=kd3isvgw&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY0ZGRiMDQtY2JhOC00ZTVhLWIwNWUtNjBjYzZiYjhiMjFkXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDONESIA",Arwah (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8cCA4pKow6wxuwbpSAgIC2K7AGg.jpg" group-title="▶ VOD INDONESIA",Jalan Pulang (2025)
+https://www.dropbox.com/scl/fi/05la887afzfzfsakvb7yh/Jalan-Pulang-2025.mp4?rlkey=5evafjolmv1z2v0p9cuobmn9z&st=lau0hpop&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n4YGTt7Oju3MM91QxaArXMFOOu8.jpg" group-title="▶ VOD INDONESIA",Sihir Pelakor (2025)
+https://www.dropbox.com/scl/fi/nyo5qt88egzo34aiz57id/Sihir-Pelakor-2025.mkv?rlkey=uqcxwiq5u3q7k1x8mvujc84tx&st=5wvp5bjg&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU2YjE0ZjctNmQ1Mi00NGVjLTlkNGEtNzJiMTYxNTE2NTdhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",Sijjin (2023)
+#EXTINF:-1 type="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6WTcQ95kWMLBi4HtxopXUW3QIsE.jpg" group-title="▶ VOD INDONESIA",Kitab Sijjin & Illiyyin (2025)
+https://www.dropbox.com/scl/fi/c4w3i1cl9d3lji199hla7/Kitab-Sijjin-and-Illiyyin-2024.mp4?rlkey=bs3phfox159rfc2q71z6wx72u&st=uxjjh4ha&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ePnCjiv7vKUdIEijDS3ItD7wuCC.jpg" group-title="▶ VOD INDONESIA",Narik Sukmo (2024)
+https://www.dropbox.com/scl/fi/n4pqptei9m7lbaml3pv2r/Narik-Sukmo-2024.mp4?rlkey=8umnuxrv99kqcsk8rgkt73u6g&st=omiojl6n&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/23672.jpg" group-title="▶ VOD INDONESIA",Anak Kunti
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Anak%20Kunti%20(2025)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/13473.jpg" group-title="▶ VOD INDONESIA",Kuntilanak 3
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru33/Kuntilanak%203%202022.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/8762.jpg" group-title="▶ VOD INDONESIA",Kuntilanak 2
+https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTgzMTlf?temp_key=%2A%E9%ED%8AV%A7jM%B4%DBm6%D3_b%9D%DA%03%B9%BA%24%9A%9E&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/8761.jpg" group-title="▶ VOD INDONESIA",Kuntilanak
+https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTg0ODNf?temp_key=%2A%E9%ED%8AV%A7jM%B4%D7m6%D3_%22%9D%DA%03%B9%B9%A9&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/22958.jpg" group-title="▶ VOD INDONESIA",Pembantaian Dukun Santet
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Pembantaian%20Dukun%20Santet%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/17918.jpg" group-title="▶ VOD INDONESIA",Sijjin (2023)
 https://web.opendrive.com/api/v1/download/file.json/NzJfNDcyMDczMTFf?temp_key=J%28%E3%8A%7D%B4%DBM%B7%D7%BD%B4%9A%9E&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/23057.jpg" group-title="▶ VOD INDONESIA",Waktu Maghrib 2
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Waktu%20Maghrib%202%202024-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/23284.jpg" group-title="▶ VOD INDONESIA",Iblis
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/Iblis%20(2016)%20-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/23271.jpg" group-title="▶ VOD INDONESIA",Gasing Tengkorak
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/Gasing%20Tengkorak%20(2018)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/22964.jpg" group-title="▶ VOD INDONESIA",Qodrat 2
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Qodrat%202%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/14815.jpg" group-title="▶ VOD INDONESIA",Qodrat
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Qodrat%202022ok-1-720.mp4
 
 #EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIxZmE1OWEtZjYyNi00MjMyLWI1YzgtY2FlMWE0YjNiMTk0XkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",Saranjana: Kota Ghaib (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Saranjana.Kota.Ghaib.2023.1080p.WEB-DL.MalaySub.MSM.mp4
@@ -2457,3 +2494,4 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Jangan%20Tinggal%20Daku%20SDTV.mp4
 #EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Putus Sudah Kasih Sayang
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Putus%20Sudah%20Kasih%20Sayang%20SDTV.mp4
+
