@@ -5,6 +5,22 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="▶ VOD ENGLISH",The Rip (2026)
+https://cloud.hownetwork.xyz/xxx/MBE5Y3dJRXdvBjIOB3wJAB0afyx2QERxIw/38/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qwc6wH49pDytMsYGtcaVM1haYIr.jpg" group-title="▶ VOD ENGLISH",The Housemaid (2025)
+https://imaxstreams.com/stream/6B1-wMjgLR8qTwKFY0cKnw/hjkrhuihghfvu/1769227732/36351810/index-v1-a1.m3u8
+https://imaxstreams.net/stream/3M6cT7s3ouRgaEx41n2wUw/kjhhiuahiuhgihdf/1769227764/67149256/index-v1-a1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/760SP4VsZagpyB9WLfeZykE3DFg.jpg" group-title="▶ VOD ENGLISH",Sleepwalker (2026)
+https://imaxstreams.net/stream/XI1U6GAbXOth0_UsXTvGiQ/kjhhiuahiuhgihdf/1769228216/66945844/index-v1-a1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2020/08/film-legacy-of-lies-2020-lk21.jpg" group-title="▶ VOD ENGLISH",Legacy of Lies (2020)
 https://cloud.hownetwork.xyz/xxx/c9a2db8663cab2e54c5c05a96dae8903/3/480.m3u8
 
