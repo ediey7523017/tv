@@ -3,6 +3,12 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg" group-title="▶ VOD BOLLYWOOD",Tere Ishk Mein (2025)
+https://fift.larhu.website/hls/vxzxhxf4qoqfycihmtk7zx5scwqghd66lxjewy5ovw43i47tuxtzmllev33a/index-v1-a1.m3u8
+https://cloud.hownetwork.xyz/xxx/Nh07K2gQBCkpfBopKl57anJKfGMSPDUFDg4vEyBUZDx2TnF5/38/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjgzYmNiYTUtOWI1Ni00NGVjLWE1NmYtZDNjMGRiYWFjYmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Revolver Rita (2025)
 https://fift.larhu.website/hls/vxzxgs56qoqfycihmtk7zq7pcli3nd264smvpsjhnliacdnmahj2jehr5bha/index-v1-a1.m3u8
 
@@ -1464,6 +1470,12 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Ratsasan.mkv
 ######################################################################▶ VOD INDIA#########################################################
 
 #EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD INDIA",
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pO86EjZb7QyGYk5RW4Xm4UWe5Uv.jpg" group-title="▶ VOD INDIA",Cheekatilo (2026)
+https://fift.larhu.website/hls/vxzxhrf4qoqfycihmtk7zanhbospnmreu2xpz6lbs2tturouotkbknx4gcia/index-v1-a1.m3u8
+https://cloud.hownetwork.xyz/xxx/IRAsKy4YAyhvPRhhcQBkbm8vDAwBNSgZHWVOLicINDt3/38/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/97.jpg" group-title="▶ VOD INDIA",Devi 2
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil1/Devi%202%20HDRip%20(2019).mkv
