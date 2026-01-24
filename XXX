@@ -3,6 +3,17 @@
 
 ################################################▶ FILIPINA##################################################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Lx; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",JUFE-100
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/e7c3a516-8a7b-5fe8-9c68-9f7375724291/default_dash.mpd?PID=astro.2d&PAID=TITL0000000000577884&deviceIdType=%5BdevIdType%5D&deviceId=cc5541a2aa3d8993031ee34e13d3d004&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-vod-52e447c4-ca1c-4b8b-9570-b51c08f6bad2&optin=true&externalPackageId=PACK0000000000577884&parentalRating=15&playedPosition=00%3A00%3A00&hhid=cabdb6db92075238642e7a699fd11bb9&kvp=lang%7Ekor&kvp=genre%7E1%7E2&kvp=contentId%7ETITL0000000000577884&kvp=provider%7Eastro.2d&kvp=parentalRating%7E15&daiEnabled=true
+
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=cc5541a2aa3d8993031ee34e13d3d004:cabdb6db92075238642e7a699fd11bb9
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",JUFE-101
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/e7c3a516-8a7b-5fe8-9c68-9f7375724291/default_dash.mpd
+
 #EXTINF:-1 type="movie" tvg-logo="" group-title="XXX",JUFE-101
 https://surrit.com/53fd5c2a-ab77-470f-a03f-a19f49a2c6a9/480p/video.m3u8
 
