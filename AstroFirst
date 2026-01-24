@@ -21313,29 +21313,84 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/3ec3d9dc-
 
 ##############################################################################Vivamax##############################################################################
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Vivamax",
 
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/01/Kapatid-Sa-Labas.jpg" group-title="Vivamax",Kapatid Sa Labas
+https://hls.khflix.top/Kapatid.Sa.Labas/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2026/01/post_123724_IDMUVICORE_Poster_a22052df.jpg" group-title="Vivamax",Angkinin Mo Ako (2026)
-https://imaxstreams.net/stream/1S7DDUiA4Y6vp_yXeMjyjg/kjhhiuahiuhgihdf/1769311928/67143713/index-v1-a1.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/01/Hayok.jpg" group-title="Vivamax",Hayok
+https://hls.khflix.top/Hayok/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2026/01/post_123528_IDMUVICORE_Poster_5da89b18.jpg" group-title="Vivamax",Sulutan (2026)
-https://imaxstreams.com/stream/x4OX349JUnewGM29O-eCWw/hjkrhuihghfvu/1769312036/36336548/index-v1-a1.m3u8
+https://hls.khflix.top/Sulutan/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/12/wpYoYJ4kWLGhSfS3ofn4xEPJbun.jpg" group-title="Vivamax",Happy Ending
+https://hls.khflix.top/Happy.Ending/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/01/Breast-Friends-Forever.jpg" group-title="Vivamax",Breast Friends Forever
+https://hls.khflix.top/Breast.Friends.Forever/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/12/jq4sOUJZkGd9PVxiDly2UIn7d0Z.jpg" group-title="Vivamax",Aliwan Inn (2025)
+https://hls.khflix.top/Aliwan.Inn/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/12/Beyond-the-Sky-Lampas-Langit-133.jpg" group-title="Vivamax",Lampas Langit
+https://hls.khflix.top/Beyond.the.Sky.Lampas.Langit.133/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vuUvGqqGabV422qzjGWPlhRuvN0.jpg" group-title="Vivamax",Ekis (2025)
+https://hls.khflix.top/Ekis/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5smnwC1vyY6JXxW7kOs5wiuaBQw.jpg" group-title="Vivamax",Basang Basa (2025)
+https://hls.khflix.top/Basang.Basa/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/06/Kandungan-199x300.webp" group-title="Vivamax",Kandungan
+https://media.cloudbox.ph/bibamax/Kandungan%20Vmx%20(2025)%20-%20720p.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/07/Triangulo-201x300.webp" group-title="Vivamax",Trianggulo
+https://media.cloudbox.ph/bibamax/Trianggulo%20Vmx%20(2025)%20-%20720p.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/07/Victorias-Silver-200x300.webp" group-title="Vivamax",Victoria’s Silver
+https://media.cloudbox.ph/bibamax/Victorias%20Silver%20Vmx%20%282025%29%20-%20720p.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/08/L-Lakad-200x300.webp" group-title="Vivamax",L: Lakad
+https://media.cloudbox.ph/bibamax/L%20Lakad%20Vmx%20(2025)%20-%20720p.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/12/Kapag-Tumayo-Ang-Testigo.jpg" group-title="Vivamax",Kapag Tumayo Ang Testigo
+https://hls.khflix.top/Kapag.Tumayo.Ang.Testigo/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/12/Marias-Diary-Season-8-Full.jpg" group-title="Vivamax",Maria’s Diary Season 8 Full
+https://hls.khflix.top/Marias.Diary.Season.8/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/11/x8HY4w0QycADecaEPdMca0aWROU.jpg" group-title="Vivamax",Madulas (2025)
+https://hls.khflix.top/Madulas/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/11/Palitan.jpg" group-title="Vivamax",Palitan
+https://hls.khflix.top/Palitan/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aD3ObNzCfNH5WHXzmJXkXA7MRPP.jpg" group-title="Vivamax",Top 1 (2024)
+https://hls.khflix.top/Top.1/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/11/Nympho.jpg" group-title="Vivamax",Nympho
+https://hls.khflix.top/Nympho/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/05/xnrGqTuLJoZv8icTDpAiLbYAi5F-200x300.jpg" group-title="Vivamax",The Jowa Collector
+https://media-eu.cloudbox.ph/bibamax/The%20Jowa%20Collector%20(2025)%20-%20720p.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/06/post_91855_IDMUVICORE_Poster_cde0d8c0.jpg" group-title="Vivamax",Kalakal (2025)
-https://imaxstreams.com/stream/8zddFgH6m7ZXgMJFc48DjA/hjkrhuihghfvu/1769315231/26405943/index-f1-v1-a1.m3u8
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/05/post_91623_IDMUVICORE_Poster_02cab347.webp" group-title="Vivamax",Hiram (2025)
 https://khflix.top/Hiram/index.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/05/Sorority-201x300.webp" group-title="Vivamax"Sorority
+https://media-eu.cloudbox.ph/bibamax/Sorority%20Vmx%20(2025)%20-%20720p.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/05/post_91517_IDMUVICORE_Poster_222c58b7.jpg" group-title="Vivamax",Maninilip (2025)
-https://imaxstreams.com/stream/h1d_QeSScQzunouvnHMF4Q/hjkrhuihghfvu/1769314984/25559773/index-f1-v1-a1.m3u8
+https://media-eu.cloudbox.ph/bibamax/Maninilip%20(2025)%20-%20720p.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/05/post_91231_IDMUVICORE_Poster_6728f8b5.jpg" group-title="Vivamax",Ligaw (2025)
-https://khflix.top/Ligaw/index.m3u8
+https://media-eu.cloudbox.ph/bibamax/Ligaw%20(2025)%20-%20720p.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/04/post_91147_IDMUVICORE_Poster_2e4b1eaf.jpg" group-title="Vivamax",Rapsa (2025)
-https://imaxstreams.com/stream/54oWhi6gwyXw3uLb42VG6Q/hjkrhuihghfvu/1769314641/22679095/index-f1-v1-a1.m3u8
+https://media-eu.cloudbox.ph/bibamax/Rapsa%20(2025)%20-%20720p.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/04/post_91059_IDMUVICORE_Poster_6799f211.jpg" group-title="Vivamax",Deep Inside: Angeli Khang (2025)
 https://khflix.top/Deep-Inside-Angeli-Khang/Deep-Inside-Angeli-Khang/index.m3u8
@@ -21344,52 +21399,85 @@ https://khflix.top/Deep-Inside-Angeli-Khang/Deep-Inside-Angeli-Khang/index.m3u8
 https://khflix.top/Sabik/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_90293_IDMUVICORE_Poster_2c8c729a.jpg" group-title="Vivamax",Delusyon (2025)
-https://1a-1791.com/video/fww1/2b/s8/2/Y/Z/e/a/YZeaz.aaa.mp4
+https://hls.khflix.top/Delusyon/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_90243_IDMUVICORE_Poster_952ba6dd.jpg" group-title="Vivamax",Guilty Pleasure (2024)
-https://smoothpre.com/stream/CNbPIxPBIEP5LvsV1wqwpw/hjkrhuihghfvu/1769314116/20465048/index-v1-a1.m3u8
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_90089_IDMUVICORE_Poster_261011e4.jpg" group-title="Vivamax",Elevator Lady (2025)
 https://1a-1791.com/video/fww1/dc/s8/2/6/2/J/6/62J6y.aaa.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_89991_IDMUVICORE_Poster_c251fab9.jpg" group-title="Vivamax",Malagkit (2025)
-https://ryderjet.com/stream/Ju3HzmuafxvYSKZ7ppPkjA/hjkrhuihghfvu/1769313908/20025178/index-v1-a1.m3u8
+https://1a-1791.com/video/fww1/52/s8/2/U/K/7/4/UK74y.aaa.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/02/post_89925_IDMUVICORE_Poster_77bfd48b.jpg" group-title="Vivamax",Kolektor (2025)
-https://ryderjet.com/stream/oz9cOAczJLGEr9RTlRDumQ/hjkrhuihghfvu/1769313841/19808804/index-v1-a1.m3u8
+https://media-eu.cloudbox.ph/bibamax/Kolektor%20(2025)%20-%20720p.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/02/post_89837_IDMUVICORE_Poster_d13791dd.jpg" group-title="Vivamax",Walker (2025)
-https://ryderjet.com/stream/ZVqIYT4H0l27PVmsMnVoIw/hjkrhuihghfvu/1769313784/19292990/index-v1-a1.m3u8
+https://media-eu.cloudbox.ph/bibamax/Walker%20(2025)%20-%20720p.mp4
 
 #EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ihLFcDHv0PdSscrdLFoFtgo6QkH.jpg",Tokyo Nights (2025)
-https://ryderjet.com/stream/BGuX4EvT1RC2PY2Skcm9-g/hjkrhuihghfvu/1769310582/19164356/index-v1-a1.m3u8
-https://seneng.org/v/driveid-196906-webdl-1080-terbit21-com-tokyo-nights-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+https://khflix.top/Tokyo.Nights.2025/index.m3u8
+
+#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/02/zPIaNQaQKtCIOs95x4GmaJ6omco-200x300.jpg",Belyas
+https://media-eu.cloudbox.ph/bibamax/Belyas%20(2025)%20-%20720p.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/02/post_89787_IDMUVICORE_Poster_130ad42d.jpg" group-title="Vivamax",Online Selling (2025)
-https://ryderjet.com/stream/dp7ibQXHkfO3N7p869u52A/hjkrhuihghfvu/1769313605/19136032/index-v1-a1.m3u8
+https://media-eu.cloudbox.ph/bibamax/Online%20Selling%20(2025)%20-%20720p.mp4
 
 #EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Opn9aPs8UCBJQ6lqou3i8f9omC.jpg",Sponsor (2025)
-https://ryderjet.com/stream/RbuJKOIkzdF1DljAed9t_w/hjkrhuihghfvu/1769309935/18436714/index-v1-a1.m3u8
-https://seneng.org/v/driveid-195524-webdl-1080-terbit21-com-sponsor-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+https://media-eu.cloudbox.ph/bibamax/Sponsor%20(2025)%20-%20720p.mp4
+
+#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8L60mdRK3aBhu9EjXFAvc0KiSQ.jpg",Sipsipan
+https://media-eu.cloudbox.ph/bibamax/Sipsipan%20Vmx%20(2025)%20-%20720p.mp4
+
+#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU1MTU3OGQtMTgwYi00MzMzLTk2NzUtZDA0NGIzNWI0OGFmXkEyXkFqcGc@._V1_.jpg",Bagong Tukso (2026)
+https://habetar.com/stream/TG-IjSxL-HJB9ldOVsBfmw/kjhhiuahiuhgihdf/1769330670/67189242/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://khflix.com/wp-content/uploads/2025/08/uB2Opos65gHaPSeyziXW4XDHPZT.jpg",Sa Gabing Mainit
+https://1a-1791.com/video/fww1/f9/s8/2/y/j/P/b/yjPbz.aaa.mp4
 
 #EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zNHgQRaflknCSRvKFepqvsHVimG.jpg",Hiram na Sandali (2025)
 https://1a-1791.com/video/fww1/28/s8/2/8/a/3/4/8a34y.aaa.mp4
-https://seneng.org/v/driveid-195435-webdl-1080-terbit21-com-hiram-na-sandali-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/01/post_89473_IDMUVICORE_Poster_dfe2f5b1.jpg" group-title="Vivamax",Halimuyak (2025)
-https://ryderjet.com/stream/iVa2_hDjfyUU1rJn_Vs3bQ/hjkrhuihghfvu/1769313338/17487271/index-v1-a1.m3u8
+https://1a-1791.com/video/fww1/fb/s8/2/u/e/l/5/uel5y.aaa.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/01/post_89395_IDMUVICORE_Poster_1f65d2c2.jpg" group-title="Vivamax",Las Ilusyunadas (2025)
-https://peytonepre.com/stream/Qdp2GqXIXRCNFNXvtXbMrg/hjkrhuihghfvu/1769313264/16836411/index-v1-a1.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEL2ZmXKJZn5QvQc6NwuHEcK999.jpg" group-title="XXX",Delusyon
+https://hls.khflix.top/Delusyon/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/iPPuXhl8JgKzaJZH72JsQuZQF4X.jpg" group-title="XXX",Foreign Exchange (2025)
+https://hls.khflix.top/Foreign-Exchange/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLCoMknSWjYTb5ObQIAmgzqhgSM.jpg" group-title="Vivamax",Las Ilusyunadas (2025)
+https://videos.khflix.top/Las.Ilusyunadas.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/10/tSmQvvrabWlndpIdQ4P03f0cypA.jpg" group-title="Vivamax",L: Lipad (2025)
+https://hls.khflix.top/L.Lipad/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTcNSqa2XgouS8cZ2eoyc93QVgC.jpg" group-title="Vivamax",Arouse (2025)
+https://hls.khflix.top/Arouse/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihirA7Tr5ijAolHZiZYMwbrX2sm.jpg" group-title="Vivamax",Lamas (2024)
+https://hls.khflix.top/Lamas/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/09/hFjKtAzRjFcBmudFXvTC27STVXI.jpg" group-title="Vivamax",Mayumi (2025)
+https://hls.khflix.top/Mayumi/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta7JKGq0jhx2xJPrUw8yXheJaOf.jpg" group-title="Vivamax",Bulong Ng Laman (2025)
+https://1a-1791.com/video/fww1/d4/s8/2/G/p/U/c/GpUcz.aaa.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/09/l1vVrAs2dtxiSYnD1f5G8iFc6UH.jpg" group-title="Vivamax",Kirot (2025)
+https://hls.khflix.top/Kirot/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2024/12/post_89255_IDMUVICORE_Poster_b4ebe7aa.jpg" group-title="Vivamax",Teacher’s Pet (2024)
-https://dhtpre.com/stream/TXWyyt2v96ZQ5GGQhwbLrg/hjkrhuihghfvu/1769312864/16095713/index-v1-a1.m3u8
+https://hls.khflix.top/Teacher_s.Pet/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2024/12/post_89211_IDMUVICORE_Poster_fffef68b.jpg" group-title="Vivamax",Boy Kaldag (2024)
-https://dhtpre.com/stream/yNHfdBxm20v_5qyYf3RfBw/hjkrhuihghfvu/1769312834/16090821/index-v1-a1.m3u8
+https://media-eu.cloudbox.ph/bibamax/Boy%20Kaldag%20(2024)%20-%20720p.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2024/12/post_89199_IDMUVICORE_Poster_945020d3.jpg" group-title="Vivamax",Secret Sessions (2024)
-https://dhtpre.com/stream/eb2lWc1MOf3lhqUwbf-D7Q/hjkrhuihghfvu/1769312760/16038198/index-v1-a1.m3u8
+https://hls.khflix.top/Secret%E1%9F%94Sessions/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
