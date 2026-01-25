@@ -3,8 +3,20 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8cYve5muYPeWKvSEfFdkmWDyyDa.jpg" group-title="▶ VOD BOLLYWOOD",The Girlfriend
-https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/The%20Girlfriend%20(2025).mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zWq4HzuIcvoFss4BDkILYZqceuw.jpg" group-title="▶ VOD BOLLYWOOD",Ludo (2020)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Ludo%202020-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9sAegdBnkfucqhrsocR47zCKcez.jpg" group-title="▶ VOD BOLLYWOOD",Pati Patni Aur Woh (2019)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Pati%20Patni%20Aur%20Woh%202019-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eQGzsELM0n6FOngNRGEIx9nqDwV.jpg" group-title="▶ VOD BOLLYWOOD",Ek Deewane Ki Deewaniyat (2025)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Ek%20Deewane%20Ki%20Deewaniyat%20(2025).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/alDRJWHI1TfqB9ev6cMbVE5P92x.jpg" group-title="▶ VOD BOLLYWOOD",Neerja (2016)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil7/Neerja.2016.Hindi.720p.BluRay.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2wURYkClPhuWaZz936eUEWWVzUM.jpg" group-title="▶ VOD BOLLYWOOD",R... Rajkumar (2013)
+https://47227.ohflix.workers.dev/0:/x21/Tamil-Hindi/Tamil8/R...%20Rajkumar%20(2013)%20HDTV.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
@@ -1472,7 +1484,14 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Ratsasan.mkv
 
 ######################################################################▶ VOD INDIA#########################################################
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD INDIA",
+EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tnAj1uRrscUjBMrCwXxgjaSL0m6.jpg" group-title="▶ VOD INDIA",Chitralahari (2019)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Chitralahari%202019-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/23575.jpg" group-title="▶ VOD INDIA",Solo
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Solo%20(2017).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8cYve5muYPeWKvSEfFdkmWDyyDa.jpg" group-title="▶ VOD INDIA",The Girlfriend
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/The%20Girlfriend%20(2025).mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
