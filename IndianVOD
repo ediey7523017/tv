@@ -3,6 +3,9 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8cYve5muYPeWKvSEfFdkmWDyyDa.jpg" group-title="▶ VOD BOLLYWOOD",The Girlfriend
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/The%20Girlfriend%20(2025).mp4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg" group-title="▶ VOD BOLLYWOOD",Tere Ishk Mein (2025)
@@ -1725,6 +1728,9 @@ https://cloud.hownetwork.xyz/xxx/6de3213f8ec4ea60cd4a06813bb971ae/25/480.m3u8
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk3YzhjMzYtYjg3NC00MDNhLWFmYmItMGUyOTU2N2JhOGYxXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDIA",Singam 3 (2017)
 https://cloud.hownetwork.xyz/xxx/dd5798c783dfeb5f75b1ccf25462629f/11/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/g7bsLSuEg3FuCY1o7uSzbxMUJLB.jpg" group-title="▶ VOD INDIA",Singam 1 (2010)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil4/Singam%20(2010).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/3869.jpg" group-title="▶ VOD INDIA",Drisyam (2013)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/43-1/Drishyam%20(2013).mp4
