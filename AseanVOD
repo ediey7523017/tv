@@ -3,6 +3,9 @@
 
 ######################################################▶ VOD ASEAN#####################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vEBvHkGpcEkoALJOPe3PRt5gDhW.jpg" group-title="▶ VOD ASEAN",Streaming (2025)
+https://fift.larhu.website/hls/vxzxhxn3qoqfycihmtk7zxvoj6vgzd4vz7up3qeoo2yxfyxztnn3xiep5kvq/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://i.mydramalist.com/jQAkkb_4f.jpg" group-title="▶ VOD ASEAN",Blocking the Horse (2025)
 https://fift.larhu.website/hls/vxzxg5naqoqfycihmtk7zxnvad6akxytl2uys3hg6yplexlhi57scm3aqxla/index-v1-a1.m3u8
 
