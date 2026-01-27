@@ -2074,7 +2074,8 @@ https://get.perfecttv.net/vidiovod.mpd?username=vip_3klp0es8&password=wg3piwEs&v
 #EXTINF:-1  type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IZPSD_p_IVP_PORT_390x585_42FC3_2025113_144751.jpg" group-title="▶ VOD BOO",600 Kolong 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_key=f02efbc21343d8bf1291d1a07fa60210:d892084c385b5b05cf34e25345e99bcf 
+#KODIPROP:inputstream.adaptive.license_key=f02efbc21343d8bf1291d1a07fa60210:d892084c385b5b05cf34e25345e99bcf
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/3fe7ac37-0da7-55b0-997d-112ee106cfd1/default_dash.mpd
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=600 
 
 #EXTINF:-1  type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMCWF_P_IVP_PORT_390x585_7A637_2025426_232437.jpg" group-title="▶ VOD BOO",599 Cerana Biduk Bu Merah 
@@ -2087,6 +2088,7 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_key=998b7d2c8a67a42a725bb0d29db26810:cb024c2b72159a300c841aba8470d5aa 
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a830493f-cf7a-50f5-963d-0e7b29d83611/default_dash.mpd
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=598 
 
 #EXTINF:-1  type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FWNVR_p_IVP_PORT_390x585_CE0_2025426_23244.jpg" group-title="▶ VOD BOO",597 Hantu Dalam Botol Kicap 
