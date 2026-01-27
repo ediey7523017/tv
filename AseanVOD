@@ -6,17 +6,29 @@
 #EXTINF:-1 type="movie" tvg-logo="https://i.mydramalist.com/jQAkkb_4f.jpg" group-title="▶ VOD ASEAN",Blocking the Horse (2025)
 https://fift.larhu.website/hls/vxzxg5naqoqfycihmtk7zxnvad6akxytl2uys3hg6yplexlhi57scm3aqxla/index-v1-a1.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/13168.jpg" group-title="▶ VOD ASEAN",A Day
+https://cloud.hownetwork.xyz/xxx/fdc3797dbb525b3525750d69ba361e07/3/480.m3u8
 https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTk4MDFf?temp_key=%03m%03k-%B4%DBM%7B%9A%9E&inline=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/12341.jpg" group-title="▶ VOD ASEAN",Hot Blooded
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru30/Hot%20Blooded%202022.mp4
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/11265.jpg" group-title="▶ VOD ASEAN",Sea Fog
+https://cloud.hownetwork.xyz/xxx/c6ea351743c8efd67b117967e2d3b412/11/480.m3u8
 https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTI4MDVf?temp_key=I%E6%B6%D0Z+%DBM%B4%D7%89%A9&inline=1
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/8771.jpg" group-title="▶ VOD ASEAN",Money
+https://cloud.hownetwork.xyz/xxx/ecbf3094829f475bdf09d23119ff836c/5/480.m3u8
 https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTgzNjhf?temp_key=2%89%DE%CBm6%D3_f%A7&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cDffUvnm2TaLxQYWTy0PnohSGNP.jpg" group-title="▶ VOD ASEAN",Hwayi A Monster Boy (2013)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Hwayi%20A%20Monster%20Boy%20(2013)%20Bluray%20720p%20Malay%20Hardsub.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/2591.jpg" group-title="▶ VOD ASEAN",Black Money
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/28/Black%20Money%202019.mp4
