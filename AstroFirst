@@ -1,4 +1,4 @@
-#EXTM3U url="" 
+#EXTM3U url=""
 
 
 ########################################################################Astro VOD 2024#############################################################################
@@ -231,6 +231,98 @@ http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e3ea91fd-e
 
 ###########################################################################Astro VOD#############################################################################
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GXLLJ_P_IVP_PORT_390x585_A62E_2024313_154718.jpg" group-title="Astro VOD",586 Kelibat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=2f9aeb2c7da1e11a305230aa039a0510:85b3daad54cc1bc9ae9aeed7215a92a6
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e4aac9eb-385a-56c3-ae91-66f703348f4a/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HWMTW_p_IVP_PORT_390x585_116E8_2024313_15488.jpg" group-title="Astro VOD",585 Keranda Tok Wan Terbang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=29cc95c78e496abfb9c1c40a27c14e10:45153ca237d8d6b82bde4c9e08becbaf
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/bd127963-5f89-506e-9ccd-11ffc56fe0da/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KHHOZ_P_IVP_PORT_390x585_202475_93711.jpg" group-title="Astro VOD",584 Memburu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=e1ae2ad367525b727300217e16ba6810:99cdd84ff187bda06c501fb6bafe6d38
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/88134dcd-93ed-5f09-a93b-94f03a87f1ec/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HHDNK_p_IVP_PORT_390x585_C97_2024313_154453.jpg" group-title="Astro VOD",583 Sumpahan Kum Kum
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=1e5ef3ea09ffb4831ec615a83bb44b10:a9ce2b98e690cb354668482da46d3616
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/008fd24c-8fc1-5144-99fa-cdc4ea3a8c0d/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KCTGQ_p_IVP_PORT_390x585_693A5_2024313_18344.jpg" group-title="Astro VOD",582 Kampung Latah…The Mummy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=85d2c0a95781d0f147593be5a2dc2e10:784001c860b8c24dacffdaed29b64e66
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b6d8a75d-fa02-5a3a-b1de-c0313bdc43ef/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPHVP_p_IVP_PORT_390x585_829BF_2025224_10189.jpg" group-title="Astro VOD",581 It Crawl Beneath
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=844f34c7ef46ab57198e58ca1e9d1b10:4528e69f58c9cd10c81a4e84aba2dba8
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/2777611c-5796-58e7-8562-7236a4d06d6e/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLVPG_p_IVP_PORT_390x585_202436_205728.jpg" group-title="Astro VOD",580 The Red Tide Massacre
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=2572dfa4c53eb6382463fc1da707e410:7b0b473064e0bf5279c643dca3cf4e95
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/dcc3aacd-16c4-5b21-8e16-7762d6daf602/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKXNO_p_IVP_PORT_390x585_2024111_125042.jpg" group-title="Astro VOD",579 Escaping Paradise
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=8ab2f03e425f88986c5352065593bb10:724af3ff5dcfd9cbe2208e9e00eeeaa6
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b545e3d7-56bf-5fd4-98e7-8b5fc9669c05/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEOVD_P_IVP_PORT_390x585_681E9_2024313_182951.jpg" group-title="Astro VOD",578 Monster Of Man
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=649dbafb5787855865281b7012ceaf10:f82b1a5c11f7895d2ce5cf1e541cc5d6
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a66a7912-3aa4-57e2-8b4f-457f12342d61/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRLT_p_IVP_PORT_390x585_2024524_53015.jpg" group-title="Astro VOD",577 Jurassic Games
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=1001cefd68888946fd5840394fb25510:4bf9d83d8a24b45bc01958f237db3e72
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/6501e2c3-466e-52f1-81fc-aacb1a2201cc/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLVPF_p_IVP_PORT_390x585_2024228_231025.jpg" group-title="Astro VOD",576 Dont Talk To Strangers
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=9c9ff0cbb681a2437eeadec955b6de10:7e9342e3ae1c961140f88cd927c49b49
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/d8a3fc75-faa4-5c0d-aac2-06256d1cec6c/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKHLL_P_IVP_PORT_390x585_2024621_62131.jpg" group-title="Astro VOD",574 Sleeping Beauties
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=30d33ecdec2587b356a2d9891ce7cd10:9b6f84abe6ff0104ffa98db5dad36c41
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/2f9bb26d-6574-50af-9789-6cca2e422582/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWKUE_p_IVP_PORT_390x585_6929F_2024313_183312.jpg" group-title="Astro VOD",572 Jeritan Jin
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=8ac78a38597888eede20d6545b2b5e10:29bee75b0808aeed12914582df760eb0
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/536574e4-ef5f-567e-ae4b-9e41a91d8bb0/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
