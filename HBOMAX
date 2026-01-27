@@ -2,7 +2,9 @@
 
 ####################################################################### HBO MAX ###########################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IJSHF_IVP_LAND_586x330_24B9B_2025624_1932.jpgpeg" group-title="▶ HBO MAX", Superman Return
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IJSHF_IVP_LAND_586x330_24B9B_2025624_1932.jpg" group-title="▶ HBO MAX", Superman Return
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
 https://marginfull.github.io/maxx/supermanreturns.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/0eE8w/slfDVfG2YIHC8ZM4Q.jpeg" group-title="▶ HBO MAX", 00-Black Bag 2025
@@ -1694,4 +1696,5 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5cf1039f-a16b-495b-a28d-f844126b4493
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5cf1039f-a16b-495b-a28d-f844126b4493&sub=t2
+
 
