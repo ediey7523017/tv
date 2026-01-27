@@ -2,19 +2,6 @@
 
 ####################################################################### HBO MAX ###########################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUEPU_IVP_LAND_586x330_89817_2025919_15505.jpg" group-title="▶ HBO MAX", Superman
-#KODIPROP:inputstream.adaptive.license_key=64799d231c17f7955e23c425e8460510:0ef15689305a49aaa1ccbf608d05cbb3
-https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/5636fba9-c5e9-56d2-bb29-31ecd2f76b8f/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=e9945e12a2ff2f70555886cb95820610:b655e28492ac4a52a3f6fae9848058bd
-#EXTINF:-1 tvg-id="NULL" group-title="▶ HBO MAX" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVJZP_IVP_LAND_917x516_8D15C_202611_94513.jpg",Holy Night Demon Hunters (2025)
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/e7c3a516-8a7b-5fe8-9c68-9f7375724291/default_dash.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/0eE8w/slfDVfG2YIHC8ZM4Q.jpeg" group-title="▶ HBO MAX", 00-Black Bag 2025
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1705,6 +1692,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5cf1039f-a16b-495b-a28d-f844126b4493
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5cf1039f-a16b-495b-a28d-f844126b4493&sub=t2
+
 
 
 
