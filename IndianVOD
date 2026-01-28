@@ -1488,6 +1488,9 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Ratsasan.mkv
 
 ######################################################################▶ VOD INDIA#########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6DoLxt1LLXcBuNeByHsSGLiAB0L.jpg" group-title="▶ VOD INDIA",Dude (2025)
+https://www.dropbox.com/scl/fi/bfgb0ipjlam4ikst2h8um/Dude-2025.mp4?rlkey=m04hlc12ieig61jrnprp5r7ip&st=3m15nxge&dl=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/23552.jpg" group-title="▶ VOD INDIA",Paradha (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Paradha%20(2025).mp4
 
