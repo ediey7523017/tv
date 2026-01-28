@@ -3,6 +3,27 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4dqnJvZpTB1YvuLbgEvBSjxo7BS.jpg" group-title="▶ VOD BOLLYWOOD",Shimla Mirchi (2020)
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDMwOTRf?temp_key=J%18%A6%95%AD%B42%2A%DC%86-%B4%DBM%B4%9A%9E&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rrzypABFDyTpwbTLbmsXU9A8qEM.jpg" group-title="▶ VOD BOLLYWOOD",City Lights (2014)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/CityLights%20(2014).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sJ3uHEY9LLP0BpdPy0KlJzYnmkv.jpg" group-title="▶ VOD BOLLYWOOD",Bheed (2023)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Bheed%20(2023).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5JnmseS3DZ6ad2VMbrnbGCs8Rst.jpg" group-title="▶ VOD BOLLYWOOD",The White Tiger (2021)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/The%20White%20Tiger%202021-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eXyTnYhWLjXEggUTOoFqZRCteml.jpg" group-title="▶ VOD BOLLYWOOD",Judgementall Hai Kya (2019)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Judgementall%20Hai%20Kya%20(2019).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vKLp0X2RQOuA31R3AdaYtDdKIPK.jpg" group-title="▶ VOD BOLLYWOOD",Queen (2014)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil29/Queen%20(2013).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vi6ROSYs0kOgYzKc15X3MrwKsI1.jpg" group-title="▶ VOD BOLLYWOOD",Fanney Khan (2018)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil2/Fanney%20Khan%20HDTV%20(2018).mkv
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3iX8wpLgkx83jCLNR03nW4lpaP2.jpg" group-title="▶ VOD BOLLYWOOD",Monica, O My Darling (2022)
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru33/Monica,%20O%20My%20Darling%202022.mp4
 
