@@ -3,6 +3,9 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3iX8wpLgkx83jCLNR03nW4lpaP2.jpg" group-title="▶ VOD BOLLYWOOD",Monica, O My Darling (2022)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru33/Monica,%20O%20My%20Darling%202022.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kOsSC9X6aarcq0LlFAPTECIZ0jd.jpg" group-title="▶ VOD BOLLYWOOD",Boss (2013)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil5/Boss%20(2013)%20HDRip.mkv
 
@@ -1499,6 +1502,11 @@ https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Chitralahari%202019-
 
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/23575.jpg" group-title="▶ VOD INDIA",Solo
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Solo%20(2017).mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qY4Xwbq0NnwErp2sPZOaQwpSGMv.jpg" group-title="▶ VOD INDIA",Darling (2024)
+https://cloud.hownetwork.xyz/xxx/Jhk7IiwXEGxwYUV4bmcTGgY0FhYaSEB3e2FEeSI/29/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8cYve5muYPeWKvSEfFdkmWDyyDa.jpg" group-title="▶ VOD INDIA",The Girlfriend
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/The%20Girlfriend%20(2025).mp4
