@@ -1083,18 +1083,6 @@ https://cloud.hownetwork.xyz/xxx/f12b5e1474256fe8f8c753cef1721752/2/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyOTkzMzg4Ml5BMl5BanBnXkFtZTcwNTkxNzQzNg@@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Bodyguard (2011)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Bodyguard.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hCNl3EkwEAmuZt8vxq9gyGG3e7e.jpg" group-title="▶ VOD BOLLYWOOD", Yaadein (2001)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Yaadein.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mI4cFL7bEQcTgI6vtoPSkAWU1tJ.jpg" group-title="▶ VOD BOLLYWOOD", Tumko Na Bhool Paayenge (2002)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Tumko%20Na%20Bhool%20Paayenge.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg" group-title="▶ VOD BOLLYWOOD", Mardaani 2 (2019)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mardaani%202.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A5xP8gKA4NwL9dG0AodQtQSRucB.jpg" group-title="▶ VOD BOLLYWOOD", Mardaani (2014)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mardaani.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8lVuWmArvr41CvyvpgI3elD5iB1.jpg" group-title="▶ VOD BOLLYWOOD", Barfi! (2012)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Barfi!.mp4
 
@@ -1477,7 +1465,7 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Gatta%20Kusthi.mp4
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Brahmastra%20Part%20One-%20Shiva.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sTNlPGZZyIAQeRVrtYYnBG5agxs.jpg", Thuppakki (2012)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thuppakki.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dWYGHG6yIG8Fh8LwhbGnnaYNYyX.jpg", Khuda Haafiz Chapter 2 : Agni Pariksha (2022) ÃƒÆ’Ã‚Â°Ãƒâ€¦Ã‚Â¸ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒâ€šÃ‚Â¥
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dWYGHG6yIG8Fh8LwhbGnnaYNYyX.jpg", Khuda Haafiz Chapter 2 : Agni Pariksha (2022)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Khuda%20Haafiz%20Chapter%202-%20Agni%20Pariksha%20(2022).mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67CrBgNWZ4kARZNjRvLu8ZUZojh.jpg", Khuda Haafiz (2020)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Khuda%20Haafiz.mp4
@@ -1908,3 +1896,4 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/%5BHHH%5DRaid%20(2023)%2
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/10106.jpg",Raatchasi (2019)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Raatchasi.mp4
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil20/Raatchasi%20(2019).mp4
+
