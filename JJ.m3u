@@ -64,6 +64,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://load.perfecttv.net/mpd/ria/manifest.mpd
 https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=riahd
 
 #EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima
@@ -78,6 +79,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://load.perfecttv.net/mpd/prima/manifest.mpd
 https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primahd
 
 #EXTINF:-1 tvg-id="106.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",106 Astro Oasis
@@ -1278,7 +1280,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://load.perfecttv.net/mpd/ceria/manifest.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=ceria
+https://load.perfecttv.net/mpd/ceria/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #EXTINF:-1 tvg-id="615.astro" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",615 Cartoon Network
@@ -1466,7 +1468,7 @@ https://live.aqfadtv.xyz/arenabola/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=bola1hd
+https://load.perfecttv.net/mpd/bola1/manifest.mpd
 
 #EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="Sports",804 Astro Arena Bola 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1479,7 +1481,7 @@ https://live.aqfadtv.xyz/arenabola2/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=bola2hd
+https://load.perfecttv.net/mpd/bola2/manifest.mpd
 
 #EXTINF:-1 tvg-id="805.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png",805 Astro Sports UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1575,6 +1577,7 @@ https://live.aqfadtv.xyz/badminton/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=979e72a070ec437ba92c597c287acbad:7f4db6de524b2e51c87f61566ff77039
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://load.perfecttv.net/mpd/badminton/manifest.mpd
 https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=badmintonhd
 
 #EXTINF:-1 tvg-id="816.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png",816 Astro Badminton 2
