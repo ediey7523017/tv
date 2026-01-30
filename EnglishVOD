@@ -6,6 +6,9 @@
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="▶ VOD ENGLISH",Mercy (2026)
 https://lookmovie2.skin/stream/9HgyDbn_dtZ6vBZpgVcD8g/kjhhiuahiuhgihdf/1769432400/67319063/index-v1-a1.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="▶ VOD ENGLISH",Y2K (2024)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Y2K%20(2024)-1-720.mp4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg" group-title="▶ VOD ENGLISH",Icefall (2025)
