@@ -938,17 +938,31 @@ https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Sarkar
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIxYTZmMmItNmRlNy00ZDI0LWJlYmEtMjM2NTA0ZDllN2Y1XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Hum Tumhare Hain Sanam (2002)
 https://www.dropbox.com/scl/fi/18otte1ky1i7xgj8flugh/Hum-Tumhare-Hain-Sanam-2002.mp4?rlkey=7r0yqlhvqyob2zmpjox0gddtj&st=uvk5u3wr&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk3MTU5MDA3OF5BMl5BanBnXkFtZTgwODM3MzY2MzE@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Dilwale Dulhania Le Jayenge (1995)
-https://www.dropbox.com/scl/fi/4ye7ehgpfaqxo1mvhytx6/Dilwale-Dulhania-Le-Jayenge-1995.mp4?rlkey=5suj3447udseec6ycc718wtnp&st=40372m3v&dl=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2CAL2433ZeIihfX1Hb2139CX0pW.jpg" group-title="▶ VOD BOLLYWOOD",Dilwale Dulhania Le Jayenge (1995)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Dilwale%20Dulhania%20Le%20Jayenge%201995-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6027f04d4c355b1560ed11ecc28c1712dd7249623e740ae233d6a7b208b35e58.jpg" group-title="▶ VOD BOLLYWOOD",Mohabbatein (2001)
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/617.jpg", Dilwale Dulhania Le Jayenge
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Dilwale%20Dulhania%20Le%20Jayenge.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/22581.jpg" group-title="▶ VOD BOLLYWOOD",Kabhi Khushi Kabhie Gham (2001)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Kabhi%20Khushi%20Kabhie%20Gham%202001-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/12BvYKueY0eruZuTYIextEZaCC.jpg" group-title="▶ VOD BOLLYWOOD", Kabhi Khushi Kabhie Gham (2001)
+https://www.dropbox.com/scl/fi/v576cg8zd6zr7i9bi5rmx/Kabhi-Khushi-Kabhie-Gham.mp4?rlkey=q2a9rtal312jghbz2sc6p4csc&st=wqa9spq6&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dDsYaBazrYKg9bv8qgsEohZQMat.jpg" group-title="▶ VOD BOLLYWOOD",Mohabbatein (2000)
 https://www.dropbox.com/scl/fi/pvy2e0zzms5uxamv60lyx/Mohabbatein-2001.mp4?rlkey=fdm72tbz8sw71x3s8l453819y&st=inrag35x&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MyZGVhNmMtY2JkNy00ZmIzLTkwOGItY2NiM2MyOGMxODkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Kabhi Khushi Kabhie Gham (2001)
-https://www.dropbox.com/scl/fi/otxdtbqwhuql1bac87zz5/Kabhi-Khushi-Kabhie-Gham...-2001.mp4?rlkey=2d279nvkf2s3znaf2aau3b75p&st=ouod253d&dl=1
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://pic.bstarstatic.com/ugc/5bf16110a6fbba9fcc34fbe3183b4210.jpg", Mohabbatein (2000)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Mohabbatein%202000-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ0ZjliZTgtMjQ3NC00N2NiLTkxNjktY2VkOTQ2N2QyODNkXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Kuch Kuch Hota Hai (1998)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Kuch%20Kuch%20Hota%20Hai%201998-1-720.mp4
+https://www.dropbox.com/scl/fi/fb3d9g9l27u3d0eofdqat/Kuch-Kuch-Hota-Hai.mp4?rlkey=c6hjayv53cvi4lm87o0gxal0p&st=3oopssq5&dl=1
+
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5FmtHHDGPofW5Zjns1EM1D8503c.jpg", Kuch Kuch Hota Hai (1998)
 https://www.dropbox.com/scl/fi/p7kbryqaonezfejd2r32n/Kuch-Kuch-Hota-Hai-1998.mp4?rlkey=cloroold1erj997k8uop4223t&st=qevvqctc&dl=1
+https://www.dropbox.com/scl/fi/94vzvph1ampauti5b82hv/Nonton-Kuch-Kuch-Hota-Hai-1998-Online-Sub-Indo-INDOFILM.ts?rlkey=hucu67sipuet5lzfp5813jtrj&st=yyvejp9q&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTczMDQ0N2EtMTY4NS00ODJhLTk4MzQtOGJmZGRmY2M4MWQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD BOLLYWOOD",Kal Ho Naa Ho (2003)
 https://www.dropbox.com/scl/fi/0q50ed2fchfpxfvs5lcs9/Kal-Ho-Naa-Ho-2003.mp4?rlkey=f6pwxwe19qj7not8gckrfn0my&st=b1846htj&dl=1
@@ -1307,18 +1321,6 @@ https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Fida%2
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIwNjA2NTY5OF5BMl5BanBnXkFtZTcwOTc2ODgzMQ@@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Vaada (2004)
 https://www.dropbox.com/scl/fi/m3fdbvjm7ysnmt2pylbid/Vaada-2004_2.mp4?rlkey=vpqjfj9g443u9wrpmiksujx9n&st=9ed15q3l&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/0/0d/KabhiKhushiKabhiGham_Poster.jpg", Kabhi Khushi Kabhie Gham
-https://www.dropbox.com/scl/fi/v576cg8zd6zr7i9bi5rmx/Kabhi-Khushi-Kabhie-Gham.mp4?rlkey=q2a9rtal312jghbz2sc6p4csc&st=wqa9spq6&dl=1
-
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://pic.bstarstatic.com/ugc/5bf16110a6fbba9fcc34fbe3183b4210.jpg", Mohabbatein (2000)
-https://www.dropbox.com/scl/fi/1zvwbig2nsvg8vd31myge/Sobat-Film-Nonton-Mohabbatein-2000-Film-Streaming-Download-Movie-Cinema-21-Bioskop-Subtitle-Indonesia-Layarkaca21-HD-Dunia21.ts?rlkey=1tgcqfgvt9lz5jejvnwz85mfm&st=7byr6mxl&dl=1
-
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ0ZjliZTgtMjQ3NC00N2NiLTkxNjktY2VkOTQ2N2QyODNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Kuch Kuch Hota Hai
-https://www.dropbox.com/scl/fi/fb3d9g9l27u3d0eofdqat/Kuch-Kuch-Hota-Hai.mp4?rlkey=c6hjayv53cvi4lm87o0gxal0p&st=3oopssq5&dl=1
-
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Kuch_Kuch_Hota_Hai_poster.jpg", Kuch Kuch Hota Hai (1998)
-https://www.dropbox.com/scl/fi/94vzvph1ampauti5b82hv/Nonton-Kuch-Kuch-Hota-Hai-1998-Online-Sub-Indo-INDOFILM.ts?rlkey=hucu67sipuet5lzfp5813jtrj&st=yyvejp9q&dl=1
-
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM2MmVmNmEtNzg5Mi00YWIzLWIyNTgtZTg4MDAyYjRiOGIxXkEyXkFqcGc@._V1_.jpg", Monkey Man (2024)
 https://cdn118.brnowy.com/data/9/A8/66294eebdb5f6/66294eebdb5f6720.m3u8
@@ -1331,7 +1333,7 @@ https://cdn119.alexandmu.com/data/8/FA/66374d775a656/66374d775a656480.m3u8
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI3YTcwNTgtMmY5Ny00M2Y0LWFjOWUtYjhkMzNjMjhmYjVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Shaitaan HD (2024)
 https://cdn113.dylancyp.com/data/1/CC/66374d775a656/66374d775a656720.m3u8
 
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://media1.fdncms.com/connectsavannah/imager/u/zoom/8314470/249103h1.jpg", Naa Peru Surya, Naa Illu India (2018)
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9pAUJtBTgUUE7tEl6zi8ICFCoAM.jpg", Naa Peru Surya, Naa Illu India (2018)
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/HINDI/Naa%20Peru%20Surya%20-%20Naa%20Illu%20India.mkv
 
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/63.jpg" group-title="▶ VOD BOLLYWOOD",Bharat
@@ -1488,7 +1490,7 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mission%20Majnu.mp4
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Pattathu%20Arasan.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zFrFcSRKZVquY5MGunj03banzaH.jpg", Laththi (2022)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Laththi%20Charge.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZiNTI0YTMtNTQ0NS00ZTkyLTgyMjQtMmM1NmM2NTU3MjQ3XkEyXkFqcGdeQXVyMTM1MzQxNDM1._V1_FMjpg_UX1000_.jpg", R23 Criminal's Diary (2022)
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5chPAxTx2FRIZHbLj1xrhFH1oQN.jpg", R23 Criminal's Diary (2022)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/R23%20Criminal's%20Diary.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clQbK0qqazhySSHYmekPL3gDieu.jpg", Prince (2022)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Prince.mp4
@@ -1536,8 +1538,6 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/DJ-%20Duvvad
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Race%20Gurram.mkv
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/484.jpg", Dangal
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Dangal.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/617.jpg", Dilwale Dulhania Le Jayenge
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Dilwale%20Dulhania%20Le%20Jayenge.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/1546.jpg", Mujhse Shaadi Karogi
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Mujhse%20Shaadi%20Karogi.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/489.jpg", Har Dil Jo Pyar Karega
@@ -1940,4 +1940,3 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/%5BHHH%5DRaid%20(2023)%2
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/10106.jpg",Raatchasi (2019)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Raatchasi.mp4
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil20/Raatchasi%20(2019).mp4
-
