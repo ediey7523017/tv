@@ -3,11 +3,43 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/q8o2NzIH4ze28NAVs1eRkejAJIk.jpg" group-title="▶ VOD ENGLISH",The Calling Witch (2026)
+https://cloud.hownetwork.xyz/xxx/IRklIiwXEGw1OAMvKx1kaHBOZBkAOzMNHQkoKHECNGF3Hnw/38/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="▶ VOD ENGLISH",Mercy (2026)
 https://lookmovie2.skin/stream/9HgyDbn_dtZ6vBZpgVcD8g/kjhhiuahiuhgihdf/1769432400/67319063/index-v1-a1.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7K8w6mdrJp0oaSoKWGyjSZ4Zv2z.jpg" group-title="▶ VOD ENGLISH",Worldbreaker (2025)
+https://imaxstreams.com/stream/Dc4JKTtNImeKbmRwbcyZcw/hjkrhuihghfvu/1769915046/36486721/index-v1-a1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qwc6wH49pDytMsYGtcaVM1haYIr.jpg" group-title="▶ VOD ENGLISH",The Housemaid (2025)
+https://imaxstreams.com/stream/9d-eIVlPy5rKO9BF2PYzug/hjkrhuihghfvu/1769914780/36351810/index-v1-a1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/760SP4VsZagpyB9WLfeZykE3DFg.jpg" group-title="▶ VOD ENGLISH",Sleepwalker (2026)
+https://imaxstreams.com/stream/q_-MKOXKF057YSPM-XwkUA/hjkrhuihghfvu/1769915179/36239785/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="▶ VOD ENGLISH",Y2K (2024)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Y2K%20(2024)-1-720.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/825.jpg",Men in Black International
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Men_In_Black_International.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/887.jpg",Robin Hood
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Robin%20Hood%20(2018)720p%20brrip%20Malay%20Hardsub.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/882.jpg",Prospect
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Prospect.2018.1080p.BluRay.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
@@ -33,17 +65,6 @@ https://cloud.hownetwork.xyz/xxx/401d10195c4e0ed829f83430f33ac6c2/30/480.m3u8
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="▶ VOD ENGLISH",The Rip (2026)
 https://cloud.hownetwork.xyz/xxx/MBE5Y3dJRXdvBjIOB3wJAB0afyx2QERxIw/38/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qwc6wH49pDytMsYGtcaVM1haYIr.jpg" group-title="▶ VOD ENGLISH",The Housemaid (2025)
-https://minochinos.com/stream/V9RH8iqOUKgZzqC85VPIzg/hjkrhuihghfvu/1769433019/36240174/index-v1-a1.m3u8
-https://lookmovie2.skin/stream/m6JmlZ6_YZ8qw_icwAyPbg/kjhhiuahiuhgihdf/1769432686/66630343/index-v1-a1.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/760SP4VsZagpyB9WLfeZykE3DFg.jpg" group-title="▶ VOD ENGLISH",Sleepwalker (2026)
-https://imaxstreams.net/stream/XI1U6GAbXOth0_UsXTvGiQ/kjhhiuahiuhgihdf/1769228216/66945844/index-v1-a1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
@@ -497,6 +518,7 @@ https://cloud.hownetwork.xyz/xxx/bde63eb12344fc58f99340fadc77d43e/24/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk4NTAwNTAzN15BMl5BanBnXkFtZTcwNjczODYzMQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Gridiron Gang (2006)
+https://www.dropbox.com/scl/fi/agom665h4u9yqpt9h3bjr/Gridiron-Gang-2006.mp4?rlkey=68wc3ptn7r896g8x79qz5w895&st=3eib0ze8&dl=1
 https://cloud.hownetwork.xyz/xxx/2a28e940e46e2fd53d2b09bd239dc264/6/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -518,6 +540,21 @@ https://cloud.hownetwork.xyz/xxx/43b41740f7417904c45cf92cbd350688/25/480.m3u8
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5MTE1MjQyNV5BMl5BanBnXkFtZTcwODI4NDMwNw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Journey 2: The Mysterious Island (2012)
 https://cloud.hownetwork.xyz/xxx/04126131ffba7e000e3a5f2a1bf7dd51/3/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5RBZsOKMMxnp8L6UmOiylKOw4yo.jpg" group-title="▶ VOD ENGLISH",Race to Witch Mountain (2009)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/35/Race%20To%20Witch%20Mountain%20(2009).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uU4zhkZYVfo7MGKPVIYONseusoL.jpg" group-title="▶ VOD ENGLISH",Empire State (2013)
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDc5Mzlf?temp_key=%12jb%AD%ED%B4J%D6%AD%7Bm6%F3m5%DFof%A7&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dxraF0qPr1OEgJk17ltQTO84kQF.jpg" group-title="▶ VOD ENGLISH",Free Guy (2021)
+https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTg2MTNf?temp_key=%16%B7%9E%DBA%AE%CBm6%D3mf%A7&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lAXONuqg41NwUMuzMiFvicDET9Y.jpg" group-title="▶ VOD ENGLISH",Red Notice (2021)
+https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTg4NDhf?temp_key=E%E7v%D0%DA-%89%C7%B6%D3m6%D6jx&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg" group-title="▶ VOD ENGLISH",Baywatch (2017)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Baywatch%202017-1-720.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
@@ -552,6 +589,7 @@ https://cloud.hownetwork.xyz/xxx/c2088ede00e17f49f7570f36799ffe4d/5/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmM3OTM4NDktMmI2NS00OWU0LTg4OTQtNjZhMmFkYjhmOGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Black Adam (2022)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Black%20Adam%20(2022)-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/a535f78ff82628b6d4cad0e6a78f34a1/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1327,11 +1365,3 @@ https://www.dropbox.com/scl/fi/nkdp5ebcizhtoi4ijqrgr/Sobat-Film-Nonton-Red-Cliff
 #EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JjZDYxMjgtNjRhMi00MGIwLWI5ZjktNDhmNDY2N2MyZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Red Cliff II (2009)
 https://www.dropbox.com/scl/fi/wva5t56jr6kkuncyasg08/Sobat-Film-Nonton-Red-Cliff-II-2009-Film-Streaming-Download-Movie-Cinema-21-Bioskop-Subtitle-Indonesia-Layarkaca21-HD-Dunia21.ts?rlkey=izhz3hvrkek0kbhvxrlspkh2j&st=ibczv9km&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/825.jpg",Men in Black International
-https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Men_In_Black_International.mp4
-
-#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/887.jpg",Robin Hood
-https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Robin%20Hood%20(2018)720p%20brrip%20Malay%20Hardsub.mp4
-
-#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/882.jpg",Prospect
-https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Prospect.2018.1080p.BluRay.mp4
