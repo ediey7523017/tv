@@ -1233,8 +1233,6 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/The%20Rou
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Ghibah.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukFo9pwVJ5mzTgmFCanYsYC4roF.jpg", Ride On (2023)
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Ride%20On.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg", Para Betina Pengikut Iblis (2023)
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Para_Betina_Pengikut_Iblis_2023_INDONESIAN_1080p_WEB_DL_EngSub@bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yjKndwGXoJsep0ZYWLm3g9vzZJR.jpg", Village [The Village] (2023)
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/The%20Village%202023%20JAPANESE%201080p%20WEB-DL%20MalaySub@bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/u9GVOc3hDwNGEoLdSdxqdLTGS9A.jpg", Filosofi Kopi (2015)
@@ -1374,23 +1372,27 @@ https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Qodrat%202%202025-1-7
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/14815.jpg" group-title="▶ VOD INDONESIA",Qodrat
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Qodrat%202022ok-1-720.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIxZmE1OWEtZjYyNi00MjMyLWI1YzgtY2FlMWE0YjNiMTk0XkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",Saranjana: Kota Ghaib (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tgk5PvpufxSKNnRDb0U1l5OXd1X.jpg" group-title="▶ VOD INDONESIA",Saranjana: Kota Ghaib (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Saranjana.Kota.Ghaib.2023.1080p.WEB-DL.MalaySub.MSM.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMyOTA1YzEtODZjZS00ZTgwLWE4MTYtZWNhMTY2ZjU2MTVhXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg", Sewu Dino (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bw72UY3Hi9NAjivU8Oex9ypFwLn.jpg" group-title="▶ VOD INDONESIA",Sewu Dino (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Sewu.Dino.2023.1080p.AMZN.WEB-DL.DDP5.1.H.265-KQRM.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ3ZmMxZTAtNzA3NC00NzkwLThjZTMtN2JmMjUxZmRjYWVmXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg", Perjanjian Ghaib (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zWq0RoV8d913lZF9AMVsGRgqpR4.jpg" group-title="▶ VOD INDONESIA",Perjanjian Gaib (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Perjanjian.Gaib.2023.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFjYTc3MTQtODdmZS00ODdlLWIzMmUtOWM5YTZjOTA4ODZkXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg", Hidayah (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gukSJNCDL2Xx8XB9PE5bL5qBOBQ.jpg" group-title="▶ VOD INDONESIA",Hidayah (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Hidayah%202023.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJiMDJkN2ItNjVjNC00OTc1LWE2MWUtNzU1MmY0MWNjNGM5XkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg", Para Betina Pengikut Iblis (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="▶ VOD INDONESIA",Para Betina Pengikut Iblis (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Para_Betina_Pengikut_Iblisjepstoe.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEyMzQ5YmYtODRkYS00ZDVkLWIwMjQtZDc1NTQ2OTViMWJiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDONESIA",Khansab (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="▶ VOD INDONESIA",Para Betina Pengikut Iblis (2023)
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Para_Betina_Pengikut_Iblis_2023_INDONESIAN_1080p_WEB_DL_EngSub@bymovieclub.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/37nSfEMphDI4kdAv5lhH8AUsdGv.jpg" group-title="▶ VOD INDONESIA",The Female Followers of the Devil Part 2 (2024)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Para%20Betina%20Pengikut%20Iblis%20Part%202%202024-1-720.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jsD9Xno9bCaDtGm6Av9yr4T5SUq.jpg" group-title="▶ VOD INDONESIA",Khanzab (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Khanzab.2023.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkZDc1ZDItZWQ3NS00MmQ3LTk0YWUtMmNkZDY2ZGM5OWMzXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDONESIA",Teman Tidur (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/koV70b1IMNlQTIuXL3FgGERdXtj.jpg" group-title="▶ VOD INDONESIA",Teman Tidur (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Teman.Tidur.2023.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://images.justwatch.com/poster/302164577/s718/tasbih-kosong.jpg" group-title="▶ VOD INDONESIA",Tasbih Kosong (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7J8YQwlrexEoL4h84k5LN4t8mXr.jpg" group-title="▶ VOD INDONESIA",Tasbih Kosong (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Tasbih.Kosong.2023.1080p.WEB-DL.MalaySub.MSM_2.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://www.pasundanekspres.co/wp-content/uploads/2023/12/image-from-IMDB.com2_.jpg" group-title="▶ VOD INDONESIA",Galaksi (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/t9PcIn28mfTC1h8IPJzQDnHeakt.jpg" group-title="▶ VOD INDONESIA",Galaksi (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Galaksi.mp4
 
 #EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rf1jxWlDeFgM8hfQCYTFXj0ZXWi.jpg", Ketika Cinta Bertasbih 2 (2009)
@@ -2363,4 +2365,3 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Jangan%20Tinggal%20Daku%20SDTV.mp4
 #EXTINF:-1 group-title="P RAMLEE" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Putus Sudah Kasih Sayang
 https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Putus%20Sudah%20Kasih%20Sayang%20SDTV.mp4
-
