@@ -9,6 +9,18 @@
 https://fift.larhu.website/hls/vxzxg2fzqoqfycihmtlpzchbcih6ftm5oqhov6mnyvarxmd4bci5htrjwe5a/index-v1-a1.m3u8
 https://cloud.hownetwork.xyz/xxx/JhA8PCQXEykjI1p-cwJjdRU9CwoJJi8eJGBAf3cINzo/38/480.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xnoyG3rPuKAHeRbNlwuyiC08Sya.jpg" group-title="▶ VOD BOLLYWOOD",A Thursday (2022)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil21/A%20Thursday%20(2022)LT.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yRQkH26GZ7Qp9xkAMfmVNnkb1Ez.jpg" group-title="▶ VOD BOLLYWOOD",Lost (2023)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil28/Lost%202022.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9d0rhU1s3VHH84bWxM0F6dEKUm2.jpg" group-title="▶ VOD BOLLYWOOD",Chor Nikal Ke Bhaga (2023)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil29/Chor%20Nikal%20Ke%20Bhaga%202023-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6sysjlCKktlf0t0Ck4ArVNo1kai.jpg" group-title="▶ VOD BOLLYWOOD",Bhoot Police (2021)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil16/Bhoot%20Police%20(2021).mp4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3jKqSy87GVUsXdhwhcO7O1UqrjO.jpg" group-title="▶ VOD BOLLYWOOD",Sanam Teri Kasam (2016)
