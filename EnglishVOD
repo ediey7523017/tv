@@ -3,6 +3,42 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg" group-title="▶ VOD ENGLISH",Ambush
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru29/The%20Ambush%20(2021).mp4
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sg4xJaufDiQl7caFEskBtQXfD4x.jpg" group-title="▶ VOD ENGLISH",Ghostbusters: Afterlife
+https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTk1Nzhf?temp_key=%1A%1A%2C%B5%BB%AC%B5%EA%EC%DBM%B4%01%FB%5E%AEX%9F%7Bm6%D3mf%A7&inline=1
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zeD4PabP6099gpE0STWJrJrCBCs.jpg" group-title="▶ VOD ENGLISH",Honest Thief
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNjM5NjRf?temp_key=%1E%89%DE%B2%DD%B4N%18%9E%7Fm6%F3m6%D3ov%D0%19nE%AC%A6%A7&inline=1
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg" group-title="▶ VOD ENGLISH",Sicario: Day of the Soldado 
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNTc5Mzdf?temp_key=J%27%1A%AE%2A6%D06%B2%DBJ%1F%DBKa%7Bm%12%A2WZv%8D%B4%DB%CD%B4%D7%CD%BD%9A%9E&inline=1
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg" group-title="▶ VOD ENGLISH",Sicario 
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNTc5Mzlf?temp_key=J%27%1A%AE%2A6%D3o6%D3%5Ev%F6jx&inline=1
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg" group-title="▶ VOD ENGLISH",The Italian Job 
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/37/The%20Italian%20Job.mp4
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg" group-title="▶ VOD ENGLISH",Mechanic Resurrection 
+https://47226.ohflix.workers.dev/0:/x11/Random2%20Movies%20Malay%20Sub/Mechanicresurrection(2016)Hardsub.mp4
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3tP4r47v8v6mEj5X5RuG9y8Frbh.jpg" group-title="▶ VOD ENGLISH",The Last Stand 
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDkyNTRf?temp_key=N%17%B6%D0%B6%AC%B7m%12%B5%A9%DD%DBM%BC%DBMw%DB%D9%A9&inline=1
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lcn9tfKLfvDGpZgUJw48eN0XCCA.jpg" group-title="▶ VOD ENGLISH",The East 
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNzU3MTZf?temp_key=N%17%B6%D0F%AC%B7m6%F3m6%D3of%A7&inline=1
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1aSkP9geZCbqIoxjF7Jy9dT8UfY.jpg" group-title="▶ VOD ENGLISH",Railroad Tigers 
+https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDc1MTZf?temp_key=E%A8%A5%AE%86%9D%DBD%E2%81%EA%EC%DBM%B4%D7%A9%A9&inline=1
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="▶ VOD ENGLISH",Hidden Strike 
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Hidden%20Strike%202023-1-720.mp4
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bfXjFTytfFTdo9WeO7lYqzkHG7g.jpg" group-title="▶ VOD ENGLISH",The Bank Job 
+https://47242.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/76/The%20Bank%20Job%202008-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="▶ VOD ENGLISH",The Wrecking Crew (2026)
 https://fift.larhu.website/hls/vxzxgnv3qoqfycihmtk7zufbaane2ckvmmcobwd4dzx6yivkr4xuloul4rga/index-v1-a1.m3u8
 
