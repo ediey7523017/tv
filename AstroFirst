@@ -90,6 +90,13 @@ http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ec79fcd9-4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=ab1d8aeb2476b6e4cb5c0168e6bac510:bf567313551faae1c8f6ddbbc71c08dc
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOOHH_IVP_LAND_672x378_7BE00_2024924_134029.jpg" group-title="Astro VOD" tvg-id="NULL", The Watchers
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/8cbcca79-3d40-5aec-a11e-6286f26faab3/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=9c5654904348e9e1213efc47fa65f410:5b0c58fc8e4bdc5199764a4555845ee1
 #EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPWPD_IVP_LAND_448x252_7F523_2025710_134021.jpg",Twister (2024)
@@ -231,6 +238,13 @@ http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e3ea91fd-e
 
 ###########################################################################Astro VOD#############################################################################
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMZBP_IVP_LAND_672x378_2024828_213628.jpg" group-title="▶ VOD MOVIES 2024",The Monkey King 3 (2018)
+#KODIPROP:inputstream.adaptive.license_key=e1d42f16a0c597df930d92476cac9c10:2cf973ed794e62a5633541c1671488ed
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/56c2aeb8-3f8d-52e7-b11a-cad31b40f111/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -1761,14 +1775,6 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=1d9ce7b1a49193875224e7e1db205310:dc9c3a7cfd31c398a1905439fbfda422
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFPVS_Series_IVP_LAND_586x330_667A0_2024313_182631.jpg", Dendam Hantu Latah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e3303654-7e3a-54e1-99e2-f8b250c56961/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=c2e77292bb51c8063a630d7cc5e2f410:cb77e6b5a47ba4f11ee444c932ea70bb
 #EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOKTC_Series_IVP_LAND_448x252_7C15F_2024830_121017.jpg", Rombongan Mak Cik Kiah Ke Dataran Merdeka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
@@ -1784,9 +1790,23 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/9e39e22f-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=7e01f749167dc2deba29762cdf753610:2159637593ac5a3510f396778632bafe
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNNRQ_IVP_LAND_288x162_2024624_143345.jpg" group-title="Astro VOD" tvg-id="NULL", Koklir
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/9e39e22f-a768-55c6-8a05-bac616f4ec86/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=547d535c239e2a637ba7fbb8e86d8610:7cd0b8f8bd6856f5d481423fddac091a
 #EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLKRK_P_IVP_PORT_750x1126_2024127_155859.jpg",Jodoh Geng G 2024
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ad3253cf-0f26-54f7-86ec-d3ff0b9d5e39/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=547d535c239e2a637ba7fbb8e86d8610:7cd0b8f8bd6856f5d481423fddac091a
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLKRK_P_IVP_PORT_390x585_2024127_155858.jpg" group-title="Astro VOD" tvg-id="NULL", Jodoh Geng G
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ad3253cf-0f26-54f7-86ec-d3ff0b9d5e39/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -1798,9 +1818,23 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/4741b248-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=2ee471919618717aa492e748ca780710:98c64a20d1e555b631a77f5819efbc10
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLCMO_IVP_LAND_672x378_2024119_235536.jpg" group-title="Astro VOD" tvg-id="NULL", Mark Masuk Jawi
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/4741b248-cec4-533b-9fba-44da77775828/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=5fc28247379b7949df78389de5e93e10:7b137a587657e93a8e94db0bee0c7a55
 #EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLIEZ_P_IVP_PORT_750x1126_2024112_155225.jpg",Langgar Pantang 2024
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a5d7722b-2150-5c2d-b098-91a33e693eae/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=5fc28247379b7949df78389de5e93e10:7b137a587657e93a8e94db0bee0c7a55
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLIEZ_SERIES_IVP_LAND_288x162_2024112_155212.jpg" group-title="Astro VOD" tvg-id="NULL", Langgar Pantang
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a5d7722b-2150-5c2d-b098-91a33e693eae/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -10492,13 +10526,6 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=547d535c239e2a637ba7fbb8e86d8610:7cd0b8f8bd6856f5d481423fddac091a
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLKRK_P_IVP_PORT_390x585_2024127_155858.jpg" group-title="Astro VOD" tvg-id="NULL", Jodoh Geng G
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ad3253cf-0f26-54f7-86ec-d3ff0b9d5e39/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=146d2bb1f6faf324f7a6d7ea0d3c4310:7db96d2039ffbf927e305801049172db
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLUPR_IVP_LAND_672x378_75FA5_202493_95824.jpg" group-title="Astro VOD" tvg-id="NULL", Joe
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/5c035135-7101-5956-a483-56e6c22c42a9/default_dash.mpd
@@ -11640,13 +11667,6 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=7e01f749167dc2deba29762cdf753610:2159637593ac5a3510f396778632bafe
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNNRQ_IVP_LAND_288x162_2024624_143345.jpg" group-title="Astro VOD" tvg-id="NULL", Koklir
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/9e39e22f-a768-55c6-8a05-bac616f4ec86/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=3f136bc75652314b7aff71170e3c1010:ba77fd5e260df576ece25f184f652637
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKAWK_p_IVP_PORT_390x585_736B9_2024321_174036.jpg" group-title="Astro VOD" tvg-id="NULL", Kolai
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/0af591ff-ab7c-5312-ac94-2a926b7261a0/default_dash.mpd
@@ -12056,13 +12076,6 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/cbfa0ece-
 #KODIPROP:inputstream.adaptive.license_key=094559f5f44c6050a30b327101772c10:efe572f840db4eefaa931f1adb525994
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKGWL_IVP_LAND_171x96_71C00_2024313_19186.jpg" group-title="Astro VOD" tvg-id="NULL", Land Of Gold
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/cd3c7ad8-60d3-58c6-82dd-15ec88ed17fd/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=5fc28247379b7949df78389de5e93e10:7b137a587657e93a8e94db0bee0c7a55
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLIEZ_SERIES_IVP_LAND_288x162_2024112_155212.jpg" group-title="Astro VOD" tvg-id="NULL", Langgar Pantang
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a5d7722b-2150-5c2d-b098-91a33e693eae/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -13015,13 +13028,6 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.license_key=1d513c8fb1914cf1c77ee8910df7f610:69c0bc69b25ca7d97868ce8782c8c3bd
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIUXZ_p_IVP_PORT_390x585_7205B_2024321_173946.jpg" group-title="Astro VOD" tvg-id="NULL", Marina
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/6e1e9d53-48aa-52b2-afd2-f1531fd11ccc/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=2ee471919618717aa492e748ca780710:98c64a20d1e555b631a77f5819efbc10
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLCMO_IVP_LAND_672x378_2024119_235536.jpg" group-title="Astro VOD" tvg-id="NULL", Mark Masuk Jawi
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/4741b248-cec4-533b-9fba-44da77775828/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -18360,13 +18366,6 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c75e7b95-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=ab1d8aeb2476b6e4cb5c0168e6bac510:bf567313551faae1c8f6ddbbc71c08dc
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOOHH_IVP_LAND_672x378_7BE00_2024924_134029.jpg" group-title="Astro VOD" tvg-id="NULL", The Watchers
-https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/8cbcca79-3d40-5aec-a11e-6286f26faab3/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=a7b843fe81316eece848b382a8d94310:ae966a0fec54212a93bed6fedfdacd0e
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLZLC_IVP_LAND_288x162_2024228_171924.jpg" group-title="Astro VOD" tvg-id="NULL", The Way Back
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/542bf19f-6198-5dc1-889b-966025dea893/default_dash.mpd
@@ -20880,20 +20879,6 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=168ed93a7d22cf2027b4a342dbdad610:aa2304561003e704b9a606885722ae31
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMOVE_IVP_LAND_448x252_7CC6C_202498_12751.jpg", aavi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/2e47f53e-410d-57c8-bd7b-77cd5f1307cc/default_dash.mpd
-
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cEaQcjJ54T480chHkfuATPMXqKP.jpg", Ooru Peru Bhairavakona (2024)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaeZzsqvvHVLtmt_gD3fuU4BcVckc-hUJ0OXfa--yUL00g
-
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s5pdvbLzQ2mt7G7A4ceGUUjhO7E.jpg", Anweshippin Kandethum (2024)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbCjc_HJkXVGlwy0U2i4GWABFU-dqagsjC3nj7uscUydnQ 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=68639fee89b11ec42eff82f51b87d210:d727b3a281e366ed3d36aa99786ba91a
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IUQLJ_P_IVP_PORT_258x387_36C6D_2024313_17122.jpg" group-title="Astro VOD" tvg-id="NULL", Rokuroku: The Promise of the Witch
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/2bbc870f-e985-5630-8344-bb92f8f82f38/default_dash.mpd
@@ -21279,36 +21264,6 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.license_key=7215b287a125688a7605e2db955c1b10:efe4e8bd48476cec2c503a1ca81dceb5
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/0620d298-6092-5964-bb4c-4d8cc57dbd9b/default_dash.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=543f69922ba801227a2e56cc9ddbc310:b4805c676bf7bcde46bff8f9ee11c576
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL"    tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNWKG_IVP_LAND_367x207_2024823_14029.jpg", Vacancy 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/cf4a32cb-c7ce-50c4-84f2-b8a2e5f455ea/default_dash.mpd
-
-#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOOHH_IVP_LAND_586x330_2024829_114648.jpg" group-title="Astro VOD" tvg-id="NULL",Watchers
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=ab1d8aeb2476b6e4cb5c0168e6bac510:bf567313551faae1c8f6ddbbc71c08dc
-https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/8cbcca79-3d40-5aec-a11e-6286f26faab3/default_dash.mpd
-
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://pictr.com/images/2025/01/31/xGPODZ.jpg",Godzilla x Kong (2024)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=319b72818e5bab7a754db7c451425a10:676ecd6239226626017367c017aab603
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f68eead3-7900-5dd8-8990-eacc3545df88/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=e8bca1d97bcb216b6504deb6e68c1310:e0a52a030e398e345c623f4de59e7042
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 group-title="Astro VOD" tvg-id="NULL" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg", Dune: Part Two (2024)
-https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/3ec3d9dc-5cdd-5373-af9c-d1ceb4dfdf92/default_dash.mpd
 
 
 ##############################################################################Vivamax##############################################################################
@@ -21341,30 +21296,6 @@ https://hls.khflix.top/Ekis/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5smnwC1vyY6JXxW7kOs5wiuaBQw.jpg" group-title="Vivamax",Basang Basa (2025)
 https://hls.khflix.top/Basang.Basa/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/05/ai80zOJ3TYIe31OOHbEyjdb25OW-200x300.jpg" group-title="Vivamax",Kalakal
-https://media-eu.cloudbox.ph/bibamax/Kalakal%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/05/pNClIec4AsWkZmMBqqYXMPO0nzd-200x300.jpg" group-title="Vivamax",Bayo
-https://media-eu.cloudbox.ph/bibamax/Bayo%20Vmx%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/06/Kandungan-199x300.webp" group-title="Vivamax",Kandungan
-https://media.cloudbox.ph/bibamax/Kandungan%20Vmx%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/07/Triangulo-201x300.webp" group-title="Vivamax",Trianggulo
-https://media.cloudbox.ph/bibamax/Trianggulo%20Vmx%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/07/Victorias-Silver-200x300.webp" group-title="Vivamax",Victoria’s Silver
-https://media.cloudbox.ph/bibamax/Victorias%20Silver%20Vmx%20%282025%29%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/08/L-Lakad-200x300.webp" group-title="Vivamax",L: Lakad
-https://media.cloudbox.ph/bibamax/L%20Lakad%20Vmx%20(2025)%20-%20720p.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/12/Kapag-Tumayo-Ang-Testigo.jpg" group-title="Vivamax",Kapag Tumayo Ang Testigo
 https://hls.khflix.top/Kapag.Tumayo.Ang.Testigo/index.m3u8
 
@@ -21382,78 +21313,6 @@ https://hls.khflix.top/Top.1/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/11/Nympho.jpg" group-title="Vivamax",Nympho
 https://hls.khflix.top/Nympho/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/05/xnrGqTuLJoZv8icTDpAiLbYAi5F-200x300.jpg" group-title="Vivamax",The Jowa Collector
-https://media-eu.cloudbox.ph/bibamax/The%20Jowa%20Collector%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2024/03/sze10NcTe4gAL7q7Fr8nORRh78Y-200x300.jpg" group-title="Vivamax",TL
-https://media-eu.cloudbox.ph/bibamax/Tl%20(2024)%20-%20720p.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/05/post_91623_IDMUVICORE_Poster_02cab347.webp" group-title="Vivamax",Hiram (2025)
-https://khflix.top/Hiram/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/05/Sorority-201x300.webp" group-title="Vivamax",Sorority
-https://media-eu.cloudbox.ph/bibamax/Sorority%20Vmx%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/05/post_91517_IDMUVICORE_Poster_222c58b7.jpg" group-title="Vivamax",Maninilip (2025)
-https://media-eu.cloudbox.ph/bibamax/Maninilip%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/05/post_91231_IDMUVICORE_Poster_6728f8b5.jpg" group-title="Vivamax",Ligaw (2025)
-https://media-eu.cloudbox.ph/bibamax/Ligaw%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/04/post_91147_IDMUVICORE_Poster_2e4b1eaf.jpg" group-title="Vivamax",Rapsa (2025)
-https://media-eu.cloudbox.ph/bibamax/Rapsa%20(2025)%20-%20720p.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/04/post_91059_IDMUVICORE_Poster_6799f211.jpg" group-title="Vivamax",Deep Inside: Angeli Khang (2025)
-https://khflix.top/Deep-Inside-Angeli-Khang/Deep-Inside-Angeli-Khang/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/04/post_91035_IDMUVICORE_Poster_4ef8419f.jpg" group-title="Vivamax",Sabik (2025)
-https://khflix.top/Sabik/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_90293_IDMUVICORE_Poster_2c8c729a.jpg" group-title="Vivamax",Delusyon (2025)
-https://hls.khflix.top/Delusyon/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_90243_IDMUVICORE_Poster_952ba6dd.jpg" group-title="Vivamax",Guilty Pleasure (2024)
-
-
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_90089_IDMUVICORE_Poster_261011e4.jpg" group-title="Vivamax",Elevator Lady (2025)
-https://1a-1791.com/video/fww1/dc/s8/2/6/2/J/6/62J6y.aaa.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_89991_IDMUVICORE_Poster_c251fab9.jpg" group-title="Vivamax",Malagkit (2025)
-https://1a-1791.com/video/fww1/52/s8/2/U/K/7/4/UK74y.aaa.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/02/post_89925_IDMUVICORE_Poster_77bfd48b.jpg" group-title="Vivamax",Kolektor (2025)
-https://media-eu.cloudbox.ph/bibamax/Kolektor%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/02/post_89837_IDMUVICORE_Poster_d13791dd.jpg" group-title="Vivamax",Walker (2025)
-https://media-eu.cloudbox.ph/bibamax/Walker%20(2025)%20-%20720p.mp4
-
-#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ihLFcDHv0PdSscrdLFoFtgo6QkH.jpg",Tokyo Nights (2025)
-https://khflix.top/Tokyo.Nights.2025/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/02/zPIaNQaQKtCIOs95x4GmaJ6omco-200x300.jpg",Belyas
-https://media-eu.cloudbox.ph/bibamax/Belyas%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/02/post_89787_IDMUVICORE_Poster_130ad42d.jpg" group-title="Vivamax",Online Selling (2025)
-https://media-eu.cloudbox.ph/bibamax/Online%20Selling%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Opn9aPs8UCBJQ6lqou3i8f9omC.jpg",Sponsor (2025)
-https://media-eu.cloudbox.ph/bibamax/Sponsor%20(2025)%20-%20720p.mp4
-
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8L60mdRK3aBhu9EjXFAvc0KiSQ.jpg",Sipsipan
-https://media-eu.cloudbox.ph/bibamax/Sipsipan%20Vmx%20(2025)%20-%20720p.mp4
 
 #EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU1MTU3OGQtMTgwYi00MzMzLTk2NzUtZDA0NGIzNWI0OGFmXkEyXkFqcGc@._V1_.jpg",Bagong Tukso (2026)
 https://habetar.com/stream/TG-IjSxL-HJB9ldOVsBfmw/kjhhiuahiuhgihdf/1769330670/67189242/index-v1-a1.m3u8
@@ -21491,17 +21350,131 @@ https://hls.khflix.top/Mayumi/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta7JKGq0jhx2xJPrUw8yXheJaOf.jpg" group-title="Vivamax",Bulong Ng Laman (2025)
 https://1a-1791.com/video/fww1/d4/s8/2/G/p/U/c/GpUcz.aaa.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_90089_IDMUVICORE_Poster_261011e4.jpg" group-title="Vivamax",Elevator Lady (2025)
+https://1a-1791.com/video/fww1/dc/s8/2/6/2/J/6/62J6y.aaa.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_89991_IDMUVICORE_Poster_c251fab9.jpg" group-title="Vivamax",Malagkit (2025)
+https://1a-1791.com/video/fww1/52/s8/2/U/K/7/4/UK74y.aaa.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2025/09/l1vVrAs2dtxiSYnD1f5G8iFc6UH.jpg" group-title="Vivamax",Kirot (2025)
 https://hls.khflix.top/Kirot/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2024/12/post_89255_IDMUVICORE_Poster_b4ebe7aa.jpg" group-title="Vivamax",Teacher’s Pet (2024)
 https://hls.khflix.top/Teacher_s.Pet/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2024/12/post_89211_IDMUVICORE_Poster_fffef68b.jpg" group-title="Vivamax",Boy Kaldag (2024)
-https://media-eu.cloudbox.ph/bibamax/Boy%20Kaldag%20(2024)%20-%20720p.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/05/post_91623_IDMUVICORE_Poster_02cab347.webp" group-title="Vivamax",Hiram (2025)
+https://khflix.top/Hiram/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/04/post_91059_IDMUVICORE_Poster_6799f211.jpg" group-title="Vivamax",Deep Inside: Angeli Khang (2025)
+https://khflix.top/Deep-Inside-Angeli-Khang/Deep-Inside-Angeli-Khang/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/04/post_91035_IDMUVICORE_Poster_4ef8419f.jpg" group-title="Vivamax",Sabik (2025)
+https://khflix.top/Sabik/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/03/post_90293_IDMUVICORE_Poster_2c8c729a.jpg" group-title="Vivamax",Delusyon (2025)
+https://hls.khflix.top/Delusyon/index.m3u8
+
+#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ihLFcDHv0PdSscrdLFoFtgo6QkH.jpg",Tokyo Nights (2025)
+https://khflix.top/Tokyo.Nights.2025/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2024/12/post_89199_IDMUVICORE_Poster_945020d3.jpg" group-title="Vivamax",Secret Sessions (2024)
 https://hls.khflix.top/Secret%E1%9F%94Sessions/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/05/ai80zOJ3TYIe31OOHbEyjdb25OW-200x300.jpg" group-title="Vivamax",Kalakal
+https://media-eu.cloudbox.ph/bibamax/Kalakal%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/05/pNClIec4AsWkZmMBqqYXMPO0nzd-200x300.jpg" group-title="Vivamax",Bayo
+https://media-eu.cloudbox.ph/bibamax/Bayo%20Vmx%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/06/Kandungan-199x300.webp" group-title="Vivamax",Kandungan
+https://media.cloudbox.ph/bibamax/Kandungan%20Vmx%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/07/Triangulo-201x300.webp" group-title="Vivamax",Trianggulo
+https://media.cloudbox.ph/bibamax/Trianggulo%20Vmx%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/07/Victorias-Silver-200x300.webp" group-title="Vivamax",Victoria’s Silver
+https://media.cloudbox.ph/bibamax/Victorias%20Silver%20Vmx%20%282025%29%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/08/L-Lakad-200x300.webp" group-title="Vivamax",L: Lakad
+https://media.cloudbox.ph/bibamax/L%20Lakad%20Vmx%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/05/xnrGqTuLJoZv8icTDpAiLbYAi5F-200x300.jpg" group-title="Vivamax",The Jowa Collector
+https://media-eu.cloudbox.ph/bibamax/The%20Jowa%20Collector%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2024/03/sze10NcTe4gAL7q7Fr8nORRh78Y-200x300.jpg" group-title="Vivamax",TL
+https://media-eu.cloudbox.ph/bibamax/Tl%20(2024)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/05/Sorority-201x300.webp" group-title="Vivamax",Sorority
+https://media-eu.cloudbox.ph/bibamax/Sorority%20Vmx%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/05/post_91517_IDMUVICORE_Poster_222c58b7.jpg" group-title="Vivamax",Maninilip (2025)
+https://media-eu.cloudbox.ph/bibamax/Maninilip%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/05/post_91231_IDMUVICORE_Poster_6728f8b5.jpg" group-title="Vivamax",Ligaw (2025)
+https://media-eu.cloudbox.ph/bibamax/Ligaw%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/04/post_91147_IDMUVICORE_Poster_2e4b1eaf.jpg" group-title="Vivamax",Rapsa (2025)
+https://media-eu.cloudbox.ph/bibamax/Rapsa%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/02/post_89925_IDMUVICORE_Poster_77bfd48b.jpg" group-title="Vivamax",Kolektor (2025)
+https://media-eu.cloudbox.ph/bibamax/Kolektor%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/02/post_89837_IDMUVICORE_Poster_d13791dd.jpg" group-title="Vivamax",Walker (2025)
+https://media-eu.cloudbox.ph/bibamax/Walker%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://bibamax.ph/wp-content/uploads/2025/02/zPIaNQaQKtCIOs95x4GmaJ6omco-200x300.jpg",Belyas
+https://media-eu.cloudbox.ph/bibamax/Belyas%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2025/02/post_89787_IDMUVICORE_Poster_130ad42d.jpg" group-title="Vivamax",Online Selling (2025)
+https://media-eu.cloudbox.ph/bibamax/Online%20Selling%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Opn9aPs8UCBJQ6lqou3i8f9omC.jpg",Sponsor (2025)
+https://media-eu.cloudbox.ph/bibamax/Sponsor%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" group-title="Vivamax" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8L60mdRK3aBhu9EjXFAvc0KiSQ.jpg",Sipsipan
+https://media-eu.cloudbox.ph/bibamax/Sipsipan%20Vmx%20(2025)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://wideoceanretreat.com/wp-content/uploads/dbsync/2024/12/post_89211_IDMUVICORE_Poster_fffef68b.jpg" group-title="Vivamax",Boy Kaldag (2024)
+https://media-eu.cloudbox.ph/bibamax/Boy%20Kaldag%20(2024)%20-%20720p.mp4
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
