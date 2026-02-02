@@ -6,6 +6,9 @@
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="▶ VOD ENGLISH",The Wrecking Crew (2026)
 https://fift.larhu.website/hls/vxzxgnv3qoqfycihmtk7zufbaane2ckvmmcobwd4dzx6yivkr4xuloul4rga/index-v1-a1.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg" group-title="▶ VOD ENGLISH",The Spiderwick Chronicles (2008)
+https://fift.larhu.website/hls/vxzxhnfyqoqfycihmtlpzw7dbm2j2tccozved56w63ogtz7pto2emud5t6yq/index-v1-a1.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
@@ -24,6 +27,12 @@ https://cloud.hownetwork.xyz/xxx/Lx07KSBURXFwZFobBnISFB0gFnt8SEB1JjMT/38/480.m3u
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/q8o2NzIH4ze28NAVs1eRkejAJIk.jpg" group-title="▶ VOD ENGLISH",The Calling Witch (2026)
 https://cloud.hownetwork.xyz/xxx/IRklIiwXEGw1OAMvKx1kaHBOZBkAOzMNHQkoKHECNGF3Hnw/38/480.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qwc6wH49pDytMsYGtcaVM1haYIr.jpg" group-title="▶ VOD ENGLISH",The Housemaid (2025)
+https://cloud.hownetwork.xyz/xxx/Khc8PSAUFigmfEV8cQV7EAY7CAMaISgjdDIRdXACMw/38/480.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="▶ VOD ENGLISH",Mercy (2026)
@@ -33,11 +42,6 @@ https://lookmovie2.skin/stream/9HgyDbn_dtZ6vBZpgVcD8g/kjhhiuahiuhgihdf/176943240
 #EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7K8w6mdrJp0oaSoKWGyjSZ4Zv2z.jpg" group-title="▶ VOD ENGLISH",Worldbreaker (2025)
 https://imaxstreams.com/stream/Dc4JKTtNImeKbmRwbcyZcw/hjkrhuihghfvu/1769915046/36486721/index-v1-a1.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qwc6wH49pDytMsYGtcaVM1haYIr.jpg" group-title="▶ VOD ENGLISH",The Housemaid (2025)
-https://imaxstreams.com/stream/9d-eIVlPy5rKO9BF2PYzug/hjkrhuihghfvu/1769914780/36351810/index-v1-a1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://wideoceanretreat.com/
