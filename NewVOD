@@ -3138,6 +3138,8 @@ https://dtacmuar-my.sharepoint.com/personal/2022b38001_student_dtac_edu_my/_layo
 
 ##########################################################▶ VOD NETFLIX################################################
 
+#EXTINF:-1 type="movie" tvg-logo=https://image.tmdb.org/t/p/w600_and_h900_face/A188B94iDLdB6499QBYbz74WgOF.jpg"" group-title="▶ VOD NETFLIX",The Big Fake (2025)
+https://fift.larhu.website/hls/vxzxg4vzqoqfycihmtlpzqhgaa4xrrnjmxr7h7mykcridpyroonxkyx4j43q/index-v1-a1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
@@ -4628,3 +4630,4 @@ https://cloud.hownetwork.xyz/xxx/MQ07KykAWjUtPBg-MV8hdTEdKD0qF1pwbzQHJTBfMj1vSXh
 #EXTVLCOPT:http-referrer=https://tv3.nontondrama.my/
 #EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://asianwiki.com/images/c/c7/Surely_Tomorrow-p.jpg",  Surely Tomorrow S1 E12
 https://cloud.hownetwork.xyz/xxx/MQ07KykAWjUtPBg-MV8hdTEdKD0qF1pwbzQHJTBfMj1vSXtjd0lFdG8GMg4HfAkAHUkvendJQCMh/38/480.m3u8
+
