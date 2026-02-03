@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml,https://azimabid00.github.io/epg/unifi_epg.xml,https://www.open-epg.com/files/indonesia4.xml.gz,https://www.open-epg.com/files/singapore1.xml.gz,https://github.com/dbghelp/StarHub-TV-EPG/raw/main/starhub.xml" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="JJ EDIEY 87 Editor"
+#EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml,https://github.com/ediey7523017/tv/raw/main/unifi_epg.xml,https://www.open-epg.com/files/singapore1.xml.gz,https://github.com/dbghelp/StarHub-TV-EPG/raw/main/starhub.xml,https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="JJ EDIEY 87 Editor"
 
 
 ###################################################################Astro###############################################################
@@ -460,12 +460,12 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="101.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=530" group-logo="https://playtv.unifi.com.my/EPG/WEBTV/assets/images/unifi_logo_white.png" group-title="Unifi TV",TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV1
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV1)/master.mpd
 
 #EXTINF:-1 tvg-id="102.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/907F5B90-0688-4EC2-ABEF-A69F7C842287/0-16x9.png?width=530" group-title="Unifi TV",TV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV2
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV2)/master.mpd
 
 #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=530" group-title="Unifi TV",TV3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
