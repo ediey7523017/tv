@@ -1312,6 +1312,10 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Nezha%20C
 
 ##########################################################################VOD INDONESIA#####################################################################
 
+#EXTVLCOPT:http-referrer=https://menorcaconnecta.com/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hwAFQ8wlSczJ0vK2OxWw51m3eMJ.jpg" group-title="▶ VOD INDONESIA",Janur Ireng Sewu Dino The Prequel (2025)
+https://minochinos.com/stream/XQr-L-U5Crd28nq1B70S8Q/hjkrhuihghfvu/1770231991/36322549/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rpqkqiqv1nl9MbdnOLKLbqqkJSj.jpg" group-title="▶ VOD INDONESIA",Sore: A Wife from the Future (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Sore%20Istri%20dari%20Masa%20Depan%202025-1-720.mp4
 
