@@ -8,8 +8,17 @@
 https://fift.larhu.website/hls/vxzxg2fzqoqfycihmtlpzchbcih6ftm5oqhov6mnyvarxmd4bci5htrjwe5a/index-v1-a1.m3u8
 https://cloud.hownetwork.xyz/xxx/JhA8PCQXEykjI1p-cwJjdRU9CwoJJi8eJGBAf3cINzo/38/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xnoyG3rPuKAHeRbNlwuyiC08Sya.jpg" group-title="▶ VOD BOLLYWOOD",A Thursday (2022)
-https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil21/A%20Thursday%20(2022)LT.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qusjoDePti9etsaq9DgyYSj2Sq8.jpg" group-title="▶ VOD BOLLYWOOD",Aap Jaisa Koi (2025)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Aap%20Jaisa%20Koi%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n9RE7wiM94E1f0GWr2OCjnYfBuJ.jpg" group-title="▶ VOD BOLLYWOOD",Lahore Confidential (2021)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil38-1/Lahore%20Confidential%20(2021).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ovyWtXhPRKKpSyMUIVYBWiurggY.jpg" group-title="▶ VOD BOLLYWOOD",JugJugg Jeeyo (2022)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/JugJugg%20Jeeyo%202022-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/22526.jpg" group-title="▶ VOD BOLLYWOOD",Brothers (2015)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Brothers%202015-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yRQkH26GZ7Qp9xkAMfmVNnkb1Ez.jpg" group-title="▶ VOD BOLLYWOOD",Lost (2023)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil28/Lost%202022.mp4
@@ -169,7 +178,8 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/15/Prem%20Ratan%20Dhan%20Payo
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/434.jpg" group-title="▶ VOD BOLLYWOOD",Tubelight
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil5/TUBELIGHT%20(2017%20-%20BM%20-%20HD).mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM5MzI5NDIxOF5BMl5BanBnXkFtZTcwMzAwOTQyMQ@@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Dhaai Akshar Prem Ke
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gabkUhs9jgF88XuIcn2ySre5HqM.jpg" group-title="▶ VOD BOLLYWOOD",Dhaai Akshar Prem Ke (2000)
+https://www.dropbox.com/scl/fi/fvhxmhi8px8j9r9m40lgs/Dhaai-Akshar-Prem-Ke.mp4?rlkey=b9umekq3dm6l6llcjxscx3c3n&st=9qd9f0j7&dl=1
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/21/Dhaai%20Akshar%20Prem%20Ke%20[2000]-indo.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/22652.jpg" group-title="▶ VOD BOLLYWOOD",Samrat Prithviraj
@@ -1375,7 +1385,7 @@ https://www.dropbox.com/scl/fi/m3fdbvjm7ysnmt2pylbid/Vaada-2004_2.mp4?rlkey=vpqj
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg" group-title="▶ VOD BOLLYWOOD",Shaitaan (2024)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil34/Shaitaan%20(2024)ok-1-720.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9pAUJtBTgUUE7tEl6zi8ICFCoAM.jpg", Naa Peru Surya, Naa Illu India (2018)
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9pAUJtBTgUUE7tEl6zi8ICFCoAM.jpg", Naa Peru Surya Naa Illu India (2018)
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/HINDI/Naa%20Peru%20Surya%20-%20Naa%20Illu%20India.mkv
 
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/63.jpg" group-title="▶ VOD BOLLYWOOD",Bharat
@@ -1390,6 +1400,10 @@ https://web.opendrive.com/api/v1/download/file.json/NDZfODQ2MDY5NjNf?temp_key=U%
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/simpan/backupi/Radhe-%20Your%20Most%20Wanted%20Bhai.mp4
 https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDMwNzBf?temp_key=E%A7a%7Bm6%D3mh%92jx&inline=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xnoyG3rPuKAHeRbNlwuyiC08Sya.jpg" group-title="▶ VOD BOLLYWOOD",A Thursday (2022)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil21/A%20Thursday%20(2022)LT.mp4
+http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4543.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg" group-title="▶ VOD BOLLYWOOD",Duplicate (1998)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4553.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXGeUIbEfgO3cfHuYuPkXnKVt43.jpg" group-title="▶ VOD BOLLYWOOD",Baadshah (1999)
@@ -1398,8 +1412,6 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4554.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4555.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWKskigmvBow3uOP4RPQOIaUux.jpg" group-title="▶ VOD BOLLYWOOD",Billu (2009)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4556.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnoyG3rPuKAHeRbNlwuyiC08Sya.jpg" group-title="▶ VOD BOLLYWOOD",A Thursday (2022)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4543.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCymRm6FG62zrKnXiHHJvDgkYoA.jpg" group-title="▶ VOD BOLLYWOOD",Sooryavanshi (2021)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4544.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igPVDl7X2WNYBnvnC0O0oQKXSpF.jpg" group-title="▶ VOD BOLLYWOOD",Jawan (2023)
