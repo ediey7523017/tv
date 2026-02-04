@@ -1398,12 +1398,6 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDON
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Perjanjian.Gaib.2023.mkv
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gukSJNCDL2Xx8XB9PE5bL5qBOBQ.jpg" group-title="▶ VOD INDONESIA",Hidayah (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Hidayah%202023.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="▶ VOD INDONESIA",Para Betina Pengikut Iblis (2023)
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Para_Betina_Pengikut_Iblisjepstoe.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="▶ VOD INDONESIA",Para Betina Pengikut Iblis (2023)
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Para_Betina_Pengikut_Iblis_2023_INDONESIAN_1080p_WEB_DL_EngSub@bymovieclub.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/37nSfEMphDI4kdAv5lhH8AUsdGv.jpg" group-title="▶ VOD INDONESIA",The Female Followers of the Devil Part 2 (2024)
-https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Para%20Betina%20Pengikut%20Iblis%20Part%202%202024-1-720.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jsD9Xno9bCaDtGm6Av9yr4T5SUq.jpg" group-title="▶ VOD INDONESIA",Khanzab (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Khanzab.2023.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/koV70b1IMNlQTIuXL3FgGERdXtj.jpg" group-title="▶ VOD INDONESIA",Teman Tidur (2023)
@@ -1412,6 +1406,12 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDON
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Tasbih.Kosong.2023.1080p.WEB-DL.MalaySub.MSM_2.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/t9PcIn28mfTC1h8IPJzQDnHeakt.jpg" group-title="▶ VOD INDONESIA",Galaksi (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Galaksi.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="▶ VOD INDONESIA",Para Betina Pengikut Iblis (2023)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Para_Betina_Pengikut_Iblisjepstoe.mp4
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Para_Betina_Pengikut_Iblis_2023_INDONESIAN_1080p_WEB_DL_EngSub@bymovieclub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/37nSfEMphDI4kdAv5lhH8AUsdGv.jpg" group-title="▶ VOD INDONESIA",The Female Followers of the Devil Part 2 (2024)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Para%20Betina%20Pengikut%20Iblis%20Part%202%202024-1-720.mp4
 
 #EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rf1jxWlDeFgM8hfQCYTFXj0ZXWi.jpg", Ketika Cinta Bertasbih 2 (2009)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Ketika%20Cinta%20Bertasbih%202.mp4
