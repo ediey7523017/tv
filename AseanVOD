@@ -3,6 +3,21 @@
 
 ######################################################▶ VOD ASEAN#####################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg" group-title="▶ VOD ASEAN",Even If This Love Disappears Tonight (2025)
+https://fift.larhu.website/hls/vxzxhsfwqoqfycihmtlpzqvfjotcysxhpbzoh7yvytkrak44zpmqzbsadrpa/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oOfq5tr7OdVnpIMmuzCmet6XBEo.jpg" group-title="▶ VOD ASEAN",Road to Boston (2023)
+https://fift.larhu.website/hls/vxzxhq5wqoqfycihmtlpzb52dqopnhb7a76mq7lrk5punekqaz4fbqbu7tva/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/A99xJpJmF0fRkkB9VHVhLPOkEfC.jpg" group-title="▶ VOD ASEAN",Abroad (2025)
+https://fift.larhu.website/hls/vxzxgb56qoqfycihmtk7zsfobw63vyregt4rddnahz5mjk7pwhcujqnyjwra/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4cS5A8DLpLNp2TWFEXaacnLyyLc.jpg" group-title="▶ VOD ASEAN",Once Again (2024)
+https://fift.larhu.website/hls/vxzxg5fbqoqfycihmtk7zcf5d5dxwdjvjbzwhs7maybqbtg7gfccclw2zoaq/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ASEAN",
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sIXA1OfAeXwowCNEFOLcBNQXofS.jpg" group-title="▶ VOD ASEAN",Best Served Cold (2026)
@@ -1312,9 +1327,8 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Nezha%20C
 
 ##########################################################################VOD INDONESIA#####################################################################
 
-#EXTVLCOPT:http-referrer=https://menorcaconnecta.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hwAFQ8wlSczJ0vK2OxWw51m3eMJ.jpg" group-title="▶ VOD INDONESIA",Janur Ireng Sewu Dino The Prequel (2025)
-https://minochinos.com/stream/XQr-L-U5Crd28nq1B70S8Q/hjkrhuihghfvu/1770231991/36322549/index-v1-a1.m3u8
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rpqkqiqv1nl9MbdnOLKLbqqkJSj.jpg" group-title="▶ VOD INDONESIA",Sore: A Wife from the Future (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Sore%20Istri%20dari%20Masa%20Depan%202025-1-720.mp4
