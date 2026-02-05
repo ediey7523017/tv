@@ -15,8 +15,15 @@ https://fift.larhu.website/hls/vxzxgb56qoqfycihmtk7zsfobw63vyregt4rddnahz5mjk7pw
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4cS5A8DLpLNp2TWFEXaacnLyyLc.jpg" group-title="▶ VOD ASEAN",Once Again (2024)
 https://fift.larhu.website/hls/vxzxg5fbqoqfycihmtk7zcf5d5dxwdjvjbzwhs7maybqbtg7gfccclw2zoaq/index-v1-a1.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ASEAN",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fUCFEGFlMIFet9ja72JDAeG1he8.jpg" group-title="▶ VOD ASEAN",Legends of the Condor Heroes: The Gallants (2025)
+https://cloud.hownetwork.xyz/xxx/Lh0uKysdBGwtN1o4K1V7Oy0WLSE3VB8kMD4SP25EPj1vHygiKRgZNTF8RXxxBXsvJxotIhohKCcgZUIpd1Nn/33/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gKTbEQJnkYXVZkq1g4ZakJ9Y16N.jpg" group-title="▶ VOD ASEAN",The Legend of The Condor Heroes The Dragon Tamer (2021)
+https://cloud.hownetwork.xyz/xxx/6b42586f621099ef319e0d795ee78640/2/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
