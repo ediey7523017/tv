@@ -2009,7 +2009,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
 ###################################################################Astro Audio##########################################################
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="852.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppvO6.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Astro_Audio_%282025%29.svg/revision/latest/scale-to-width-down/180?cb=20250801132546",HITZ FM
+#EXTINF:-1 group-title="Astro Audio" tvg-id="852.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppvO6.png" group-logo="https://assets.astroaudio.com.my/audio/media/uploads/logo/2026-01/LOGO.png",HITZ FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c759f4bc157b00a7b1dba7873197fc10:96da0bbe83b8f54194e42428e1fd6632
