@@ -318,7 +318,7 @@ https://unifi.whacat.tech/TV9
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l0g5/Vg5Ok4WsH1wJ7BYaA","kid":"MrLnF2GvRkGQD4ffA8SMsg"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="113.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=530" group-title="Unifi TV", Salam
+#EXTINF:-1 tvg-id="113.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1CE8DFF2-DF3E-4EFD-8D01-3D261D0890DD/0-16x9.png?width=530" group-title="Unifi TV", Salam
 https://unifi.whacat.tech/Salam
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
