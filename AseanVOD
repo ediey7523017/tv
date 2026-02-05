@@ -1329,6 +1329,23 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Nezha%20C
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hwAFQ8wlSczJ0vK2OxWw51m3eMJ.jpg" group-title="▶ VOD INDONESIA",Janur Ireng Sewu Dino The Prequel (2025)
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uznJ8CF53TAYHS6zIYCmxdH4sSJ.jpg" group-title="▶ VOD INDONESIA",Maryam Janji dan Jiwa yang Terikat (2025)
+https://fift.larhu.website/hls/vxzxhcfwqoqfycihmtlpzbnzjlsgvsny26b5avfltvcujsyu2jlvul733uia/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pfg4iuS1lgDaZxPgNDsWbhTfqin.jpg" group-title="▶ VOD INDONESIA",Dia Bukan Ibu (2025)
+https://fift.larhu.website/hls/vxzxhb5wqoqfycihmtlpzxf6bnnihudjhbde3wnftt5srsz2uph2ghk4yjra/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zOKTUp2ZjzUBIZAayhOnx9QicQr.jpg" group-title="▶ VOD INDONESIA",Tenung by Risa Saraswati & Dimasta (2025)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Tenung%20By%20Risa%20Saraswati%20&%20Dimasta%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7rRdMUnLAEAE5JUuOfWqWjoC3xs.jpg" group-title="▶ VOD INDONESIA",Selepas Tahlil (2025)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Selepas%20Tahlil%20(2025)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wPxNdqsJ0JKhd3thBjJgFmbNc3M.jpg" group-title="▶ VOD INDONESIA",Penjagal Iblis Dosa Turunan (2025)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Penjagal%20Iblis%20Dosa%20Turunan%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vzVESoM1YcGq2KltTLyIpG53fTW.jpg" group-title="▶ VOD INDONESIA",Rego Nyowo (2025)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Rego%20Nyowo%20(2025)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rpqkqiqv1nl9MbdnOLKLbqqkJSj.jpg" group-title="▶ VOD INDONESIA",Sore: A Wife from the Future (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Sore%20Istri%20dari%20Masa%20Depan%202025-1-720.mp4
