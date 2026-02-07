@@ -1860,7 +1860,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://live.aqfadtv.xyz/premierleague/index.mpd
+https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41fra2nAIuId__HUIxWQXoIqGL_G-8msgYD9nPzagxJZo=i_st/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=528a1c23-0b29-42b6-82c8-b155636bfa6f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="811.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League HD
@@ -1873,7 +1873,7 @@ https://load.perfecttv.net/mpd/epl1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://live.aqfadtv.xyz/premierleague2/index.mpd
+https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/410wc8krnY40R9Ss9IVwQfYnk8j-Qsy2_beFXVeio7cM4=Jgpk/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=ccd78502-d50d-4632-ba3c-fd7b585798ca
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-id="812.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 HD
@@ -1898,7 +1898,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://live.aqfadtv.xyz/badminton/index.mpd
+https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41waUq65v5z6EqzAnCu90gFoieMgJi_v5okLq5__OG8NY=Znpk/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=20c4f0d7-b088-4d80-9d47-cb5851a7e33a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
 
 #EXTINF:-1 tvg-id="815.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",815 Astro Badminton HD
