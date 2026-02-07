@@ -3,6 +3,11 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/99rpDOk540UDaCMlJSonpSvQCPm.jpg" group-title="▶ VOD BOLLYWOOD",Mastiii 4 (2025)
+https://cloud.hownetwork.xyz/xxx/Lxk6OiwQHmx2fEV8cQV7Dwc6DQIaIShwdzNOeSJSNw/38/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tNDMdkJQ8BJnV7Uavyft141xgWb.jpg" group-title="▶ VOD BOLLYWOOD",Tu Meri Main Tera Main Tera Tu Meri (2025)
 https://fift.larhu.website/hls/vxzxgb5wqoqfycihmtlpzxvacthvi3ut6jzsxnqkalwzhvfbmmqdslyqxueq/index-v1-a1.m3u8
 
