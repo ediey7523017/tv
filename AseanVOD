@@ -2427,25 +2427,11 @@ https://1a-1791.com/video/fww1/28/s8/2/8/a/3/4/8a34y.aaa.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1S1xx1wlXGmiZdalG6vMXSXads5.jpg" group-title="Vivamax",Halimuyak (2025)
 https://1a-1791.com/video/fww1/fb/s8/2/u/e/l/5/uel5y.aaa.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E06
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E06%20(2022)%20-%20720p.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E05
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E05%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E04
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E04%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E03
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E03%20(2022)%20-%20720p.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E01
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E01%20(2022)%20-%20720p.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://bibamax.ph/
@@ -2454,8 +2440,23 @@ https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E02%20(
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E01
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E01%20(2022)%20-%20720p.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E03
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E03%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E04
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E04%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E05
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E05%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E06
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E06%20(2022)%20-%20720p.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://bibamax.ph/
