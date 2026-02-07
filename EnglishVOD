@@ -3,8 +3,23 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
-#EXTINF:-1  type="movie" tvg-logo="" group-title="▶ VOD ENGLISH",
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg" group-title="▶ VOD ENGLISH",Return to Silent Hill (2026)
+https://cloud.hownetwork.xyz/xxx/MB09OzcXWjIrPRIiNx0-MS4UZHx1S0FsFRQ1CA9vDgdyGXl4J01CcA/38/480.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg" group-title="▶ VOD ENGLISH",The Plague (2025)
+https://cloud.hownetwork.xyz/xxx/MhQoKTAcWnNyY0JhFHUUHA4nERF8GEB1c2MTfQ/38/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg" group-title="▶ VOD ENGLISH",The Dutchman (2026)
+https://cloud.hownetwork.xyz/xxx/Jg09LS0UFi9vY0d-dh0BHQA8BREdJkNwc2QRKCED/38/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="▶ VOD ENGLISH",Wildcat (2025)
 https://www.dropbox.com/scl/fi/ku9yfzhoefjjan43perqm/Wildcat-2025.mp4?rlkey=22cz3vp9brq7t71fv9p9gzz25&st=vd496sf7&dl=1
