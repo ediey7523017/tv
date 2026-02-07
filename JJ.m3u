@@ -2183,7 +2183,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="601" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809082222536837.png" group-title="Others" group-logo="https://d3riyfoij6hyxp.cloudfront.net/acm/media/cassandraassets/add-on/icon-smarttv.png",HBO HD
+#EXTINF:-1 tvg-id="601" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809082222536837.png" group-title="Others" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/my-astro/banners/icon_plug-play.png",HBO HD
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
