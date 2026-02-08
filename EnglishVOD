@@ -60,9 +60,6 @@ https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru48/Ballerina%202025-1-72
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg" group-title="▶ VOD ENGLISH",Ambush
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru29/The%20Ambush%20(2021).mp4
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sg4xJaufDiQl7caFEskBtQXfD4x.jpg" group-title="▶ VOD ENGLISH",Ghostbusters: Afterlife
-https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTk1Nzhf?temp_key=%1A%1A%2C%B5%BB%AC%B5%EA%EC%DBM%B4%01%FB%5E%AEX%9F%7Bm6%D3mf%A7&inline=1
-
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zeD4PabP6099gpE0STWJrJrCBCs.jpg" group-title="▶ VOD ENGLISH",Honest Thief
 https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNjM5NjRf?temp_key=%1E%89%DE%B2%DD%B4N%18%9E%7Fm6%F3m6%D3ov%D0%19nE%AC%A6%A7&inline=1
 
@@ -928,71 +925,64 @@ https://cloud.hownetwork.xyz/xxx/JElkOi0cWiwtJx4pbgJmandVHgsHPTseGg5PfiYGYDx7QA/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg" group-title="▶ VOD ENGLISH",Thunderbolts* (2025)
+https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVCyIwKxY4HQkofSAJMG17TH8/33/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Superman (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/superman/zzSuperman%202025-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/MQ05KzcUFi9vY0d-dh0BHQA8BREdJk4jIWZAKXpR/34/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA0MzM5YTctZTU2My00NGQ5LWE2NTEtNDM0MjZmMDBkOTZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Zack Snyder's Justice League (2021)
-https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Zack%20Snyders%20Justice%20League%202021-1-720.mp4
-https://cloud.hownetwork.xyz/xxx/65b22a898055680a3b34b37fd0f662ed/31/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5YmQxM2YtZjI2Yy00YjhhLTg5N2MtMTEyMzdlZDU3OTVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Justice League (2017)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eifGNCSDuxJeS1loAXil5bIGgvC.jpg" group-title="▶ VOD ENGLISH",Justice League (2017)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/superman/Justice%20League%20(2017)-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/134b5f067604bed0634811c077f16d5b/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Batman v Superman: Dawn of Justice (2016)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg" group-title="▶ VOD ENGLISH",Zack Snyder's Justice League (2021)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Zack%20Snyders%20Justice%20League%202021-1-720.mp4
+https://cloud.hownetwork.xyz/xxx/65b22a898055680a3b34b37fd0f662ed/31/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5UsK3grJvtQrtzEgqNlDljJW96w.jpg" group-title="▶ VOD ENGLISH",Batman v Superman: Dawn of Justice (2016)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Batman%20v%20Superman%20Dawn%20of%20Justice%202016-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/a9ab562d621232bb3f0e9e48a851e77f/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdhY2M5NjItMWUwZi00MGRhLTgyMWItZTViMzNkYjkxOGI2XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Man of Steel (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8GFtkImmK0K1VaUChR0n9O61CFU.jpg" group-title="▶ VOD ENGLISH",Man of Steel (2013)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/70/Man%20of%20Steel%202013-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/3c3e2c7f3e0342beca2d019df3045bae/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzliMDk5ZWEtYTZmNS00ODEzLThlODItM2ZhMTc2NDM1ZTcxXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Superman Returns (2006)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg" group-title="▶ VOD ENGLISH",Superman Returns (2006)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/superman/zSuperman%20Returns%202006-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/4d59d5f2763787af56546da0d0bc0ff5/1/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5M2U3OGItYjllMS00ZTE4LWIyMDctZTIzMmM3MzEwNmY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Thunderbolts* (2025)
-https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVCyIwKxY4HQkofSAJMG17TH8/33/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNmZGYzZjUtODRmOS00ODgzLWE4NWQtMDI3MGUwNjRjYjY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",John Carter (2012)
-https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/John%20Carter%202012.mp4
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDEwOThf?temp_key=%26%88g%DB%40%9A%AE%D7%AB%DBM%B4%D7i%A9&inline=1
-https://cloud.hownetwork.xyz/xxx/80c8701928d3242bfb1f15b4492112b9/25/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliNjcwNmItMzk1OC00ZTEyLWEwNzktNTQ4NTJmZjU4ZWI1XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",Oblivion (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5Onf4TW3mZn3oLeKVr9W4FGomQQ.jpg" group-title="▶ VOD ENGLISH",Oblivion (2013)
+https://www.dropbox.com/scl/fi/zitx40runmky89b40hkks/Oblivion-2013-Malay-Subs.mp4?rlkey=75ig35vpptj5sddue88lr8u89&st=d017y7xl&dl=1
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/72/Oblivion%202013-1-720.mp4
-https://www.dropbox.com/scl/fi/rvkvw82j0srq70ex0iadq/Oblivion-2013.mp4?rlkey=cwdil93da06fhyesldx3c7i0n&st=qu3885ts&dl=1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Edge of Tomorrow (2014)
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMjI3MDFf?temp_key=%11%D8%1E%DBJ%1F%DBD%E8%9A%8A%EB%A3%B4%DB%CD%B4%D7%8D%BD%EFm%26%A7&inline=1
-https://cloud.hownetwork.xyz/xxx/d1fd953545c9f0523aa8a2d164caecba/2/480.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg" group-title="▶ VOD ENGLISH",Edge of Tomorrow (2014)
+https://www.dropbox.com/scl/fi/656ui1n9kg7u6bvocusea/Edge-of-Tomorrow-2014.mp4?rlkey=g230ptx8u0sns4v7by0jxea6v&st=5iw6rhc3&dl=1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Conjuring Last Rites (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg" group-title="▶ VOD ENGLISH",John Carter (2012)
+https://www.dropbox.com/scl/fi/kehozg6ypfouyj7wdh68b/John.Carter.2012.720p.WEB.Malay.mp4?rlkey=eye4skudgbqkdxtrvcspuiv49&st=ao4r6qoz&dl=1
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/John%20Carter%202012.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/byWgphT74ClOVa8EOGzYDkl8DVL.jpg" group-title="▶ VOD ENGLISH",The Conjuring Last Rites (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/The%20Conjuiring%20Last%20Rite%202025-1-720.mp4
-https://cloud.hownetwork.xyz/xxx/IRcnJDALHi8lfBstMER7KisMLD1oS0dzd3wgCQF0GgcaJysrckERIHpm/34/480.m3u8
 
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sg4xJaufDiQl7caFEskBtQXfD4x.jpg" group-title="▶ VOD ENGLISH",Ghostbusters: Afterlife
+https://www.dropbox.com/scl/fi/tenb67vbbk0cqep4sf57w/Ghostbusters.Afterlife.2021.720p.BluRay.MalaySub.mp4?rlkey=j27z9htnox1p1orkfaoestiq8&st=f8pqti34&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="1353-Ghostbusters: Frozen Empire (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg" group-title="▶ VOD ENGLISH",Ghostbusters: Frozen Empire (2024)
+http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1004-The Alto Knights (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg" group-title="▶ VOD ENGLISH",1004-The Alto Knights (2025)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4596.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1000-Deep Cover (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euM8fJvfH28xhjGy25LiygxfkWc.jpg" group-title="▶ VOD ENGLISH",1000-Deep Cover (2025)
@@ -1159,8 +1149,6 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4109.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4112.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Woody Woodpecker Goes to Camp (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaINMBMGIow4kd8Dq06aytoomtS.jpg" group-title="▶ VOD ENGLISH",Woody Woodpecker Goes to Camp (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1353-Ghostbusters: Frozen Empire (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg" group-title="▶ VOD ENGLISH",1353-Ghostbusters: Frozen Empire (2024)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1365-Down the Rabbit Hole (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5HdtvogDClJjNdtdIxGgOfaZjK.jpg" group-title="▶ VOD ENGLISH",1365-Down the Rabbit Hole (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4153.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1366-Arthur the King (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg" group-title="▶ VOD ENGLISH",1366-Arthur the King (2024)
