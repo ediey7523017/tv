@@ -1549,10 +1549,8 @@ https://get.perfecttv.net/okayru.m3u8?id=12159895734991
 https://get.perfecttv.net/okayru.m3u8?id=12159687985871
 https://cloud.hownetwork.xyz/xxx/IBknKjAYGWxwYUV5bmcTGgY0FhYaQRIlcGcSKXU/38/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kCJHXNU2bZPh9U0jOE94n9aJyap.jpg" group-title="▶ VOD MALAY",Memori (2025)
-https://cloud.hownetwork.xyz/xxx/Lx0kITcQWnNyY0JhFHUUHA4nERF1ShN3dDBAdA/38/480.m3u8
+https://www.dropbox.com/scl/fi/1qwc6ottq3bdvgtuu6dib/Memori.2025.720p.MalaySub.mp4?rlkey=gnldbt26udd4hi8o22ieboytj&st=o57wk9mo&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbTPVx1TtYpSGkaMBa5fnQC3utV.jpg" group-title="▶ VOD MALAY",Magik Rompak (2025) 
 https://get.perfecttv.net/okayru.mpd?id=11161037441743 
