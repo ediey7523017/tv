@@ -930,7 +930,7 @@ https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVCyIwKxY4HQkofSAJMG17TH8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Superman (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wPLysNDLffQLOVebZQCbXJEv6E6.jpg" group-title="▶ VOD ENGLISH",Superman (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/superman/zzSuperman%202025-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/MQ05KzcUFi9vY0d-dh0BHQA8BREdJk4jIWZAKXpR/34/480.m3u8
 
@@ -958,11 +958,9 @@ https://cloud.hownetwork.xyz/xxx/a9ab562d621232bb3f0e9e48a851e77f/5/480.m3u8
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/70/Man%20of%20Steel%202013-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/3c3e2c7f3e0342beca2d019df3045bae/31/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg" group-title="▶ VOD ENGLISH",Superman Returns (2006)
+https://www.dropbox.com/scl/fi/u9wj5id7giv13buxkcrxd/Superman.Returns.2006.MalaySub.mp4?rlkey=ikuz2uzasp5wd7tfzh5qn0avt&st=v5yhblu4&dl=1
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/superman/zSuperman%20Returns%202006-1-720.mp4
-https://cloud.hownetwork.xyz/xxx/4d59d5f2763787af56546da0d0bc0ff5/1/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5Onf4TW3mZn3oLeKVr9W4FGomQQ.jpg" group-title="▶ VOD ENGLISH",Oblivion (2013)
 https://www.dropbox.com/scl/fi/zitx40runmky89b40hkks/Oblivion-2013-Malay-Subs.mp4?rlkey=75ig35vpptj5sddue88lr8u89&st=d017y7xl&dl=1
