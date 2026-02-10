@@ -1586,6 +1586,15 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Halahal.mp4
 
 ######################################################################▶ VOD INDIA#########################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD INDIA",
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jFBu7tS0mlEZwYTkjJcKH48bV4m.jpg" group-title="▶ VOD INDIA",Nari Nari Naduma Murari (2026) 
+https://cloud.hownetwork.xyz/xxx/LBk7J2gXFjMrfBktJ0U7OW8VPDwkCx5scGFFem5nExoGNBYWGktPcCEyEX16/39/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6DoLxt1LLXcBuNeByHsSGLiAB0L.jpg" group-title="▶ VOD INDIA",Dude (2025)
 https://www.dropbox.com/scl/fi/bfgb0ipjlam4ikst2h8um/Dude-2025.mp4?rlkey=m04hlc12ieig61jrnprp5r7ip&st=3m15nxge&dl=1
 
