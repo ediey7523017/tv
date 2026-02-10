@@ -4,7 +4,13 @@
 ######################################################################▶ VOD ASEAN######################################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bLZa9AFfHawXLav28dKn1woyV47.jpg" group-title="▶ VOD ASEAN",Tharae The Exorcist (2025)
-https://vod3.cf.dmcdn.net/sec2(LinFaVwUIZeNUfRhT4CnPnLDclJrtGawoRbLnEdgzI5WnSGX0dL2d1a6w7U3pB4ngT5geJl2rG-x1xlWuF2OqFWHG-9GEAclLNHh970HlfbkDYaE0FctbYqbHDpjhqDR37iYGbg-tYoDo84bI3G_58bOW1xT2vLGCKnqdrsrIyjugYD_Mr92TXH4eDk7ZxT5btBUiV6-634UEJEgK0j0xA)/video/fmp4/598766114/h264_aac_hq/3/manifest.m3u8
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dhk4xNejRdGKr9b7XXAOX77MLkq.jpg" group-title="▶ VOD ASEAN",Anecdotes of Ape Mountain (2026)
+https://fift.larhu.website/hls/vxzxgffuqoqfycihmtlpzvfqclypc44f47tcpqehs24kfaobjdcuve6fb3ra/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dJzNnt260l1x63OOlZ3ha0RGcDK.jpg" group-title="▶ VOD ASEAN",Geomancer (2026)
+https://fift.larhu.website/hls/vxzxgefuqoqfycihmtlpzbnmcdftjnh5p4rkkvxbdfactdzhsszxpml2xxzq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg" group-title="▶ VOD ASEAN",Even If This Love Disappears Tonight (2025)
 https://fift.larhu.website/hls/vxzxhsfwqoqfycihmtlpzqvfjotcysxhpbzoh7yvytkrak44zpmqzbsadrpa/index-v1-a1.m3u8
