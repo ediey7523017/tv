@@ -37,7 +37,7 @@
 
 #EXTINF:-1 tvg-id="100.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Kudada_2026.png" group-title="Astro" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",100 KUDADA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aba9150a2cd133e302846cdab551510:
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AdSM6gNr0-ts75PtRJbX_Q","kid":"erqRUKLNEz4wKEbNq1UVEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5185/default_primary.mpd
 
