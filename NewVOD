@@ -3,6 +3,9 @@
 
 #######################################################################▶ VOD NETFLIX#############################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hbURquxQUJXFfeqpjzmHekRmyqb.jpg" group-title="▶ VOD NETFLIX",Skyscraper Live (2026)
+https://fift.larhu.website/hls/vxzxgqnuqoqfycihmtlpzqxbjhnfcjjtbmwzc6gakxkrr3cnkqai44lhcraa/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/73oyzybmdbvdz2542qnva/1739366958260109527570695878015.jpg?rlkey=un8t89zw9e826qej3vhpw82ze&st=84ab40e4&dl=1" group-title="▶ VOD NETFLIX",Sumala 2024
 https://www.dropbox.com/scl/fi/ka9q1gz65hlrz1aq3g2zt/Sumala.mp4?rlkey=bq3ncipdjwm60q132jzfqbqko&st=l69pi1ay&dl=1
 #EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/0q3bcukfgxeu2i6szlxmt/17393668886489199391554442118816.jpg?rlkey=qi84zkt3ghgv8p56whgsw0l3f&st=9himhpzy&dl=1" group-title="▶ VOD NETFLIX",Death Whisperer 2 2024
@@ -4602,4 +4605,5 @@ https://www.dropbox.com/scl/fi/s3njrg28wuhk1w5lb6yg9/e11.mp4?rlkey=4d854sv0q9j74
 
 #EXTINF:-1 type="series" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="KOREAN SERIES",The Haunted Palace S1 E12
 https://www.dropbox.com/scl/fi/mzoz8r27wve5wqjbfqubl/e12.mp4?rlkey=w54f3uethy5kkuueox7l3qb2b&st=3a235mqq&dl=1
+
 
