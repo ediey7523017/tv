@@ -35,7 +35,7 @@
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Kudada_2026.png" group-title="Astro" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",100 KUDADA
+#EXTINF:-1 tvg-id="100.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/599_144.png" group-title="Astro" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",100 KUDADA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=7aba9150a2cd133e302846cda3551510:01d48cea036bd3eb6cef93ed4496d7fd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AdSM6gNr0-ts75PtRJbX_Q","kid":"erqRUKLNEz4wKEbNq1UVEA" } ], "type":"temporary" }
