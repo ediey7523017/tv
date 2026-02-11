@@ -457,7 +457,11 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Sixty.Minu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xZqo0yPARmyF8TACVNyaOACkYWG.jpg" group-title="▶ VOD MOVIES 2025",We Bury the Dead (2024)
+https://fift.larhu.website/hls/vxzxgpfsqoqfycihmtlpzbhhbzargyjsizbtsljh5eisjownwvhva7wi4azq/index-v1-a1.m3u8
 https://cloud.hownetwork.xyz/xxx/NR1kLDALDmwmNBYobgJmanRVHgsHPTseGg5GfyUDM2EjSA/38/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/A188B94iDLdB6499QBYbz74WgOF.jpg" group-title="▶ VOD MOVIES 2025",The Big Fake (2025)
+https://fift.larhu.website/hls/vxzxg4vzqoqfycihmtlpzqhgaa4xrrnjmxr7h7mykcridpyroonxkyx4j43q/index-v1-a1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
@@ -468,9 +472,6 @@ https://cloud.hownetwork.xyz/xxx/LQ07YyIQBS0xfEV8cQV7Dwc6DQIaIShydjVEKSYAYw/38/4
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/j1BMHOfmEARIPeJr32GAyROaFlj.jpg" group-title="▶ VOD MOVIES 2025",The Tasters (2025)
 https://cloud.hownetwork.xyz/xxx/Nhk6OiALBGxwYUV5bnI6LRAZMBEdJhRxcjdOeCFT/38/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/A188B94iDLdB6499QBYbz74WgOF.jpg" group-title="▶ VOD MOVIES 2025",The Big Fake (2025)
-https://fift.larhu.website/hls/vxzxg4vzqoqfycihmtlpzqhgaa4xrrnjmxr7h7mykcridpyroonxkyx4j43q/index-v1-a1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0  
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
@@ -4588,4 +4589,5 @@ https://www.dropbox.com/scl/fi/s3njrg28wuhk1w5lb6yg9/e11.mp4?rlkey=4d854sv0q9j74
 
 #EXTINF:-1 type="series" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="KOREAN SERIES",The Haunted Palace S1 E12
 https://www.dropbox.com/scl/fi/mzoz8r27wve5wqjbfqubl/e12.mp4?rlkey=w54f3uethy5kkuueox7l3qb2b&st=3a235mqq&dl=1
+
 
