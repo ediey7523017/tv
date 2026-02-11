@@ -1399,8 +1399,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d
 
 ##############################################################Astro First###############################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="472.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First" group-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_24REV.png", 472 Astro First
 https://fift.larhu.website/hls/vxzxhbnaqoqfycihmtk7zaveb63p3lswkgtblpe4dsnbze5252lyooc5kc6q/index-v1-a1.m3u8
 
@@ -1410,13 +1408,9 @@ https://fift.larhu.website/hls/vxzxhbnaqoqfycihmtk7zaveb63p3lswkgtblpe4dsnbze525
 #EXTINF:-1 tvg-id="473.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 473 Astro First
 https://cloud.hownetwork.xyz/xxx/Oxc8PGgVEjU2NAVhcQBkbW8vDAwBNSgZHTRCL3YIbjtx/37/480.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="474.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 474 Astro First
-https://fift.larhu.website/hls/vxzxh457qoqfycihmtk7zwphacljdekjknepkdeyiytndrurwmyqp25vxmka/index-v1-a1.m3u8
+https://fift.larhu.website/hls/vxzxhanyqoqfycihmtlpzufbby3jgnvzroeeqy4cbz35hrw7isw3tnkur7xa/index-v1-a1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="475.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 475 Astro First
 https://www.dropbox.com/scl/fi/dqiknz6hq7ppnfqxfxcfx/Thomas-Friends-Sodor-Sings-Together-2025.mp4?rlkey=iguyk4gp1icu292th0wwpjv4m&st=38018qoi&dl=1
 
@@ -1427,60 +1421,42 @@ https://get.perfecttv.net/okayru.m3u8?id=12159895734991
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 tvg-id="477.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 477 Astro First
-https://cloud.hownetwork.xyz/xxx/OBckLCwdEyAufEV8cQV7Dwc6DQIaISgndGJBeXAHZQ/34/480.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
 #EXTINF:-1 tvg-id="478.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 478 Astro First
 https://www.dropbox.com/scl/fi/xb697pb5de90toefxr6n6/Thomas-Friends-The-Christmas-Letter-Express-2024.mp4?rlkey=22z8chx9s8up0vus1araoe6id&st=vtesrv41&dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="479.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 479 Astro First
-https://vod3.cf.dmcdn.net/sec2(p2ImQ_Mp1qnyTAYNRKO47TyXZucKpzALJYc05ggkd-eyPKS1ZxDkWIYbUmdwwjmDJjg-1PkVEBAHxOnqXXXNp4UwhAARnlxyG-iQv-f2sbI4m217sdFkORC_pW6twDxg8mBP2nzPdb2jjsErOny8H8Xn1Ev8W3rYnsKVTAnr_4WjaJHpN1O8BOnT6pv0mWgu6phnh2tsoHigqG0ioONvtQ)/video/fmp4/598766114/h264_aac_hq/3/manifest.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 tvg-id="482.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 482 Astro First
-https://cloud.hownetwork.xyz/xxx/NhAsYyMLHiQsNVp-cwJjdSAUPDwkACgZHTBBf3AGZzt3/33/480.m3u8
+https://cloud.hownetwork.xyz/xxx/50eac53421708dc097f2babe6b726d49/25/480.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 tvg-id="483.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 483 Astro First
 https://www.dropbox.com/scl/fi/9ug7jifbwixsc8ig5t4sx/Freaky-Tales-2025.mkv?rlkey=250n8vaivmrexx5w3sx6rn68d&st=o6zy6gbf&dl=1
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="484.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 484 Astro First
 https://fift.larhu.website/hls/vxzxhunwqoqfycihmtlpzbnockma3h6hhyboznpk5nrogsrptlzdfhibkj3a/index-v1-a1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 tvg-id="485.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 485 Astro First
 https://fift.larhu.website/hls/vxzxhrf2qoqfycihmtk7zq7fbgxzuwlu2uk5bhiz3m2kblm54jh23oj2v6cq/index-v1-a1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 tvg-id="486.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 486 Astro First
-https://cloud.hownetwork.xyz/xxx/IRA7JzYNDmxwYUV5bmcTGgY0FhYaG0V4J2FPfiU/37/480.m3u8
+https://www.dropbox.com/scl/fi/tghwn59wejn6hh91ara83/The-Woman-in-the-Yard-2025-720p-WEB-MalaySub.mp4?rlkey=qxh05cjufpnwk6s1z0r26bqgr&st=lmndsai3&dl=1
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 tvg-id="487.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 487 Astro First
+https://fift.larhu.website/hls/vxzxgrfsqoqfycihmtlpzvxpby4jgbcilofdcs3ebo5cfwo7stutivpnrxaq/index-v1-a1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="488.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 488 Astro First
+https://fift.larhu.website/hls/vxzxgbehqoqfycihmtj7zwnycvg7hrmrllw2k4p3cdw4rqdzvjjachcoeuqq/index-v1-a1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="489.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", 489 Astro First
-https://fift.larhu.website/hls/vxzxheeqqoqfycihmtkpzw5zcbsfjlco5c6i75u5ejqwb4gzn3gv6cbzfq2q/index-v1-a1.m3u8
+https://fift.larhu.website/hls/vxzxhovsqoqfycihmtlpzu5djovbqbqjkzofx3jkqq2hevxdwljpdyhjmaaa/index-v1-a1.m3u8
 
 
 ##############################################################News & Documentary########################################################
