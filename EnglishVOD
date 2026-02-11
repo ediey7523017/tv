@@ -33,6 +33,9 @@ https://cloud.hownetwork.xyz/xxx/MhQoKTAcWnNyY0JhFHUUHA4nERF8GEB1c2MTfQ/38/480.m
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg" group-title="▶ VOD ENGLISH",The Dutchman (2026)
 https://cloud.hownetwork.xyz/xxx/Jg09LS0UFi9vY0d-dh0BHQA8BREdJkNwc2QRKCED/38/480.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="▶ VOD ENGLISH",The Running Man (2025)
+https://fift.larhu.website/hls/vxzxheeqqoqfycihmtkpzw5zcbsfjlco5c6i75u5ejqwb4gzn3gv6cbzfq2q/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg" group-title="▶ VOD ENGLISH",Queen of Chess (2026)
 https://fift.larhu.website/hls/vxzxg5vvqoqfycihmtlpzwnhduor2xt5c5rzcbjwpjojyr6c7je73gwb4aiq/index-v1-a1.m3u8
 
@@ -370,11 +373,6 @@ https://cloud.hownetwork.xyz/xxx/60140236606c27834c14752daa0399ca/5/480.m3u8
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JjMjNjNzItYWIzZS00YTliLWJjNjMtODAzYjI3ZGRmZGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",Prisoner of War (2025)
 https://cloud.hownetwork.xyz/xxx/MgogPSoXEjNvJhY-bgJmandVHgsHPTseGg4ReCIEb2t7Tw/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ENGLISH",The Running Man (2025)
-https://cloud.hownetwork.xyz/xxx/MA0nICwXEGwvMBlhcQBkbW8vDAwBNSgZHWFELnAGMj11/37/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ENGLISH",The Long Walk (2025)
 https://fift.larhu.website/hls/vxzxh2uzqoqfycihmtkpzaf4bnoy6m3qlrh5z2ylto7yi7s5gkrej3tadnbq/index-v1-a1.m3u8
