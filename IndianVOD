@@ -5,8 +5,16 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3vc1MMLflENJ8sHwbHjzedT07Hv.jpg" group-title="▶ VOD BOLLYWOOD",Disco Dancer (1982)
+https://cloud.hownetwork.xyz/xxx/JhE6LSpUEyAsMhI-bgFvYHBVHgsHPTseGg5CLXZRYTknSQ/39/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/99rpDOk540UDaCMlJSonpSvQCPm.jpg" group-title="▶ VOD BOLLYWOOD",Mastiii 4 (2025)
 https://cloud.hownetwork.xyz/xxx/Lxk6OiwQHmx2fEV8cQV7Dwc6DQIaIShwdzNOeSJSNw/38/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/egLUPL96vSKd3qhNVc6RTBBg0g.jpg" group-title="▶ VOD BOLLYWOOD",Ishq Forever (2016)
+https://fift.larhu.website/hls/vxzxhlf7qoqfycihmtk7zb7hjzmni5j7vfknjt4hs4e7ffodb6bwqmrogmiq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tNDMdkJQ8BJnV7Uavyft141xgWb.jpg" group-title="▶ VOD BOLLYWOOD",Tu Meri Main Tera Main Tera Tu Meri (2025)
 https://fift.larhu.website/hls/vxzxgb5wqoqfycihmtlpzxvacthvi3ut6jzsxnqkalwzhvfbmmqdslyqxueq/index-v1-a1.m3u8
@@ -1586,9 +1594,11 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Halahal.mp4
 
 ######################################################################▶ VOD INDIA#########################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD INDIA",
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/47uIUf9KCfDzxQXixw8lrvYl8C8.jpg" group-title="▶ VOD INDIA",Vaa Vaathiyaar (2026)
+https://fift.larhu.website/hls/vxzxhanyqoqfycihmtlpzufbby3jgnvzroeeqy4cbz35hrw7isw3tnkur7xa/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg" group-title="▶ VOD INDIA",The Rajasaab (2026)
+https://fift.larhu.website/hls/vxzxgr5sqoqfycihmtlpzwndjloed332hyyzqhi72q7cmlinsnq5yi2n4sxa/index-v1-a1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
