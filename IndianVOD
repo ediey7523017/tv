@@ -5,6 +5,11 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg" group-title="▶ VOD BOLLYWOOD",Ikkis (2026)
+https://cloud.hownetwork.xyz/xxx/KxMiJzZURXFwZ1obBnISFB0gFiskSxF2IGUS/39/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3vc1MMLflENJ8sHwbHjzedT07Hv.jpg" group-title="▶ VOD BOLLYWOOD",Disco Dancer (1982)
 https://cloud.hownetwork.xyz/xxx/JhE6LSpUEyAsMhI-bgFvYHBVHgsHPTseGg5CLXZRYTknSQ/39/480.m3u8
 
