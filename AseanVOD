@@ -3,6 +3,8 @@
 
 ######################################################################▶ VOD ASEAN######################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ASEAN",
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bLZa9AFfHawXLav28dKn1woyV47.jpg" group-title="▶ VOD ASEAN",Tharae The Exorcist (2025)
 https://www.dropbox.com/scl/fi/l05iuxasi86yifrgl82cx/Tha-Rae-The-Exorcist-2025.mp4?rlkey=ufsrabxtkfwvkr677fvkdxsuc&st=kbq0sje9&dl=1
 
@@ -14,6 +16,9 @@ https://fift.larhu.website/hls/vxzxh65wqoqfycihmtlpzwxbjqox3lkubpdbfuimucq24j4fe
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/iGKM5vTczW0U17Wi0Aek4Mkl1y.jpg" group-title="▶ VOD ASEAN",Death Whisperer 3 (2025)
 https://fift.larhu.website/hls/vxzxh75wqoqfycihmtlpzcnpdcum6672wgqsjt7gpf4xfwt7abhzhdcwi7ma/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wmjot8Wc2lKQaZFhUKbfUyy7rDG.jpg" group-title="▶ VOD ASEAN",The First Ride (2025)
+https://fift.larhu.website/hls/vxzxgkfqqoqfycihmtlpzqpcjgq4w25gxxy7k2nieo2ca7w2flkqpg4fmjrq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/v1LHWnFM5knLKkKP6FxZ932bezQ.jpg" group-title="▶ VOD ASEAN",Pretty Crazy (2025)
 https://fift.larhu.website/hls/vxzxglvrqoqfycihmtlpzv57igk2hm2xfhumlrcr7ig2mt3ctqjapa25twpq/index-v1-a1.m3u8
