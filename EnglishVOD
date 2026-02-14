@@ -3,6 +3,9 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fGodXWqJkkkbSebPIlxLSygV8GY.jpg" group-title="▶ VOD ENGLISH",Playdate (2025)
+https://fift.larhu.website/hls/vxzxhkvqqoqfycihmtlpzb7dj3ko5hsrxngvtr3jpgpkrq2kern5ybckcpqq/index-v1-a1.m3u8
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4GIqZUgPZ146BhibsPHMHef2nXX.jpg" group-title="▶ VOD ENGLISH",Eddington (2025)
 https://fift.larhu.website/hls/vxzxho5qqoqfycihmtlpzrnhaep7aimdguoecd5bqtfqjb5fappgjwpczxyq/index-v1-a1.m3u8
 
@@ -86,6 +89,7 @@ https://fift.larhu.website/hls/vxzxgzfsqoqfycihmtlpzrnfbcvdyuieiyyo3krdcor6ges2u
 https://www.dropbox.com/scl/fi/xff1kjomodajvywygofu8/The-Housemaid-2025.mkv?rlkey=uqmj3prrya4g2r4xv4mhwr3je&st=ygtc9khl&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg" group-title="▶ VOD ENGLISH",Hamnet (2025)
+https://fift.larhu.website/hls/vxzxgrvqqoqfycihmtlpzrvgjj6sfbzbwblruyswmmspoczcmg6lvoz7hsnq/index-v1-a1.m3u8
 https://www.dropbox.com/scl/fi/xge1ar8z41kouauag9ja7/Hamnet-2025.mp4?rlkey=2da9kgcz33v2y6xkbjzijxawz&st=n1l2zxfe&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="▶ VOD ENGLISH",Wildcat (2025)
