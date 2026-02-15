@@ -133,8 +133,6 @@ https://www.dropbox.com/scl/fi/g0c5dnexpm17ms1uajn74/polis-evo-3.mp4?rlkey=9xzlr
 https://www.dropbox.com/scl/fi/gp1wdwjsr0vsb3hed5m12/racun-sangga-santet-pemisah.mp4?rlkey=yul6guod8lcbjlq07x4mad0s8&st=h2w0zdti&dl=1
 #EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/dadlfu0b8a3npc45iudts/17456835774973285370753593396751.jpg?rlkey=6j36pz686w8h66ulxdwz7378z&st=zc448enm&dl=1" group-title="▶ VOD NETFLIX",Titanic The Digital Resurrection (2025)
 https://www.dropbox.com/scl/fi/c57u6svyizxzqp1xhdn3y/titanic-the-resurrection.mp4?rlkey=135orb27chhbditnq4k32hshm&st=1aku6945&dl=1
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/0xlc5t656duroa2jbwuu1/17456868215878919710022118218787.jpg?rlkey=iur4pb284e69nvcvr0aqia3zi&st=z76ip6i2&dl=1" group-title="▶ VOD NETFLIX",A Working Man (2025)
-https://www.dropbox.com/scl/fi/zomdck7oy0jr38iw5a87r/a-working-man.mp4?rlkey=cif4swd8qep8xwv367loabonm&st=oi2s5igp&dl=1
 #EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/0qbifjjvwvogwalu2wn2r/17458302890396475698891674738653.jpg?rlkey=e9uak1nclx4okvblsrnmrvr5a&st=jbbjf7od&dl=1" group-title="▶ VOD NETFLIX",I Hostage (2025)
 https://www.dropbox.com/scl/fi/halvbhgataeexs6atnhrc/ihostage.mp4?rlkey=rrxr805lxjalnf8yig3am2oiw&st=ugno9tup&dl=1
 #EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/ocaf7jhycyg9ohwx4mv32/17458304470026654237206093556222.jpg?rlkey=qic813qh29vl6ctpzt9xsfye2&st=qasphzbh&dl=1" group-title="▶ VOD NETFLIX",Jewel Thief (2025)
@@ -463,6 +461,9 @@ https://cloud.hownetwork.xyz/xxx/NR1kLDALDmwmNBYobgJmanRVHgsHPTseGg5GfyUDM2EjSA/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/A188B94iDLdB6499QBYbz74WgOF.jpg" group-title="▶ VOD MOVIES 2025",The Big Fake (2025)
 https://fift.larhu.website/hls/vxzxg4vzqoqfycihmtlpzqhgaa4xrrnjmxr7h7mykcridpyroonxkyx4j43q/index-v1-a1.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE0N2E4MjctYjJlYy00ZjY2LTgzOGQtNGFlOWZiMzUwYmY3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD MOVIES 2025",Banduan
+https://dtacmuar-my.sharepoint.com/personal/2023b40009_student_dtac_edu_my/_layouts/15/download.aspx?share=IQCxMqtaq4yZQ6M-xPAhRfA3AXp9skuPsuDmMBObsOLdvq8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8g8kx20bZCJ2nqCwORfRLTbKYWf.jpg" group-title="▶ VOD MOVIES 2025",Our Girls (2025)
@@ -493,10 +494,15 @@ https://cloud.hownetwork.xyz/xxx/IA0lIjZURXFwZ1obBnISFB0gFnhyH08lITBO/38/480.m3u
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNiY2Y0NmQtNDg4ZS00MTBiLTg4YjItOTgxYzI3ZjIwM2FlXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD MOVIES 2025",People We Meet on Vacation
 https://cloud.hownetwork.xyz/xxx/Mh0mPikcWjYnfBopJkR7LiMbKDosFhlscGFFem5nExoGNBYWGhsRcCFiRn12/38/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE0N2E4MjctYjJlYy00ZjY2LTgzOGQtNGFlOWZiMzUwYmY3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD MOVIES 2025",Banduan
-https://dtacmuar-my.sharepoint.com/personal/2023b40009_student_dtac_edu_my/_layouts/15/download.aspx?share=IQCxMqtaq4yZQ6M-xPAhRfA3AXp9skuPsuDmMBObsOLdvq8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",A Working Man (2025)
+https://www.dropbox.com/scl/fi/73ezglkhv4ht01ew6hvxa/Nonton-A-Working-Man-2025-Online-Sub-Indo-INDOFILM.ts?rlkey=5ge8l5pgghu4lq2700vfi0kzu&st=7pxxhzt7&dl=1
+https://www.dropbox.com/scl/fi/zomdck7oy0jr38iw5a87r/a-working-man.mp4?rlkey=cif4swd8qep8xwv367loabonm&st=oi2s5igp&dl=1
+https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
 
-#EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://occ-0-2203-64.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABex87M3IG5F4eXpdHr6sJoQ7D0BuaUtYB7mc6wEQ9-4eewSfDzSx3hcWCoZya-2xJU7ob5J3Cz15kLrt3_xVIaFacit4-ipX2KxJh0F-Tr1I1Wsb388k7M0dtxFU0IZPbwS0.jpg?r=ca3", Bogotá City of the Lost (2025)
+
+#EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/p1WPGGPVHHVJwTjmUaCsbTNATgn.jpg", Bogotá City of the Lost (2025)
 https://www.dropbox.com/scl/fi/o464470w967gjiv6jrjmv/Bogot-City-of-the-Lost.mp4?rlkey=nr4o6uq20gpdfshybs59ofxhm&st=zdz07oaa&dl=1
 #EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://pic.bstarstatic.com/ugc/af295d9b8bedbcd402dd04b7a29d207d.jpg", Norma Antara Mertua dan Menantu (2025)
 https://www.dropbox.com/scl/fi/xw0sw39px1ydd8gusu0ph/Norma-Antara-Mertua-dan-Menantu.mp4?rlkey=76c6buugklume4h1ie8s6xr9n&st=8u5w1npm&dl=1
@@ -584,8 +590,6 @@ https://www.dropbox.com/scl/fi/e9awum77fg36jnvne38rt/Nonton-Exterritorial-2025-O
 https://www.dropbox.com/scl/fi/sfe60zy0a9508a0min0mu/Nonton-Wolf-Girl-2025-Online-Sub-Indo-INDOFILM.ts?rlkey=k76kz1unpv1nl9w75kjhv2qay&st=4lrc8sbk&dl=1
 #EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://i0.wp.com/www.ca-traffic.com/wp-content/uploads/2025/04/6FJSlaWJVf1e2wa8ZVxtLYHMeJ.jpg?resize=152%2C228&ssl=1", Fair Rain (2025)
 https://www.dropbox.com/scl/fi/dq9r9gzmnkwpor52lzp13/Nonton-Fair-Rain-2025-Online-Sub-Indo-INDOFILM.ts?rlkey=lfcsh8tkzf2srhw9nf1rmi72b&st=cub0qcpz&dl=1
-#EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://i0.wp.com/www.ca-traffic.com/wp-content/uploads/2025/04/xUkUZ8eOnrOnnJAfusZUqKYZiDu.jpg?resize=152%2C228&ssl=1", A Working Man (2025)
-https://www.dropbox.com/scl/fi/73ezglkhv4ht01ew6hvxa/Nonton-A-Working-Man-2025-Online-Sub-Indo-INDOFILM.ts?rlkey=5ge8l5pgghu4lq2700vfi0kzu&st=7pxxhzt7&dl=1
 #EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://i0.wp.com/www.ca-traffic.com/wp-content/uploads/2025/04/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg?resize=152%2C228&ssl=1", Home Sweet Home: Rebirth (2025)
 https://www.dropbox.com/scl/fi/gh34we2rcwlpnu8wpztt8/Nonton-Home-Sweet-Home-Rebirth-2025-Online-Sub-Indo.ts?rlkey=yy3hzayvd9mrxscpexvl9ffdi&st=fovq70rr&dl=1
 #EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://i0.wp.com/www.ca-traffic.com/wp-content/uploads/2025/04/iHf6bXPghWB6gT8kFkL1zo00x6X.jpg?resize=152%2C228&ssl=1", In the Lost Lands (2025)
@@ -1134,13 +1138,6 @@ https://cloud.hownetwork.xyz/xxx/NhA8KiQLAixvY0d-dh0hPSAcJREdJkJ3cDNCe3cA/32/480
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-retro-2025-lk21-d21.jpg.webp",Retro (2025)
 https://cloud.hownetwork.xyz/xxx/MB09PCpURXFwZFo7JlIyNB0gFi8kS0F5JDNO/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",?? A Working Man (2025)
-https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/14/A.Working.Man.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn164.mantechz.com/data/6/69/683fb84e62cae/683fb84e62cae720.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
@@ -4590,6 +4587,4 @@ https://www.dropbox.com/scl/fi/s3njrg28wuhk1w5lb6yg9/e11.mp4?rlkey=4d854sv0q9j74
 
 #EXTINF:-1 type="series" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="KOREAN SERIES",The Haunted Palace S1 E12
 https://www.dropbox.com/scl/fi/mzoz8r27wve5wqjbfqubl/e12.mp4?rlkey=w54f3uethy5kkuueox7l3qb2b&st=3a235mqq&dl=1
-
-
 
