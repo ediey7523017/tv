@@ -408,12 +408,13 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SUKETV.mana2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MYTV Mana-Mana",Suke TV
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1771242927-ccf35f49f85e4168857b485905ef95e1-0-0f1b4946087db59948b267670d070c0c&token=1771242927-ccf35f49f85e4168857b485905ef95e1-0-0f1b4946087db59948b267670d070c0c
+https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1771279425-71bff4b2b7fc40b887f5854b7a7a6fd0-0-f6a1c80093bc0f6a24b549f4bfaa0dba&auth_key=1771279425-71bff4b2b7fc40b887f5854b7a7a6fd0-0-9ad6ac31c39b9c1deaa6a7bc6cf2fd1e
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="DramaSangat.my" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON" group-title="MYTV Mana-Mana",Drama Sangat
-https://live-03.tonton.com.my/1771247527/0x006224a670b3910e2b99d798856b0bb874e2d2e7dc06da3c2bc1b87a3766c948/live-hls/tonton10_720p/index.m3u8
+https://live-03.tonton.com.my/1771272506/0xa902eb1cc6a66f43f2cfc8691f022ae8fcb5165c5d7f6941a86b131f64d02903/live-hls/tonton10_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
