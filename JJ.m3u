@@ -412,14 +412,17 @@ http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="DramaSangat.my" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON" group-title="MYTV Mana-Mana",Drama Sangat
+https://live-03.tonton.com.my/1771236193/0x70ead947a43474df4f517e4644e337f48eb2a0ac7a01be24af862086a88cd57c/live-hls/tonton10_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="SELANGORTV.mana2" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="MYTV Mana-Mana",Selangor TV
+https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1771243635-14a0cb0c32f14a91a18b90efae524085-0-e0ab2ca33608ea44ad8f21d5dde25546&token=1771243635-14a0cb0c32f14a91a18b90efae524085-0-e0ab2ca33608ea44ad8f21d5dde25546
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="SUKETV.mana2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MYTV Mana-Mana",Suke TV
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1771242927-ccf35f49f85e4168857b485905ef95e1-0-0f1b4946087db59948b267670d070c0c&token=1771242927-ccf35f49f85e4168857b485905ef95e1-0-0f1b4946087db59948b267670d070c0c
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.3
