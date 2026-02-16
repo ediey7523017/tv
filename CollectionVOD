@@ -3,54 +3,50 @@
 
 #######################################################▶ VOD COLLECTION###########################################################
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD COLLECTION",Universal Soldier 4: Day of Reckoning
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/j09ZkH6R4JWVylBcDai1laCmGw7.jpg" group-title="▶ VOD COLLECTION",The Expendables (2010)
+https://www.dropbox.com/scl/fi/nhkir0xjn4i10w2b9kqxn/The-Expendables-2010.mp4?rlkey=6w28bax6wjdjd87f780myzj3m&st=qxobay73&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/74rTIGyGoIu5KSxDVMdr8H3MtMo.jpg" group-title="▶ VOD COLLECTION",The Expendables 2 (2012)
+https://www.dropbox.com/scl/fi/tj4t76g743vf73oa21y6p/The-Expendables-2-2012.mp4?rlkey=b9iy0rxkmopnxfz7kuc6m7yjl&st=trx82nrg&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/utS5euWHlEdKBNnEFwjpZ2oGuhF.jpg" group-title="▶ VOD COLLECTION",The Expendables 3 (2014)
+https://www.dropbox.com/scl/fi/zddxpq62ehuvy9gp28ju0/The-Expendables-3-2014.mp4?rlkey=4d2db728g5a0o81k4a54omknj&st=ckkdupwj&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg" group-title="▶ VOD COLLECTION",Expend4bles (2023)
+https://www.dropbox.com/scl/fi/xq25h4657n664mtiovadj/Expend4bles-2023.mp4?rlkey=bib4l9u0egs7ycx2qk2yimc8p&st=jezdvab8&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4pefZa0U5h0avmdvRwWB4xjMFl6.jpg" group-title="▶ VOD COLLECTION",Universal Soldier: Day of Reckoning (2012)
 https://47227.ohflix.workers.dev/0:/x21/NewVersion/7/Universal%20Soldier%204%20Day%20of%20Reckoning%20(2012)%20BluRay%20UNCUT.mp4
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTA3NDlf?temp_key=Rx%AFz%BB%1A%97m%12%A2Wbz%BD%B4%E3m%03k-%B4%A1%FD%B4E%E7%24%A2x%A7%83m6%D3%5D%A6%A7&inline=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/1563.jpg" group-title="▶ VOD COLLECTION",Universal Soldier 3 Regeneration
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hYLzRwCcCyTVKGBRAiHEW7NOEni.jpg" group-title="▶ VOD COLLECTION",Universal Soldier: Regeneration (2010)
 https://47227.ohflix.workers.dev/0:/x21/NewVersion/7/Universal%20Soldier%203%20Regeneration%20(2009)%20BluRay.mp4
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNTk4MDFf?temp_key=Rx%AFz%BB%1A%97m%12%A2Wbz%BD%B4%DFm%11z%07%A7z%B6%AD%8A%89%F6%D3o6%D3Ov%F7m%01%96%E4Z%CAjx&inline=1
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD COLLECTION",Universal Soldier The Return
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qlcPJK0Me8aUtDPwk3TqN2RdKH4.jpg" group-title="▶ VOD COLLECTION",Universal Soldier: The Return (1999)
 https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTA3MjRf?temp_key=Rx%AFz%BB%1A%97m%12%A2Wbz%BD%B4%DBm%13%85%ED%B4E%EBn%AE%7D%B4%DB%CD%7D%F7%DD%BD%9A%9E&inline=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/11287.jpg" group-title="▶ VOD COLLECTION",Universal Soldier
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg" group-title="▶ VOD COLLECTION",Universal Soldier (1992)
 https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTA3NjNf?temp_key=Rx%AFz%BB%1A%97m%12%A2Wbz%BD%B4%D7m6%F3_%7D%DBof%A7&inline=1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/10/film-terminator-dark-fate-2019-lk21.jpg" group-title="▶ VOD COLLECTION",Terminator Dark Fate (2019)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg" group-title="▶ VOD COLLECTION",Terminator Dark Fate (2019)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/The%20Terminator%20Salvation%20(2009)-1-720.mp4
-https://web.opendrive.com/api/v1/download/file.json/NzJfNDcyNDUyNDJf?temp_key=M%EA%E6%8Av%AD%A2%BD%B4%AA%E4%DBAZ%B5%ED%B4%DB%CD%B4%D7%DD%BD%D7%BD%B4%9A%9E&inline=1
-https://cloud.hownetwork.xyz/xxx/84ad409a30031c2b5af2ad2f3d5ebcfb/11/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/952.jpg" group-title="▶ VOD COLLECTION",Terminator Genisys (2015)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg" group-title="▶ VOD COLLECTION",Terminator Genisys (2015)
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Terminator%20Genisys%20(2015)%20720p%20Bluray%20Malay%20Hardsub.mp4
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNTYxMjVf?temp_key=M%EA%E6%8Av%AD%A2%BD%B4%19%E9%E2%B3%2B6%D3o6%D3%5Ev%F7m%3B%DBJv%D0%19n%AD%AC%B6%D0%C6%A5k-%B4%1D%AA%DD%B2%E6%E6%A7&inline=1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-terminator-salvation-2009.jpg" group-title="▶ VOD COLLECTION",Terminator Salvation (2009)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg" group-title="▶ VOD COLLECTION",Terminator Salvation (2009)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/The%20Terminator%20Salvation%20(2009)-1-720.mp4
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDE0NTdf?temp_key=N%17%B6%D17%AB%9A%29%DA%B6%8A%F6%D1%26%A5%BD%ABb%A2%7D%B4%DB%CD%B4%D3%DD%BD%D7%BD%B4%9A%9E&inline=1
-https://cloud.hownetwork.xyz/xxx/8ea1c2f95a42d73ef9c5b46fbd911026/1/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/953.jpg" group-title="▶ VOD COLLECTION",Terminator 3 Rise of the Machines
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vvevzdYIrk2636maNW4qeWmlPFG.jpg" group-title="▶ VOD COLLECTION",Terminator 3: Rise of the Machines (2003)
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Terminator_3_Rise_Of_The.mp4
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNTYxMzdf?temp_key=M%EA%E6%8Av%AD%A2%BD%D1%8A%C7%8E%7D8%5E%9A%9E&inline=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/12/film-terminator-2-judgment-day-1991.jpg" group-title="▶ VOD COLLECTION",Terminator 2: Judgment Day (1991)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg" group-title="▶ VOD COLLECTION",Terminator 2: Judgment Day (1991)
 https://cloud.hownetwork.xyz/xxx/f7534d0548a1eb8403df61d31c2fd8dd/2/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/08/film-the-terminator-1984.jpg" group-title="▶ VOD COLLECTION",The Terminator (1984)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qvktm0BHcnmDpul4Hz01GIazWPr.jpg" group-title="▶ VOD COLLECTION",The Terminator (1984)
 https://cloud.hownetwork.xyz/xxx/1213bacc9bfdccefaff00a72d5ef4c45/7/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
