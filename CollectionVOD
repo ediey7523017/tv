@@ -3,6 +3,28 @@
 
 #######################################################▶ VOD COLLECTION###########################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg" group-title="▶ VOD COLLECTION",RoboCop (1987)
+https://cloud.hownetwork.xyz/xxx/6c9137a626d404188710d24909d8b970/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nhqBxhOJXUJeFsyLxTFkctH9H5F.jpg" group-title="▶ VOD COLLECTION",RoboCop 2 (1990)
+https://cloud.hownetwork.xyz/xxx/203e520c111810732e17e86e6e549e76/30/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg" group-title="▶ VOD COLLECTION",RoboCop 3 (1993)
+https://cloud.hownetwork.xyz/xxx/74b0de94684936cd7e13a1092747e3d8/23/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg" group-title="▶ VOD COLLECTION",RoboCop (2014)
+https://cloud.hownetwork.xyz/xxx/ac2477b0fc401b08722ef29e2f4305c9/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/j09ZkH6R4JWVylBcDai1laCmGw7.jpg" group-title="▶ VOD COLLECTION",The Expendables (2010)
 https://www.dropbox.com/scl/fi/nhkir0xjn4i10w2b9kqxn/The-Expendables-2010.mp4?rlkey=6w28bax6wjdjd87f780myzj3m&st=qxobay73&dl=1
 
