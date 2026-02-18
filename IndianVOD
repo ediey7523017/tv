@@ -1486,6 +1486,16 @@ https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDMwNzBf?temp_key=E%
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil21/A%20Thursday%20(2022)LT.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4543.mp4
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A5xP8gKA4NwL9dG0AodQtQSRucB.jpg", Mardaani (2014)
+https://cloud.hownetwork.xyz/xxx/e64afafdd316dbe2dbb262fe45d66de2/25/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg", Mardaani 2 (2019)
+https://cloud.hownetwork.xyz/xxx/0a2a7b2f0e580e77634fed5b472a1f62/1/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylBsNn4xkMlZPk1beZuuwFqrWUK.jpg" group-title="▶ VOD BOLLYWOOD",Duplicate (1998)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4553.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXGeUIbEfgO3cfHuYuPkXnKVt43.jpg" group-title="▶ VOD BOLLYWOOD",Baadshah (1999)
@@ -1541,10 +1551,6 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Tumko%20Na%20Bhool%20Paa
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Phoenix_2023_Malayalam_1080p_WEB_DL_SubMelayu_@ceritasarikatamelayu.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8TNnEojAEc8Kt6HMWgQNRPcL9J3.jpg", Kadaisi Vivasayi (2022)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Kadaisi%20Vivasayi.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg", Mardaani 2 (2019)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mardaani%202.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A5xP8gKA4NwL9dG0AodQtQSRucB.jpg", Mardaani (2014)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mardaani.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nmFL0KThULuggh7DxUimi5XTTWu.jpg", Manjhi The Mountain Man (2015)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Manjhi-%20The%20Mountain%20Man.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8lVuWmArvr41CvyvpgI3elD5iB1.jpg", Barfi! (2012)
@@ -2084,4 +2090,3 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQ-iJ_06BoFPpfqpTMCdyL4BxKR9xdtw9QDF9ozJ-BBjNg
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://img.etimg.com/thumb/msid-58237253,width-640,resizemode-4,imgsize-106584/the-truth-unfolds.jpg", Bahubali: The Conclusion
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXNwmYZSRX5IoxR4I0reKgEBCfjKrgwBFP2xQUN4bkE09A
-
