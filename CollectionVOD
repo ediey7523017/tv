@@ -5,6 +5,26 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg" group-title="▶ VOD COLLECTION",Goosebumps 2: Haunted Halloween (2018)
+https://cloud.hownetwork.xyz/xxx/98afde95caa7080679b6a5d02679bd07/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg" group-title="▶ VOD COLLECTION",Goosebumps (2015)
+https://cloud.hownetwork.xyz/xxx/2bb82fa6025b807a4306dd235fce7cb7/4/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gnK1ocpwUTj24zAktzomOJsD2bu.jpg" group-title="▶ VOD COLLECTION",Speed 2: Cruise Control (1997)
+https://cloud.hownetwork.xyz/xxx/33bbf954da6eefc9eb9e94a7f544c29b/21/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg" group-title="▶ VOD COLLECTION",Speed (1994)
+https://cloud.hownetwork.xyz/xxx/eaa46caac5d3fe3fdd82e802384f37ca/2/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg" group-title="▶ VOD COLLECTION",RoboCop (1987)
 https://cloud.hownetwork.xyz/xxx/6c9137a626d404188710d24909d8b970/4/480.m3u8
 
