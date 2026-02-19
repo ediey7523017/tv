@@ -1651,6 +1651,14 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Bajrangi%20B
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/3602.jpg", Halahal (2020)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Halahal.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/TAAL_POSTER.jpg" group-title="▶ VOD BOLLYWOOD",Taal
+https://d13snj70thqlha.cloudfront.net/523b98c1-3723-4b23-8207-ad47ab46df0c/Taal_20251217.m3u8?id=31418
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/DEVDAS_POSTER.jpg" group-title="▶ VOD BOLLYWOOD",Devdas
+https://d13snj70thqlha.cloudfront.net/579686a6-605e-4e4b-8be5-a251d9e21a12/Devdas_20251217.m3u8?id=31419
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/POSTER_BAGHBAN.jpg" group-title="▶ VOD BOLLYWOOD",Baghban
+https://d13snj70thqlha.cloudfront.net/ff82735e-bbd6-4c81-93be-6142531dedb0/BaghbanRTMKLIK20251016.m3u8?id=29538
 
 ######################################################################▶ VOD INDIA#########################################################
 
