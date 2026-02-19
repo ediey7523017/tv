@@ -411,6 +411,11 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://get.perfecttv.net/degup/degup.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SELANGORTV.mana2" tvg-logo="https://mediaselangor.com.my/wp-content/uploads/2024/09/SELANGOR-TV-last.png" group-title="MYTV Mana-Mana",Selangor TV
+https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="SUKETV.mana2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzVnhwkQTIOwQW6VGhYZKem__iREO7e__8w&s" group-title="MYTV Mana-Mana",Suke TV
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1771474272-bbfa9d0fca954cc79767cdc5a9e5d522-0-4c77dac1add5cb87db0daa5cf113e789&token=1771474272-bbfa9d0fca954cc79767cdc5a9e5d522-0-4c77dac1add5cb87db0daa5cf113e789
@@ -421,15 +426,10 @@ https://live.mana2.my/SukeTv/index.m3u8?auth_key=1771474272-bbfa9d0fca954cc79767
 https://live.mana2.my/UsimTV/index.m3u8?auth_key=1771474402-8bea4e8ae881498bb04a48aca9b33323-0-3f1922f83e547db97214fb497d2d3a98&token=1771474402-8bea4e8ae881498bb04a48aca9b33323-0-3f1922f83e547db97214fb497d2d3a98
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SELANGORTV.mana2" tvg-logo="https://mediaselangor.com.my/wp-content/uploads/2024/09/SELANGOR-TV-last.png" group-title="MYTV Mana-Mana",Selangor TV
-https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="DramaSangat.my" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON" group-title="MYTV Mana-Mana",Drama Sangat
-https://live-03.tonton.com.my/1771385200/0xa1edd19cae9a48eabdb544b8be79464aea5a82c08a918cee9741590d60806fb4/live-hls/tonton10_720p/index.m3u8
+https://live-03.tonton.com.my/1771470693/0x0400cd37252c1ef93996ae97a63c09a7a93c40a04a16fc07f30e92b04b5c87aa/live-hls/tonton10_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
