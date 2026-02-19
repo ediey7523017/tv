@@ -1366,6 +1366,17 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Space%20S
 #EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/hNf8rQoICiK0ujDhnBWStrXbsc1.jpg", Nezha Conquers the Dragon King
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Nezha%20Conquers%20the%20Dragon%20King.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/nangnakposter.jpg" group-title="▶ VOD ASEAN",Nang Nak
+https://d13snj70thqlha.cloudfront.net/bc4db58a-7bc3-49b2-b1e2-50798628e43e/NangNakRTM20251028.m3u8?id=29955
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/perngposter.jpg" group-title="▶ VOD ASEAN",Perng Mang: The Haunted Drum
+https://d13snj70thqlha.cloudfront.net/d7943e30-91e6-44ce-a34a-24c0937c7dc7/PerngMangTheHauntedDrumRTMKLIK20251030.m3u8?id=29956
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/trainposter.jpg" group-title="▶ VOD ASEAN",Train Of The Dead
+https://d13snj70thqlha.cloudfront.net/48c0b3a4-4fc7-42d3-90ac-7b0636472378/TrainOfTheDeadRTMKLIK20251030.m3u8?id=29957
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/intruderposter.jpg" group-title="▶ VOD ASEAN",The Intruder
+https://d13snj70thqlha.cloudfront.net/30672b01-103e-4178-9180-da7cfc2b22d7/TheIntruderRTMKLIK20251103.m3u8?id=30001
 
 ####################################################################▶ VOD INDONESIA###################################################################
 
