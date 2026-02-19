@@ -417,7 +417,7 @@ https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="THEINDONESIACHANNEL.mana2" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="MYTV Mana-Mana",The Indonesia Channel
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.mana2" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="MYTV Mana-Mana",The Indonesia Channel
 https://692f685b5aa52.streamlock.net/tic/indonusa/chunklist_w308166095.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
