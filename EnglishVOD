@@ -3,6 +3,12 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="▶ VOD ENGLISH",Marty Supreme (2025)
+https://www.dropbox.com/scl/fi/avepr6kr0yu4jl717l69b/Marty-Supreme-2025.mkv?rlkey=8a8qqr0h6pftcoff91isqqtr7&st=xp4zuy3v&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2HoR2x23bqKpopluoBD1FH3tBi7.jpg" group-title="▶ VOD ENGLISH",Crime 101 (2026)
+https://www.dropbox.com/scl/fi/vzd1nznjkl1kie484wucl/Crime-101-2026.mp4?rlkey=p4bvbw7er812dyfoi2tutiy5m&st=aaftxy5a&dl=1
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
