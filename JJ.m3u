@@ -1676,20 +1676,14 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #EXTINF:-1 tvg-id="ANIPLUS.mana2" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids",Aniplus
-https://slive.mana2.my/AniPlus/index.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png?w=272",Cartoonito
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
-
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png?w=272",Cartoonito
-###EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-###KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-###https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
 
 
 #################################################################Variety################################################################
@@ -2344,128 +2338,70 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
 
 ###############################################################Radio###################################################################
 
-#EXTINF:-1 group-title="Radio" radio="true"  tvg-id="HITZ"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
-https://stream.rcs.revma.com/488kt4sbv4uvv
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="MY"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",My FM
-https://stream.rcs.revma.com/hc3unrtbv4uvv
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="MIX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX FM
-https://stream.rcs.revma.com/v5pq3htbv4uvv
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="LITE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
-https://stream.rcs.revma.com/bn4ex8sbv4uvv
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM
-https://stream.rcs.revma.com/crec9cmbv4uvv
-
-#EXTINF:-1 group-title="Radio" radio="true"  tvg-id="SINAR"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR FM
-https://stream.rcs.revma.com/azatk0tbv4uvv
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="MELODY"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY FM
-https://stream.rcs.revma.com/2u1n6dtbv4uvv
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="RAAGA"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA FM
-https://stream.rcs.revma.com/1ut6qwtbv4uvv 
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
+#EXTINF:-1 tvg-id="SURIAFM.mana2" group-title="Radio" radio="true" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="ZAYAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN FM 
-https://stream.rcs.revma.com/7ww2a4tbv4uvv
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="GOXUAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GO XUAN FM 
-https://stream.rcs.revma.com/xt9nhzsbv4uvv
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
-https://stream.rcs.revma.com/cn0zcqsbv4uvv
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
+#EXTINF:-1 tvg-id="HOTFM.mana2" group-title="Radio" radio="true" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
 https://stream.rcs.revma.com/drakdf8mtd3vv
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="" tvg-logo="https://pictr.com/images/2024/05/17/xP9m61.jpg",Kool FM
+#EXTINF:-1 tvg-id="KOOLFM.mana2" group-title="Radio" radio="true" tvg-logo="https://pictr.com/images/2024/05/17/xP9m61.jpg",Kool FM
 https://stream.rcs.revma.com/3930238mtd3vv
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
+#EXTINF:-1 tvg-id="FLYFM.mana2" group-title="Radio" radio="true" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
 https://stream.rcs.revma.com/q17aka9mtd3vv
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png" tvg-url="" group-title="Radio" radio="true",8FM
+#EXTINF:-1 tvg-id="EIGHTFM.mana2" group-title="Radio" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png" tvg-url="" group-title="Radio" radio="true",8FM
 https://stream.rcs.revma.com/qp0xrd9mtd3vv
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
+#EXTINF:-1 tvg-id="MOLEKFM.mana2" group-title="Radio" radio="true" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
 https://stream.rcs.revma.com/z56xa78mtd3vv
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="ROCK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png",Classic Rock
-#https://astro4.rastream.com/rock
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="GOLD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",Gold
-#https://astro4.rastream.com/gold
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="OPUS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png",Opus
-#https://astro4.rastream.com/opus
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png",INDIABEAT
-#https://astro4.rastream.com/india
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="JAZZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png",JAZZ
-#https://astro4.rastream.com/jazz
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="OSAI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png",OSAI
-#https://astro4.rastream.com/osai
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="BAYU" ch-number="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png",Bayu
-#https://astro4.rastream.com/bayu
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="KENYALANG" ch-number="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png",Kenyalang
-#https://astro4.rastream.com/kenyalang
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="ERA" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Era-fm-sabah.png",ERA Sabah
-#https://astro2.rastream.com/amp-era-kk
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="ERA" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png",ERA Sarawak
-#https://astro2.rastream.com/amp-era-kch
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="HITZ" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hitz_Sabah_2018.png",HITZ Sabah
-#https://astro1.rastream.com/amp-hitz-kk
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="HITZ" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Hitz_Sarawak_2018.png",HITZ Sarawak
-#https://astro1.rastream.com/amp-hitz-kch
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="MY" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MyFM Sabah
-#https://astro1.rastream.com/amp-myfm-kk
-
-#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",Radio Klasik
+#EXTINF:-1 tvg-id=RADIOKLASIK.mana2"" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",Radio Klasik
 https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 
-#EXTINF:-1 tvg-id="NASFM" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
+#EXTINF:-1 tvg-id="NASIONALFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
 https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
 
-#EXTINF:-1 tvg-id="TRAXXFM" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
+#EXTINF:-1 tvg-id="TRAXXFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
 https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
 
-#EXTINF:-1 tvg-id="AIFM" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",AI FM 
+#EXTINF:-1 tvg-id="AIFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",AI FM 
 https://28093.live.streamtheworld.com/AI_FMAAC.aac
 
-#EXTINF:-1 tvg-id="MINNALFM" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",MINNAL FM 
+#EXTINF:-1 tvg-id="MINNALFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",MINNAL FM 
 https://28093.live.streamtheworld.com/MINNAL_FMAAC.aac
 
-#EXTINF:-1 tvg-id="ASYIKFM" group-title="Radio" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/310_144.png",Radio Asyik
+#EXTINF:-1 tvg-id="ASYIKFM.mana2" group-title="Radio" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/310_144.png",Radio Asyik
 https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac
 
-#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1smsv.png",BEST FM
+#EXTINF:-1 tvg-id="BESTFM.mana2" group-title="Radio" radio="true" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1smsv.png",BEST FM
 https://stream.rcs.revma.com/h34x4kgg9hhvv
 
-#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1sUo5.md.png",MANIS FM
+#EXTINF:-1 tvg-id="MANISFM.mana2" group-title="Radio" radio="true" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1sUo5.md.png",MANIS FM
 https://stream.rcs.revma.com/nzgauqq1v7zuv
+
+#EXTINF:-1 tvg-id="IKIMfm.mana2" group-title="Radio" radio="true" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",IKIM FM
+https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
+https://das-edge54-sa28-lax02.cdnstream.com/5035/playlist.m3u8
+
+#EXTINF:-1 tvg-id="988FM.mana2" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/988_Logo_-_Transparent.png",988 FM
+http://28093.live.streamtheworld.com/988_FM_SC
+
+#EXTINF:-1 tvg-id="RAKITAFM.mana2" group-title="RADIO" tvg-logo="https://i.ibb.co/Gk429L1/logo-t.png",RAKITA FM
+https://23683.live.streamtheworld.com/RAKITAAAC.aac
+
+#EXTINF:-1 tvg-id="WAIFM.mana2" group-title="RADIO" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg",Wai FM
+https://28163.live.streamtheworld.com/WAI_FM_IBANAAC.aac
+
+#EXTINF:-1 tvg-id="SABAHVFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah.1c891dd7.jpg",Sabah FM
+https://28153.live.streamtheworld.com/SABAH_FMAAC.aac
+
+#EXTINF:-1 tvg-id="SARAWAKFM.mana2" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sarawak.85bf48b9.jpg",Sarawak FM
+https://22273.live.streamtheworld.com/SARAWAK_FMAAC.aac
+
 
 #EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-selangor.c3b66db5.jpg",Selangor FM
 https://28163.live.streamtheworld.com/SELANGOR_FMAAC.aac
-
-#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah.1c891dd7.jpg",Sabah FM
-https://28153.live.streamtheworld.com/SABAH_FMAAC.aac
-
-#EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sarawak.85bf48b9.jpg",Sarawak FM
-https://22273.live.streamtheworld.com/SARAWAK_FMAAC.aac
 
 #EXTINF:-1 tvg-id="" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-labuan.859e980b.jpg",Labuan FM
 https://28093.live.streamtheworld.com/LABUAN_FMAAC.aac
