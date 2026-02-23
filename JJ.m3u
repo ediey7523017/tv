@@ -1392,6 +1392,9 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index
 #EXTINF:-1 tvg-id="Superrix - [Channel 10].id" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" group-title="Movies",SUPERRIX
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.iill.top/logo/ROCK-Xstream.png" group-title="Movies",ROCKXstream
+https://tv.iill.top/4gtv/4gtv-live124
+
 ###EXTINF:-1 tvg-id="SONYMAX.sg" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png",SONY MAX
 ###KODIPROP:inputstreamaddon=inputstream.adaptive
 ###KODIPROP:inputstream.adaptive.manifest_type=dash 
