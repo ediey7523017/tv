@@ -3,16 +3,18 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg" group-title="▶ VOD ENGLISH",Firebreak (2026)
-https://ops.larhu.website/hls/vxzxg7kiqoqfycihmtlpzbncb2xgo5mq6ymmq22batzespgqlds3sgld3jwq/index-v1-a1.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg" group-title="▶ VOD ENGLISH",The Dreadful (2026)
+https://cloud.hownetwork.xyz/xxx/JgosLyEfAi1vY0d-dR0BHQA8BREdJkYkdmZOe3EE/39/480.m3u8
 https://www.dropbox.com/scl/fi/b6g55ic7m1o4dehtlp84t/The-Dreadful-2026.mp4?rlkey=3cgs7gj4ziq2zm5v8g71g6lmq&st=puypv26w&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="▶ VOD ENGLISH",Marty Supreme (2025)
-https://www.dropbox.com/scl/fi/avepr6kr0yu4jl717l69b/Marty-Supreme-2025.mkv?rlkey=8a8qqr0h6pftcoff91isqqtr7&st=xp4zuy3v&dl=1
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2HoR2x23bqKpopluoBD1FH3tBi7.jpg" group-title="▶ VOD ENGLISH",Crime 101 (2026)
+https://cloud.hownetwork.xyz/xxx/IQogIyBURnFzfEV8cQZ7EAY7CAMaISh5ITNHfHoEZA/39/480.m3u8
 https://www.dropbox.com/scl/fi/vzd1nznjkl1kie484wucl/Crime-101-2026.mp4?rlkey=p4bvbw7er812dyfoi2tutiy5m&st=aaftxy5a&dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -24,11 +26,14 @@ https://cloud.hownetwork.xyz/xxx/LxE6KiwLEiI2OBgibgJmanRVHgsHPTseGg5HLnQJYGxwHA/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/760SP4VsZagpyB9WLfeZykE3DFg.jpg" group-title="▶ VOD ENGLISH",Sleepwalker (2026)
 https://www.dropbox.com/scl/fi/icvs8hw92dyj467nv6xz3/Sleepwalker-2026.mp4?rlkey=ptf9a01w8m6j7fijmicrba71i&st=by5gt7mh&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg" group-title="▶ VOD ENGLISH",Firebreak (2026)
+https://ops.larhu.website/hls/vxzxg7kiqoqfycihmtlpzbncb2xgo5mq6ymmq22batzespgqlds3sgld3jwq/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="▶ VOD ENGLISH",Mercy (2026)
 https://ops.larhu.website/hls/vxzxh5coqoqfycihmtlpzuffckkutrosij7cn6pv3gs5uglnncvoii7ggzza/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="▶ VOD ENGLISH",28 Years Later: The Bone Temple (2026)
-https://ops.larhu.website/hls/vxzxh52oqoqfycihmtlpzanubcfwyqvoziz5feltdcvao6yvr7psqeenzvqq/index-v1-a1.m3u8
+https://ops.larhu.website/hls/vxzxgnkoqoqfycihmtlpzuv2ahjhuxn7wpru2yezy4bmtjcumunnusmvu7zq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fGodXWqJkkkbSebPIlxLSygV8GY.jpg" group-title="▶ VOD ENGLISH",Playdate (2025)
 https://ops.larhu.website/hls/vxzxhkvqqoqfycihmtlpzb7dj3ko5hsrxngvtr3jpgpkrq2kern5ybckcpqq/index-v1-a1.m3u8
@@ -59,6 +64,13 @@ https://ops.larhu.website/hls/vxzxh65yqoqfycihmtlpzrnqdltueje2hmicu24k3c2xvdva2h
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7zfrvyfl4Wf4NvLMUoJvJEMcmhF.jpg" group-title="▶ VOD ENGLISH",The Woman in the Yard (2025)
 https://www.dropbox.com/scl/fi/tghwn59wejn6hh91ara83/The-Woman-in-the-Yard-2025-720p-WEB-MalaySub.mp4?rlkey=qxh05cjufpnwk6s1z0r26bqgr&st=lmndsai3&dl=1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="▶ VOD ENGLISH",Marty Supreme (2025)
+https://cloud.hownetwork.xyz/xxx/Lxk7OjxUBDQyIxIhJh1kaHBNZBkAOzMNHQkoe3sINzp0Sis/39/480.m3u8
+https://www.dropbox.com/scl/fi/avepr6kr0yu4jl717l69b/Marty-Supreme-2025.mkv?rlkey=8a8qqr0h6pftcoff91isqqtr7&st=xp4zuy3v&dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
