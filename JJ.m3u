@@ -1937,14 +1937,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-https://unifi.whacat.tech/Bein1
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein1
 
-#EXTINF:-1 tvg-id="821.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Unifi TV",821 beIN SPORTS 2
+#EXTINF:-1 tvg-id="821.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Sports",821 beIN SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
-https://unifi.whacat.tech/Bein2
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein2
 
 ###EXTINF:-1 tvg-id="820.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",820 beIN SPORTS 1
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
