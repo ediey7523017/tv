@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/unifi.xml,https://walpak1.github.io/epg/starhub.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/main/mewatch.xml,https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="JJ EDIEY 87 Editor"
+#EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/unifi.xml,https://walpak1.github.io/epg/starhub.xml,https://www.open-epg.com/files/singapore2.xml.gz,https://www.open-epg.com/files/indonesia4.xml.gz,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="JJ EDIEY 87 Editor"
 
 
 ###################################################################Astro###############################################################
@@ -1317,7 +1317,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.manifest_type=mpd
 ###KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
-#EXTINF:-1 tvg-id="ROCKXStream" tvg-logo="https://epg.iill.top/logo/ROCK-Xstream.png" group-title="Movies",ROCK XStream
+#EXTINF:-1 tvg-id="503.myTV" tvg-logo="https://epg.iill.top/logo/ROCK-Xstream.png" group-title="Movies",ROCK XStream
 https://tv.iill.top/4gtv/4gtv-live124
 https://www.judy.xx.kg/websuper265.php?id=RKEX
 
