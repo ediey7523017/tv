@@ -1314,6 +1314,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="Movies",ROCK Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ROCKXStream" tvg-logo="https://epg.iill.top/logo/ROCK-Xstream.png" group-title="Movies",ROCK XStream
+#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
+https://www.judy.xx.kg/websuper265.php?id=RKEX
+https://tv.iill.top/4gtv/4gtv-live124
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTINF:-1 tvg-id="ROCKEntertainmentHD.sg" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="Movies",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1321,10 +1328,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="382872" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/QFvBKnsM/Logo.jpg" group-title="Movies",Cinema World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="382872" tvg-name="Cinema World" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="Movies",Cinema World
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1391,9 +1400,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Superrix - [Channel 10].id" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" group-title="Movies",SUPERRIX
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://epg.iill.top/logo/ROCK-Xstream.png" group-title="Movies",ROCKXstream
-https://tv.iill.top/4gtv/4gtv-live124
 
 ###EXTINF:-1 tvg-id="SONYMAX.sg" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png",SONY MAX
 ###KODIPROP:inputstreamaddon=inputstream.adaptive
