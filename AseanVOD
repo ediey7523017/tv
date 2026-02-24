@@ -2617,7 +2617,9 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 #EXTVLCOPT:http-referrer=https://menorcaconnecta.com/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2YZ24F49pRkNb45YWI6yckrTYE.jpg" group-title="Vivamax",Angkinin Mo Ako (2026)
 https://minochinos.com/stream/mOhHJlg5L544IEcmhxh7cw/hjkrhuihghfvu/1770231537/36377588/index-v1-a1.m3u8
-https://hls.khflix.top/Angkinin.Mo.Ako/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sr4sLilBbPx4TfPnX2zzUxlySgu.jpg" group-title="Vivamax",Sex Trip (2026)
+https://hls.khflix.top/Sex.Trip/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oa9YIxSVw7FsVIWaObFiO0RkKv0.jpg" group-title="Vivamax",Pansamantala (2026)
 https://hls.khflix.top/Pansamantala-khflix/index.m3u8
