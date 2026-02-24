@@ -1314,9 +1314,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="Movies",ROCK Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
+###KODIPROP:inputstream.adaptive.manifest_type=mpd
+###KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
 #EXTINF:-1 tvg-id="ROCKXStream" tvg-logo="https://epg.iill.top/logo/ROCK-Xstream.png" group-title="Movies",ROCK XStream
 https://tv.iill.top/4gtv/4gtv-live124
 https://www.judy.xx.kg/websuper265.php?id=RKEX
