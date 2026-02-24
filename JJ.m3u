@@ -1316,10 +1316,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="ROCKXStream" tvg-logo="https://epg.iill.top/logo/ROCK-Xstream.png" group-title="Movies",ROCK XStream
 #KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
-https://www.judy.xx.kg/websuper265.php?id=RKEX
+#EXTINF:-1 tvg-id="ROCKXStream" tvg-logo="https://epg.iill.top/logo/ROCK-Xstream.png" group-title="Movies",ROCK XStream
 https://tv.iill.top/4gtv/4gtv-live124
+https://www.judy.xx.kg/websuper265.php?id=RKEX
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTINF:-1 tvg-id="ROCKEntertainmentHD.sg" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="Movies",ROCK Entertainment
