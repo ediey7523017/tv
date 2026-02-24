@@ -596,7 +596,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=TVS
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=DuniaSin
 https://unifi.whacat.tech/DuniaSin
 
-#EXTINF:-1 tvg-id="duniasinemahd" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530" group-title="Unifi TV",Pesona HD
+#EXTINF:-1 tvg-id="pesonahd" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530" group-title="Unifi TV",Pesona HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
