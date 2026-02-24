@@ -3,12 +3,19 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/llvaVPyXt43GSCaEbORrjRtIAOR.jpg" group-title="▶ VOD BOLLYWOOD",Oporichito (2025)
-https://www.dropbox.com/scl/fi/sz8svgltg4m4sopvmuxp8/Oporichito-2025.mp4?rlkey=8v7xhvruvl20llj2xo2wt7ibr&st=6ojp2a9r&dl=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg" group-title="▶ VOD BOLLYWOOD",Kahaani (2012)
+https://ops.larhu.website/hls/vxzxhnsaqoqfycihmtl7zcfaafhfywo7zhp3shgesxit4qgzd3vpeeftnhdq/index-v1-a1.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uT1wPvg5UBPCHkWAlgYQutgbsW.jpg" group-title="▶ VOD BOLLYWOOD",Kahaani 2 (2016)
+https://cloud.hownetwork.xyz/xxx/00ef8881383ea664c9142c42fe8a84b8/6/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3vc1MMLflENJ8sHwbHjzedT07Hv.jpg" group-title="▶ VOD BOLLYWOOD",Disco Dancer (1982)
-https://www.dropbox.com/scl/fi/43iapwpobbb17j0u6q99n/Disco-Dancer-1982.mp4?rlkey=nlkfp676znh2apq3908vmq34j&st=ayizrl0h&dl=1
 https://cloud.hownetwork.xyz/xxx/JhE6LSpUEyAsMhI-bgFvYHBVHgsHPTseGg5CLXZRYTknSQ/39/480.m3u8
+https://www.dropbox.com/scl/fi/43iapwpobbb17j0u6q99n/Disco-Dancer-1982.mp4?rlkey=nlkfp676znh2apq3908vmq34j&st=ayizrl0h&dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
@@ -19,6 +26,9 @@ https://cloud.hownetwork.xyz/xxx/KxMiJzZURXFwZ1obBnISFB0gFiskSxF2IGUS/39/480.m3u
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/99rpDOk540UDaCMlJSonpSvQCPm.jpg" group-title="▶ VOD BOLLYWOOD",Mastiii 4 (2025)
 https://cloud.hownetwork.xyz/xxx/Lxk6OiwQHmx2fEV8cQV7Dwc6DQIaIShwdzNOeSJSNw/38/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/llvaVPyXt43GSCaEbORrjRtIAOR.jpg" group-title="▶ VOD BOLLYWOOD",Oporichito (2025)
+https://www.dropbox.com/scl/fi/sz8svgltg4m4sopvmuxp8/Oporichito-2025.mp4?rlkey=8v7xhvruvl20llj2xo2wt7ibr&st=6ojp2a9r&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rIM83O7WUcZIlg9pd6SgXgB0w2v.jpg" group-title="▶ VOD BOLLYWOOD",Khatta Meetha (2010)
 https://www.dropbox.com/scl/fi/e618xn0bh1dy2lexn2wiz/Khatta-Meetha-2010-720p-HDRip.mkv?rlkey=a68sturkbwcgbtkps9b7xj56y&st=obeh6frt&dl=1
