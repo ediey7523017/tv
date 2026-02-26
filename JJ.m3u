@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://walpak1.github.io/epg/astro.xml,https://walpak1.github.io/epg/sooka.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/unifi.xml,https://walpak1.github.io/epg/starhub.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/main/mewatch.xml,https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="JJ EDIEY 87 Editor"
+#EXTM3U url-tvg="https://walpak1.github.io/epg/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/unifi.xml,https://walpak1.github.io/epg/starhub.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/main/mewatch.xml,https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="JJ EDIEY 87 Editor"
 
 
 ###################################################################Astro###############################################################
@@ -224,7 +224,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TravelTaste" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/346283TravelTaste.png",Travel&Taste
+#EXTINF:-1 tvg-id="TravelandTaste" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/346283TravelTaste.png",Travel&Taste
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
 #EXTINF:-1 tvg-id="JomNgaji" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/f3a633JomNgaji.png",Jom Ngaji
@@ -237,7 +237,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-###EXTINF:-1 tvg-id="Infamous" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/3adc22InfamousTV.png" group-title="Sooka",Infamous
+###EXTINF:-1 tvg-id="InfamousTV" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/3adc22InfamousTV.png" group-title="Sooka",Infamous
 ###https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-hls-sooka/playlist.m3u8
 
 ###EXTINF:-1 tvg-id="JellyJammWorld" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/43f4a2JellyJamWorld.png" group-title="Sooka",Jelly Jamm World
@@ -249,34 +249,34 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-
 #EXTINF:-1 tvg-id="YRFMusic" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e79a2eYRFMusic.png" group-title="Sooka",YRF Music
 https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Petclub" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/443d3bPetClubTV.png" group-title="Sooka",Pet club
+#EXTINF:-1 tvg-id="PetClub" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/443d3bPetClubTV.png" group-title="Sooka",Pet club
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FreeMovies" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ad1172Free_Movies.png" group-title="Sooka",Free Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GustoTVHD" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/94f90eGustoTV.png" group-title="Sooka",Gusto TV HD
+#EXTINF:-1 tvg-id="GustoTV" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/94f90eGustoTV.png" group-title="Sooka",Gusto TV HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KCM" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/a688d0KCM.png" group-title="Sooka",KCM
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FTV" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/88db27FTV.png",FTV
+#EXTINF:-1 tvg-id="FashionTV.sg" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/88db27FTV.png",Fashion TV
 https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="wedotvBigstories" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/c2927cWD_Big_Stories.png",wedotv Big Stories
+#EXTINF:-1 tvg-id="WeDoTVBigStories" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/c2927cWD_Big_Stories.png",WeDoTV Big Stories
 https://amg00735-amg00735c19-astrosooka-singapore-6038.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedobigstories-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="wedotvMovies" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/647577WD_Movies.png",wedotv Movies
+#EXTINF:-1 tvg-id="WeDoTVMovies" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/647577WD_Movies.png",WeDoTV Movies
 https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="wedotvAmor" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e09eceWD_Amor.png",wedotv Amor
+#EXTINF:-1 tvg-id="WeDoTVAmor" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e09eceWD_Amor.png",WeDoTV Amor
 https://amg00735-amg00735c15-astrosooka-singapore-6039.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="wedotvSports" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/257dcfWD_Sports.png",wedotv Sports
+#EXTINF:-1 tvg-id="WeDoTVSports" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/257dcfWD_Sports.png",WeDoTV Sports
 https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HorseCountry" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/0209dbHNC.png",Horse & Country
+#EXTINF:-1 tvg-id="HorseandCountry" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/0209dbHNC.png",Horse & Country
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
 
 
@@ -385,7 +385,7 @@ https://slive.mana2.my/Kcm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="GLOBALTREKKER.mana2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/qukgom.png" group-title="MYTV Mana-Mana",Global Trekker
+#EXTINF:-1 tvg-id="GlobalTekker" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/qukgom.png" group-title="MYTV Mana-Mana",Global Trekker
 https://slive.mana2.my/GlobalTrekker/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
