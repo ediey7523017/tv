@@ -19,13 +19,12 @@ https://www.dropbox.com/scl/fi/43iapwpobbb17j0u6q99n/Disco-Dancer-1982.mp4?rlkey
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg" group-title="▶ VOD BOLLYWOOD",Ikkis (2026)
-https://cloud.hownetwork.xyz/xxx/KxMiJzZURXFwZ1obBnISFB0gFiskSxF2IGUS/39/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/99rpDOk540UDaCMlJSonpSvQCPm.jpg" group-title="▶ VOD BOLLYWOOD",Mastiii 4 (2025)
 https://cloud.hownetwork.xyz/xxx/Lxk6OiwQHmx2fEV8cQV7Dwc6DQIaIShwdzNOeSJSNw/38/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg" group-title="▶ VOD BOLLYWOOD",Ikkis (2026)
+https://ops.larhu.website/hls/vxzxgkkzqoqfycihmtl7zr5gbkg5443thbbges2f3rof2yb77qqhlzxuhd4a/index-v1-a1.m3u8
+https://cloud.hownetwork.xyz/xxx/KxMiJzZURXFwZ1obBnISFB0gFiskSxF2IGUS/39/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/llvaVPyXt43GSCaEbORrjRtIAOR.jpg" group-title="▶ VOD BOLLYWOOD",Oporichito (2025)
 https://www.dropbox.com/scl/fi/sz8svgltg4m4sopvmuxp8/Oporichito-2025.mp4?rlkey=8v7xhvruvl20llj2xo2wt7ibr&st=6ojp2a9r&dl=1
@@ -1673,6 +1672,9 @@ https://d13snj70thqlha.cloudfront.net/ff82735e-bbd6-4c81-93be-6142531dedb0/Baghb
 
 ######################################################################▶ VOD INDIA#########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/87MhKILHPwcForDY0HxzII4tPvA.jpg" group-title="▶ VOD INDIA",Eesha (2026)
+https://ops.larhu.website/hls/vxzxgosdqoqfycihmtl7zahgjbkvz35lcatuxix2apjur3625yw4eq3lidea/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="▶ VOD INDIA",Parasakthi (2026)
 https://ops.larhu.website/hls/vxzxh4soqoqfycihmtlpzbv3cle6cvsmzizx5hzfa6x7bvekckxn5nfqsn4a/index-v1-a1.m3u8
 
@@ -1683,6 +1685,7 @@ https://ops.larhu.website/hls/vxzxgfsiqoqfycihmtlpza7pjq56odu5xwbqj6c7ky26s4rmy4
 https://ops.larhu.website/hls/vxzxgvshqoqfycihmtlpzbxfcp6mffmtkctwp6eaa56ehx26dpnrum2v3w5a/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1EMPFJPNA0srjlWrudxjDqdlFFq.jpg" group-title="▶ VOD INDIA",Anaganaga Oka Raju (2026)
+https://ops.larhu.website/hls/vxzxhgcxqoqfycihmtl7zs5odqgmvcvqwkq73uexsmngxtcwh4rgnu6d4voq/index-v1-a1.m3u8
 https://www.dropbox.com/scl/fi/7r2wfm4dy3beqs7ni52d8/Anaganaga-Oka-Raju-2026.mp4?rlkey=mp3l4onsofquvgsng2giouku9&st=k0e1qfan&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/a41fqMDWRcZcDqidGcq10xmRoh.jpg" group-title="▶ VOD INDIA",Chatha Pacha: The Ring of Rowdies (2026)
