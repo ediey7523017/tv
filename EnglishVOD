@@ -3,6 +3,10 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="▶ VOD ENGLISH",The Bluff (2026)
+https://ops.larhu.website/hls/vxzxges3qoqfycihmtl7zvxcibafyqvvo25amqgidi3ctv5m6n6zg64sw2ma/index-v1-a1.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
