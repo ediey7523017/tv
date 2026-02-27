@@ -1949,8 +1949,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="834.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroGolf_2025.png",834 Astro Golf Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f6017eff081439a063c5fcf95fa4a10:07db3a0d209d82c73bbbecbba2e1aa4d
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B9s6DSCdgsc7u-xLouGqTQ","kid":"b2AX7_CBQ5oGPF_PlfpKEA"}],"type":"temporary"}
+###KODIPROP:inputstream.adaptive.license_key=6f6017eff081439a063c5fcf95fa4a10:07db3a0d209d82c73bbbecbba2e1aa4d
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B9s6DSCdgsc7u-xLouGqTQ","kid":"b2AX7_CBQ5oGPF_PlfpKEA"}],"type":"temporary"}
 ###KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5140/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5140/default_primary.mpd
