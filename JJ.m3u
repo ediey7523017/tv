@@ -223,7 +223,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TravelandTaste" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/346283TravelTaste.png",Travel&Taste
+#EXTINF:-1 tvg-id="TravelTaste" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/346283TravelTaste.png",Travel&Taste
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
 #EXTINF:-1 tvg-id="JomNgaji" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/f3a633JomNgaji.png",Jom Ngaji
@@ -245,16 +245,16 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/28616eTastemade.png" group-title="Sooka",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-hls-sooka/playlist.m3u8
 
-#EXTINF:-1 tvg-id="YRFMusic" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e79a2eYRFMusic.png" group-title="Sooka",YRF Music
+#EXTINF:-1 tvg-id="YRFmusic" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e79a2eYRFMusic.png" group-title="Sooka",YRF Music
 https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PetClub" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/443d3bPetClubTV.png" group-title="Sooka",Pet club
+#EXTINF:-1 tvg-id="Petclub" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/443d3bPetClubTV.png" group-title="Sooka",Pet club
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FreeMovies" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ad1172Free_Movies.png" group-title="Sooka",Free Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GustoTV" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/94f90eGustoTV.png" group-title="Sooka",Gusto TV HD
+#EXTINF:-1 tvg-id="GustoTVHD" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/94f90eGustoTV.png" group-title="Sooka",Gusto TV HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KCM" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/a688d0KCM.png" group-title="Sooka",KCM
@@ -263,19 +263,19 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hl
 #EXTINF:-1 tvg-id="FTV" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/88db27FTV.png",Fashion TV
 https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeDoTVBigStories" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/c2927cWD_Big_Stories.png",WeDoTV Big Stories
+#EXTINF:-1 tvg-id="wedotvBigstories" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/c2927cWD_Big_Stories.png",WeDoTV Big Stories
 https://amg00735-amg00735c19-astrosooka-singapore-6038.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedobigstories-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeDoTVMovies" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/647577WD_Movies.png",WeDoTV Movies
+#EXTINF:-1 tvg-id="wedotvMovies" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/647577WD_Movies.png",WeDoTV Movies
 https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeDoTVAmor" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e09eceWD_Amor.png",WeDoTV Amor
+#EXTINF:-1 tvg-id="wedotvAmor" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e09eceWD_Amor.png",WeDoTV Amor
 https://amg00735-amg00735c15-astrosooka-singapore-6039.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeDoTVSports" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/257dcfWD_Sports.png",WeDoTV Sports
+#EXTINF:-1 tvg-id="wedotvSports" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/257dcfWD_Sports.png",WeDoTV Sports
 https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-astrosookasingapore/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HorseandCountry" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/0209dbHNC.png",Horse & Country
+#EXTINF:-1 tvg-id="HorseCountry" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/0209dbHNC.png",Horse & Country
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
 
 
@@ -1785,19 +1785,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default_primary.mpd
 
-#EXTINF:-1 tvg-id="806.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague4_2024.png",806 Astro Premier League 4
+#EXTINF:-1 tvg-id="AstroPremierLeague4" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague4_2024.png",806 Astro Premier League 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_primary.mpd
 
-#EXTINF:-1 tvg-id="807.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png",807 Astro Premier League 5
+#EXTINF:-1 tvg-id="AstroPremierLeague5" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png",807 Astro Premier League 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
 
-#EXTINF:-1 tvg-id="808.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",808 Astro Premier League 6
+#EXTINF:-1 tvg-id="AstroPremierLeague6" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",808 Astro Premier League 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1907,13 +1907,13 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-id="823.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png",823 beIN SPORTS 4
+#EXTINF:-1 tvg-id="beINSPORTS4HD.sg" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png",823 beIN SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 
-#EXTINF:-1 tvg-id="824.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png",824 beIN SPORTS 5
+#EXTINF:-1 tvg-id="beINSPORTS5HD.sg" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png",824 beIN SPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de4031a7e1079b2ff388da11db9a710:463d877c3b6a9c5948b9045ab56d6dd1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
