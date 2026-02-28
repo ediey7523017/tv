@@ -2143,49 +2143,49 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 
 ###################################################################Astro Audio##########################################################
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="852.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hitz_v1.png" group-logo="https://assets.astroaudio.com.my/audio/media/uploads/logo/2026-01/LOGO.png",HITZ
+#EXTINF:-1 tvg-id="852.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hitz_v1.png" group-title="Astro Audio" group-logo="https://assets.astroaudio.com.my/audio/media/uploads/logo/2026-01/LOGO.png",HITZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c759f4bc157b00a7b1dba7873197fc10:96da0bbe83b8f54194e42428e1fd6632
 https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="853.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MY_v1.png",MY
+#EXTINF:-1 tvg-id="853.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MY_v1.png" group-title="Astro Audio",MY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8f618c12955ac5c431f5f901451c9d10:433fa68d6ec980675c96bb5ae2e01789
 https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="854.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lite_v1.png",LITE
+#EXTINF:-1 tvg-id="854.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lite_v1.png" group-title="Astro Audio",LITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8ab350491e05128235859f127225b10:b59d48e5da5e34a1d17bcb6e8cc36267
 https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="855.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MIX_v1.png",MIX
+#EXTINF:-1 tvg-id="855.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MIX_v1.png" group-title="Astro Audio",MIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14f020e638635a66792cc7955e4d2810:8e2be3777dd95fb09ce2a70cf099cf8a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="856.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ERA_v1.png",ERA
+#EXTINF:-1 tvg-id="856.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ERA_v1.png" group-title="Astro Audio",ERA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85294251c8aeb373689eaa0ea9587810:4d559fcc12052d9e7fce0f8f6592bba1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="857.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sinar_v1.png",SINAR
+#EXTINF:-1 tvg-id="857.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sinar_v1.png" group-title="Astro Audio",SINAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af3ec1f2db077ae6374a018cbb48510:9458ed76e85f1ad8aa7eefcdbd628908
 https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="858.astro"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Melody_v1.png",MELODY
+#EXTINF:-1 tvg-id="858.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Melody_v1.png" group-title="Astro Audio",MELODY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d34dc49701f9c22b9f20baabb27ad410:6df52c46b193522fe87420938e029759
 https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="859.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Raaga_v1.png",RAAGA
+#EXTINF:-1 tvg-id="859.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Raaga_v1.png" group-title="Astro Audio",RAAGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d9ba6f62b14a5d5706b21007bc21310:058790fb88613e6a71028aafa2258403
@@ -2209,31 +2209,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=a14f9a14450a96032b106d4ee8181310:b0b97cca1f9e311a09d33265c85a20e8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="863.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_2171_v3.png",GEGAR
+#EXTINF:-1 tvg-id="863.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_2171_v3.png" group-title="Astro Audio",GEGAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70b6a9d1c5f5d275accf0a8c51dbf710:a0feca3810b9227592bd893bfb9f1f89
 https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="864.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_India_Beat_v1.png",INDIA BEAT
+#EXTINF:-1 tvg-id="864.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_India_Beat_v1.png" group-title="Astro Audio",INDIA BEAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b4e873bc93eff959ba232e1fa016f10:3e84b173e8997210fd270b7029491a9e
 https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="865.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Jazz_v1.png",JAZZ
+#EXTINF:-1 tvg-id="865.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Jazz_v1.png" group-title="Astro Audio",JAZZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bbab67b1f95ae9a32db73a88c308110:b284563fcddeb078b5bfe0efb684ffa1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="866.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Osai_v1.png",OSAI
+#EXTINF:-1 tvg-id="866.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Osai_v1.png" group-title="Astro Audio",OSAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=082e516398c5ea15d6b9cda572247c10:cb8b2f2190cd84b62e6876fcc6bf24bf
 https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="867.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Bayu_v1.png",BAYU
+#EXTINF:-1 tvg-id="867.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Bayu_v1.png" group-title="Astro Audio",BAYU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5515d4f22664e386c62f7cf2c166ab10:f72c380581aa12a016ea88789c679c67
@@ -2287,13 +2287,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
 ###KODIPROP:inputstream.adaptive.license_key=ba01b2f73c76432e649092767f107010:8c198e97119e46dad9a4d693f5a82aff
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="876.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Zayan_v1.png",ZAYAN
+#EXTINF:-1 tvg-id="876.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Zayan_v1.png" group-title="Astro Audio",ZAYAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8366fd866e0ef521268b53446203610:8ac6d3ead461c5c1497ab25a8bd1f619
 https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro Audio" tvg-id="877.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo-goxuan_V1.png",GO XUAN
+#EXTINF:-1 tvg-id="877.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo-goxuan_V1.png" group-title="Astro Audio",GO XUAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee738a67776d147e95f95df27e626b10:ef1e7ce3e50a78788ce1831cea8e187d
