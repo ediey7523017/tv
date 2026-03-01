@@ -2033,7 +2033,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 ##############################################################Others###############################################################
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTINF:-1 tvg-id="ROCKEntertainmentHD.sg" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="Movies" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/my-astro/banners/icon_plug-play.png",ROCK Entertainment
+#EXTINF:-1 tvg-id="ROCKEntertainmentHD.sg" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="Others" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/my-astro/banners/icon_plug-play.png",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
