@@ -3,6 +3,9 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg" group-title="▶ VOD BOLLYWOOD",Accused (2026)
+https://ops.larhu.website/hls/vxzxhwkvqoqfycihmtl7zrxobjcp2yhkfmhgngn6cvkwhggaej4z2mazfzpa/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg" group-title="▶ VOD BOLLYWOOD",Kahaani (2012)
 https://ops.larhu.website/hls/vxzxhnsaqoqfycihmtl7zcfaafhfywo7zhp3shgesxit4qgzd3vpeeftnhdq/index-v1-a1.m3u8
 
