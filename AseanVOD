@@ -2623,14 +2623,27 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 
 #######################################################################Vivamax########################################################################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=http://206.189.144.178/
+#EXTINF:-1 type="movie" tvg-logo="https://cdnupload.com/wp-content/uploads/2026/01/Piring-2026.jpg" group-title="Vivamax",Piring (2026)
+https://audinifer.com/stream/6VDaFyG8VO_Lp9zbUo3YVQ/kjhhiuahiuhgihdf/1772554485/67171378/index-v1-a1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=http://206.189.144.178/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qdj5Unee712ffx9zJJz9G61tqLO.jpg" group-title="Vivamax",Exchange Gift (2026)
+https://hanerix.com/stream/dchPIuUoOomKKTgWYAwDuA/kjhhiuahiuhgihdf/1772554186/67109428/index-v1-a1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=http://206.189.144.178/
 #EXTINF:-1 type="movie" tvg-logo="https://560pmovie.com/wp-content/uploads/Tubero-2026-240x300.webp" group-title="Vivamax",Tubero (2026)
-https://fs-529368.vincdn.net/stream/ee7ed4y7u335kj6/zSrQV5sTePdkAcPD9zQzTg/1772486966
+https://audinifer.com/stream/MSOKJGeRCAhZ9JTAyTS-dg/kjhhiuahiuhgihdf/1772553974/68258785/index-v1-a1.m3u8
+https://minochinos.com/stream/pI4KNffVlLZNy1mWSsTEyA/hjkrhuihghfvu/1772553915/37128419/index-f2-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nEMXoQwportpJ1aqbEFHoa9htkO.jpg" group-title="Vivamax",Man Child (2025)
-https://fs-529368.vincdn.net/stream/gg4j0pgxhddw63q/oYLYYcrZT6YtedJN7iBi2A/1772487306
+https://hls.khflix.top/Man.Child/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rKBjNAhLxYEJn5QXnUhk0j2gAcr.jpg" group-title="Vivamax",Starting Over Again (2025)
-https://fs-f2e124.vincdn.net/stream/8gk4p77qcjj3vpv/16LfAxLQ3J4fP4N-gBn06Q/1772487495
+https://hls.khflix.top/Starting.Over.Again/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sr4sLilBbPx4TfPnX2zzUxlySgu.jpg" group-title="Vivamax",Sex Trip (2026)
 https://hls.khflix.top/Sex.Trip/index.m3u8
