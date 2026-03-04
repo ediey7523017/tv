@@ -3648,20 +3648,137 @@ https://cloud.hownetwork.xyz/xxx/IBk9OikcWicjJRI_bkMzOTEXJ2N0VBIxKyIYKCYdbnVwSHt
 #EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ryQIirFnD6Aqj62RM0jppOJjqAp.jpg", Battle of Fates (2026) E09
 https://cloud.hownetwork.xyz/xxx/IBk9OikcWicjJRI_bkMzOTEXJ2N0VBIxKyIYKCYdb3VwSHt4aC4yAwYdKBQcBDNud0xxKyE/39/480.m3u8
 
-############################################################### S LINE #################################################################
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ryQIirFnD6Aqj62RM0jppOJjqAp.jpg", Battle of Fates (2026) E10
 
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7TGolwcia6AI6uvInBOoedAi9Il.jpg", S LINE E01
-https://www.dropbox.com/scl/fi/8ce5onzu1v72szlhf5q3m/S-Line-E01.mkv?rlkey=9g8hl596e3b3c7cacv8lydai6&st=fy1trh4n&dl=1
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7TGolwcia6AI6uvInBOoedAi9Il.jpg", S LINE E02
-https://www.dropbox.com/scl/fi/dnzje3ozob694p1i0jdj5/S-Line-E02.mkv?rlkey=psj8tsk0edizpa6agcrivwbhw&st=g7zbbdwy&dl=1
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7TGolwcia6AI6uvInBOoedAi9Il.jpg", S LINE E03
-https://www.dropbox.com/scl/fi/v1zjfiut4n22yru6gy3gq/S-Line-E03.mkv?rlkey=uwl4zem6ux5gqaembtaso734o&st=ycoed85y&dl=1
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7TGolwcia6AI6uvInBOoedAi9Il.jpg", S LINE E04
-https://www.dropbox.com/scl/fi/r5r869l85mru2z09f0s7a/S-Line-E04.mkv?rlkey=9aadr92y24pig3rwxq2r95e3u&st=2y2rppgy&dl=1
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7TGolwcia6AI6uvInBOoedAi9Il.jpg", S LINE E05
-https://www.dropbox.com/scl/fi/b1fyf44u9o82uextsa8qt/S-Line-E05.mkv?rlkey=usm68i5v1qljpkb4npvn88wcc&st=eef4d6t3&dl=1
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7TGolwcia6AI6uvInBOoedAi9Il.jpg", S LINE E06
-https://www.dropbox.com/scl/fi/zv4310vopv1fcwxx86587/S-Line-E06.mkv?rlkey=20nukt11v25iyagf520ghhxt0&st=ucajh3ra&dl=1
+
+
+######################### RUNNING MAN 2026  ##################################
+
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="KOREAN SERIES",  Running Man (2026) E784
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166286858&quality=s240p&product_id=2875146&lang=Malay&flag_id=7&ut=u
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="KOREAN SERIES",  Running Man (2026) E785
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166287306&quality=s240p&product_id=2878262&lang=Malay&flag_id=7&ut=u
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="KOREAN SERIES",  Running Man (2026) E786
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166287931&quality=s240p&product_id=2880941&lang=Malay&flag_id=7&ut=u
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="KOREAN SERIES",  Running Man (2026) E787
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166288611&quality=s240p&product_id=2916978&lang=Malay&flag_id=7&ut=u
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="KOREAN SERIES",  Running Man (2026) E788
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166289660&quality=s240p&product_id=2939761&lang=Malay&flag_id=7&ut=u
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="KOREAN SERIES",  Running Man (2026) E789
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166291753&quality=s240p&product_id=2945918&lang=Malay&flag_id=7&ut=u
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="KOREAN SERIES",  Running Man (2026) E790
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166292802&quality=s240p&product_id=2950888&lang=Malay&flag_id=7&ut=u
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="KOREAN SERIES",  Running Man (2026) E791
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166293947&quality=s240p&product_id=2968631&lang=Malay&flag_id=7&ut=u
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="KOREAN SERIES",  Running Man (2026) E792
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166294874&quality=s240p&product_id=2986537&lang=Malay&flag_id=7&ut=u
+
+
+########################## RUNNING MAN 2025 ##################################
+
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E734
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166230247&quality=s240p&product_id=2556317&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E735
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166231149&quality=s240p&product_id=2561524&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E736
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166231996&quality=s240p&product_id=2563901&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E737
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166232900&quality=s240p&product_id=2567190&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E738
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166233596&quality=s240p&product_id=2571274&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E739
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234659&quality=s240p&product_id=2576488&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E740
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166235488&quality=s240p&product_id=2579767&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E741
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166236213&quality=s240p&product_id=2584157&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E742
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166237479&quality=s240p&product_id=2587562&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E743
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166238539&quality=s240p&product_id=2592069&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E744
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166239279&quality=s240p&product_id=2594655&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E745
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166240310&quality=s240p&product_id=2598291&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E746
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166241281&quality=s240p&product_id=2602441&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E747
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166241655&quality=s240p&product_id=2604554&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E748
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166242456&quality=s240p&product_id=2606845&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E749
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166243161&quality=s240p&product_id=2609022&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E750
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166243885&quality=s240p&product_id=2612996&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E751
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166244465&quality=s240p&product_id=2614996&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E752
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166245079&quality=s240p&product_id=2617142&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E753
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166246702&quality=s240p&product_id=2622183&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E754
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166247744&quality=s240p&product_id=2626216&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E755
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166248489&quality=s240p&product_id=2629917&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E756
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166249406&quality=s240p&product_id=2631986&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E757
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166250301&quality=s240p&product_id=2637078&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E758
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166251165&quality=s240p&product_id=2640346&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E759
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166251925&quality=s240p&product_id=2642673&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E760
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166252818&quality=s240p&product_id=2644878&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E761
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166253700&quality=s240p&product_id=2647096&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E762
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166254520&quality=s240p&product_id=2649357&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E763
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166256333&quality=s240p&product_id=2657320&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E764
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166257219&quality=s240p&product_id=2660683&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E765
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166257926&quality=s240p&product_id=2664171&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E766
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166258768&quality=s240p&product_id=2668500&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E767
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166259461&quality=s240p&product_id=2673463&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E768
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166260003&quality=s240p&product_id=2675922&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E769
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166260567&quality=s240p&product_id=2678791&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E770
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166261217&quality=s240p&product_id=2681851&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E771
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166261904&quality=s240p&product_id=2683538&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E772
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166262800&quality=s240p&product_id=2686933&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E773
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166263406&quality=s240p&product_id=2689754&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E774
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166264102&quality=s240p&product_id=2696362&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E775
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166264679&quality=s240p&product_id=2699224&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E776
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166265181&quality=s240p&product_id=2702452&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E777
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166265863&quality=s240p&product_id=2709794&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E778
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166267545&quality=s240p&product_id=2745879&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E779
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166270291&quality=s240p&product_id=2784223&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E780
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166273966&quality=s240p&product_id=2823802&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E781
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166275429&quality=s240p&product_id=2852975&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E782
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166279129&quality=s240p&product_id=2860624&lang=Malay&flag_id=7&ut=2
+#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E783
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166284470&quality=s240p&product_id=2868963&lang=Malay&flag_id=7&ut=2
 
 
 ############################################################# Trigger S1 ###############################################################
@@ -4663,130 +4780,6 @@ https://www.dropbox.com/scl/fi/s3njrg28wuhk1w5lb6yg9/e11.mp4?rlkey=4d854sv0q9j74
 https://www.dropbox.com/scl/fi/mzoz8r27wve5wqjbfqubl/e12.mp4?rlkey=w54f3uethy5kkuueox7l3qb2b&st=3a235mqq&dl=1
 
 
-######################### RUNNING MAN 2026  ##################################
-
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="Korean Series",  Running Man (2026) E784
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166286858&quality=s240p&product_id=2875146&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="Korean Series",  Running Man (2026) E785
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166287306&quality=s240p&product_id=2878262&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="Korean Series",  Running Man (2026) E786
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166287931&quality=s240p&product_id=2880941&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="Korean Series",  Running Man (2026) E787
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166288611&quality=s240p&product_id=2916978&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="Korean Series",  Running Man (2026) E788
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166289660&quality=s240p&product_id=2939761&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="Korean Series",  Running Man (2026) E789
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166291753&quality=s240p&product_id=2945918&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="Korean Series",  Running Man (2026) E790
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166292802&quality=s240p&product_id=2950888&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="Korean Series",  Running Man (2026) E791
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166293947&quality=s240p&product_id=2968631&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="Korean Series",  Running Man (2026) E792
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166294874&quality=s240p&product_id=2986537&lang=Malay&flag_id=7&ut=u
-
-########################## RUNNING MAN 2025 ##################################
-
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E734
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166230247&quality=s240p&product_id=2556317&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E735
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166231149&quality=s240p&product_id=2561524&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E736
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166231996&quality=s240p&product_id=2563901&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E737
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166232900&quality=s240p&product_id=2567190&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E738
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166233596&quality=s240p&product_id=2571274&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E739
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234659&quality=s240p&product_id=2576488&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E740
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166235488&quality=s240p&product_id=2579767&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E741
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166236213&quality=s240p&product_id=2584157&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E742
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166237479&quality=s240p&product_id=2587562&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E743
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166238539&quality=s240p&product_id=2592069&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E744
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166239279&quality=s240p&product_id=2594655&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E745
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166240310&quality=s240p&product_id=2598291&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E746
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166241281&quality=s240p&product_id=2602441&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E747
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166241655&quality=s240p&product_id=2604554&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E748
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166242456&quality=s240p&product_id=2606845&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E749
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166243161&quality=s240p&product_id=2609022&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E750
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166243885&quality=s240p&product_id=2612996&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E751
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166244465&quality=s240p&product_id=2614996&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E752
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166245079&quality=s240p&product_id=2617142&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E753
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166246702&quality=s240p&product_id=2622183&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E754
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166247744&quality=s240p&product_id=2626216&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E755
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166248489&quality=s240p&product_id=2629917&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E756
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166249406&quality=s240p&product_id=2631986&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E757
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166250301&quality=s240p&product_id=2637078&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E758
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166251165&quality=s240p&product_id=2640346&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E759
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166251925&quality=s240p&product_id=2642673&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E760
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166252818&quality=s240p&product_id=2644878&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E761
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166253700&quality=s240p&product_id=2647096&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E762
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166254520&quality=s240p&product_id=2649357&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E763
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166256333&quality=s240p&product_id=2657320&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E764
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166257219&quality=s240p&product_id=2660683&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E765
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166257926&quality=s240p&product_id=2664171&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E766
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166258768&quality=s240p&product_id=2668500&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E767
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166259461&quality=s240p&product_id=2673463&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E768
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166260003&quality=s240p&product_id=2675922&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E769
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166260567&quality=s240p&product_id=2678791&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E770
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166261217&quality=s240p&product_id=2681851&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E771
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166261904&quality=s240p&product_id=2683538&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E772
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166262800&quality=s240p&product_id=2686933&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E773
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166263406&quality=s240p&product_id=2689754&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E774
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166264102&quality=s240p&product_id=2696362&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E775
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166264679&quality=s240p&product_id=2699224&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E776
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166265181&quality=s240p&product_id=2702452&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E777
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166265863&quality=s240p&product_id=2709794&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E778
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166267545&quality=s240p&product_id=2745879&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E779
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166270291&quality=s240p&product_id=2784223&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E780
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166273966&quality=s240p&product_id=2823802&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E781
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166275429&quality=s240p&product_id=2852975&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E782
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166279129&quality=s240p&product_id=2860624&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/2046128108/52511d036547da39ea3bfe20a6ee1fa3768f9a91" group-title="KOREAN SERIES",  Running Man (2025) E783
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166284470&quality=s240p&product_id=2868963&lang=Malay&flag_id=7&ut=2
-
 ############################ Tailed of The nine tailed #################################
 
 #EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1165816244/1165835168/d3bcb7ea3508d620d7e703630afc300c274d5666" group-title="KOREAN SERIES",  Tale Of The Nine Tailed E01
@@ -4969,4 +4962,5 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166264325&quality=s240p&product_id=2697200&lang=Malay&flag_id=7&ut=2
 #EXTINF:-1 type="series" tvg-name="" tvg-logo="https://prod-images.viu.com/3454107799/3442bd5f70be19132cb9ce8d3cafa18e7ff5f5aa" group-title="KOREAN SERIES",  S Line E06
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166264326&quality=s240p&product_id=2697155&lang=Malay&flag_id=7&ut=2
+
 
