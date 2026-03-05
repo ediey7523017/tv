@@ -3,6 +3,18 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aDI8pTr7QDs1QnDKCKsAoEampZj.jpg" group-title="▶ VOD BOLLYWOOD",Nishaanchi (2025)
+https://ops.larhu.website/hls/vxzxhi3kqoqfycihmtmpzvnvdzktezihuez5rlkwfiggems6bgb6x45ktgnq/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xUayFrF27SdDZYlKQBUlqxUOxcB.jpg" group-title="▶ VOD BOLLYWOOD",Nishaanchi 2 (2025)
+https://ops.larhu.website/hls/vxzxhh3kqoqfycihmtmpzu7pbjz43rbxqc2ghufpl27w6brxtlvzxymdbp4q/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aU4DMIzR7u3EHqQ123oLmi9JTbL.jpg" group-title="▶ VOD BOLLYWOOD",Kalank (2019)
+https://ops.larhu.website/hls/vxzxhalkqoqfycihmtmpzaftdjursqube77amieuexgcmxdxozromq4n6cfq/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/70kbo9qJ3i98CRVyKP0DfYQoJLe.jpg" group-title="▶ VOD BOLLYWOOD",Murderbaad (2025)
+https://ops.larhu.website/hls/vxzxhdtmqoqfycihmtmpzrn3ibayw5uinxuokp3tuppvgjxpalgawlrothzq/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg" group-title="▶ VOD BOLLYWOOD",Accused (2026)
 https://ops.larhu.website/hls/vxzxhwkvqoqfycihmtl7zrxobjcp2yhkfmhgngn6cvkwhggaej4z2mazfzpa/index-v1-a1.m3u8
 
@@ -1674,6 +1686,12 @@ https://d13snj70thqlha.cloudfront.net/579686a6-605e-4e4b-8be5-a251d9e21a12/Devda
 https://d13snj70thqlha.cloudfront.net/ff82735e-bbd6-4c81-93be-6142531dedb0/BaghbanRTMKLIK20251016.m3u8?id=29538
 
 ######################################################################▶ VOD INDIA#########################################################
+
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVRSB_IVP_LAND_448x252_8F06F_2026226_12213.jpg" group-title="▶ VOD INDIA",Retta Thala (2025)
+https://ops.larhu.website/hls/vxzxhqdoqoqfycihmtmpzcnvjt7day3b6l6p6ou5e5ytdlrcewgnwkcrm6sa/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5eZzBvETRK8uDz3mUK0Feio2T5C.jpg" group-title="▶ VOD INDIA",Aan Paavam Pollathathu (2025)
+https://ops.larhu.website/hls/vxzxhqtoqoqfycihmtmpzbxddsxonzvcq7cihbhect5jdxmtxjizihrian4q/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/87MhKILHPwcForDY0HxzII4tPvA.jpg" group-title="▶ VOD INDIA",Eesha (2026)
 https://ops.larhu.website/hls/vxzxgosdqoqfycihmtl7zahgjbkvz35lcatuxix2apjur3625yw4eq3lidea/index-v1-a1.m3u8
