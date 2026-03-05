@@ -1305,7 +1305,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-id="hbo" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1333,36 +1333,12 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBOHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png?w=272" group-title="Movies",HBO
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO SIGNATURE
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBOFamilyHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png?w=272" group-title="Movies",HBO FAMILY
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBOHitsHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png?w=272" group-title="Movies",HBO HITS
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="CinemaxHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png?w=272" group-title="Movies",CINEMAX
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:Referer=https://www.indihometv.com
+#EXTVLCOPT:Origin=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
