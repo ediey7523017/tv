@@ -3,11 +3,12 @@
 
 #####################################################################Astro VOD 2024#############################################################################
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=a5b607bdb3da585f0564f9ec6491d510:ea77dc9e6d06ca58d5e424794e6829f3
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOONW_IVP_LAND_448x252_7C0F9_2025710_133710.jpg",BeetleJuice (2024)
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOONW_IVP_LAND_448x252_7C0F9_2025710_133710.jpg" group-logo="https://assets-global.website-files.com/5eb0bc427545c1b0709b646c/60c02177ef603df89843f4ea_Box%20VOD.png",BeetleJuice (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b48b9365-b71f-5e0c-93eb-1f2227e3f68a/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2070,7 +2071,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=f668fbdc6c72d3c4f24a23ae28fc0510:5f33b1c1b1b9dcacc2360803be4ba6e7
-#EXTINF:-1 tvg-logo="https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2903714/5962175/MOVAI8804__28407.1679605095.jpg" group-title="Astro VOD" tvg-id="NULL", 10 000 BC
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9I7gV6wRbGnbfI3XOKjHeLMjYEo.jpg" group-title="Astro VOD" tvg-id="NULL", 10 000 BC
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/8dab1e77-adcd-51d9-845a-71cd12a46aa6/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
