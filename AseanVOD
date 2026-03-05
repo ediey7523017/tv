@@ -3,9 +3,6 @@
 
 ######################################################################▶ VOD ASEAN######################################################################
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/f0LjuzeaQWtEhzmfOnAHbWboY7R.jpg" group-title="▶ VOD ASEAN",Let's Get Rich (2024)
-https://ops.larhu.website/hls/vxzxhz2qqoqfycihmtmpzqncbifq5eatqvodn4levdqvkam6iojezb4wu7ka/index-v1-a1.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg" group-title="▶ VOD ASEAN",Pavane (2026)
 https://ops.larhu.website/hls/vxzxg52iqoqfycihmtlpzu5ycsjlxj3fjzp6f5yogb6fdenm73dacgxz3wra/index-v1-a1.m3u8
 
@@ -431,7 +428,6 @@ https://cloud.hownetwork.xyz/xxx/NxY7JyIRAyQtJARhcQBkbG8vDAwBNSgZHWRBeXcEZml0/38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fUCFEGFlMIFet9ja72JDAeG1he8.jpg" group-title="▶ VOD ASEAN",Legends of the Condor Heroes: The Gallants (2025)
-https://ops.larhu.website/hls/vxzxgqkqqoqfycihmtmpzan2b7cf6uvmdkasyaqt56re7u2z5c6v4js3zcga/index-v1-a1.m3u8
 https://cloud.hownetwork.xyz/xxx/Lh0uKysdBGwtN1o4K1V7Oy0WLSE3VB8kMD4SP25EPj1vHygiKRgZNTF8RXxxBXsvJxotIhohKCcgZUIpd1Nn/33/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -624,7 +620,7 @@ https://cloud.hownetwork.xyz/xxx/060f9e6cbab7633d04f41eed93b73866/3/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ASEAN",Kingdom: Ashin of the North (2021)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/piGZDwFW4urLYDWGiYJMrt6hdCS.jpg" group-title="▶ VOD ASEAN",Kingdom: Ashin of the North (2021)
 https://cloud.hownetwork.xyz/xxx/8288b142e13c4a2865cec5a590930aaa/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -923,7 +919,7 @@ https://cloud.hownetwork.xyz/xxx/9aa1d330178fec7ea225150b9356df5b/10/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FmM2Y1NDktMTg2Ny00MzJjLWE1NjAtNTdjZWQyY2ZlMDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN",The Pirates The Last Royal Treasure (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/50UQeTrUM7ErXzkvqCsV6EXcM3g.jpg" group-title="▶ VOD ASEAN",The Pirates The Last Royal Treasure (2022)
 https://cloud.hownetwork.xyz/xxx/d88717090e1e9eec89023c0441520c10/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -938,7 +934,7 @@ https://cloud.hownetwork.xyz/xxx/b8618f56f3f4db16120b13b1b3fdd818/4/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F1%2Fgracenote%2F19d21d83fbf306b58ac081032418edd3.jpg" group-title="▶ VOD ASEAN",The Prison (2017)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wlyaPaVqwbj2QNYZRxUV8AzguBD.jpg" group-title="▶ VOD ASEAN",The Prison (2017)
 https://cloud.hownetwork.xyz/xxx/2b8bde49ff983e488c1376128d03024f/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -953,7 +949,7 @@ https://cloud.hownetwork.xyz/xxx/1a42a4cb4cef16af7baea2f95d0ff48a/2/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdjMjA1ZWUtZDhiOS00ZjhjLTlmMDktMzMxMTQ4MWZlNjVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN",The Treacherous (2015)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1YpS9sXZ8bRrmPwULftGbfwImnR.jpg" group-title="▶ VOD ASEAN",The Treacherous (2015)
 https://cloud.hownetwork.xyz/xxx/bedc5f7e0403e81bc07beb40fd09be9e/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1426,6 +1422,42 @@ https://cloud.hownetwork.xyz/xxx/ce05e091daf242cf82258e99ff300a90/11/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc4YTRjNWItYWYxMC00YmFiLWI1NmYtMDQzZWNiNjY2MGE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN",Kung Fu Cult Master (1993)
 https://cloud.hownetwork.xyz/xxx/6cee262485bdbec8387a7c79f7c675ac/5/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/iYukEgKMbbWr05s4nIvGqYGt84z.jpg", Police Story: Lockdown (2013)
+https://cloud.hownetwork.xyz/xxx/6d6735b94d6026012381a2a2f9a1c0da/8/480.m3u8
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%202013.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kWUTyIao0b8DxVrO6L0LnpJVYWV.jpg", New Police Story (2004)
+https://cloud.hownetwork.xyz/xxx/28bf99bdca1a3f9ec38818e523acf446/21/480.m3u8
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/New%20Police%20Story.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bRHbteT4IORJOXY0Qrnb4FPXRS0.jpg", Police Story 4: First Strike (1996)
+https://cloud.hownetwork.xyz/xxx/22e5e97f886093e560ccd4ea9a1df887/3/480.m3u8
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%204-%20First%20Strike.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wHeJWZDXegVEiBGBfnc7LGffuF6.jpg", Police Story 3: Super Cop (1992)
+https://cloud.hownetwork.xyz/xxx/1257ed9ddb3a8c5cec315008ee054957/21/480.m3u8
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%203-%20Super%20Cop.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kjq1FXtHh9i2sIuM0JaoYf43FDU.jpg", Police Story 2 (1988)
+https://cloud.hownetwork.xyz/xxx/23079279841dfddd40e0a50d1cb8ccdc/2/480.m3u8
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%202.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1eFB0Iy1TMU4VO5hMcoCE064JAT.jpg", Police Story (1985)
+https://cloud.hownetwork.xyz/xxx/c82d7871f1edc05c5628e8e468780b9e/4/480.m3u8
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%201.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9DOGlKfXWlnxAdOJHQzP3aRqt0.jpg" group-title="▶ VOD ASEAN",Unlocked (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/3778.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXGVc5a3sIFpER8oIZU3Bccv9HL.jpg" group-title="▶ VOD ASEAN",Ransomed (2023)
@@ -1525,20 +1557,6 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/A%20Man%20Ca
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/A%20Man%20Called%20Hero%20(1999).mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/6BNjjfdFJDGRF59nYNEb2i042xX.jpg", A Writers Odyssey 2021
 https://worker-kasyah.buntai.workers.dev/0:/movie/Asean/A%20Writers%20Odyssey.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/7032.jpg", Terbaik Dari Langit
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Terbaik%20Dari%20Langit.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwODUyNDM3NV5BMl5BanBnXkFtZTgwNzk0MzA2NTE@._V1_.jpg", Police Story: Lockdown
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%202013.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3280.jpg", New Police Story
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/New%20Police%20Story.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3266.jpg", Police Story 4: First Strike
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%204-%20First%20Strike.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3286.jpg", Police Story 3: Super Cop
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%203-%20Super%20Cop.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3285.jpg", Police Story 2
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%202.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3284.jpg", Police Story
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%201.mp4
 
 #EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sjPPBNhmq4fMS74xqMDSSpFet8q.jpg", Autumn Fairy Tale (2019)
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/autumn-fairy-tale-2019.mp4
@@ -2623,27 +2641,14 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 
 #######################################################################Vivamax########################################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=http://206.189.144.178/
-#EXTINF:-1 type="movie" tvg-logo="https://cdnupload.com/wp-content/uploads/2026/01/Piring-2026.jpg" group-title="Vivamax",Piring (2026)
-https://audinifer.com/stream/6VDaFyG8VO_Lp9zbUo3YVQ/kjhhiuahiuhgihdf/1772554485/67171378/index-v1-a1.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=http://206.189.144.178/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qdj5Unee712ffx9zJJz9G61tqLO.jpg" group-title="Vivamax",Exchange Gift (2026)
-https://hanerix.com/stream/dchPIuUoOomKKTgWYAwDuA/kjhhiuahiuhgihdf/1772554186/67109428/index-v1-a1.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=http://206.189.144.178/
 #EXTINF:-1 type="movie" tvg-logo="https://560pmovie.com/wp-content/uploads/Tubero-2026-240x300.webp" group-title="Vivamax",Tubero (2026)
-https://audinifer.com/stream/MSOKJGeRCAhZ9JTAyTS-dg/kjhhiuahiuhgihdf/1772553974/68258785/index-v1-a1.m3u8
-https://minochinos.com/stream/pI4KNffVlLZNy1mWSsTEyA/hjkrhuihghfvu/1772553915/37128419/index-f2-v1-a1.m3u8
+https://fs-529368.vincdn.net/stream/ee7ed4y7u335kj6/zSrQV5sTePdkAcPD9zQzTg/1772486966
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nEMXoQwportpJ1aqbEFHoa9htkO.jpg" group-title="Vivamax",Man Child (2025)
-https://hls.khflix.top/Man.Child/index.m3u8
+https://fs-529368.vincdn.net/stream/gg4j0pgxhddw63q/oYLYYcrZT6YtedJN7iBi2A/1772487306
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rKBjNAhLxYEJn5QXnUhk0j2gAcr.jpg" group-title="Vivamax",Starting Over Again (2025)
-https://hls.khflix.top/Starting.Over.Again/index.m3u8
+https://fs-f2e124.vincdn.net/stream/8gk4p77qcjj3vpv/16LfAxLQ3J4fP4N-gBn06Q/1772487495
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sr4sLilBbPx4TfPnX2zzUxlySgu.jpg" group-title="Vivamax",Sex Trip (2026)
 https://hls.khflix.top/Sex.Trip/index.m3u8
