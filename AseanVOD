@@ -3,6 +3,12 @@
 
 ######################################################################▶ VOD ASEAN######################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o0QqNbfO5YLcZs066RrRiph10zl.jpg" group-title="▶ VOD ASEAN",My Boo (2024)
+https://ops.larhu.website/hls/vxzxgrtkqoqfycihmtmpzvnvdswqlubnnzt3cwzanx3dsk3uf4bvnrsj7nma/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3EVZqugrpUY2RTRdQgKXgE3vZ8b.jpg" group-title="▶ VOD ASEAN",My Boo 2 (2025)
+https://ops.larhu.website/hls/vxzxgtlkqoqfycihmtmpzxpgjlig3h7l6q2v64wtau3qt4fmho3fpaw32zlq/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg" group-title="▶ VOD ASEAN",Pavane (2026)
 https://ops.larhu.website/hls/vxzxg52iqoqfycihmtlpzu5ycsjlxj3fjzp6f5yogb6fdenm73dacgxz3wra/index-v1-a1.m3u8
 
@@ -1692,6 +1698,69 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Two%20Face
 #EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w116_and_h174_face/q2pykzAIkvTHOE6YRuWgJRjvZss.jpg", Special Bodyguard 2
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Special%20Bodyguard%202%202020.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=9600801690819c8b2dc435cf6b92c0c8:48cc835384eda968f38c9a2285861f51
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fVR4xKZuw95n7BJBlkQdKsznKAF.jpg" group-title="▶ VOD ASEAN",Heart of Dragon
+https://cdnbp.vivamax.net/video/P02144_FF_FM_HEART%20OF%20DRAGON/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=36aeaa61d11078ad5579b3b9498263eb:c857457ef0f2b0e8797c9decb668f377
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iz1B8pscP6vbN4bOThHomBfiaBj.jpg" group-title="▶ VOD ASEAN",Detective Dee and Nine-story
+https://vivamax.secureswiftcontent.com/video/P02051_FF_FM_DETECTIVE%20DEE%20AND%20NINE-STORY%20DEMON%20BUILDING/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=765413e0116086e9a170a9d838bfa71a:bbbacd10b75d9ee71d734db746bec4a0
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pFYz5wFMBlksWTxIZV2JDSDgE7S.jpg" group-title="▶ VOD ASEAN",Golden Slumber
+https://cdnbp.vivamax.net/video/P01156_FF_FM_GOLDEN%20SLUMBER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=2aa96ac6b1df1af3409f31bb36c6ab19:ae43dbfa4ce63fabc2e05cefe7e22be4
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/52B4QXBjbt4khhHoqsqgkxtwrUK.jpg" group-title="▶ VOD ASEAN",Gods of Egypt
+https://vivamax.secureswiftcontent.com/video/P00672_FF_FM_GODS%20OF%20EGYPT/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=854a40923973c8f46523c513f68f0d51:01e97aca22dfe5d82d344625b798dfa5
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zQ71tuPqMJARxFXzaWFPEmPTKV8.jpg" group-title="▶ VOD ASEAN",FROM VEGAS TO MACAU 3
+https://vivamax.secureswiftcontent.com/video/P01985_FF_FM_FROM%20VEGAS%20TO%20MACAU%203/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=72fca1db4c9c12000dc4034eb5598ef5:00a09964b763b2a843d9503ed44f6bf2
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iv1hGQjD390UeH2unAoR6wAchBF.jpg" group-title="▶ VOD ASEAN",Rough Cut
+https://vivamax.secureswiftcontent.com/video/P02147_FF_FM_ROUGH%20CUT/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=8a1abc4eb9f47c6cefcd5733d18114de:229ce18f097bfd03cfb0c39143ff6193
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/W2tus8EwEagKCCCPqqocHEM9F2.jpg" group-title="▶ VOD ASEAN",The Closet
+https://vivamax.secureswiftcontent.com/video/P01187_FF_FM_THE%20CLOSET/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=41cfa70f33f89d82566b5603868070b3:edff2b8c9f54bddef3b6c8e8d244e2c0
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1hKUJ6YCVzlW9grBDoKps4KoDNE.jpg" group-title="▶ VOD ASEAN",The Princess and the Matchmaker
+https://vivamax.secureswiftcontent.com/video/P01243_FF_FM_THE%20PRINCESS%20AND%20THE%20MATCHMAKER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=77f654b95efc60a3f55c65fd0c59961c:4a160d26a95403fcc0ed2130f2dcba7a
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5PtlafpihSE4fm574A5WZbFmsIx.jpg" group-title="▶ VOD ASEAN",Glorious Day
+https://vivamax.secureswiftcontent.com/video/P01377_FF_FM_GLORIOUS%20DAYS/dash/hd.mpd
+
 #EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/nangnakposter.jpg" group-title="▶ VOD ASEAN",Nang Nak
 https://d13snj70thqlha.cloudfront.net/bc4db58a-7bc3-49b2-b1e2-50798628e43e/NangNakRTM20251028.m3u8?id=29955
 
@@ -2641,6 +2710,9 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 
 #######################################################################Vivamax########################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3vvQDvrzMPN8sc2n3hLOqrlusDS.jpg" group-title="Vivamax",Salvageland (2025)
+https://ops.larhu.website/hls/vxzxgklkqoqfycihmtmpzx53ico4qvvuc7rtg3fuvezhs7nks5pw6qolrska/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://560pmovie.com/wp-content/uploads/Tubero-2026-240x300.webp" group-title="Vivamax",Tubero (2026)
 https://fs-529368.vincdn.net/stream/ee7ed4y7u335kj6/zSrQV5sTePdkAcPD9zQzTg/1772486966
 
@@ -3375,70 +3447,6 @@ https://vivamax.secureswiftcontent.com/video/T97922_FF_LM_SILAKBO/dash/hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=5efa492013d7a32c13f67f43049cea93:b793405468eda87f2a013c6c4ebcf9cc
 #EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/honWOHWlu6b3oxYqgy0kWT5Q8br.jpg" group-title="Vivamax",Ben Delubyo
 https://vivamax.secureswiftcontent.com/video/T96002_FF_LM_BEN%20DELUBYO/dash/hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=9600801690819c8b2dc435cf6b92c0c8:48cc835384eda968f38c9a2285861f51
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fVR4xKZuw95n7BJBlkQdKsznKAF.jpg" group-title="Vivamax",Heart of Dragon
-https://cdnbp.vivamax.net/video/P02144_FF_FM_HEART%20OF%20DRAGON/dash/hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=36aeaa61d11078ad5579b3b9498263eb:c857457ef0f2b0e8797c9decb668f377
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iz1B8pscP6vbN4bOThHomBfiaBj.jpg" group-title="Vivamax",Detective Dee and Nine-story
-https://vivamax.secureswiftcontent.com/video/P02051_FF_FM_DETECTIVE%20DEE%20AND%20NINE-STORY%20DEMON%20BUILDING/dash/hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=765413e0116086e9a170a9d838bfa71a:bbbacd10b75d9ee71d734db746bec4a0
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pFYz5wFMBlksWTxIZV2JDSDgE7S.jpg" group-title="Vivamax",Golden Slumber
-https://cdnbp.vivamax.net/video/P01156_FF_FM_GOLDEN%20SLUMBER/dash/hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=2aa96ac6b1df1af3409f31bb36c6ab19:ae43dbfa4ce63fabc2e05cefe7e22be4
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/52B4QXBjbt4khhHoqsqgkxtwrUK.jpg" group-title="Vivamax",Gods of Egypt
-https://vivamax.secureswiftcontent.com/video/P00672_FF_FM_GODS%20OF%20EGYPT/dash/hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=854a40923973c8f46523c513f68f0d51:01e97aca22dfe5d82d344625b798dfa5
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zQ71tuPqMJARxFXzaWFPEmPTKV8.jpg" group-title="Vivamax",FROM VEGAS TO MACAU 3
-https://vivamax.secureswiftcontent.com/video/P01985_FF_FM_FROM%20VEGAS%20TO%20MACAU%203/dash/hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=72fca1db4c9c12000dc4034eb5598ef5:00a09964b763b2a843d9503ed44f6bf2
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iv1hGQjD390UeH2unAoR6wAchBF.jpg" group-title="Vivamax",Rough Cut
-https://vivamax.secureswiftcontent.com/video/P02147_FF_FM_ROUGH%20CUT/dash/hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=8a1abc4eb9f47c6cefcd5733d18114de:229ce18f097bfd03cfb0c39143ff6193
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/W2tus8EwEagKCCCPqqocHEM9F2.jpg" group-title="Vivamax",The Closet
-https://vivamax.secureswiftcontent.com/video/P01187_FF_FM_THE%20CLOSET/dash/hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=41cfa70f33f89d82566b5603868070b3:edff2b8c9f54bddef3b6c8e8d244e2c0
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1hKUJ6YCVzlW9grBDoKps4KoDNE.jpg" group-title="Vivamax",The Princess and the Matchmaker
-https://vivamax.secureswiftcontent.com/video/P01243_FF_FM_THE%20PRINCESS%20AND%20THE%20MATCHMAKER/dash/hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=77f654b95efc60a3f55c65fd0c59961c:4a160d26a95403fcc0ed2130f2dcba7a
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5PtlafpihSE4fm574A5WZbFmsIx.jpg" group-title="Vivamax",Glorious Day
-https://vivamax.secureswiftcontent.com/video/P01377_FF_FM_GLORIOUS%20DAYS/dash/hd.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
