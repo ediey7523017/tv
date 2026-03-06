@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://walpak1.github.io/epg/astro.xml,https://walpak1.github.io/epg/sooka.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/unifi.xml,https://walpak1.github.io/epg/starhub.xml,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroVOD,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="JJ EDIEY 87 Editor"
+#EXTM3U url-tvg="https://walpak1.github.io/epg/astro.xml,https://walpak1.github.io/epg/sooka.xml,https://walpak1.github.io/epg/unifi.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/starhub.xml,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroVOD,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="JJ EDIEY 87 Editor"
 
 
 ###################################################################Astro###############################################################
@@ -64,7 +64,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41GhCG_cXZSEFqsQJM6LtwUrPtQ_8FGPuHOdndrOMMmvc=67gt/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41GhCG_cXZSEFqsQJM6LtwUh79ODeeLWFfh4AMtYefnlM=v4kU/dash-wv/jitp-linearwm/1004/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="104.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria HD
@@ -77,7 +77,7 @@ https://load.perfecttv.net/mpd/ria/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41DPQCEKYk_f0aX1ZW_kzpK8Kn23RssXfD1-dO4LlSwmQ=XMYp/dash-wv/jitp-dashisowm/1000/default_primary.mpd?aws.sessionId=eaba9eaa-b67c-4851-8114-68b0e0f95d52
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41DPQCEKYk_f0aX1ZW_kzpK4g624o-k_IHG-HXH8fx4ms=JwDa/dash-wv/jitp-dashisowm/1000/default_primary.mpd?aws.sessionId=a22c7e66-1894-4a74-a8e5-1232b3db4295
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima HD
@@ -96,7 +96,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41G0FipZDtuE4vEyYamzPyVK5AtUV7yDUapbX0cCkIpaI=ieAH/dash-wv/jitp-dashisowm/2700/default_primary.mpd?aws.sessionId=72b91080-3378-40a2-9981-0d02a447e1d5
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41G0FipZDtuE4vEyYamzPyVJxljgF17AR0rzHCY5jwD_4=S1ns/dash-wv/jitp-dashisowm/2700/default_primary.mpd?aws.sessionId=47a99549-b5ca-470d-835b-9b268548bca9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-id="108.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra HD
@@ -109,7 +109,7 @@ https://get.perfecttv.net/citra/citra.mpd?username=vip_3klp0es8&password=wg3piwE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://0c9704d594f84b209c42ee0ae4015752.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH6-dash/vsg/41a_BZSAOunPDEI2VrJ4KzbZ8CbURY_h6TcTnLzFt2nrw=WRWR/dash-wv/jitp-dashisowm/608/default_primary.mpd?aws.sessionId=6861fece-b655-4902-9bce-f6e9198a3dd1
+https://0c9704d594f84b209c42ee0ae4015752.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH6-dash/vsg/41a_BZSAOunPDEI2VrJ4KzbUg2yygvG_4dlLPCxID6fto=hKQi/dash-wv/jitp-dashisowm/608/default_primary.mpd?aws.sessionId=e5b553e0-87c7-4c28-a0d6-4a85ee039bba
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 #EXTINF:-1 tvg-id="112.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania HD
@@ -122,7 +122,7 @@ https://load.perfecttv.net/mpd/rania/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://464672d5a59d4c4298eb0a9e7ce0e3d9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH7-dash/vsg/41YMijYE7IL9m7HLda2X9OalhianwDskPWwd4MqILU7Xs=QQfA/dash-wv/jitp-dashisowm/609/default_primary.mpd?aws.sessionId=9a6515b6-bfe0-4fcc-a9f7-1e8f63d234ff
+https://464672d5a59d4c4298eb0a9e7ce0e3d9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH7-dash/vsg/41YMijYE7IL9m7HLda2X9OanaCznsphIOK2Scm4qQTlBg=XZn7/dash-wv/jitp-dashisowm/609/default_primary.mpd?aws.sessionId=fa311a16-2c4b-4740-bc4a-2894c00b7a37
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #EXTINF:-1 tvg-id="113.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura HD
@@ -1114,7 +1114,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://07111473bdd34b7f97104ca06d6e5501.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH14-dash/vsg/41VgwjgC31dtKU2ekhreMLu8pWesfdTsthqM5QJF96ODA=zIG6/dash-wv/jitp-dashisowm/2507/default_primary.mpd?aws.sessionId=8c9c323b-1b54-4c84-a57a-60379915177c
+https://07111473bdd34b7f97104ca06d6e5501.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH14-dash/vsg/41VgwjgC31dtKU2ekhreMLuzIEN0wpzFGaP6eOmnJhpks=ifrU/dash-wv/jitp-dashisowm/2507/default_primary.mpd?aws.sessionId=f55f94a3-b4b1-4899-9649-7cd87635050b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
 #EXTINF:-1 tvg-id="309.astro" group-title="Chinese" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png",309 Celestial Movies HD
@@ -1256,7 +1256,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="404.astro" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png",404 Astro Boo
-https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41FhkL5jLnyUehRCRQ1mLcHPqzitpKTI6PSHlCXl6mTWU=-Hdx/dash-wv/jitp-dashisowm/2407/default_primary.mpd?aws.sessionId=37cbd85e-a034-4a1e-9675-decc750d3b72
+https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41FhkL5jLnyUehRCRQ1mLcHFUPy7q7DQ8JkcwSYF2oHt8=9H63/dash-wv/jitp-dashisowm/2407/default_primary.mpd?aws.sessionId=5246b716-45ee-41d4-9af2-aa12494efff5
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 #EXTINF:-1 tvg-id="404.astro" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png",404 Astro Boo HD
@@ -1305,19 +1305,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
 
+#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:Referer=https://www.indihometv.com
+#EXTVLCOPT:Origin=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
 #EXTINF:-1 tvg-id="hbohd" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
-
-#EXTINF:-1 tvg-id="cinemax" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
 
 #EXTINF:-1 tvg-id="hbofamily" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1333,12 +1333,12 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
 
-#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO Signature
+#EXTINF:-1 tvg-id="cinemax" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:Referer=https://www.indihometv.com
-#EXTVLCOPT:Origin=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
@@ -1596,7 +1596,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41ELfGK_hdZEzQ67urqA3kS1UbCC0sAXTNs_O487bZ8-U=smPw/dash-wv/jitp-linearwm/2606/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41ELfGK_hdZEzQ67urqA3kS1xj78SFzUANWuoCZHtone0=z7RI/dash-wv/jitp-linearwm/2606/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #EXTINF:-1 tvg-id="611.astro" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",611 Astro Ceria HD
@@ -1791,7 +1791,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/413uHf5EPdDQxbZfR8YjnSE2CuJJj18P5iVaK8WxzdJuA=s_lS/dash-wv/jitp-dashisowm/5099/default_primary.mpd?aws.sessionId=a39b1bfb-f049-4a70-b37f-cfcea40b044f
+https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/413uHf5EPdDQxbZfR8YjnSE7eX9fIkJYrzHGnuWoL2sm8=9smA/dash-wv/jitp-dashisowm/5099/default_primary.mpd?aws.sessionId=bec75bfc-1ce5-4f8f-b771-85da0656580d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 
 #EXTINF:-1 tvg-id="803.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title="Sports",803 Astro Arena Bola HD
@@ -1804,7 +1804,7 @@ https://load.perfecttv.net/mpd/bola1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41OlknB7uRtQVJLuqZ8ponPMcMqkMCvdjsSsOuPvFYe0c=PE-I/dash-wv/jitp-linearwm/5100/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41OlknB7uRtQVJLuqZ8ponPPGqXRb4npH0aOoYFNSLscI=q2WJ/dash-wv/jitp-linearwm/5100/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="Sports",804 Astro Arena Bola 2 HD
