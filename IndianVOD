@@ -223,6 +223,16 @@ https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil29/Tashan
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/soRW3p4GlPphHiFkwbqYGrodQ5S.jpg" group-title="▶ VOD BOLLYWOOD",Bhool Bhulaiyaa (2007)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/tamil36/Bhool%20Bhulaiyaa%20(2007).mp4
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg" group-title="▶ VOD BOLLYWOOD",Bhool Bhulaiyaa 2 (2022)
+https://cloud.hownetwork.xyz/xxx/2cad82c2064e64f3a823134fa73c6137/5/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3AfHD1HoaQpQwKH8kxRdBKVmzeU.jpg" group-title="▶ VOD BOLLYWOOD",Bhool Bhulaiyaa 3 (2024)
+https://cloud.hownetwork.xyz/xxx/0c7bb72b8743dbf0bc5fccd9b5a7e5cb/26/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tBkCntLUWwZ0kXDE1DlZBlvLbsK.jpg" group-title="▶ VOD BOLLYWOOD",Singh Is Bliing (2015)
 https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTgzMzNf?temp_key=J%29%E0%87m%08%B3m%01%96%28%A7%83m6%D3%5Ef%A7&inline=1
 
