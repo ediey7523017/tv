@@ -350,13 +350,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/lcqxls.png" group-title="MYTV Mana-Mana",Rock Entertainment
+#EXTINF:-1 tvg-id="ROCK ENT (HD)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/lcqxls.png" group-title="MYTV Mana-Mana",Rock Entertainment
 https://slive.mana2.my/RockEntertainment/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/kijdpg.png" group-title="MYTV Mana-Mana",Rock Action
+#EXTINF:-1 tvg-id="ROCK Action (HD)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/kijdpg.png" group-title="MYTV Mana-Mana",Rock Action
 https://slive.mana2.my/RockAction/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -386,7 +386,7 @@ https://slive.mana2.my/Kcm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/qukgom.png" group-title="MYTV Mana-Mana",Global Trekker
+#EXTINF:-1 tvg-id="Global Trekker (HD)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/qukgom.png" group-title="MYTV Mana-Mana",Global Trekker
 https://slive.mana2.my/GlobalTrekker/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1563,7 +1563,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5119/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="News & Documentary",Global Trekker
+#EXTINF:-1 tvg-id="Global Trekker (HD)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="News & Documentary",Global Trekker
 https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTrekkerHD.mpd
 
 #EXTINF:-1 tvg-id="Animal Planet (HD)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="News & Documentary",Animal Planet
