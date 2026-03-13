@@ -9,6 +9,16 @@
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ivBI8FRQPIKzoZAryZK93xriOT.jpg" group-title="▶ VOD ASEAN",Once We Were Us (2025)
 https://cloud.hownetwork.xyz/xxx/LRYqK2gOEmw3Ilp-cwJjdRU9CwoJJi8eezRCLycEYDw/39/480.m3u8
 
+#EXTVLCOPT:http-referrer=http://165.232.164.206/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5nGRaQV5MoVs2AGUP3qyf3BXuuz.jpg" group-title="▶ VOD ASEAN",Love Affair (2014)
+https://callistanise.com/stream/G18cbWod_nbnR4kHrIq9Mw/hjkrhuihghfvu/1773460677/33310138/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/x92ZefuXdXcqN3Dtluew76gOMb1.jpg" group-title="▶ VOD ASEAN",Sister (2026)
+https://hls.khflix.top/Sister%20(2026)/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zfMh6hJt9tv25rE0HMhlEpekQTa.jpg" group-title="▶ VOD ASEAN",The Informant (2025)
+https://hls.khflix.top/The%20Informant%20(2025)/index.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o0QqNbfO5YLcZs066RrRiph10zl.jpg" group-title="▶ VOD ASEAN",My Boo (2024)
 https://ops.larhu.website/hls/vxzxgrtkqoqfycihmtmpzvnvdswqlubnnzt3cwzanx3dsk3uf4bvnrsj7nma/index-v1-a1.m3u8
 
@@ -2778,17 +2788,26 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 
 #######################################################################Vivamax########################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5lVYe4aSimWdxJINKwq9s68TZ2G.jpg" group-title="Vivamax",Abot Langit (2026)
+https://hls.khflix.top/Abot%20Langit%202026/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/weIJziwvVckj739XVmqwQRRyg4k.jpg" group-title="Vivamax",Panibugho (2023)
+https://hls.khflix.top/Panibugho.2023/index.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2neZgVuY7prWIak5hhNKT53Hk0N.jpg" group-title="Vivamax",Sundutan (2026)
 https://hls.khflix.top/Sundutan.2026/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=http://165.232.164.206/
 #EXTINF:-1 type="movie" tvg-logo="https://560pmovie.com/wp-content/uploads/Tubero-2026-240x300.webp" group-title="Vivamax",Tubero (2026)
-https://fs-529368.vincdn.net/stream/ee7ed4y7u335kj6/zSrQV5sTePdkAcPD9zQzTg/1772486966
+https://vibuxer.com/stream/NNFaR_bAJNGN36ywM6DReA/kjhhiuahiuhgihdf/1773460514/68258785/index-v1-a1.m3u8
+https://minochinos.com/stream/_GduaqRGsv8lGYOtBn5lXA/hjkrhuihghfvu/1773460433/37128419/index-f1-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nEMXoQwportpJ1aqbEFHoa9htkO.jpg" group-title="Vivamax",Man Child (2025)
-https://fs-529368.vincdn.net/stream/gg4j0pgxhddw63q/oYLYYcrZT6YtedJN7iBi2A/1772487306
+https://hls.khflix.top/Man.Child/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rKBjNAhLxYEJn5QXnUhk0j2gAcr.jpg" group-title="Vivamax",Starting Over Again (2025)
-https://fs-f2e124.vincdn.net/stream/8gk4p77qcjj3vpv/16LfAxLQ3J4fP4N-gBn06Q/1772487495
+https://hls.khflix.top/Starting.Over.Again/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jsWZqU9qtCOdBNoeU7u29D0yet0.jpg" group-title="Vivamax",Reroute (2022)
 https://hls.khflix.top/Reroute/index.m3u8
