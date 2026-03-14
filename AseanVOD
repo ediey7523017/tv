@@ -6,8 +6,26 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oBsnMMFoELfqQ445Uvr2oWxm6mT.jpg" group-title="▶ VOD ASEAN",Love in the Big City (2024)
+https://cloud.hownetwork.xyz/xxx/Lhc_K2gbHiZvMh44Oh1kaHBMZBkAOzMNHQkoLyYAN2AhGi8/40/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ivBI8FRQPIKzoZAryZK93xriOT.jpg" group-title="▶ VOD ASEAN",Once We Were Us (2025)
 https://cloud.hownetwork.xyz/xxx/LRYqK2gOEmw3Ilp-cwJjdRU9CwoJJi8eezRCLycEYDw/39/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zfMh6hJt9tv25rE0HMhlEpekQTa.jpg" group-title="▶ VOD ASEAN",The Informant (2025)
+https://cloud.hownetwork.xyz/xxx/KB0mICIbGDYtP1olLVY5Ki8ZJzpoS0dzd3wgCQF0GgcaJ3gvdUtDcyEz/40/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/IPyXuP15FKQ6aECKeN9dl2t81l.jpg" group-title="▶ VOD ASEAN",Hopeless (2023)
+https://ops.larhu.website/hls/vxzxhvlzqoqfycihmtm7zs5ecixeikkut26ztcsyqm7wmge4whdluhrt24ba/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5OHb8GVFrLnQa6vfDZhfAtQ4Yju.jpg" group-title="▶ VOD ASEAN",Boy in the Pool (2025)
+https://ops.larhu.website/hls/vxzxhxkqqoqfycihmtmpzxfddv3ib7jcj2zbpmvpgt4gqhyn7kapcqxboxbq/index-v1-a1.m3u8
 
 #EXTVLCOPT:http-referrer=http://165.232.164.206/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5nGRaQV5MoVs2AGUP3qyf3BXuuz.jpg" group-title="▶ VOD ASEAN",Love Affair (2014)
@@ -15,9 +33,6 @@ https://callistanise.com/stream/G18cbWod_nbnR4kHrIq9Mw/hjkrhuihghfvu/1773460677/
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/x92ZefuXdXcqN3Dtluew76gOMb1.jpg" group-title="▶ VOD ASEAN",Sister (2026)
 https://hls.khflix.top/Sister%20(2026)/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zfMh6hJt9tv25rE0HMhlEpekQTa.jpg" group-title="▶ VOD ASEAN",The Informant (2025)
-https://hls.khflix.top/The%20Informant%20(2025)/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o0QqNbfO5YLcZs066RrRiph10zl.jpg" group-title="▶ VOD ASEAN",My Boo (2024)
 https://ops.larhu.website/hls/vxzxgrtkqoqfycihmtmpzvnvdswqlubnnzt3cwzanx3dsk3uf4bvnrsj7nma/index-v1-a1.m3u8
