@@ -311,6 +311,7 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV5ENJOYTV.mana2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png/revision/latest?cb=20230717140509" group-title="MYTV Mana-Mana",TV5 Enjoy TV
+https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/0ad9777870ff694694c1c2d2e0f907e1eef8dd5e/EnjoyTV5.m3u8
 https://get.perfecttv.net/mytv.m3u8?channel=tv5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
