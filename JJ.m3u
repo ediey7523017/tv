@@ -349,19 +349,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ROCK ENT (HD)" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/689ab4d12af2554b2b422dfb_logo_ent_red_web.webp" group-title="MYTV Mana-Mana",Rock Entertainment
+#EXTINF:-1 tvg-id="ROCK ENT (HD)" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/689ab4d12af2554b2b422dfb_logo_ent_red_web.webp" group-title="MYTV Mana-Mana",ROCK Entertainment
 https://slive.mana2.my/RockEntertainment/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ROCK Action (HD)" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.webp" group-title="MYTV Mana-Mana",Rock Action
+#EXTINF:-1 tvg-id="ROCK Action (HD)" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.webp" group-title="MYTV Mana-Mana",ROCK Action
 https://slive.mana2.my/RockAction/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ONEHD.sg" tvg-logo="i.ibb.co/m5VPQ4r8/ONe.png" group-title="MYTV Mana-Mana",One
+#EXTINF:-1 tvg-id="ONEHD.sg" tvg-logo="https://i.ibb.co/m5VPQ4r8/ONe.png" group-title="MYTV Mana-Mana",ONe
 https://slive.mana2.my/OneHD/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
