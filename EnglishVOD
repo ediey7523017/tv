@@ -3,6 +3,9 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://play.hbomax.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/epGF8vv3caKLm6X8PKbD5xirFLa.jpg",The Alto Knights (2025)
 https://marginfull.github.io/live/maxx/altoknight.mpd
 
