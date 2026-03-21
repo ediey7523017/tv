@@ -3333,6 +3333,12 @@ https://cloud.hownetwork.xyz/xxx/MhAoIDEWGmwuMAA1JkJ7KycZOiErVEZsJyEePyxUM3VzVXt
 #EXTINF:-1 type="series" group-title="NETFLIX SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/j3w0uZi4THuRh1JB8gF452mRLq7.jpg", Phantom Lawyer (2026) E02
 https://cloud.hownetwork.xyz/xxx/MhAoIDEWGmwuMAA1JkJ7KycZOiErVEZsJyEePyxUM3VwVXt-d09aFgcTMwAcaAk5c0grKidKRQ/40/480.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="series" group-title="NETFLIX SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/j3w0uZi4THuRh1JB8gF452mRLq7.jpg", Phantom Lawyer (2026) E03
+https://cloud.hownetwork.xyz/xxx/MhAoIDEWGmwuMAA1JkJ7KycZOiErVEZsJyEePyxUM3VxVXt-d09aFgcTMwAcaAloIRx7LHUcFQ/40/480.m3u8
+
 
 ######################################################### The Art of Sarah (2026) ############################################################
 
