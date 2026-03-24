@@ -359,25 +359,25 @@ https://slive.mana2.my/RockAction/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ONEHD.sg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/chzyek.png" group-title="MYTV Mana-Mana",One HD
+#EXTINF:-1 tvg-id="ONEHD.sg" tvg-logo="https://i.ibb.co/m5VPQ4r8/ONe.png" group-title="MYTV Mana-Mana",ONE
 https://slive.mana2.my/OneHD/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="DRAMACHANNEL.mana2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/zbxljv.png" group-title="MYTV Mana-Mana",Drama Channel
+#EXTINF:-1 tvg-id="DRAMACHANNEL.mana2" tvg-logo="https://i.ibb.co/20rWSWgy/Logo-Drama-Channel.png" group-title="MYTV Mana-Mana",Drama Channel
 https://slive.mana2.my/DramaChannel/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="SPOTVNOW.mana2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/bzjpmo.png" group-title="MYTV Mana-Mana",SPOTVNOW
+#EXTINF:-1 tvg-id="SPOTVNOW.mana2" tvg-logo="https://activate.unifi.com.my/authsv/images/logo/spotv.png" group-title="MYTV Mana-Mana",SPOTVNOW
 https://slive.mana2.my/SpotvNow/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="KCM" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/vlepmq.png" group-title="MYTV Mana-Mana",KCM
+#EXTINF:-1 tvg-id="KCM" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cbaa299e86c19437494d87d1e26ff4bb.png" group-title="MYTV Mana-Mana",KCM
 https://slive.mana2.my/Kcm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -389,7 +389,7 @@ https://slive.mana2.my/GlobalTrekker/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ANIPLUS.mana2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/dqyqfh.png" group-title="MYTV Mana-Mana",AniPlus
+#EXTINF:-1 tvg-id="ANIPLUS.mana2" tvg-logo="https://www.anipluscafe.com/vanitas/wp-content/uploads/2019/11/logo-white.png" group-title="MYTV Mana-Mana",AniPlus
 https://slive.mana2.my/AniPlus/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1586,13 +1586,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="DreamWorksHD.sg" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png",Dreamworks HD
+#EXTINF:-1 tvg-id="DreamWorksHD.sg" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=272",Dreamworks HD
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AnimaxHD.sg" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png" group-title="Kids",Animax HD
+#EXTINF:-1 tvg-id="AnimaxHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png?w=272" group-title="Kids",Animax HD
 https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1766,14 +1766,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l3UAHnmT7Qc_w_g7_Fkzfg","kid":"xOX10xEdSy5BDXmfuFz3EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=epl1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5182/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=epl1
 https://load.perfecttv.net/mpd/epl1/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2
