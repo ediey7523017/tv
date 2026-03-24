@@ -5,6 +5,11 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bH4aCEYqF6JMAlfulFmmG0pSN8.jpg" group-title="▶ VOD BOLLYWOOD",Aankhon Ki Gustaakhiyan (2025)
+https://cloud.hownetwork.xyz/xxx/IxknJS0WGWwpOForNkMiOSMTISc8GBlscGFFeW5nExoGNBYWGk9FdXFiEX4l/40/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jytZfJtjJnw7Yn2zW52wcbPYVXQ.jpg" group-title="▶ VOD BOLLYWOOD",Tanvi the Great (2025)
 https://cloud.hownetwork.xyz/xxx/NhknOCxUEDMnMANhcQBkbW8vDAwBNSgZHTdDKXMIMzkh/39/480.m3u8
 
@@ -703,10 +708,13 @@ https://drive.usercontent.google.com/download?id=1Vu4vz_fburffZ3zM6BIJWQhRm8fViy
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGIwYTc5NTgtNjE4ZC00MmM4LWExMWMtYmQxMzkwZGZhNzIwXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD BOLLYWOOD",Stree (2018)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2xLDWr72Wxc1JGmbxza2V8g26YH.jpg" group-title="▶ VOD BOLLYWOOD",Stree (2018)
 https://cloud.hownetwork.xyz/xxx/cf1a9337d9ff9d5d0a2a43b09be327d2/11/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/19805.jpg" group-title="▶ VOD BOLLYWOOD",Stree 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2NC7sj8rheKxWqLYAbHnCa4mYBH.jpg" group-title="▶ VOD BOLLYWOOD",Stree 2 (2024)
+https://cloud.hownetwork.xyz/xxx/MQw7KyBURWwxMAUnIkQzdSkZZC8kDRYvKXxFfHEEew8HOg0CGiEoI3JpES10VWQ/40/480.m3u8
 https://web.opendrive.com/api/v1/download/file.json/NDZfODQyNDQ1Njdf?temp_key=J%DA%DE%7Bm6%DBM%BC%DBM%B8%DB%D9%A9&inline=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -1951,6 +1959,16 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 ######################################################################▶ VOD INDIA#########################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jFBu7tS0mlEZwYTkjJcKH48bV4m.jpg" group-title="▶ VOD INDIA",Nari Nari Naduma Murari (2026) 
+https://cloud.hownetwork.xyz/xxx/LBk7J2gXFjMrfBktJ0U7OW8VPDwkCx5scGFFem5nExoGNBYWGktPcCEyEX16/39/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/j6M2odS1RqGEUPKirIvB1VZ9i6Y.jpg" group-title="▶ VOD INDIA",Hridayapoorvam (2025)
+https://cloud.hownetwork.xyz/xxx/KgogKiQAFjEtPgU6Il17anJKfGMSPDUFDg4vE3oIZGp7GX0o/40/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/upUB6qQVrAQ3jUUSUkDFOfGFdQn.jpg" group-title="▶ VOD INDIA",Lockdown (2026)
 https://ops.larhu.website/hls/vxzxgktuqoqfycihmtm7zx5rdaqxzvzpxuve2vo7gmdw5mj23r2ob7hy7eha/index-v1-a1.m3u8
 
@@ -1997,11 +2015,6 @@ https://ops.larhu.website/hls/vxzxhanyqoqfycihmtlpzufbby3jgnvzroeeqy4cbz35hrw7is
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg" group-title="▶ VOD INDIA",The Rajasaab (2026)
 https://ops.larhu.website/hls/vxzxgr5sqoqfycihmtlpzwndjloed332hyyzqhi72q7cmlinsnq5yi2n4sxa/index-v1-a1.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jFBu7tS0mlEZwYTkjJcKH48bV4m.jpg" group-title="▶ VOD INDIA",Nari Nari Naduma Murari (2026) 
-https://cloud.hownetwork.xyz/xxx/LBk7J2gXFjMrfBktJ0U7OW8VPDwkCx5scGFFem5nExoGNBYWGktPcCEyEX16/39/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6DoLxt1LLXcBuNeByHsSGLiAB0L.jpg" group-title="▶ VOD INDIA",Dude (2025)
 https://www.dropbox.com/scl/fi/bfgb0ipjlam4ikst2h8um/Dude-2025.mp4?rlkey=m04hlc12ieig61jrnprp5r7ip&st=3m15nxge&dl=1
