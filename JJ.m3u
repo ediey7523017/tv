@@ -282,12 +282,12 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TV1.mana2" group-title="MYTV Mana-Mana" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/mytv/images/mytv-manatv-logo.png",TV1
+#EXTINF:-1 tvg-id="TV1" group-title="MYTV Mana-Mana" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/mytv/images/mytv-manatv-logo.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TV2.mana2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-title="MYTV Mana-Mana",TV2
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-title="MYTV Mana-Mana",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -347,19 +347,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ROCKEntertainmentHD.sg" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/689ab4d12af2554b2b422dfb_logo_ent_red_web.webp" group-title="MYTV Mana-Mana",ROCK Entertainment
+#EXTINF:-1 tvg-id="ROCKENTERTAINMENT.mana2" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/689ab4d12af2554b2b422dfb_logo_ent_red_web.webp" group-title="MYTV Mana-Mana",ROCK Entertainment
 https://slive.mana2.my/RockEntertainment/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.webp" group-title="MYTV Mana-Mana",ROCK Action
+#EXTINF:-1 tvg-id="ROCKACTION.mana2" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.webp" group-title="MYTV Mana-Mana",ROCK Action
 https://slive.mana2.my/RockAction/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ONEHD.sg" tvg-logo="https://i.ibb.co/m5VPQ4r8/ONe.png" group-title="MYTV Mana-Mana",ONE
+#EXTINF:-1 tvg-id="ONEHD.mana2" tvg-logo="https://i.ibb.co/m5VPQ4r8/ONe.png" group-title="MYTV Mana-Mana",ONE HD
 https://slive.mana2.my/OneHD/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -377,13 +377,13 @@ https://slive.mana2.my/SpotvNow/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="KCM" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cbaa299e86c19437494d87d1e26ff4bb.png" group-title="MYTV Mana-Mana",KCM
+#EXTINF:-1 tvg-id="KCM.mana2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cbaa299e86c19437494d87d1e26ff4bb.png" group-title="MYTV Mana-Mana",KCM
 https://slive.mana2.my/Kcm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="Global Trekker HD - [Channel 462].id" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb131_logo_gt_web.webp" group-title="MYTV Mana-Mana",Global Trekker
+#EXTINF:-1 tvg-id="GLOBALTREKKER.mana2" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb131_logo_gt_web.webp" group-title="MYTV Mana-Mana",Global Trekker
 https://slive.mana2.my/GlobalTrekker/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -395,7 +395,7 @@ https://slive.mana2.my/AniPlus/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bbbbb_logo_ZM_web_crop.webp" group-title="MYTV Mana-Mana",Zoomoo
+#EXTINF:-1 tvg-id="ZOOMOO.mana2" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bbbbb_logo_ZM_web_crop.webp" group-title="MYTV Mana-Mana",Zoomoo
 https://slive.mana2.my/ZooMoo/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
