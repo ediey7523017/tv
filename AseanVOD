@@ -2415,8 +2415,6 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=575
 
 
-
-
 #####################################################################▶ VOD VIU##################################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/204393941/eb24bf06559f6833b9d6e413b49abedb94993779" group-title="▶ VOD VIU", Love Clinique 
@@ -2821,6 +2819,92 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 
 #######################################################################Vivamax########################################################################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E01
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E01%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E02
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E02%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E03
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E03%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E04
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E04%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E05
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E05%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E06
+https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E06%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aW3Um3Zza4T3CQPSY4Cf7nGfO1p.jpg" group-title="Vivamax",L (2022) E01
+https://media-eu.cloudbox.ph/bibamax/L%20S01e01%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aW3Um3Zza4T3CQPSY4Cf7nGfO1p.jpg" group-title="Vivamax",L (2022) E02
+https://media-eu.cloudbox.ph/bibamax/L%20S01e02%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aW3Um3Zza4T3CQPSY4Cf7nGfO1p.jpg" group-title="Vivamax",L (2022) E03
+https://media-eu.cloudbox.ph/bibamax/L%20S01e03%20(2022)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n129IC6sf046sCWZgXsa2DMRxSO.jpg" group-title="Vivamax",Sex Hub (2023) E01
+https://media-eu.cloudbox.ph/bibamax/Sex%20Hub%20S01e01%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n129IC6sf046sCWZgXsa2DMRxSO.jpg" group-title="Vivamax",Sex Hub (2023) E02
+https://media-eu.cloudbox.ph/bibamax/Sex%20Hub%20S01e02%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n129IC6sf046sCWZgXsa2DMRxSO.jpg" group-title="Vivamax",Sex Hub (2023) E03
+https://media-eu.cloudbox.ph/bibamax/Sex%20Hub%20S01e03%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n129IC6sf046sCWZgXsa2DMRxSO.jpg" group-title="Vivamax",Sex Hub (2023) E04
+https://media-eu.cloudbox.ph/bibamax/Sex%20Hub%20S01e04%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="Vivamax",Araro (2023) E01
+https://media-eu.cloudbox.ph/bibamax/Araro%20S01e01%20(2023)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="Vivamax",Araro (2023) E02
+https://media-eu.cloudbox.ph/bibamax/Araro%20S01e02%20(2023)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="Vivamax",Araro (2023) E03
+https://media-eu.cloudbox.ph/bibamax/Araro%20S01e03%20(2023)%20-%20720p.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://bibamax.ph/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="Vivamax",Araro (2023) E04
+https://media-eu.cloudbox.ph/bibamax/Araro%20S01e04%20(2023)%20-%20720p.mp4
+
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/khAUrymJdEeE17mU1BOOHIcdLH4.jpg" group-title="Vivamax",Summer (2023)
 https://1a-1791.com/video/fww1/d1/s8/2/v/4/P/M/v4PMy.aaa.mp4
 
@@ -3063,91 +3147,6 @@ https://media-eu.cloudbox.ph/bibamax/Afam%20(2023)%20-%20720p.mp4
 #EXTVLCOPT:http-referrer=https://bibamax.ph/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qYy3wEFzbhiqX3SUF27Bvo1ptLn.jpg" group-title="Vivamax",X-Deal 2 (2022)
 https://media-eu.cloudbox.ph/bibamax/Xdeal%202%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E01
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E01%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E02
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E02%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E03
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E03%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E04
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E04%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E05
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E05%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yhJaIGdzHynOfrBHcbby6rRTgw9.jpg" group-title="Vivamax",Lovely Ladies Dormitory E06
-https://media-eu.cloudbox.ph/bibamax/Lovely%20Ladies%20Dormitory%20S01%20E06%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aW3Um3Zza4T3CQPSY4Cf7nGfO1p.jpg" group-title="Vivamax",L (2022) E01
-https://media-eu.cloudbox.ph/bibamax/L%20S01e01%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aW3Um3Zza4T3CQPSY4Cf7nGfO1p.jpg" group-title="Vivamax",L (2022) E02
-https://media-eu.cloudbox.ph/bibamax/L%20S01e02%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aW3Um3Zza4T3CQPSY4Cf7nGfO1p.jpg" group-title="Vivamax",L (2022) E03
-https://media-eu.cloudbox.ph/bibamax/L%20S01e03%20(2022)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n129IC6sf046sCWZgXsa2DMRxSO.jpg" group-title="Vivamax",Sex Hub (2023) E01
-https://media-eu.cloudbox.ph/bibamax/Sex%20Hub%20S01e01%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n129IC6sf046sCWZgXsa2DMRxSO.jpg" group-title="Vivamax",Sex Hub (2023) E02
-https://media-eu.cloudbox.ph/bibamax/Sex%20Hub%20S01e02%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n129IC6sf046sCWZgXsa2DMRxSO.jpg" group-title="Vivamax",Sex Hub (2023) E03
-https://media-eu.cloudbox.ph/bibamax/Sex%20Hub%20S01e03%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n129IC6sf046sCWZgXsa2DMRxSO.jpg" group-title="Vivamax",Sex Hub (2023) E04
-https://media-eu.cloudbox.ph/bibamax/Sex%20Hub%20S01e04%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="Vivamax",Araro (2023) E01
-https://media-eu.cloudbox.ph/bibamax/Araro%20S01e01%20(2023)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="Vivamax",Araro (2023) E02
-https://media-eu.cloudbox.ph/bibamax/Araro%20S01e02%20(2023)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="Vivamax",Araro (2023) E03
-https://media-eu.cloudbox.ph/bibamax/Araro%20S01e03%20(2023)%20-%20720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://bibamax.ph/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="Vivamax",Araro (2023) E04
-https://media-eu.cloudbox.ph/bibamax/Araro%20S01e04%20(2023)%20-%20720p.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://bibamax.ph/
