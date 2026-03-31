@@ -2910,6 +2910,14 @@ https://media-eu.cloudbox.ph/bibamax/Araro%20S01e03%20(2023)%20-%20720p.mp4
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/r2zkLi1G9RLWYvJdFV6Hiv3PZGA.jpg" group-title="Vivamax",Araro (2023) E04
 https://media-eu.cloudbox.ph/bibamax/Araro%20S01e04%20(2023)%20-%20720p.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lhgGvrHkwu9mtNeAhzaG828boH4.jpg" group-title="Vivamax",Scorpio Nights 4 (2026)
+https://hls.khflix.top/Scorpio%20Nights%204%20(2026)/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/03/MV5BMzUxNGRmYWItMDZjMC00OTcwLThhNDAtYjk0MDhjZmIxZjEyXkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg" group-title="Vivamax",Maid's Obsession (2026)
+https://hls.khflix.top/Maids%20Obsession%20(2026)/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pJiNDWSEguOY8m5x2vbgnl9DPme.jpg" group-title="Vivamax",Tuklas (2026)
+https://hls.khflix.top/Tuklas.2026/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/khAUrymJdEeE17mU1BOOHIcdLH4.jpg" group-title="Vivamax",Summer (2023)
 https://1a-1791.com/video/fww1/d1/s8/2/v/4/P/M/v4PMy.aaa.mp4
@@ -2924,9 +2932,23 @@ https://hls.khflix.top/Panibugho.2023/index.m3u8
 https://hls.khflix.top/Sundutan.2026/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=http://165.232.164.206/
+#EXTVLCOPT:http-referrer=http://217.76.53.139/
+#EXTINF:-1 type="movie" tvg-logo="hhttp://217.76.53.139/wp-content/uploads/2026/03/Tinuhog2026-170x255-1-152x228.jpg" group-title="Vivamax",Tinuhog (2026)
+https://minochinos.com/stream/jhgtjo-Xqz19_7Vgg1vg-Q/hjkrhuihghfvu/1775014411/36894761/index-v1-a1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=http://217.76.53.139/
+#EXTINF:-1 type="movie" tvg-logo="http://217.76.53.139/wp-content/uploads/2026/03/Pamangkin2026-170x255-1-152x228.jpg" group-title="Vivamax",Pamangkin Ni Mang Kanor (2026)
+https://minochinos.com/stream/3YZYJG-2SZk6ST9wIClIKA/hjkrhuihghfvu/1775014326/36961169/index-v1-a1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=http://217.76.53.139/
+#EXTINF:-1 type="movie" tvg-logo="http://217.76.53.139/wp-content/uploads/2026/03/Pinsan-152x228-1.jpg" group-title="Vivamax",Pinsala Ng Pinsan (2026)
+https://minochinos.com/stream/u7cA2nsLsUerxLOVmnvnvQ/hjkrhuihghfvu/1775014001/38232029/index-v1-a1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=http://217.76.53.139/
 #EXTINF:-1 type="movie" tvg-logo="https://560pmovie.com/wp-content/uploads/Tubero-2026-240x300.webp" group-title="Vivamax",Tubero (2026)
-https://vibuxer.com/stream/NNFaR_bAJNGN36ywM6DReA/kjhhiuahiuhgihdf/1773460514/68258785/index-v1-a1.m3u8
 https://minochinos.com/stream/_GduaqRGsv8lGYOtBn5lXA/hjkrhuihghfvu/1773460433/37128419/index-f1-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nEMXoQwportpJ1aqbEFHoa9htkO.jpg" group-title="Vivamax",Man Child (2025)
